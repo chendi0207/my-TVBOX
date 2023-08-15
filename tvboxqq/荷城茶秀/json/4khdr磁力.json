@@ -1,0 +1,75 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.4khdr.cn",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"4K电影":"3","4K华语":"15","4K动画":"6","4K纪录片":"11","4K美剧":"8","4K日韩":"4","蓝光电影":"29","蓝光华语":"33","蓝光美剧":"31","蓝光动画":"32","蓝光日韩":"34"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.4khdr.cn/forumtype-2-{cateId}-{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[@id='waterfall']/li",
+	"cateVodName": "/h3/a/text()",
+	"cateVodId": "/h3/a/@href",
+	"cateVodImg": "/div[1]/a/img/@src",
+	"cateVodImgR": "",
+	"cateVodMark": "",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.4khdr.cn/{vid}",
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//span[@id='thread_subject']/text()",
+	    // 视频图片
+	"dtImg": "//img[@class='zoom']/@src",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//font[contains(text(), '资源下载地址')][1]",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//body",
+    // 播放地址节点
+	"dtUrlSubNode": "//a[contains(@href, 'magnet') or contains(@href, 'aliyundrive.com')][1]",
+    // 播放地址
+	"dtUrlId": "/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/font/text() or /text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "",
+		// 搜索地址
+	"searchUrl": "",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "",
+	"scVodName": "",
+	"scVodId": "",
+	"scVodIdR": "",
+	"scVodImg": "",
+	"scVodMark": ""
+}

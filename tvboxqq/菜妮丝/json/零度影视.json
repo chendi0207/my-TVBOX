@@ -1,0 +1,26 @@
+{
+    "作者": "菜妮丝https://cainisi.cf",
+    "站名": "零度影视",
+    "主页url": "https://ldtv.top",
+    "首页": "电视剧$20",
+    
+    "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman#记录片$jilupian",
+    
+    "分类url": "https://ldtv.top/vodtype/{cateId}.html",
+    
+    "二次截取": "module-main scroll-box\">&&fixedGroup\">",
+    "副标题": "module-item-note\">&&</div>",
+    
+    "搜索模式": "0",
+    "搜索后缀":"/voddetail/",
+    
+    "影片状态": "集数：&&</div>",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "简介": "<p>&&</p>",
+    
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>",
+    
+    "播放数组": "module-play-list\">&&</div>"
+}

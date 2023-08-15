@@ -1,0 +1,45 @@
+    {
+    
+    "作者":"",
+    
+    "站名":"230听书",
+    
+    "主页url":"https://wap.230ts.net/",
+    
+    "简介":"class=\"book-des ellipsis\">&&</div>",
+    
+    "影片类型":"book-rand-a\">&&立即收听",
+    
+    "数组":"class=\"book-li\">&&</a>",
+    
+    "标题":"alt=\"&&\"",
+    
+    "副标题":"module-slide-caption\">&&</li>",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/search.html?searchtype=name&searchword={wd}",
+    
+    "搜索数组":"class=\"book-li\">&&</a>", 
+    
+    "搜索标题":"alt=\"&&\"",
+    
+    "搜索副标题":"title=*>&&</a>",
+    
+    "搜索图片":"src=\"&&\"",
+    
+    "搜索链接":"href=\"&&\"",
+   
+    "播放数组":"id=\"playlist&&</ul>",
+    
+    "播放标题":">&&<",
+    
+    "播放列表":"<a&&</a>",
+    "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+    "分类url":"https://wap.230ts.net/sort/{cateId}/{catePg}.html",
+    "分类":"玄幻奇幻$xuanhuan#都市言情$dushi#相声小品$xiangsheng#长篇评书$pingshu#军事$junshi#儿童故事$ertong#网游竞技$jingji#灵异$lingyi#职场$tongren#其他$qita"
+    
+   
+    }

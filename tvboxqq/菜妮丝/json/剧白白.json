@@ -1,0 +1,29 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "剧白白",
+  "主页url": "https://www.jubaibaic.com",
+  
+  "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
+  
+  "分类url": "https://www.jubaibaic.com/s/{cateId}/page/{catePg}.html",
+  
+  "数组": "<div class=\"video-item\">&&</a>",
+  "副标题": "class=\"notes\">&&</div>",
+  
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/-------------.html?wd={wd}",
+  "搜索数组": "<div class=\"media mb-3\">&&</a>",
+  "搜索副标题": "<div class=\"notes\">&&</div>",
+  
+  "影片年代": "年份：&&</div>",
+  "影片地区": "地区：&&</span>",
+  "影片类型": "类型：&&</span>",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "简介：&&</div>",
+  
+  "线路数组": "aria-selected=&&</li>",
+  "线路标题": ">&&<",
+  
+  "播放数组": "<ul class=\"playlist column\">&&</ul>"
+}
