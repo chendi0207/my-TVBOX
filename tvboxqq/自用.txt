@@ -24,10 +24,7 @@
 
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧儿/api.json", "name": "巧儿" },
         
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json",
-            "name": "👇以下为网络收集线路👇"
-        },
+{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星家庭版" },
 { "url": "https://yydsys.top/duo", "name": "小米" },
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫 },
