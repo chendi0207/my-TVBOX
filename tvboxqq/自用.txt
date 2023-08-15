@@ -39,6 +39,4 @@
 { "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "小米" },
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "abc线路" },
 
-{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "🚀道长线路🚀" }
-
-]}
+{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "🚀道长线路🚀" }]}
