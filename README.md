@@ -13,7 +13,3 @@ https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/
 - 影视仓_5.0.4_2
 - https://wwp.lanzoul.com/i4HU915juiqf
 - 密码：fqm6
-
-- 俊版修改_CatBox_20230816_0110
-- https://wwp.lanzoul.com/iZYWr15jui9i
-- 密码：3094
