@@ -42,6 +42,8 @@
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
 
+{ "url": "https://www.bestpvp.site/关注码上放生/时光机", "name": "时光机" },
+
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
