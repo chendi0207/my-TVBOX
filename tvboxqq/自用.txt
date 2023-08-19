@@ -26,6 +26,8 @@
         
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
+{ "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "儿童" },
+
 { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星家庭版" },
 
 { "url": "http://rihou.cc:99/荷城茶秀", "name": "💖荷城茶秀〔多条线路〕" },
@@ -50,6 +52,6 @@
 
 { "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "小米" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "abc线路" },
+{ "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "abc线路" },
 
 { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "🚀道长线路🚀" }]}
