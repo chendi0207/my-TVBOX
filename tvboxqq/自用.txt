@@ -32,7 +32,7 @@
 
 { "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
-{ "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
+{ "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
 
 { "url": "https://yydsys.top/duo", "name": "小米" },
 
