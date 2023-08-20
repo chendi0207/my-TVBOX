@@ -32,8 +32,6 @@
 
 { "url": "http://rihou.cc:99/荷城茶秀", "name": "💖荷城茶秀〔多条线路〕" },
 
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "🚀香雅情线路" },  
-
 { "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
 { "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
