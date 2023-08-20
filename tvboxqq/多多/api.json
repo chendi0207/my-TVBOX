@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "sites": [
@@ -157,7 +157,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://www.gvideo.me/api.php/app/"
+            "ext": "http://guan.yy365.vip/api.php/app/"
         },
         {
             "key": "csp_yayaya",
@@ -204,21 +204,6 @@
                 "喜剧片",
                 "战争片"
             ]
-        },
-        {
-            "key": "csp_woggcli",
-            "name": "💂‍┃玩偶┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "ali_cli",
-            "name": "🍨┃聚搜┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Ali"
         },
         {
             "key": "csp_WoGG",
@@ -548,7 +533,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jars/XYQaL_4kHDR.jar",
-            "ext": "https://czzy.fun"
+            "ext": "https://cz01.fun/"
         },
         {
             "key": "js_Lib",

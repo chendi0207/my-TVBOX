@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html class="html-devise-layout" lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<title>Sign in · GitLab</title>
+<script>
+//<![CDATA[
+window.gon={};gon.api_version="v4";gon.default_avatar_url="https://framagit.org/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=12;gon.asset_host=null;gon.webpack_public_path="/assets/webpack/";gon.relative_url_root="";gon.user_color_scheme="white";gon.markdown_surround_selection=null;gon.markdown_automatic_lists=null;gon.recaptcha_api_server_url="https://www.recaptcha.net/recaptcha/api.js";gon.recaptcha_sitekey="";gon.gitlab_url="https://framagit.org";gon.revision="deac0811459";gon.feature_category="system_access";gon.gitlab_logo="/assets/gitlab_logo-2957169c8ef64c58616a1ac3f4fc626e8a35ce4eb3ed31bb0d873712f2a041a0.png";gon.secure=true;gon.sprite_icons="/assets/icons-5af6a635d810e1104f2def09ede3ada64866640a56f75b704457f18be086e881.svg";gon.sprite_file_icons="/assets/file_icons/file_icons-6489590d770258cc27e4698405d309d83e42829b667b4d601534321e96739a5a.svg";gon.emoji_sprites_css_path="/assets/emoji_sprites-e1b1ba2d7a86a445dcb1110d1b6e7dd0200ecaa993a445df77a07537dbf8f475.css";gon.gridstack_css_path="/assets/lazy_bundles/gridstack-f9e005145f1f29d3fd436ec6eda8b264c017ee47886472841ed47e32332518ff.css";gon.test_env=false;gon.disable_animations=false;gon.suggested_label_colors={"#cc338b":"Magenta-pink","#dc143c":"Crimson","#c21e56":"Rose red","#cd5b45":"Dark coral","#ed9121":"Carrot orange","#eee600":"Titanium yellow","#009966":"Green-cyan","#8fbc8f":"Dark sea green","#6699cc":"Blue-gray","#e6e6fa":"Lavender","#9400d3":"Dark violet","#330066":"Deep violet","#36454f":"Charcoal grey","#808080":"Gray"};gon.first_day_of_week=1;gon.time_display_relative=true;gon.ee=false;gon.jh=false;gon.dot_com=false;gon.uf_error_prefix="UF";gon.pat_prefix="glpat-";gon.diagramsnet_url="https://embed.diagrams.net";gon.features={"usageDataApi":true,"securityAutoFix":false,"sourceEditorToolbar":false,"vscodeWebIde":true,"unbatchGraphqlQueries":false,"commandPalette":true,"removeMonitorMetrics":true,"gitlabDuo":false,"customEmoji":false};
+//]]>
+</script>
+
+
+
+
+<link rel="stylesheet" href="/assets/themes/theme_indigo-3331cd49e4ca5527df9ebb4ec47e8d1463168d5a75df83bf264da79f38af4c96.css" />
+
+<link rel="stylesheet" href="/assets/application-7dc3e992d5cc9567299c4981b2de6be6a12ae7c78bb9535d5485b0239c3b3f14.css" media="all" />
+<link rel="stylesheet" href="/assets/page_bundles/login-0429c38ed82db11a8cf7e207d37f45c351b0941709bd2adb958007126d0d7ed4.css" media="all" />
+<link rel="stylesheet" href="/assets/application_utilities-26f780caee4e43acc82f1ebfd4b70005b5c7c94d738a978604be403f36805310.css" media="all" />
+
+
+<link rel="stylesheet" href="/assets/fonts-171e1863d044918ea3bbaacf2a559ccaac603904aa851c3add5b714fa7066468.css" media="all" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-d4bf6efd4d4cafbf52e7bdc180f805995f08252441f5fcb74b733728fda3e82a.css" media="all" />
+
+
+<link rel="preload" href="/assets/application_utilities-26f780caee4e43acc82f1ebfd4b70005b5c7c94d738a978604be403f36805310.css" as="style" type="text/css">
+<link rel="preload" href="/assets/application-7dc3e992d5cc9567299c4981b2de6be6a12ae7c78bb9535d5485b0239c3b3f14.css" as="style" type="text/css">
+<link rel="preload" href="/assets/highlight/themes/white-d4bf6efd4d4cafbf52e7bdc180f805995f08252441f5fcb74b733728fda3e82a.css" as="style" type="text/css">
+
+
+
+
+
+
+
+
+<script src="/assets/webpack/runtime.b5fdf863.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.8386cb7b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.sessions-pages.registrations.new-pages.sessions-pages.sessions.new.a25974e1.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.registrations.new-pages.sessions.new.715baedf.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.2aa739aa.chunk.js" defer="defer"></script>
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in · GitLab" property="og:title">
+<meta content="Framagit" property="og:description">
+<meta content="https://framagit.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://framagit.org/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in · GitLab" property="twitter:title">
+<meta content="Framagit" property="twitter:description">
+<meta content="https://framagit.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="-4vR9gauNIiXaf7G0gZ-qPReuhqJKH-CXfPMr4BLtx2vAssSdhj9Ah9U6CJGcNdhew8nHyyWCNvlNc3qhi_U6w" />
+<meta name="csp-nonce" />
+<meta name="action-cable-url" content="/-/cable" />
+<link href="/-/manifest.json" rel="manifest">
+<link rel="icon" type="image/png" href="/uploads/-/system/appearance/favicon/1/git.png" id="favicon" data-original-href="/uploads/-/system/appearance/favicon/1/git.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png" />
+<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
+
+
+<!-- Matomo -->
+<script>
+//<![CDATA[
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+;
+(function() {
+  var u="//stats.framasoft.org/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', "29"]);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+
+
+//]]>
+</script><noscript><p><img src="//stats.framasoft.org/matomo.php?idsite=29" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+
+
+<meta content="Framagit" name="description">
+<meta content="#292961" name="theme-color">
+</head>
+
+<body class="gl-h-full login-page navless ui-indigo gl-browser-generic gl-platform-other" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isGeneric":true,"isOther":true};
+
+
+//]]>
+</script>
+
+
+
+<div class="gl-h-full borderless gl-display-flex gl-flex-wrap">
+<div class="container">
+<div class="content">
+<div class="flash-container flash-container-page sticky" data-qa-selector="flash_container">
+</div>
+
+<div class="row">
+<div class="col-md order-12 sm-bg-gray">
+<div class="col-sm-12">
+<h1 class="mb-3 gl-font-size-h2">
+Framagit
+</h1>
+<p data-sourcepos="1:1-1:373" dir="auto">Cette instance de l'<a href="https://about.gitlab.com/downloads/" rel="nofollow noreferrer noopener" target="_blank">édition communautaire</a> de <a href="https://about.gitlab.com" rel="nofollow noreferrer noopener" target="_blank">Gitlab</a> vous est proposée par <a href="http://framasoft.org" rel="nofollow noreferrer noopener" target="_blank">Framasoft</a> et est soumise à acceptation des <a href="https://framasoft.org/cgu/" rel="nofollow noreferrer noopener" target="_blank">Conditions Générales d'Utilisations de Framasoft</a> et <a href="https://framagit.org/-/users/terms">des conditions spécifiques à Framagit</a>.</p>&#x000A;<hr data-sourcepos="3:1-4:0">&#x000A;<p data-sourcepos="5:1-5:296" dir="auto"><strong>Attention</strong> : en raison de problème de spam, la création de compte est soumise à modération et les nœuds de sortie du réseau TOR sont bloqués. Les comptes nouvellement créés ne seront actifs qu’une fois autorisés par notre équipe de modération (ce qui prendra entre 1 et 5 jours).</p>&#x000A;<hr data-sourcepos="7:1-8:0">&#x000A;<p data-sourcepos="9:1-9:228" dir="auto"><strong>Warning</strong>: due to spam issues, account creation is subject to moderation and TOR exit nodes are blocked. Newly created accounts will only be active once authorised by our moderation team (which will take between 1 and 5 days).</p>&#x000A;<hr data-sourcepos="11:1-12:0">&#x000A;<p data-sourcepos="13:1-13:147" dir="auto">Les empreintes des clés SSH publiques du serveurs sont visibles sur <a href="https://framagit.org/help/instance_configuration#ssh-host-keys-fingerprints">https://framagit.org/help/instance_configuration#ssh-host-keys-fingerprints</a>.</p>
+</div>
+</div>
+<div class="col-md order-md-12">
+<div class="col-sm-12 bar">
+<div class="gl-text-center">
+<img alt="Framagit" class="gl-w-10 lazy" data-src="/uploads/-/system/appearance/logo/1/git.svg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</div>
+
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav custom-provider-tabs nav-links-unboxed">
+
+<li class="nav-item">
+<a class="nav-link" data-toggle="tab" data-qa-selector="ldap_tab" data-testid="ldap-tab" role="tab" href="#ldapmain">LDAP</a>
+</li>
+
+<li class="nav-item">
+<a class="nav-link active" data-toggle="tab" data-qa-selector="standard_tab" role="tab" href="#login-pane">Standard</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane" id="ldapmain" role="tabpanel">
+<div class="login-body">
+<form class="gl-p-5 gl-show-field-errors" aria-live="assertive" data-testid="new_ldap_user" action="/users/auth/ldapmain/callback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XIojqwrvCGTiBs9awFRbApFKyJfi6ILy2ekENDONA5MIAzlPelnB7mo72b5UIvLLHhtVkkdW9athLwVxNelgZQ" autocomplete="off" /><div class="form-group">
+<label for="ldapmain_username">Username</label>
+<input name="username" autocomplete="username" class="form-control gl-form-input" title="This field is required." autofocus="autofocus" data-qa-selector="username_field" required="required" type="text" id="ldapmain_username" />
+</div>
+<div class="form-group">
+<label for="ldapmain_password">Password</label>
+<input class="form-control gl-form-input js-password" data-id="ldapmain_password" data-name="password" data-qa-selector="password_field">
+</div>
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input name="remember_me" type="hidden" value="0" autocomplete="off" /><input name="remember_me" autocomplete="off" class="custom-control-input" type="checkbox" value="1" id="ldapmain_remember_me" />
+<label class="custom-control-label" for="ldapmain_remember_me"><span>Remember me</span></label>
+</div>
+
+<button data-qa-selector="sign_in_button" type="submit" class="gl-button btn btn-block btn-md btn-confirm "><span class="gl-button-text">
+Sign in
+
+</span>
+
+</button></form>
+</div>
+</div>
+
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="gl-p-5 gl-show-field-errors js-arkose-labs-form" id="new_user" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x28A8rxpxTMmhiOZxHQxMQ9e3SQAm3Z0iZcaUwAJdGuT5hoWzN8Mua67NX1QApj4gA9AIaUlAS0xURsWBm0XnQ" autocomplete="off" /><div class="form-group">
+<label for="user_login">Username or email</label>
+<input class="form-control gl-form-input js-username-field" autocomplete="username" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" data-testid="username-field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label for="user_password">Password</label>
+<input class="form-control gl-form-input js-password" data-id="user_password" data-qa-selector="password_field" data-testid="password-field" data-name="user[password]" type="password" name="user[password]" id="user_password" />
+<div class="form-text gl-text-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div class="form-group">
+</div>
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input name="user[remember_me]" type="hidden" value="0" autocomplete="off" /><input autocomplete="off" class="custom-control-input" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<label class="custom-control-label" for="user_remember_me"><span>Remember me</span></label>
+</div>
+
+<button class="gl-button btn btn-block btn-md btn-confirm js-sign-in-button " data-qa-selector="sign_in_button" data-testid="sign-in-button" type="submit"><span class="gl-button-text">
+Sign in
+
+</span>
+
+</button></form>
+</div>
+</div>
+
+</div>
+<p class="gl-px-5">
+By signing in you accept the <a href='/-/users/terms' target='_blank' rel='noreferrer noopener'>Terms of Use and acknowledge the Privacy Policy and Cookie Policy</a>.
+</p>
+<p class="gl-mt-3 gl-text-center">
+Don&#39;t have an account yet?
+<a data-qa-selector="register_link" href="/users/sign_up">Register now</a>
+</p>
+<div class="omniauth-divider gl-display-flex gl-align-items-center">
+or
+</div>
+<div class="gl-mt-5 gl-px-5 omniauth-container gl-text-center gl-ml-auto gl-mr-auto">
+<form class="gl-mb-3" method="post" action="/users/auth/github"><button id="oauth-login-github" data-qa-selector="github_login_button" class="btn gl-button btn-default gl-mb-2 js-oauth-login gl-w-full" type="submit"><img alt="GitHub" title="Sign in with GitHub" class="gl-button-icon lazy" data-src="/assets/auth_buttons/github_64-84041cd0ea392220da96f0fb9b9473c08485c4924b98c776be1bd33b0daab8c0.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+GitHub
+</span>
+</button><input type="hidden" name="authenticity_token" value="-AKGCP5CdeAjdXYldvpARUXwiw3dEY59-LPx1nG2ltasi5zsjvS8aqtIYMHijOmMyqEWCHiv-SRAdfCTd9L1IA" autocomplete="off" /></form><form class="gl-mb-3" method="post" action="/users/auth/gitlab"><button id="oauth-login-gitlab" data-qa-selector="gitlab_oauth_login_button" class="btn gl-button btn-default gl-mb-2 js-oauth-login gl-w-full" type="submit"><img alt="GitLab.com" title="Sign in with GitLab.com" class="gl-button-icon lazy" data-src="/assets/auth_buttons/gitlab_64-2808a5fce900f4cb87b4dce9f9907bf68ac00a39086aa3a125e3250652f9967f.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+GitLab.com
+</span>
+</button><input type="hidden" name="authenticity_token" value="PE1AF8UTIl3ZAN677DGupFP6Yk0M_3qTAqAc1Hs37ohoxFrztaXr11E9yF94Rwdt3Kv_SKlBDcq6Zh2RfVONfg" autocomplete="off" /></form><form class="gl-mb-3" method="post" action="/users/auth/bitbucket"><button id="oauth-login-bitbucket" data-qa-selector="" class="btn gl-button btn-default gl-mb-2 js-oauth-login gl-w-full" type="submit"><img alt="Bitbucket" title="Sign in with Bitbucket" class="gl-button-icon lazy" data-src="/assets/auth_buttons/bitbucket_64-daa496030c0c290748e3c2e50f7464d2f5de0e019cce728930e0508a6dac815c.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+Bitbucket
+</span>
+</button><input type="hidden" name="authenticity_token" value="EgNmJXOn7ERrh6Mz4GfOfhA5MAu3AE8T4WLgFQmYKnZGinzBAxElzuO6tdd0EWe3n2itDhK-OEpZpOFQD_xJgA" autocomplete="off" /></form><div class="gl-form-checkbox custom-control custom-checkbox">
+<input type="checkbox" name="remember_me_omniauth" id="remember_me_omniauth" class="custom-control-input" />
+<label class="custom-control-label" for="remember_me_omniauth"><span>Remember me
+</span></label>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-container gl-w-full gl-align-self-end">
+<hr class="gl-m-0">
+<div class="container gl-py-5 gl-display-flex gl-justify-content-space-between">
+<div class="gl-display-flex gl-gap-5 gl-flex-wrap">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">Community forum</a>
+</div>
+<div class="js-language-switcher" data-locales="[{&quot;value&quot;:&quot;zh_TW&quot;,&quot;percentage&quot;:100,&quot;text&quot;:&quot;繁體中文 (台灣)&quot;},{&quot;value&quot;:&quot;en&quot;,&quot;percentage&quot;:100,&quot;text&quot;:&quot;English&quot;},{&quot;value&quot;:&quot;ja&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;日本語&quot;},{&quot;value&quot;:&quot;fr&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;français&quot;},{&quot;value&quot;:&quot;de&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;Deutsch&quot;},{&quot;value&quot;:&quot;zh_CN&quot;,&quot;percentage&quot;:98,&quot;text&quot;:&quot;简体中文&quot;}]"></div>
+
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

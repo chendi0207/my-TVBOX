@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "sites": [
@@ -154,7 +154,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2,
-            "ext": "https://czzy.pro/"
+            "ext": "https://cz01.me/"
         },
         {
             "key": "双十",
@@ -181,7 +181,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
         },
         {
             "key": "csp_AppMr",
@@ -416,7 +416,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$feimao$$$123456"
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
         },
         {
             "key": "csp_search_Upyunso",
