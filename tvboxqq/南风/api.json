@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -669,7 +667,7 @@
         {
             "name": "哥哥们",
             "type": 1,
-            "url": "https://jiexi.wogg.link/api/饭特析.php?url="
+            "url": "https://jx.wogg.link/api/饭特析.php?url="
         },
         {
             "name": "777",

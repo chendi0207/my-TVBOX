@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -214,15 +212,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.libvio.fun/"
-        },
-        {
-            "key": "酷酷",
-            "name": "💡酷酷┃App",
-            "type": 3,
-            "api": "csp_Kuying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "Xinsj",
@@ -716,7 +705,7 @@
         {
             "name": "哥哥们",
             "type": 1,
-            "url": "https://jiexi.wogg.link/api/饭特析.php?url="
+            "url": "https://jx.wogg.link/api/饭特析.php?url="
         },
         {
             "name": "全部",

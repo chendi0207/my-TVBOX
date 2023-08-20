@@ -12,7 +12,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'hvLw_2132_saltkey=x89cF7aD; hvLw_2132_lastvisit=1691840602; hvLw_2132_visitedfid=2; hvLw_2132_sendmail=1; _clck=hvltzs|2|fe6|0|1234; hvLw_2132_seccodecSAnCu=3946.be6a562c4a0d8c216f; hvLw_2132_ulastactivity=1692098855%7C0; hvLw_2132_auth=2100ISnlXuyMqwh%2F6zbKmkP0wwqeBYMJIuKWGDnRBdXbiclX2dbte5kkuco6lTmzWtigTxrANe0v67JwVqwCAgqrdg; hvLw_2132_lastcheckfeed=99213%7C1692098855; hvLw_2132_checkfollow=1; hvLw_2132_lip=163.204.42.61%2C1692098855; hvLw_2132_sid=0; hvLw_2132_checkpm=1; _clsk=1jdfenl|1692098859545|2|1|w.clarity.ms/collect; hvLw_2132_lastact=1692098872%09index.php%09forumdisplay; hvLw_2132_st_t=99213%7C1692098872%7Cf3678f43e6d8b07e93f64d5769c382aa; hvLw_2132_forum_lastvisit=D_2_1692098872',
+         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
@@ -37,76 +37,52 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-// log("4khdr 二级 html>>>>>>>>>>" + html);
-var d = pdfa(html, 'table.t_table');
-let magnetIndex=1;
+let d = pdfa(html, 'table.t_table');
 let aliIndex=1;
 d.forEach(function(it) {
-let burl = pdfh(it, 'a&&href');
-log("burl >>>>>>" + burl);
-if (burl.startsWith("https://www.aliyundrive.com/s/")){
-	let result = 'aliyun' + aliIndex;
-	aliIndex = aliIndex + 1;
-	TABS.push(result);
-}
+	let burl = pdfh(it, 'a&&href');
+	log("burl >>>>>>" + burl);
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		TABS.push("aliyun"+aliIndex);
+		aliIndex = aliIndex + 1;
+	}
 });
-d.forEach(function(it) {
-let burl = pdfh(it, 'a&&href');
-log("burl >>>>>>" + burl);
-if (burl.startsWith("magnet")){
-	let result = 'magnet' + magnetIndex;
-	magnetIndex = magnetIndex + 1;
-	TABS.push(result);
+d = pdfa(html, 'table.t_table a[href^="magnet"]');
+if (d.length>0){
+	TABS.push("磁力");
 }
-});
 log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, 'table.t_table');
-TABS.forEach(function(tab) {
-log('tab >>>>>>>>' + tab);
-if (/^aliyun/.test(tab)) {
-	let targetindex = parseInt(tab.substring(6));
-	let index = 1;
-	d.forEach(function(it){
-		let burl = pdfh(it, 'a&&href');
-		if (burl.startsWith("https://www.aliyundrive.com/s/")){
-			if (index === targetindex){
-				let title = pdfh(it, 'a&&Text');
-				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-				burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
-				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-				let loopresult = title + '$' + burl;
-				LISTS.push([loopresult]);
-			}
-			index = index + 1;
-		}
-	});
-}
+let d = pdfa(html, 'table.t_table');
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		let title = pdfh(it, 'a&&Text');
+		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+		burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+		let loopresult = title + '$' + burl;
+		LISTS.push([loopresult]);
+	}
 });
-TABS.forEach(function(tab) {
-log('tab >>>>>>>>' + tab);
-if (/^magnet/.test(tab)) {
-	let targetindex = parseInt(tab.substring(6));
-	let index = 1;
-	d.forEach(function(it){
-		let burl = pdfh(it, 'a&&href');
-		if (burl.startsWith("magnet")){
-			if (index === targetindex){
-				let title = pdfh(it, 'a&&Text');
-				log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-				log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-				let loopresult = title + '$' + burl;
-				LISTS.push([loopresult]);
-			}
-			index = index + 1;
-		}
-	});
-}
+let listm = [];
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	if (burl.startsWith("magnet")){
+		let title = pdfh(it, 'a&&Text');
+		log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+		log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+		let loopresult = title + '$' + burl;
+		listm.push(loopresult);
+	}
 });
+if (listm.length>0){
+	LISTS.push(listm);
+}
 `,
 
 	},
