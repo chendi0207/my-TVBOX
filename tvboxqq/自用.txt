@@ -38,7 +38,7 @@
 
 { "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
 
-{ "url": "https://yydsys.top/duo", "name": "多多家庭" },
+{ "url": "http://cdn.yydsys.top/duo", "name": "多多家庭" },
 
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
 
