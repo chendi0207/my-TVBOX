@@ -131,7 +131,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"vod_director":column_id,
 			"vod_content":aid[4]
 		}
-		vod['vod_play_from'] = '🌸荷城茶秀接口🌸CCTV线路'
+		vod['vod_play_from'] = '🌸荷城茶秀接口🌸CCTV频道'
 		vod['vod_play_url'] = "#".join(videoList)
 		result = {
 			'list':[

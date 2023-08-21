@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "lives": [
@@ -19,7 +17,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔小贝.json"
+            "ext": "./json/兔小贝.json",
+            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -29,7 +28,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔小贝2.json"
+            "ext": "./json/兔小贝2.json",
+            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
             "key": "童趣",
@@ -287,36 +287,6 @@
             "ext": "./js/优酷.js"
         },
         {
-            "key": "py_youer",
-            "name": "🅱️┃幼儿┃教育",
-            "type": 3,
-            "api": "py_youer",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./py/幼儿.py"
-        },
-        {
-            "key": "py_xiaoxue",
-            "name": "🅱️┃小学┃教育",
-            "type": 3,
-            "api": "py_xiaoxue",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./py/小学.py"
-        },
-        {
-            "key": "py_czxx",
-            "name": "🅱️┃初中┃教育",
-            "type": 3,
-            "api": "py_czxx",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./py/初中.py"
-        },
-        {
             "key": "py_cctv_1",
             "name": "🅱️央视-少儿",
             "type": 3,
@@ -392,7 +362,7 @@
         {
             "name": "夜猫超聚合",
             "type": 1,
-            "url": "http://json.key521.cn/api/?key=20b160e4a34e25284d5a893446e37f21&url=",
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -492,9 +462,55 @@
             }
         },
         {
+            "name": "高清解析3",
+            "type": 1,
+            "url": "https://vip.mosangkeji.com/api/?key=wGKDR8GnE5oJw4MqP6&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ],
+                "header": {
+                    "User-Agent": "Dart/3.0(dart:io)"
+                }
+            }
+        },
+        {
             "name": "高清嗅探",
             "type": 0,
-            "url": "https://www.8090g.cn/jiexi/?url=",
+            "url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-2.html&url=",
             "ext": {
                 "header": {
                     "User-Agent": "Mozilla/5.0"
