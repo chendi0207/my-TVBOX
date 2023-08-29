@@ -22,7 +22,7 @@ var rule = {
 	class_name:'动漫&电视剧&电影&综艺', // 分类筛选 /api.php/app/nav
 	class_url:'4&2&1&3',
 	play_parse:true,
-	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://jx.realdou.cn/home/api?type=ys&uid=1308131&key=hnpstuwzAHJNPSY237&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://42.157.128.109:2323/CH/zy/Yumi.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("https://dx.maclsj.com/blue/json.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+	lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/kuying/.test(input)){let purl=request("http://box.realdou.cn/api/?api_id=4&vod_url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/YuMi/.test(input)){let purl=request("http://42.157.128.109:2323/CH/zy/Yumi.php?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}else if(/qiqi/.test(input)){let purl=request("http://box.realdou.cn/api/?api_id=5&vod_url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
 	推荐:'json:list[0].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',

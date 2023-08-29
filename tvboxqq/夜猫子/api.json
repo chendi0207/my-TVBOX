@@ -32,7 +32,7 @@
             "changeable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "api": "./聚影.js"
+            "api": "./apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
@@ -139,6 +139,30 @@
             "ext": "http://guan.yy365.vip/api.php/app/"
         },
         {
+            "key": "yc",
+            "name": "👑夜猫影巢4K👑",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "jar": "./jars/yc.jar"
+        },
+        {
+            "key": "ky",
+            "name": "👑酷影┃4K👑",
+            "type": 3,
+            "api": "csp_App",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ys.realdou.cn:62703/api.php/app/",
+            "jar": "./jars/yc.jar"
+        },
+        {
             "key": "ruyi",
             "name": "👑如意┃4K👑",
             "type": 3,
@@ -154,7 +178,7 @@
                 "综艺"
             ],
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "jar": "./jars/ruyi.jar"
+            "jar": "./jars/yc.jar"
         },
         {
             "key": "xymzkk",
@@ -165,12 +189,15 @@
             "ext": "./js/新酷影.js"
         },
         {
-            "key": "xymzyt",
+            "key": "yt",
             "name": "👑新夜猫子4k👑",
             "type": 3,
-            "playerType": 1,
-            "api": "./drpy2.min.js",
-            "ext": "./js/影探_V2_1.js"
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815",
+            "jar": "./jars/yc.jar"
         },
         {
             "key": "csp_appysv2_迷你库",
@@ -189,7 +216,7 @@
             "type": 3,
             "playerType": 2,
             "api": "./drpy2.min.js",
-            "ext": "./js/夜猫至臻.js"
+            "ext": "./js/新夜猫至臻.js"
         },
         {
             "key": "ymzy2k",
@@ -225,12 +252,24 @@
             "key": "狐狸影视",
             "name": "👑狐狸影视2k👑",
             "type": 3,
+            "playerType": 1,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "忍者视频",
+            "name": "👑夜猫忍者👑",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "./jars/忍者视频.jar",
+            "ext": "http://www.rzys.cc"
         },
         {
             "key": "AppYs_xylg2",
@@ -241,14 +280,6 @@
             "ext": "./js/自营蓝光2.js"
         },
         {
-            "key": "ymzylg",
-            "name": "👑夜猫自营蓝光2👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/自营蓝光.js"
-        },
-        {
             "key": "ymzy",
             "name": "👑夜猫自营高清👑",
             "type": 3,
@@ -257,12 +288,12 @@
             "ext": "./js/自营.js"
         },
         {
-            "key": "ymcxlg",
-            "name": "👑夜猫畅享蓝光👑",
+            "key": "xymzftfx",
+            "name": "👑非同凡响👑",
             "type": 3,
             "playerType": 1,
             "api": "./drpy2.min.js",
-            "ext": "./js/夜猫畅享.js"
+            "ext": "./js/非同凡响.js"
         },
         {
             "key": "极客",
@@ -315,6 +346,7 @@
             "key": "小鹿",
             "name": "🦒小鹿高清",
             "type": 3,
+            "playerType": 2,
             "api": "csp_XBPQ",
             "ext": {
                 "分类": "电影$1#电视剧$31#动漫$4#综艺$3",
@@ -920,14 +952,15 @@
             "ext": "./json/DOVX搜索.json"
         },
         {
-            "key": "csp_bi",
-            "name": "🍥哔哩",
+            "key": "哔哩",
+            "name": "🍥哔哩哔哩",
             "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
+            "playerType": 2,
+            "api": "./drpy2.min.js",
+            "searchable": 2,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/哔哩.json"
+            "filterable": 0,
+            "ext": "./js/我的哔哩.js"
         },
         {
             "key": "音乐",
@@ -1164,7 +1197,7 @@
         {
             "name": "夜猫超解析2",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url=",
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=cdgnovxzEMPTU24589&mgtv=app&url=",
             "ext": {
                 "flag": [
                     "qq",

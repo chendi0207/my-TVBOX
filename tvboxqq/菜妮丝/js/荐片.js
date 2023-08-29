@@ -10,7 +10,7 @@ var rule = {
     detailUrl:'/api/node/detail?channel=wandoujia&token=&id=fyid',//二级详情拼接链接(json格式用)
     searchUrl:'/api/video/search?key=**&page=fypage',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     filterable:1,
     filter:{
         "0":[{"key":"year","name":"年代","value":[{"n":"全部","v":"0"},{"n":"2023","v":"153"},{"n":"2022","v":"101"},{"n":"2021","v":"118"},{"n":"2020","v":"16"},{"n":"2019","v":"7"},{"n":"2018","v":"2"},{"n":"2017","v":"3"},{"n":"2016","v":"22"}]},{"key":"sort","name":"排序","value":[{"n":"热门","v":"hot"},{"n":"评分","v":"rating"},{"n":"更新","v":"update"}]}],

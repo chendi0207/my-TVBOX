@@ -4,7 +4,7 @@ var rule = {
     url:'/category/fyclass?p=fypage',
     searchUrl:'/search?t=**',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     headers:{
         'User-Agent':'MOBILE_UA',
     },

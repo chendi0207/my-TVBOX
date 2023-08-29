@@ -17,7 +17,7 @@ var rule = {
     url:'/fyclass',
     searchUrl:'',
     searchable:0,
-    quickSearch:0,
+    quickSearch:1,
     class_name:'全部',
     class_url:'/',
     //class_url:'?live',

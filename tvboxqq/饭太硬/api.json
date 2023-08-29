@@ -79,6 +79,16 @@
             "ext": "http://www.xb6v.com/"
         },
         {
+            "key": "专线",
+            "name": "🚅专线┃App",
+            "type": 3,
+            "api": "csp_ZhuanX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
             "key": "迪迪",
             "name": "😎迪迪┃App",
             "api": "csp_AppYsV2",
@@ -127,24 +137,6 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Vofl",
-            "name": "🎈VOF┃直连",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "贱贱",
             "name": "🐭贱贱┃p2p",
             "type": 3,
@@ -178,20 +170,13 @@
         },
         {
             "key": "奇奇",
-            "name": "🍓奇奇┃直连",
-            "type": 1,
-            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
-            "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
-            "playerType": "1",
+            "name": "🍓奇奇┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "categories": [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫"
-            ]
+            "ext": "https://ttsp.live/api.php/app/"
         },
         {
             "key": "哈喽",
@@ -202,6 +187,34 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
+        {
+            "key": "酷酷",
+            "name": "💡酷酷┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+        },
+        {
+            "key": "77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Vofl",
+            "name": "🎈VOF┃直连",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "Lib",
@@ -251,16 +264,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "fantuan",
-            "name": "🍙饭团┃直连",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "Cokemv",
@@ -705,7 +708,7 @@
         {
             "name": "哥哥们",
             "type": 1,
-            "url": "https://jx.wogg.link/api/饭特析.php?url="
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name": "全部",
@@ -881,7 +884,8 @@
         {
             "name": "bf",
             "hosts": [
-                "bfzy"
+                "bfzy",
+                "s5.bfzycdn"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",

@@ -246,7 +246,7 @@
             "key": "蘑菇2",
             "name": "️蘑菇┃APP",
             "type": 3,
-            "api": "csp_AppYs",
+            "api": "csp_AppYsV2",
             "jar": "./jars/csp_AList_Alist.jar",
             "searchable": 1,
             "quickSearch": 1,
@@ -283,6 +283,15 @@
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "./json/素白.json"
+        },
+        {
+            "key": "348",
+            "name": "348┃BPQ",
+            "type": 3,
+            "jar": "./jars/csp_AList_Alist.jar",
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": "./json/348.json"
         },
         {
             "key": "蘑菇",
@@ -666,7 +675,7 @@
                 "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
                 "搜索标题": "xt\":\"&&\"",
                 "搜索副标题": "\"website\":\"&&\"",
-                "搜索链接": "\"url\":\"",
+                "搜索链接": "https://www.sstv.fun/v_+\"url\":\"https://www.sstv.fun/project-&&.html\"+_1_1.html",
                 "分类url": "https://www.sstv.fun/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
             }
@@ -1023,6 +1032,20 @@
                 "header": {
                     "User-Agent": "okhttp/3.12.0"
                 }
+            }
+        },
+        {
+            "name": "小米米🥭",
+            "type": 1,
+            "url": "http://xn--yeta099v.online:63/home/api?type=ys&uid=2699812&key=acdeoprtFKOPRUXZ24&url=",
+            "ext": {
+                "flag": [
+                    "qiqi-",
+                    "YuMi-vip",
+                    "YuMi",
+                    "mgtv",
+                    "芒果"
+                ]
             }
         },
         {

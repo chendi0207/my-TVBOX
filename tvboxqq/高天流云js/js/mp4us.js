@@ -37,73 +37,90 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-var d = pdfa(html, 'ul.down-list&&li');
-let magnetIndex=1;
-let ed2kIndex=1;
+let d = pdfa(html, 'ul.down-list&&li a');
+let tabsa = [];
+let tabsq = [];
+let tabsm = false;
+let tabse = false;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	log("burl >>>>>>" + burl);
-	if (burl.startsWith("magnet")){
-		let result = 'magnet' + magnetIndex;
-		magnetIndex = magnetIndex + 1;
-		TABS.push(result);
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		tabsa.push("阿里云盤");
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		tabsq.push("夸克云盤");
+	}else if (burl.startsWith("magnet")){
+		tabsm = true;
+	}else if (burl.startsWith("ed2k")){
+		tabse = true;
 	}
 });
-d.forEach(function(it) {
-	let burl = pdfh(it, 'a&&href');
-	log("burl >>>>>>" + burl);
-	if (burl.startsWith("ed2k")){
-		let result = 'ed2k' + ed2kIndex;
-		ed2kIndex = ed2kIndex + 1;
-		TABS.push(result);
-	}
+if (tabsm === true){
+	TABS.push("磁力");
+}
+if (tabse === true){
+	TABS.push("電驢");
+}
+let tmpIndex;
+tmpIndex=1;
+tabsa.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
 });
-log('TABS >>>>>>>>>>>>>>>>>>' + TABS);
+tmpIndex=1;
+tabsq.forEach(function(it){
+	TABS.push(it + tmpIndex);
+	tmpIndex = tmpIndex + 1;
+});
+log('mp4us TABS >>>>>>>>>>>>>>>>>>' + TABS);
 `,
 		lists:`js:
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-var d = pdfa(html, 'ul.down-list&&li');
-TABS.forEach(function(tab) {
-	log('tab >>>>>>>>' + tab);
-	if (/^magnet/.test(tab)) {
-		let targetindex = parseInt(tab.substring(6));
-		let index = 1;
-		d.forEach(function(it){
-			let burl = pdfh(it, 'a&&href');
-			if (burl.startsWith("magnet")){
-				if (index === targetindex){
-					let title = pdfh(it, 'a&&Text');
-					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-					let loopresult = title + '$' + burl;
-					LISTS.push([loopresult]);
-				}
-				index = index + 1;
-			}
-		});
+let d = pdfa(html, 'ul.down-list&&li a');
+let lista = [];
+let listq = [];
+let listm = [];
+let liste = [];
+d.forEach(function(it){
+	let burl = pdfh(it, 'a&&href');
+	let title = pdfh(it, 'a&&Text');
+	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
+	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
+	let loopresult = title + '$' + burl;
+	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		lista.push(loopresult);
+	}else if (burl.startsWith("https://pan.quark.cn/s/")){
+		if (TABS.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
+		loopresult = title + '$' + burl;
+		listq.push(loopresult);
+	}else if (burl.startsWith("magnet")){
+		listm.push(loopresult);
+	}else if (burl.startsWith("ed2k")){
+		liste.push(loopresult);
 	}
 });
-TABS.forEach(function(tab) {
-	log('tab >>>>>>>>' + tab);
-	if (/^ed2k/.test(tab)) {
-		let targetindex = parseInt(tab.substring(4));
-		let index = 1;
-		d.forEach(function(it){
-			let burl = pdfh(it, 'a&&href');
-			if (burl.startsWith("ed2k")){
-				if (index === targetindex){
-					let title = pdfh(it, 'a&&Text');
-					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-					let loopresult = title + '$' + burl;
-					LISTS.push([loopresult]);
-				}
-				index = index + 1;
-			}
-		});
-	}
+if (listm.length>0){
+	LISTS.push(listm.reverse());
+}
+if (liste.length>0){
+	LISTS.push(liste.reverse());
+}
+lista.forEach(function(it){
+	LISTS.push([it]);
+});
+listq.forEach(function(it){
+	LISTS.push([it]);
 });
 `,
 
@@ -118,7 +135,7 @@ if (rule_fetch_params.headers.Cookie.startsWith("http")){
 log('mp4us seach cookie>>>>>>>>>>>>>' + rule_fetch_params.headers.Cookie);
 let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
 //log("mp4us search params>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = request( HOST + '/search/' + KEY + '-1.html', _fetch_params)
+let search_html = request( HOST + '/search/' + encodeURIComponent(KEY) + '-1.html', _fetch_params)
 //log("mp4us search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 //'div#list_all li;img.lazy&&alt;img.lazy&&src;div.text_info h2&&Text;a&&href;p.info&&Text',

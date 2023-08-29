@@ -42,13 +42,12 @@
         },
         {
             "key": "csp_SixV",
-            "name": "🧲新6V磁力",
+            "name": "🧲新6V",
             "type": 3,
             "api": "csp_SixV",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0,
             "ext": "http://www.xb6v.com/"
         },
         {
@@ -67,7 +66,7 @@
             "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "csp_DiDuan",
@@ -96,6 +95,26 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "酷酷",
+            "name": "🚀酷酷",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+        },
+        {
+            "key": "彩虹",
+            "name": "🌈彩虹",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://jh.dytt996.com:996/api.php/app/"
         },
         {
             "key": "爱迪",
@@ -137,16 +156,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/新视觉影院.json"
-        },
-        {
-            "key": "csp_fantuan",
-            "name": "🍙饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_YQKAPP",
@@ -662,12 +671,12 @@
         {
             "name": "小新",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=adhmnvwyzIOPUWZ239&url="
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cehklprBCEPUVWY234&url="
         },
         {
             "name": "哥哥们",
             "type": 1,
-            "url": "https://jx.wogg.link/api/饭特析.php?url="
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name": "777",
@@ -916,7 +925,8 @@
         {
             "name": "bf",
             "hosts": [
-                "bfzy"
+                "bfzy",
+                "s5.bfzycdn"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",

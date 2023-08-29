@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ交流群:532127696",
+            "name": "🅱️追剧影院|T热播 QQ交流群:891992786",
             "type": 3,
             "api": "./Api.js",
             "searchable": 0,
@@ -81,6 +81,16 @@
             "ext": "./json/低端影视.json"
         },
         {
+            "key": "csp_小鹿",
+            "name": "🅱️小鹿影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/小鹿影视.json"
+        },
+        {
             "key": "csp_兔瓜",
             "name": "🅱️兔瓜影视|T追剧",
             "type": 3,
@@ -89,6 +99,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/兔兔瓜.json"
+        },
+        {
+            "key": "csp_达龟",
+            "name": "🅱️达龟影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/达达龟影视.json"
         },
         {
             "key": "Wogg",
@@ -101,15 +121,8 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
-            "key": "js_影探",
-            "name": "🅱️影探蓝光|T追剧",
-            "type": 3,
-            "api": "./Api.js",
-            "ext": "./js/影探.js"
-        },
-        {
             "key": "如意",
-            "name": "🅱️如意蓝光|T追剧",
+            "name": "🅱️如意蓝光T追剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -122,6 +135,26 @@
                 "综艺",
                 "动漫"
             ]
+        },
+        {
+            "key": "酷影",
+            "name": "🅱️酷影蓝光|T追剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ys.realdou.cn:62703/api.php/app/"
+        },
+        {
+            "key": "影探",
+            "name": "🅱️影探蓝光|T追剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"
         },
         {
             "key": "Czspp",
@@ -184,14 +217,14 @@
             "ext": "./json/101影视.json"
         },
         {
-            "key": "csp_789",
-            "name": "🅱️芭蕉影视|T追剧",
+            "key": "csp_圣城",
+            "name": "🅱️圣城影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/789影视.json"
+            "ext": "./json/圣城影视.json"
         },
         {
             "key": "csp_007",
@@ -232,16 +265,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/奥特影视.json"
-        },
-        {
-            "key": "csp_兔年",
-            "name": "🅱️兔年影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/YYDS影视.json"
         },
         {
             "key": "csp_345",
@@ -364,16 +387,6 @@
             "ext": "./json/臭蛋影视.json"
         },
         {
-            "key": "csp_苹果",
-            "name": "🅱️苹果影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/苹果影视.json"
-        },
-        {
             "key": "csp_米爱",
             "name": "🅱️米爱影视|T追剧",
             "type": 3,
@@ -394,17 +407,7 @@
             "ext": "./json/熊猫影视.json"
         },
         {
-            "key": "csp_灰太狼",
-            "name": "🅱️灰狼影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/灰太狼影视.json"
-        },
-        {
-            "key": "七七",
+            "key": "cps_酷云",
             "name": "🅱️酷云七七|T追剧",
             "type": 3,
             "api": "csp_Kunyu77",
@@ -433,11 +436,49 @@
             "ext": "./json/量子资源网.json"
         },
         {
-            "key": "js_搜狗",
-            "name": "🅱️搜狗官源|T追剧",
+            "key": "360",
+            "name": "🅱️360 官源|T追剧",
             "type": 3,
-            "api": "./Api.js",
-            "ext": "./js/搜狗影视.js"
+            "api": "csp_360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "奇艺",
+            "name": "🅱️奇艺官源|T追剧",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "腾讯",
+            "name": "🅱️腾讯官源|T追剧",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "芒果",
+            "name": "🅱️芒果官源|T追剧",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "优酷",
+            "name": "🅱️优酷官源|T追剧",
+            "type": 3,
+            "api": "csp_YOUKU",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "荐片",

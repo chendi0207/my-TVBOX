@@ -22,7 +22,7 @@ var rule = {
     class_parse:'.ecnav-nav .main-nav;a&&Text;a&&href;.*/(.*?).html',
     searchUrl:'/vodsearch/**----------fypage---.html',
     searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    quickSearch:1,//是否启用快速搜索,
     headers: {
         'User-Agent': 'PC_UA',
     },

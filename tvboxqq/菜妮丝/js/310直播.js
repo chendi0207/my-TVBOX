@@ -4,7 +4,7 @@ var rule = {
     url:'/?s=0&t=1&a=fyclass&g=fypage',
     searchUrl:'',
     searchable:0,
-    quickSearch:0,
+    quickSearch:1,
     class_name:'热门&足球&篮球',
     class_url:'0&1&2',
     headers:{

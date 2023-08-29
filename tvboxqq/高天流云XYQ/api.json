@@ -196,7 +196,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://czzy.fun"
+            "ext": "https://cz01.me"
         },
         {
             "key": "csp_Bdys",
@@ -329,8 +329,8 @@
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/4KHDR.json"
         },
@@ -573,6 +573,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/一龙高清影视.json"
+        },
+        {
+            "key": "csp_XYQHiker_A8影视",
+            "name": "A8影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/A8影视.json"
         },
         {
             "key": "csp_XYQHiker_极客影院",

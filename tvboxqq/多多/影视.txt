@@ -13,6 +13,25 @@
 
 🇨🇳｜️央视频道,#genre#	
 
+CCTV1,http://221.0.78.198:1681/hls/10201/index.m3u8
+CCTV2,http://221.0.78.198:1681/hls/10202/index.m3u8
+CCTV3,http://221.0.78.198:1681/hls/10203/index.m3u8
+CCTV4,http://221.0.78.198:1681/hls/10204/index.m3u8
+CCTV5,http://221.0.78.198:1681/hls/10205/index.m3u8
+CCTV5+,http://221.0.78.198:1681/hls/10217/index.m3u8
+CCTV6,http://221.0.78.198:1681/hls/10206/index.m3u8
+CCTV7,http://221.0.78.198:1681/hls/10207/index.m3u8
+CCTV8,http://221.0.78.198:1681/hls/10208/index.m3u8
+CCTV9,http://221.0.78.198:1681/hls/10209/index.m3u8
+CCTV10,http://221.0.78.198:1681/hls/10210/index.m3u8
+CCTV11,http://221.0.78.198:1681/hls/10211/index.m3u8
+CCTV12,http://221.0.78.198:1681/hls/10212/index.m3u8
+CCTV13,http://221.0.78.198:1681/hls/10213/index.m3u8
+CCTV14,http://221.0.78.198:1681/hls/10214/index.m3u8
+CCTV15,http://221.0.78.198:1681/hls/10215/index.m3u8
+CCTV17,http://221.0.78.198:1681/hls/10289/index.m3u8
+CGTN,http://221.0.78.198:1681/hls/10216/index.m3u8
+
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
 CCTV3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5

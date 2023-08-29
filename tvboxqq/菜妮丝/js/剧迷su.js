@@ -20,7 +20,7 @@ var rule = {
 	},
 	searchUrl:'/vodsearch/**----------fypage---.html',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	headers: {
 		'User-Agent': 'MOBILE_UA',
 	},

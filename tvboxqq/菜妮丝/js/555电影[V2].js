@@ -16,7 +16,7 @@ var rule = {
 	detailUrl:'/api.php/app/video_detail?id=fyid',
 	searchUrl: '/api.php/app/search?text=**&pg=fypage',
 	searchable: 2,
-	quickSearch: 0,
+	quickSearch: 1,
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,

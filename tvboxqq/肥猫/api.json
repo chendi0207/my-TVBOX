@@ -1,11 +1,13 @@
 {
     "sites": [
         {
-            "key": "js豆瓣",
+            "key": "豆瓣",
             "name": "🐼┃豆瓣┃新微信公众号：肥猫宝贝",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/豆瓣.js"
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "直播转点播",
@@ -37,7 +39,7 @@
             "key": "荐片",
             "name": "🎬┃荐片┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/荐片.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -47,19 +49,8 @@
             "key": "磁力熊",
             "name": "🐻┃熊熊┃磁力",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/磁力熊.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "yyds",
-            "name": "🔥┃杳音┃影院",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "playerType": "2",
-            "ext": "./js/yyds.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -69,37 +60,7 @@
             "name": "🦢┃素白┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./json/素白.json"
-        },
-        {
-            "key": "夜夜",
-            "name": "🦉┃夜夜┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "站名": "夜光影视",
-                "主页url": "https://www.ygpvp.com/",
-                "分类url": "https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\"",
-                "搜索模式": "1",
-                "搜索url": "https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-                "搜索二次截取": "\"list\":[&&]",
-                "搜索数组": "{&&}",
-                "搜索标题": "\"name\":\"&&\"",
-                "搜索图片": "\"pic\":\"&&\"",
-                "搜索链接": "https://www.ygpvp.com/voddetail/+\"id\":&&,+html",
-                "跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"",
-                "二次跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx",
-                "三次跳转播放链接": "\"url\"*\"&&\"",
-                "年代": "年份：&&</a>",
-                "地区": "地区：&&</a>",
-                "类型": "类型：&&</a>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "<p>&&</p>"
-            }
+            "ext": "./json/素白白.json"
         },
         {
             "key": "虎虎",
@@ -111,12 +72,12 @@
         {
             "key": "YQK_spider",
             "name": "🙆┃一起┃电视",
-            "api": "csp_YQKAPP",
             "type": 3,
+            "api": "csp_YQKAPP",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
             "ext": "https://hk-api-cf.yqk5659.com"
         },
         {
@@ -155,23 +116,6 @@
             "ext": "https://cz01.me/"
         },
         {
-            "key": "双十",
-            "name": "💖┃双十┃影视",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "playerType": 1,
-            "ext": "https://www.1010dy3.com/"
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "🔺┃Btto┃影视",
-            "api": "csp_Bttwoo",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "csp_FanYY",
             "name": "🧸┃玩偶┃影视",
             "type": 3,
@@ -191,15 +135,26 @@
             "filterable": 1
         },
         {
+            "key": "奇奇",
+            "name": "🐭┃奇奇┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": "2",
+            "ext": "https://ttsp.live/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "爱迪",
             "name": "💡┃爱迪┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
-            "playerType": "2",
-            "ext": "https://api123.adys.app/xgapp.php/v3/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "playerType": 2,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key": "Kuaikan",
@@ -214,21 +169,22 @@
             "key": "飞速",
             "name": "🚄┃影探┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "csp_YTVIP",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/V2影探.js"
+            "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
         },
         {
-            "key": "小艺",
-            "name": "🥩┃小艺┃影视",
+            "key": "辣辣",
+            "name": "🌶️┃辣辣┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://lg.tvcms.top/api.php/app/"
+            "ext": "http://www.miniku.cc/xgapp.php/v2/",
+            "jar": "./jars/辣辣.jar"
         },
         {
             "key": "蘑菇",
@@ -246,40 +202,10 @@
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
-            "playerType": 2,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tv.libvio.cc"
-        },
-        {
-            "key": "Lezhu",
-            "name": "🐷┃乐猪┃影视",
-            "api": "csp_XBPQ",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "./json/乐猪.json"
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "🌀┃蓝光┃影视",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.vip"
-        },
-        {
-            "key": "csp_fant",
-            "name": "🍙┃饭团┃影视",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "playerType": 1
+            "playerType": 2,
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "csp_Auete",
@@ -304,7 +230,7 @@
             "key": "drpy_js_奇珍异兽",
             "name": "🐨┃爱奇┃官源",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/爱奇.js"
         },
         {
@@ -343,7 +269,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "m3u8ads": "hd.youyhn.com",
             "ext": "https://www.ysgc.fun"
         },
         {
@@ -399,10 +324,10 @@
             "name": "🐏┃易搜┃搜索",
             "type": 3,
             "api": "csp_YiSo",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "playerType": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
@@ -410,10 +335,10 @@
             "name": "🐑┃资源┃搜索",
             "type": 3,
             "api": "csp_Zhaozy",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
+            "playerType": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$feimao$$$123456"
         },
         {
@@ -421,10 +346,10 @@
             "name": "🐐┃云搜┃搜索",
             "type": 3,
             "api": "csp_UpYun",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "playerType": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
@@ -432,10 +357,10 @@
             "name": "🦌┃盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSou",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "playerType": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
@@ -445,7 +370,6 @@
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1,
             "ext": "./json/bili.json"
         },
         {
@@ -455,7 +379,6 @@
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1,
             "ext": "./json/戏曲.json"
         },
         {
@@ -465,18 +388,17 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "ext": "./json/ych.json"
         },
         {
             "key": "js虎牙",
             "name": "🐅┃虎牙┃直播",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/虎牙直播.js",
+            "api": "./ddrpy2.m.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "./js/虎牙直播.js"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -502,7 +424,7 @@
             "key": "dr_88看球",
             "name": "🏀┃八八┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -512,7 +434,7 @@
             "key": "drpy_js_JRKAN直播",
             "name": "🏀┃JRS┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/JRKAN直播.js"
         },
         {
@@ -529,14 +451,14 @@
             "key": "drpy_js_有声小说吧",
             "name": "📻┃有声┃小说",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "📻┃蜻蜓┃收音",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./ddrpy2.m.js",
             "ext": "./js/蜻蜓FM.js"
         },
         {
@@ -614,6 +536,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
+        },
+        {
+            "key": "push_agent",
+            "name": "▶┃推送┃磁力",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "playerType": 1,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
         },
         {
             "key": "ext_live_protocol",
@@ -1005,7 +938,7 @@
         "vip.ffzyad.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
-    "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+    "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
     "warningText": "接口完全免费，切勿付费购买。",
     "spider": "./spider.jar"
 }

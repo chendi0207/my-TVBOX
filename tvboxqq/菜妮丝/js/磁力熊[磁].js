@@ -11,7 +11,7 @@ var rule = {
 	},
 	searchUrl: '/e/search/index.php#classid=1,2&show=title&tempid=1&keyboard=**;post',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:1,
 	headers:{
 		'User-Agent': 'MOBILE_UA'

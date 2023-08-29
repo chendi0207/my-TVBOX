@@ -16,7 +16,7 @@ var rule = {
     },
     searchUrl:'/lyso/page/fypage/wd/**.html',
     searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    quickSearch:1,//是否启用快速搜索,
     headers:{
         'User-Agent':'MOBILE_UA'
     },

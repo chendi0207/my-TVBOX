@@ -17,7 +17,7 @@ var rule={
     },
 	searchUrl:'/vodsearch/**----------fypage---.html',
 	searchable:2,//是否启用全局搜索,
-	quickSearch:0,//是否启用快速搜索,
+	quickSearch:1,//是否启用快速搜索,
 	filterable:0,//是否启用分类筛选,
 	// class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
 	class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(\\d).html',

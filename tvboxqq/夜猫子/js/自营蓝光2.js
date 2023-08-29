@@ -22,7 +22,7 @@ var rule = {
 	class_name:'电视剧&电影&动漫&少儿&综艺', // 分类筛选 /api.php/app/nav
 	class_url:'2&1&4&5&3',
 	play_parse:true,
-    lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/NBY/.test(input)){let purl=request("http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+    lazy:'js:if(/m3u8|mp4/.test(input)){input}else if(/NBY/.test(input)){let purl=request("http://103.146.230.202:6688/api/?key=wzFFqn51SZGkEnm6cG&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
 	推荐:'json:list[0].vlist;*;*;*;*',
 	一级:'json:list;vod_name;vod_pic;vod_remarks||vod_score;vod_id',
