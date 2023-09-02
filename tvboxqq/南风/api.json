@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -104,7 +106,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+            "ext": "http://cms.realdou.cn:35264/api.php/app/"
         },
         {
             "key": "彩虹",
@@ -377,6 +379,16 @@
             "filterable": 1
         },
         {
+            "key": "云云",
+            "name": "💢云云",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/云云.json"
+        },
+        {
             "key": "dr_荐片",
             "name": "🧲荐片",
             "type": 3,
@@ -453,16 +465,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/臭蛋蛋.json"
-        },
-        {
-            "key": "达达龟",
-            "name": "💢达达龟",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/达达龟.json"
         },
         {
             "key": "零零七",
@@ -682,35 +684,6 @@
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "zhanglang",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
                     "qq",

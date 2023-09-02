@@ -3,6 +3,9 @@ var rule = {
 	host:'https://www.kkpans.com',
 	homeUrl:'/',
 	url: '/forum-fyclass-fypage.html?',
+	//host:'http://192.168.101.1:10078',
+	//homeUrl:'/p/0/s/https://www.kkpans.com/',
+	//url: '/p/0/s/https://www.kkpans.com/forum-fyclass-fypage.html?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
@@ -11,7 +14,8 @@ var rule = {
 	quickSearch:0,
 	filterable:0,
 	headers:{
-		'User-Agent': 'MOBILE_UA',
+		'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36',
+		'Accept': '*/*',
 		'Referer': 'https://www.kkpans.com/'
 	},
 	timeout:5000,
@@ -32,7 +36,9 @@ var rule = {
 	一级:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
+log("kkpans input>>>>>>>>>>>>>>"+input);
 let html = request(input);
+//log("kkpans 1level html>>>>>>>>>>>>>>"+html);
 let list = pdfa(html, 'div.threadlist ul li.list');
 list.forEach(function(it) {
 	d.push({
@@ -54,6 +60,9 @@ pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
+if (false && d.length>1){
+	TABS.push("選擇右側綫路");
+}
 d.forEach(function(it) {
 	TABS.push("夸克雲盤" + index);
 	index = index + 1;
@@ -66,12 +75,19 @@ LISTS=[];
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = pdfa(html, 'div.viewthread div.message a[href^="https://pan.quark.cn/s/"]');
 let index = 1;
+if (false && d.length>1){
+	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+}
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (d.length==1){
-		burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+	if (true){
+		if (d.length==1){
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
+		}else{
+			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		}
 	}else{
-		burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&url=" + encodeURIComponent(burl);
+		burl = "push://" + burl;
 	}
 	let title = pdfh(it, 'a&&Text');
 	LISTS.push([title + '$' + burl]);
@@ -82,7 +98,14 @@ d.forEach(function(it) {
 	搜索:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 
-let new_html=request(HOST + '/search.php?mod=forum', {withHeaders:true});
+let withHeaders = {
+    withHeaders: true
+};
+let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+Object.assign(_fetch_params, withHeaders);
+
+let new_html=request(rule.homeUrl + 'search.php?mod=forum', _fetch_params);
+log('kkpans search new_html >>>>>>>>>>>>>>>>>>>>>' + new_html);
 let json=JSON.parse(new_html);
 let setCk=Object.keys(json).find(it=>it.toLowerCase()==="set-cookie");
 let cookie="";
@@ -106,13 +129,13 @@ new_html = json['body'];
 let formhash = pdfh(new_html, 'input[name="formhash"]&&value');
 log("kkpans formhash>>>>>>>>>>>>>>>" + formhash);
 let params = 'formhash=' + formhash + '&searchsubmit=yes&srchtxt=' + encodeURIComponent(KEY);
-let _fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
+_fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
 let postData = {
     body: params
 };
 Object.assign(_fetch_params, postData);
 log("kkpans search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
+let search_html = post(rule.homeUrl + 'search.php?mod=forum', _fetch_params)
 //log("kkpans search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 let dlist = pdfa(search_html, 'div.threadlist ul li.list');

@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "wallpaper": "https://yun.chuqiuyu.tk",
@@ -13,7 +15,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ交流群:891992786",
+            "name": "🅱️追剧影院|T热播 QQ交流群:869277279",
             "type": 3,
             "api": "./Api.js",
             "searchable": 0,
@@ -121,42 +123,6 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
-            "key": "如意",
-            "name": "🅱️如意蓝光T追剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-        {
-            "key": "酷影",
-            "name": "🅱️酷影蓝光|T追剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ys.realdou.cn:62703/api.php/app/"
-        },
-        {
-            "key": "影探",
-            "name": "🅱️影探蓝光|T追剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"
-        },
-        {
             "key": "Czspp",
             "name": "🅱️厂长影视|T追剧",
             "type": 3,
@@ -197,14 +163,14 @@
             "ext": "./json/TVB云播.json"
         },
         {
-            "key": "csp_Free",
-            "name": "🅱️Free影视|T追剧",
+            "key": "csp_热播",
+            "name": "🅱️热播之家|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Free影视.json"
+            "ext": "./json/热播之家.json"
         },
         {
             "key": "csp_101",
@@ -405,15 +371,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/熊猫影视.json"
-        },
-        {
-            "key": "cps_酷云",
-            "name": "🅱️酷云七七|T追剧",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_非凡",

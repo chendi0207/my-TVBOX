@@ -1,10 +1,12 @@
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "豆豆",
-            "name": "微信公众号【神秘的哥哥们】关注防失联",
+            "name": "关注公众号【神秘的哥哥们】防失联",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -79,16 +81,6 @@
             "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "专线",
-            "name": "🚅专线┃App",
-            "type": 3,
-            "api": "csp_ZhuanX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
-        },
-        {
             "key": "迪迪",
             "name": "😎迪迪┃App",
             "api": "csp_AppYsV2",
@@ -149,14 +141,24 @@
         },
         {
             "key": "探探",
-            "name": "🏵探探┃App",
+            "name": "🏵影探┃App",
             "type": 3,
             "playerType": "1",
             "api": "csp_YTVIP",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+            "ext": "vip.lyyytv.cn"
+        },
+        {
+            "key": "哈喽",
+            "name": "✌哈喽┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key": "陌陌",
@@ -179,16 +181,6 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
         {
-            "key": "哈喽",
-            "name": "✌哈喽┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
             "key": "酷酷",
             "name": "💡酷酷┃App",
             "type": 3,
@@ -196,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+            "ext": "http://cms.realdou.cn:35264/api.php/app/"
         },
         {
             "key": "77",
@@ -701,9 +693,9 @@
             "url": "Web"
         },
         {
-            "name": "神秘",
+            "name": "神秘的",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+            "url": "http://json.g9.pub:66/?url="
         },
         {
             "name": "哥哥们",
@@ -784,7 +776,7 @@
             "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
         },
         {
-            "name": "坏了",
+            "name": "坏了我",
             "type": 0,
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
@@ -814,48 +806,9 @@
             }
         },
         {
-            "name": "我再找来",
+            "name": "再找来",
             "type": 1,
-            "url": "https://b.umkan.cc/API.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         }
     ],
     "rules": [
@@ -961,8 +914,6 @@
         "imgo",
         "芒果TV",
         "芒 果 T V",
-        "qiqi",
-        "kuying-qq",
         "bilibili",
         "哔 哩",
         "哔 哩 哔 哩"

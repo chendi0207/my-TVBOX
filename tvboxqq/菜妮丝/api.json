@@ -1,8 +1,10 @@
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
     "spider": "./spider.jar",
-    "wallpaper": "https://tvbox.cainisi.cf/壁纸",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
             "key": "360影视",
@@ -49,59 +51,15 @@
             "ext": "./js/磁力熊[磁].js"
         },
         {
-            "key": "Mp4电影",
-            "name": "🧲Mp4电影",
+            "key": "6v电影",
+            "name": "🧲6v电影",
             "type": 3,
-            "api": "csp_Mp4Mov",
+            "api": "csp_SixV",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jars/Mp4电影.jar"
-        },
-        {
-            "key": "SeedHub",
-            "name": "🧲SeedHub",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "./jars/Mp4电影.jar"
-        },
-        {
-            "key": "酷吧电影",
-            "name": "🧲酷吧电影",
-            "type": 3,
-            "api": "csp_KubaCL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "./jars/Mp4电影.jar"
-        },
-        {
-            "key": "美剧天堂",
-            "name": "🧲美剧天堂",
-            "type": 3,
-            "api": "csp_MeijuTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "./jars/Mp4电影.jar"
-        },
-        {
-            "key": "美剧迷",
-            "name": "🧲美剧迷",
-            "type": 3,
-            "api": "csp_MeijuMi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "./jars/Mp4电影.jar"
+            "ext": "http://www.xb6v.com/"
         },
         {
             "key": "电影港",
@@ -113,7 +71,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/电影港磁力.json",
-            "jar": "./jars/Mp4电影.jar"
+            "jar": "./jars/电影港.jar"
         },
         {
             "key": "低端影视",
@@ -1071,6 +1029,10 @@
             "name": "🎵A8┃MV",
             "type": 3,
             "api": "./drpy2.min.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -1460,11 +1422,6 @@
             "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "夜幕",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
         }
     ],
     "flags": [
@@ -1575,6 +1532,17 @@
             ]
         },
         {
+            "name": "bf",
+            "hosts": [
+                "bfzy",
+                "s5.bfzycdn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
             "name": "火山",
             "hosts": [
                 "huoshan.com"
@@ -1590,6 +1558,17 @@
             ],
             "regex": [
                 "is_play_url="
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
             ]
         }
     ],

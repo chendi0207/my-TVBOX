@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "warningText": "🐱夜猫子提醒您:本接口长期更新 完全免费 请放心使用🐱",
@@ -13,34 +15,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "dr_77",
-            "name": "🛩️┃酷云秒播┃",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/酷云77.js"
-        },
-        {
-            "key": "juying",
-            "name": "🍿聚影[长按搜索看]",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "./apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
-        },
-        {
-            "key": "drpy_js_腾云驾雾",
-            "name": "🐧|官源",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/腾讯.js"
         },
         {
             "key": "drpy_js_百忙无果",
@@ -75,26 +49,6 @@
             "ext": "./js/菜狗.js"
         },
         {
-            "key": "聚合",
-            "name": "影视聚合┃解析",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": "https://www.tvkuys.xyz/api.php/app/"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片(cli)",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_JP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "秒看资源",
             "name": "秒看┃切片",
             "type": 1,
@@ -110,33 +64,43 @@
             ]
         },
         {
-            "key": "野兔资源",
-            "name": "夜兔┃切片",
-            "type": 1,
+            "key": "彩虹",
+            "name": "🌈彩虹4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
             "playerType": 1,
-            "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-            "categories": [
-                "无敌4K资源",
-                "电影",
-                "动漫动画",
-                "国产剧",
-                "日韩剧",
-                "泰剧",
-                "欧美剧",
-                "纪录片"
-            ],
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.qtw.asia/api.php/v1.vod"
+        },
+        {
+            "key": "超前",
+            "name": "👑超前4K👑",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./drpy2.min.js",
+            "ext": "./js/4K超前.js"
         },
         {
             "key": "365",
             "name": "👑365秒播👑",
             "type": 3,
+            "playerType": 2,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://guan.yy365.vip/api.php/app/"
+        },
+        {
+            "key": "ymym",
+            "name": "👑夜猫优米👑",
+            "type": 3,
+            "playerType": 2,
+            "api": "./drpy2.min.js",
+            "ext": "./js/夜猫优米.js"
         },
         {
             "key": "yc",
@@ -151,53 +115,23 @@
             "jar": "./jars/yc.jar"
         },
         {
-            "key": "ky",
-            "name": "👑酷影┃4K👑",
-            "type": 3,
-            "api": "csp_App",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ys.realdou.cn:62703/api.php/app/",
-            "jar": "./jars/yc.jar"
-        },
-        {
-            "key": "ruyi",
-            "name": "👑如意┃4K👑",
+            "key": "影探4K2",
+            "name": "👑新夜猫子👑",
             "type": 3,
             "playerType": 1,
-            "api": "csp_App",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "电影",
-                "电视剧",
-                "动漫",
-                "综艺"
-            ],
-            "ext": "http://cms.maoyingshi.cc/api.php/app/",
-            "jar": "./jars/yc.jar"
+            "filterable": 1,
+            "ext": "http://ytcms.lyyytv.cn/api.php/app/"
         },
         {
-            "key": "xymzkk",
+            "key": "AppYs_ky",
             "name": "👑夜猫好酷👑",
             "type": 3,
             "playerType": 1,
             "api": "./drpy2.min.js",
-            "ext": "./js/新酷影.js"
-        },
-        {
-            "key": "yt",
-            "name": "👑新夜猫子4k👑",
-            "type": 3,
-            "api": "csp_App",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815",
-            "jar": "./jars/yc.jar"
+            "ext": "./js/酷酷.js"
         },
         {
             "key": "csp_appysv2_迷你库",
@@ -324,6 +258,26 @@
             "ext": "./js/ikan.js"
         },
         {
+            "key": "蘑菇2",
+            "name": "🍄️蘑菇┃APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://11111111.moguys.xyz/api.php/app/"
+        },
+        {
+            "key": "大豆高清",
+            "name": "🥓大豆┃app",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.dadou.cm/api.php/app/"
+        },
+        {
             "key": "dr_czyzy",
             "name": "🚚厂长蓝光2k",
             "type": 3,
@@ -341,6 +295,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/低端影视.json"
+        },
+        {
+            "key": "csp_菲克",
+            "name": "🍾菲克影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/菲克.json"
         },
         {
             "key": "小鹿",
@@ -650,7 +615,7 @@
             "name": "️💕快看采集",
             "type": 1,
             "playerType": 2,
-            "api": "https://kuaikan-api.com/api.php/provide/vod",
+            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
             "categories": [
                 "网络电影",
                 "动画电影",
@@ -680,7 +645,7 @@
             "type": 1,
             "playerType": 2,
             "api": "https://app.bfzyapi.com/api.php/provide/vod/",
-            "playUrl": "json:http://137.220.194.123/bf.php?url=",
+            "playUrl": "",
             "categories": [
                 "国产剧",
                 "国产动漫",
@@ -764,11 +729,11 @@
         {
             "key": "非凡",
             "name": "🦅非凡",
-            "type": "0",
+            "type": "1",
             "playerType": 2,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": "1",
-            "playUrl": "json:http://137.220.194.123/ff.php?url=",
+            "playUrl": "",
             "changeable": "0",
             "categories": [
                 "国产动漫",
@@ -863,16 +828,6 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
             "jar": "./jars/csp_KungFu404.jar"
-        },
-        {
-            "key": "AliYunPan",
-            "name": "🌐网盘|登录查询",
-            "type": 3,
-            "api": "csp_AliYunPan",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "b527aaaab92c4571a9ab5eb6a2beb9a1"
         },
         {
             "key": "Gitcafe",
@@ -1103,6 +1058,32 @@
             "url": "Web"
         },
         {
+            "name": "影探专用",
+            "type": 1,
+            "url": "http://jiexi.lyyytv.cn/json.php?url=",
+            "ext": {
+                "flag": [
+                    "XY"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+        {
+            "name": "酷影专用",
+            "type": 1,
+            "url": "http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url=",
+            "ext": {
+                "flag": [
+                    "kuying"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+        {
             "name": "夜猫超解析",
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=",
@@ -1197,7 +1178,7 @@
         {
             "name": "夜猫超解析2",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=cdgnovxzEMPTU24589&mgtv=app&url=",
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=cjlquzCDEFHIJQR029&mgtv=app&url=",
             "ext": {
                 "flag": [
                     "qq",
