@@ -40,6 +40,8 @@
 
 { "url": "http://cdn.yydsys.top/duo", "name": "多多家庭" },
 
+{ "url": "https://yydsys.top/duo/ali", "name": "阿里精品" },
+
 { "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "肥猫" },
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
@@ -50,7 +52,14 @@
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
 
+{ "url": "http://8.210.232.168/xc.json", "name": "星辰" },
+
 { "url": "https://xhdwc.tk/0", "name": "dxawi" },
+
+{ "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92", "name": "月光宝盒" },
+
+{ "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌" },
+
 
 { "url": "https://download.kstore.space/download/2863/01.txt", "name": "潇洒" },
 
