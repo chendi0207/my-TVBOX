@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -99,26 +99,6 @@
             "filterable": 1
         },
         {
-            "key": "酷酷",
-            "name": "🚀酷酷",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.realdou.cn:35264/api.php/app/"
-        },
-        {
-            "key": "彩虹",
-            "name": "🌈彩虹",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://jh.dytt996.com:996/api.php/app/"
-        },
-        {
             "key": "爱迪",
             "name": "🍟爱迪",
             "type": 3,
@@ -149,15 +129,14 @@
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
-            "key": "新视觉",
+            "key": "csp_Xinsj",
             "name": "✨新视觉",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/新视觉影院.json"
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_YQKAPP",
@@ -187,7 +166,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.libvio.fun/"
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "csp_AppMr",
@@ -263,17 +242,6 @@
             "filterable": 1
         },
         {
-            "key": "Alist",
-            "name": "🅰Alist",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./json/Alist.json"
-        },
-        {
             "key": "csp_WoGG",
             "name": "👽玩偶哥哥",
             "type": 3,
@@ -282,7 +250,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd+4k|auto|fhd$$$https://www.wogg.xyz/"
         },
         {
             "key": "YiSo",
@@ -379,16 +347,6 @@
             "filterable": 1
         },
         {
-            "key": "云云",
-            "name": "💢云云",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/云云.json"
-        },
-        {
             "key": "dr_荐片",
             "name": "🧲荐片",
             "type": 3,
@@ -398,33 +356,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/荐片.js"
-        },
-        {
-            "key": "北川",
-            "name": "💢北川",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "手机#Referer$http://bczhuiju.com/",
-                "主页url": "http://bczhuiju.com",
-                "副标题": "<div class=\"module-item-note\">&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]",
-                "线路标题": "<span>&&</span>",
-                "嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4",
-                "播放数组": "<div class=\"module-play-list-content&&</div>",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：</span>&&</div>",
-                "主演": "主演：</span>&&</div>",
-                "简介": "style=\"line-height: 20px;\"&&</p>",
-                "播放列表": "<a&&</a>",
-                "播放标题": "<span>&&</span>",
-                "播放链接": "href=\"&&\"",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"
-            }
         },
         {
             "key": "奇优",
@@ -465,16 +396,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/臭蛋蛋.json"
-        },
-        {
-            "key": "零零七",
-            "name": "💢零零七",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/零零七影视.json"
         },
         {
             "key": "有声小说吧",
@@ -669,11 +590,6 @@
             "name": "Web聚合",
             "type": 3,
             "url": "Web"
-        },
-        {
-            "name": "小新",
-            "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cehklprBCEPUVWY234&url="
         },
         {
             "name": "哥哥们",
@@ -877,7 +793,8 @@
             "name": "lz",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",

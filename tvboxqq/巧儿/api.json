@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -13,6 +13,36 @@
     ],
     "sites": [
         {
+            "key": "影咖视频",
+            "name": "影咖视频",
+            "type": 3,
+            "api": "csp_YingKa",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": ""
+        },
+        {
+            "key": "米酷视频",
+            "name": "米酷视频",
+            "type": 3,
+            "api": "csp_DDMJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://103.222.188.33:6688"
+        },
+        {
+            "key": "剧圈视频",
+            "name": "剧圈视频",
+            "type": 3,
+            "api": "csp_DDMJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://211.101.233.143:7788"
+        },
+        {
             "key": "蚂蚁视频",
             "name": "蚂蚁视频",
             "type": 3,
@@ -20,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://www.rzys.cc"
+            "ext": "http://rzys.xyz"
         },
         {
             "key": "看看视频",
@@ -46,7 +76,7 @@
             "name": "EMO蓝光",
             "type": 3,
             "api": "csp_AppYsV2",
-            "ext": "http://one2.emofun.top/mogai_api.php/v1.vod"
+            "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
         },
         {
             "key": "油果视频",
@@ -98,7 +128,7 @@
             "ext": ""
         },
         {
-            "key": "NoSearch_Bdys_spider",
+            "key": "Bdys_spider",
             "name": "哔滴影视",
             "api": "csp_Bdys01",
             "type": 3,
@@ -209,15 +239,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Cokemv",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "NoSearch_csp_BBB",
             "name": "哔哩哔哩",
             "type": 3,
@@ -265,11 +286,6 @@
             "url": "Demo"
         },
         {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
@@ -305,22 +321,44 @@
     "flags": [
         "youku",
         "qq",
+        "QQ",
         "iqiyi",
+        "qiqi",
         "qiyi",
         "letv",
         "sohu",
         "tudou",
         "pptv",
+        "PPTV",
         "mgtv",
+        "ltnb",
+        "rx",
+        "SLYS4k",
+        "BYGA",
+        "luanzi",
+        "dxzy",
+        "QEYSS",
+        "aliyun",
+        "AliS",
+        "122",
+        "chuangying",
+        "CL4K",
+        "xfyun",
+        "wuduzy",
         "wasu",
         "bilibili",
         "renrenmi",
-        "duoduozy",
-        "xinluan",
-        "ddzy",
-        "tgqp",
-        "tkqp",
-        "XRJX"
+        "ppayun",
+        "haiwaikan",
+        "cool",
+        "dbm3u8",
+        "xmm",
+        "xigua",
+        "m1905",
+        "funshion",
+        "imgo",
+        "ruyi1080",
+        "ruyib1080"
     ],
     "ijk": [
         {

@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
@@ -66,6 +66,17 @@
             "name": "📀易搜(搜索)",
             "type": 3,
             "api": "csp_Yisou",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+        },
+        {
+            "key": "csp_Upyunso",
+            "name": "📀UP云搜(搜索)",
+            "type": 3,
+            "api": "csp_Upyunso",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -365,6 +376,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/极影网.json"
+        },
+        {
+            "key": "csp_XYQHiker_高清MP4",
+            "name": "🧲高清MP4(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/高清MP4.json"
         },
         {
             "key": "csp_Bili",
@@ -1279,9 +1300,9 @@
             "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "-盘古-",
+            "name": "-爱酷-",
             "type": 0,
-            "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+            "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1312,12 +1333,7 @@
         {
             "name": "-777-",
             "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "-咸鱼-",
-            "type": 0,
-            "url": "https://jx.xyflv.com/?url="
+            "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
             "name": "-全看-",
@@ -1361,7 +1377,9 @@
         {
             "host": "*",
             "rule": [
-                "default.365yg.com"
+                "default.365yg.com",
+                "video_mp4",
+                "video/tos"
             ]
         },
         {
@@ -1434,6 +1452,17 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfzy",
+                "s5.bfzycdn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {

@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -49,30 +49,31 @@
             "ext": "./js/菜狗.js"
         },
         {
-            "key": "秒看资源",
-            "name": "秒看┃切片",
-            "type": 1,
-            "playerType": 1,
-            "api": "https://mkzy.vip/api.php/provide/vod",
+            "key": "彩虹",
+            "name": "🌈彩虹4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
             "categories": [
-                "电视剧",
+                "连续剧",
                 "电影",
                 "动漫",
                 "综艺"
             ]
         },
         {
-            "key": "彩虹",
-            "name": "🌈彩虹4K",
+            "key": "mb",
+            "name": "👑夜猫秒播👑",
             "type": 3,
             "api": "csp_AppYsV2",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://www.qtw.asia/api.php/v1.vod"
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
             "key": "超前",
@@ -84,23 +85,15 @@
             "ext": "./js/4K超前.js"
         },
         {
-            "key": "365",
-            "name": "👑365秒播👑",
+            "key": "ymym",
+            "name": "👑夜猫优米👑",
             "type": 3,
             "playerType": 2,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
-        },
-        {
-            "key": "ymym",
-            "name": "👑夜猫优米👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/夜猫优米.js"
+            "ext": "http://ym.dytt996.com:12/api.php/app/"
         },
         {
             "key": "yc",
@@ -111,27 +104,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
             "jar": "./jars/yc.jar"
-        },
-        {
-            "key": "影探4K2",
-            "name": "👑新夜猫子👑",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ytcms.lyyytv.cn/api.php/app/"
-        },
-        {
-            "key": "AppYs_ky",
-            "name": "👑夜猫好酷👑",
-            "type": 3,
-            "playerType": 1,
-            "api": "./drpy2.min.js",
-            "ext": "./js/酷酷.js"
         },
         {
             "key": "csp_appysv2_迷你库",
@@ -143,22 +117,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
-        {
-            "key": "AppYs_yumi",
-            "name": "👑夜猫至臻👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/新夜猫至臻.js"
-        },
-        {
-            "key": "ymzy2k",
-            "name": "👑夜猫自营2k👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/夜猫自营2k.js"
         },
         {
             "key": "影院",
@@ -183,6 +141,39 @@
             "ext": "./js/南瓜.js"
         },
         {
+            "key": "qiyue",
+            "name": "👑七月蓝光👑",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七月影视.json"
+        },
+        {
+            "key": "hanju",
+            "name": "👑天天韩剧👑",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/天天韩剧.json"
+        },
+        {
+            "key": "看剧",
+            "name": "👑看剧蓝光👑",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kankanju.cc/api.php/app/"
+        },
+        {
             "key": "狐狸影视",
             "name": "👑狐狸影视2k👑",
             "type": 3,
@@ -195,33 +186,6 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key": "忍者视频",
-            "name": "👑夜猫忍者👑",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./jars/忍者视频.jar",
-            "ext": "http://www.rzys.cc"
-        },
-        {
-            "key": "AppYs_xylg2",
-            "name": "👑夜猫自营蓝光👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/自营蓝光2.js"
-        },
-        {
-            "key": "ymzy",
-            "name": "👑夜猫自营高清👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/自营.js"
-        },
-        {
             "key": "xymzftfx",
             "name": "👑非同凡响👑",
             "type": 3,
@@ -230,52 +194,32 @@
             "ext": "./js/非同凡响.js"
         },
         {
-            "key": "极客",
-            "name": "👑极客|蓝光👑",
+            "key": "csp_Ikanbot",
+            "name": "👑夜猫聚影👑",
             "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.jiketv.com/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/year/{year}.html;;akx",
-                "分类": "动漫$4#电影$1#剧集$2#综艺$3"
-            }
-        },
-        {
-            "key": "9yyq",
-            "name": "👑九禹云播👑",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-            }
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "dr_jqr",
-            "name": "👑夜猫聚影👑",
+            "name": "👑夜猫聚影2(待修复)👑",
             "type": 3,
             "playerType": 2,
             "api": "./drpy2.min.js",
-            "ext": "./js/ikan.js"
+            "ext": "./js/ikanbot1.js"
         },
         {
-            "key": "蘑菇2",
-            "name": "🍄️蘑菇┃APP",
+            "key": "csp_djtv",
+            "name": "😻爱看短剧",
             "type": 3,
-            "api": "csp_AppYs",
+            "playerType": 2,
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://11111111.moguys.xyz/api.php/app/"
-        },
-        {
-            "key": "大豆高清",
-            "name": "🥓大豆┃app",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.dadou.cm/api.php/app/"
+            "ext": "./json/短剧.json"
         },
         {
             "key": "dr_czyzy",
@@ -317,6 +261,126 @@
                 "分类": "电影$1#电视剧$31#动漫$4#综艺$3",
                 "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
             }
+        },
+        {
+            "key": "drpy_js_荐片",
+            "name": "👑 | 荐片蓝光",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "ext": "./js/荐片.js",
+            "playerType": "1"
+        },
+        {
+            "key": "csp_slgq",
+            "name": "🏵️石榴蓝光",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/石榴高清.json"
+        },
+        {
+            "key": "dr_ymi",
+            "name": "⭐┃映迷蓝光┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "./drpy2.min.js",
+            "ext": "./js/映迷影院.js"
+        },
+        {
+            "key": "drpy_qy",
+            "name": "🐵奇优影院",
+            "type": 3,
+            "playerType": 2,
+            "api": "./drpy2.min.js",
+            "ext": "./js/奇优影院.js"
+        },
+        {
+            "key": "dr_xc",
+            "name": "⭐┃星辰蓝光┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "./drpy2.min.js",
+            "ext": "./js/星辰.js"
+        },
+        {
+            "key": "csp_aidi_api",
+            "name": "🐩爱迪高清APP",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_ggun",
+            "name": "🌵光棍高清",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/光棍影视.json"
+        },
+        {
+            "key": "csp_miai",
+            "name": "🌾米爱蓝光",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/米爱影视.json"
+        },
+        {
+            "key": "csp_bt",
+            "name": "😢鼻涕影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/鼻涕影视.json"
+        },
+        {
+            "key": "XBPQsj",
+            "name": "🔥┃新视觉┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "./json/6080.json"
+        },
+        {
+            "key": "csp_XBPQ_nmys",
+            "name": "🚲┃农民┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/农民影视.json"
+        },
+        {
+            "key": "csp_XBPQ_thys",
+            "name": "⛴️┃土豪┃影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/土豪影视.json"
         },
         {
             "key": "csp_Mp4Mov",
@@ -468,139 +532,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/音范丝.json"
-        },
-        {
-            "key": "ity",
-            "name": "爱TV丨4k",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 2,
-            "ext": {
-                "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-                "副标题": "<span class=\"pic-text text-right\"><b>&&</b></span>",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6",
-                "分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
-            }
-        },
-        {
-            "key": "drpy_js_荐片",
-            "name": "👑 | 荐片蓝光",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/荐片.js",
-            "playerType": "1"
-        },
-        {
-            "key": "csp_slgq",
-            "name": "🏵️石榴蓝光",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/石榴高清.json"
-        },
-        {
-            "key": "dr_ymi",
-            "name": "⭐┃映迷蓝光┃",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/映迷影院.js"
-        },
-        {
-            "key": "drpy_qy",
-            "name": "🐵奇优影院",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/奇优影院.js"
-        },
-        {
-            "key": "dr_xc",
-            "name": "⭐┃星辰蓝光┃",
-            "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.min.js",
-            "ext": "./js/星辰.js"
-        },
-        {
-            "key": "csp_aidi_api",
-            "name": "🐩爱迪高清APP",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-        },
-        {
-            "key": "csp_ggun",
-            "name": "🌵光棍高清",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/光棍影视.json"
-        },
-        {
-            "key": "csp_miai",
-            "name": "🌾米爱蓝光",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/米爱影视.json"
-        },
-        {
-            "key": "csp_bt",
-            "name": "😢鼻涕影视",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/鼻涕影视.json"
-        },
-        {
-            "key": "XBPQsj",
-            "name": "🔥┃新视觉┃",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "./json/6080.json"
-        },
-        {
-            "key": "csp_XBPQ_nmys",
-            "name": "🚲┃农民┃",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
-            "key": "csp_XBPQ_thys",
-            "name": "⛴️┃土豪┃影视",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/土豪影视.json"
         },
         {
             "key": "py_央视片库",
@@ -1071,12 +1002,12 @@
             }
         },
         {
-            "name": "酷影专用",
+            "name": "优米",
             "type": 1,
-            "url": "http://jx.realdou.cn/api/?key=j4vwSEv2iAE54EWTbM&url=",
+            "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=k5Ed7d2zMu4FLRhwjw&url=",
             "ext": {
                 "flag": [
-                    "kuying"
+                    "YuMi"
                 ],
                 "header": {
                     "User-Agent": "okhttp/3.12.11"

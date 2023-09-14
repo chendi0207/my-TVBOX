@@ -1,7 +1,5 @@
 {
-                "分类url": "https://www.freeok.vip/label/{cateId}.html",
-                "分类": "今日更新$new#热榜$hot",
-                
+               "分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m","分类":"电影&剧集&动漫&综艺","分类值":"1&2&3&4","嗅探词":"m3u8#.m3u8#.mp4#mp4",
                 "搜索url": "https://www.cupfox.app/s/{wd}",
                
                 "嗅探词": "m3u8#.m3u8#.mp4#mp4",

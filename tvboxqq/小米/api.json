@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -12,17 +12,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },
-        {
-            "key": "csp_AList_Alist",
-            "name": "🍰小鸭┃网盘",
-            "type": 3,
-            "api": "csp_AList",
-            "jar": "./jars/csp_AList_Alist.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/alist.json"
         },
         {
             "key": "csp_WoGG",
@@ -86,7 +75,7 @@
             "key": "广播迷",
             "name": "广播┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
@@ -101,7 +90,7 @@
             "name": "360┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "ext": "./json/360.json"
         },
         {
@@ -109,8 +98,16 @@
             "name": "乐猪┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "ext": "./json/lezhu.json"
+        },
+        {
+            "key": "淘剧",
+            "name": "淘剧┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/广播迷.jar",
+            "ext": "./json/淘剧.json"
         },
         {
             "key": "csp_Bili",
@@ -173,7 +170,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "1",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "站名": "黑狐影院",
@@ -215,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "1",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
@@ -235,29 +232,18 @@
             "name": "🗯辣辣┃APP",
             "type": 3,
             "api": "csp_AppYs",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
         {
-            "key": "蘑菇2",
-            "name": "️蘑菇┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "jar": "./jars/csp_AList_Alist.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://11111111.moguys.xyz/api.php/app/"
-        },
-        {
             "key": "落落",
             "name": "️落落┃APP",
             "type": 3,
             "api": "csp_AppYs",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -278,28 +264,10 @@
             "key": "素白",
             "name": "素白┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "./json/素白.json"
-        },
-        {
-            "key": "348",
-            "name": "348┃BPQ",
-            "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./json/348.json"
-        },
-        {
-            "key": "蘑菇",
-            "name": "蘑菇┃BPQ",
-            "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "./json/蘑菇.json"
         },
         {
             "key": "YQK_spider",
@@ -316,7 +284,7 @@
             "key": "龟龟",
             "name": "龟龟┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -338,19 +306,11 @@
             }
         },
         {
-            "key": "双十",
-            "name": "双十┃直连",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "playerType": "1",
-            "ext": "https://www.1010dy3.com/"
-        },
-        {
             "key": "耐看",
             "name": "耐看┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "playerType": "1",
             "ext": "./json/来看.json"
         },
@@ -359,7 +319,7 @@
             "name": "星辰┃BPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "playerType": "1",
             "ext": "./json/星辰.json"
         },
@@ -367,7 +327,7 @@
             "key": "看看",
             "name": "看看┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "playerType": "1",
             "changeable": 0,
             "api": "csp_XBPQ",
@@ -392,7 +352,7 @@
             "key": "双黄",
             "name": "双黄┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "嗅探词": "v3-dy-o.zjcdn#.m3u8#",
@@ -409,7 +369,7 @@
             "key": "零度",
             "name": "零度┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "./json/tvb.json"
@@ -418,7 +378,7 @@
             "key": "莱米",
             "name": "莱米┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext": {
@@ -451,7 +411,7 @@
             "key": "夜幕",
             "name": "️夜夜┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -486,7 +446,7 @@
             "key": "土豪",
             "name": "土豪┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
@@ -508,7 +468,7 @@
             "key": "csp_XBPQ_JOJO",
             "name": "JOJO┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -531,7 +491,7 @@
             "key": "热播库",
             "name": "热播┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": "./json/热播.json"
@@ -548,7 +508,7 @@
             "key": "虎虎",
             "name": "虎虎┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": "./json/虎虎.json"
         },
@@ -556,7 +516,7 @@
             "key": "利播",
             "name": "利播┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": "./json/利播.json"
         },
@@ -564,7 +524,7 @@
             "key": "串串",
             "name": "串串┃️BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "手机#Referer$http://bczhuiju.com/",
@@ -589,7 +549,7 @@
             "key": "滋滋",
             "name": "滋滋┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -624,7 +584,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
                 "分类": "电影&剧集&动漫&综艺",
@@ -649,7 +609,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "ext": {
                 "数组": "class=\"top&&</li",
                 "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
@@ -674,8 +634,8 @@
                 "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
                 "搜索标题": "xt\":\"&&\"",
                 "搜索副标题": "\"website\":\"&&\"",
-                "搜索链接": "https://www.sstv.fun/v_+\"url\":\"https://www.sstv.fun/project-&&.html\"+_1_1.html",
-                "分类url": "https://www.sstv.fun/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
+                "搜索链接": "https://www.ssyy.run/v_+\"url\":\"https://www.ssyy.run/project-&&.html\"+_1_1.html",
+                "分类url": "https://www.ssyy.run/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
             }
         },
@@ -683,7 +643,7 @@
             "key": "兔兔",
             "name": "兔兔｜BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "2",
@@ -718,7 +678,7 @@
             "key": "臭蛋",
             "name": "臭蛋┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://cddys.vip/",
@@ -830,7 +790,7 @@
             "name": "泰泰┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -840,7 +800,7 @@
             "key": "磁力3",
             "name": "迅雷┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -867,7 +827,7 @@
             "key": "磁力2",
             "name": "MP4┃BPQ",
             "type": 3,
-            "jar": "./jars/csp_AList_Alist.jar",
+            "jar": "./jars/广播迷.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "首页": "电视剧",

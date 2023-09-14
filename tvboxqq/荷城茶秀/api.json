@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -93,14 +93,14 @@
             "ext": "./json/小鹿影视.json"
         },
         {
-            "key": "csp_兔瓜",
-            "name": "🅱️兔瓜影视|T追剧",
+            "key": "csp_亿视",
+            "name": "🅱️亿视影院|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔兔瓜.json"
+            "ext": "./json/亿视影院.json"
         },
         {
             "key": "csp_达龟",
@@ -123,6 +123,16 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
+            "key": "影巢",
+            "name": "🅱️网盘影巢|T追剧",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+        },
+        {
             "key": "Czspp",
             "name": "🅱️厂长影视|T追剧",
             "type": 3,
@@ -133,14 +143,14 @@
             "ext": "https://cz01.me/"
         },
         {
-            "key": "csp_徕米",
-            "name": "🅱️徕米影视|T追剧",
+            "key": "csp_热播",
+            "name": "🅱️热播之家|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/徕米影视.json"
+            "ext": "./json/热播之家.json"
         },
         {
             "key": "csp_日后",
@@ -161,16 +171,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/TVB云播.json"
-        },
-        {
-            "key": "csp_热播",
-            "name": "🅱️热播之家|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/热播之家.json"
         },
         {
             "key": "csp_101",
@@ -323,14 +323,14 @@
             "ext": "./json/黑狐影视.json"
         },
         {
-            "key": "csp_耐看",
-            "name": "🅱️耐看影视|T追剧",
+            "key": "csp_夜光",
+            "name": "🅱️夜光影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/耐看影视.json"
+            "ext": "./json/夜光影视.json"
         },
         {
             "key": "csp_歪片",
@@ -371,6 +371,56 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/熊猫影视.json"
+        },
+        {
+            "key": "csp_徕米",
+            "name": "🅱️徕米影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/徕米影视.json"
+        },
+        {
+            "key": "csp_毛子",
+            "name": "🅱️毛子影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/毛毛子影视.json"
+        },
+        {
+            "key": "csp_视觉",
+            "name": "🅱️视觉影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/新视觉影视.json"
+        },
+        {
+            "key": "csp_淘剧",
+            "name": "🅱️淘剧影院|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/淘剧影院.json"
+        },
+        {
+            "key": "csp_子子",
+            "name": "🅱️紫梓影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/子子影视.json"
         },
         {
             "key": "csp_非凡",
@@ -445,16 +495,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "4KHD",
-            "name": "🅱️4khd磁力|T追剧",
-            "type": 3,
-            "api": "csp_XPathAli",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/4khdr磁力.json"
         },
         {
             "key": "音范",

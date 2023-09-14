@@ -32,7 +32,6 @@ var rule = {
 	lazy:'',
 	limit:6,
 	推荐:'',
-	一级:'',
 	一级:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
@@ -64,7 +63,7 @@ if (false && d.length>1){
 	TABS.push("選擇右側綫路");
 }
 d.forEach(function(it) {
-	TABS.push("夸克雲盤" + index);
+	TABS.push("夸克網盤" + index);
 	index = index + 1;
 });
 log('meijumi TABS >>>>>>>>>>>>>>>>>>' + TABS);

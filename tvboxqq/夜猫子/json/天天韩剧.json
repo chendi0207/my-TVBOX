@@ -1,0 +1,14 @@
+{
+"站名":"天天韩剧",
+"主页url":"https://hanju2.yingdouw.com",
+"分类":"韩剧$1#电影$2#美剧$26#日剧$27#动漫$28#国产剧$29#泰剧$30",
+"分类url":"https://hanju2.yingdouw.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak",
+
+"数组":"class=\"col-xs-3\">&&</li>",
+
+"搜索模式":"1",
+"搜索url":"https://hanju2.yingdouw.com/search.php;post;searchword={wd}",
+
+"线路数组":"class=\"stui-pannel__head clearfix\">&&</div>"
+
+}

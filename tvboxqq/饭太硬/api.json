@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇老友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
         },
         {
             "key": "Bili",
@@ -101,13 +101,15 @@
             "changeable": 1
         },
         {
-            "key": "DiDuan",
-            "name": "⏮️低端┃直连",
+            "key": "率率",
+            "name": "💡率率┃App",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_AppYsV2",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
         },
         {
             "key": "Auete",
@@ -168,7 +170,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
+            "ext": "https://www.kuin.one/api.php/app/"
         },
         {
             "key": "奇奇",
@@ -178,17 +180,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://ttsp.live/api.php/app/"
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
-            "key": "酷酷",
-            "name": "💡酷酷┃App",
+            "key": "DiDuan",
+            "name": "⏮️低端┃直连",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://cms.realdou.cn:35264/api.php/app/"
+            "changeable": 1
         },
         {
             "key": "77",
@@ -216,7 +217,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.fun/"
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "Xinsj",
@@ -387,32 +388,32 @@
             "changeable": 0
         },
         {
-            "key": "csp_xp_qiumi",
+            "key": "csp_qiumi",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "./drpy1.min.js",
+            "ext": "./js/JRKAN直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/dj看球.json"
+            "changeable": 0
         },
         {
-            "key": "csp_XYQBiu_310直播",
+            "key": "csp_310直播",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "./drpy1.min.js",
+            "ext": "./js/310直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
             },
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/310直播.json"
+            "changeable": 0
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -483,14 +484,14 @@
             "changeable": 0
         },
         {
-            "key": "csp_XBPQ_聚短视频",
+            "key": "csp_聚短视频",
             "name": "📽️聚短┃视频",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "./drpy1.min.js",
+            "ext": "./js/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/短视频.json"
+            "changeable": 0
         },
         {
             "key": "有声小说js",
@@ -693,23 +694,13 @@
             "url": "Web"
         },
         {
-            "name": "神秘的",
-            "type": 1,
-            "url": "http://json.g9.pub:66/?url="
-        },
-        {
-            "name": "哥哥们",
+            "name": "神秘的哥哥们",
             "type": 1,
             "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
-            "name": "全部",
+            "name": "解析",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-        },
-        {
-            "name": "来自",
-            "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
@@ -734,6 +725,16 @@
                     "xigua"
                 ]
             }
+        },
+        {
+            "name": "全部",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
+            "name": "来自",
+            "type": 0,
+            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
         },
         {
             "name": "网络",
@@ -816,7 +817,8 @@
             "name": "lz",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
