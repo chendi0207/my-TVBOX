@@ -1,8 +1,0 @@
-{
-"storeHouse":
-[
-
-{"sourceName":"在线1","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/自用.txt"},
-{"sourceName":"在线2","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"}
-]
-}
