@@ -15,7 +15,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ交流群:869277279",
+            "name": "🅱️追剧影院|T热播 QQ频道:tvboxrihou6",
             "type": 3,
             "api": "./Api.js",
             "searchable": 0,
@@ -25,7 +25,7 @@
         },
         {
             "key": "AliYunPan",
-            "name": "🅱️网盘登录|T签到",
+            "name": "🅱️云盘登录|T签到",
             "type": 3,
             "api": "csp_AliYunPan",
             "searchable": 0,
@@ -140,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cz01.me/"
+            "ext": "https://www.cz01.fun/"
         },
         {
             "key": "csp_热播",
@@ -151,6 +151,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/热播之家.json"
+        },
+        {
+            "key": "csp_七月",
+            "name": "🅱️七月影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七月影视.json"
         },
         {
             "key": "csp_日后",
@@ -331,16 +341,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/夜光影视.json"
-        },
-        {
-            "key": "csp_歪片",
-            "name": "🅱️歪片星球|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/歪片星球.json"
         },
         {
             "key": "csp_臭蛋",

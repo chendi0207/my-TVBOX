@@ -69,7 +69,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://www.wogg.xyz/",
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$http://www.wogg.xyz:2052/",
             "timeout": 30
         },
         {
@@ -129,6 +129,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./txt/lf_live.txt"
+        },
+        {
+            "key": "drpy_js_爱看机器人",
+            "name": "影视 | 爱看机器人[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/爱看机器人.js"
+        },
+        {
+            "key": "drpy_js_ikanbot2",
+            "name": "影视 | 爱看机器人2[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/ikanbot2.js"
+        },
+        {
+            "key": "drpy_js_ikanbot3",
+            "name": "影视 | 爱看机器人3[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/ikanbot3.js"
         },
         {
             "key": "drpy_js_荐片",
@@ -698,6 +728,16 @@
             "timeout": 30
         },
         {
+            "key": "drpy_js_meow",
+            "name": "影视 | meow[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "ext": "./js/meow.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
             "key": "drpy_js_kkpans",
             "name": "夸克 | kk盘[js]",
             "type": 3,
@@ -852,6 +892,30 @@
             "ext": "./js/哔哩直播.js"
         },
         {
+            "key": "drpy_js_哔哩影视",
+            "name": "弹幕 | 哔哩影视[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "changeable": 0,
+            "ext": "./js/哔哩影视.js"
+        },
+        {
+            "key": "drpy_js_JustLive",
+            "name": "弹幕 | JustLive[js]",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "changeable": 0,
+            "ext": "./js/JustLive.js"
+        },
+        {
             "key": "drpy_js_斗鱼直播",
             "name": "直播 | 斗鱼[js]",
             "type": 3,
@@ -874,18 +938,6 @@
             },
             "changeable": 0,
             "ext": "./js/虎牙直播.js"
-        },
-        {
-            "key": "drpy_js_JustLive",
-            "name": "直播 | JustLive[js]",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "changeable": 0,
-            "ext": "./js/JustLive.js"
         },
         {
             "key": "drpy_js_310直播",
@@ -1391,36 +1443,6 @@
             "ext": "./js/音悦网.js"
         },
         {
-            "key": "drpy_js_爱看机器人",
-            "name": "影视 | 爱看机器人[js]",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./js/爱看机器人.js"
-        },
-        {
-            "key": "drpy_js_ikanbot2",
-            "name": "影视 | 爱看机器人2[js]",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./js/ikanbot2.js"
-        },
-        {
-            "key": "drpy_js_ikanbot3",
-            "name": "影视 | 爱看机器人3[js]",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./js/ikanbot3.js"
-        },
-        {
             "key": "drpy_js_007影视",
             "name": "影视 | 007影视[js]",
             "type": 3,
@@ -1580,13 +1602,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "ext": "./js/哔哩兔.js"
-        },
-        {
-            "key": "drpy_js_哔哩影视",
-            "name": "影视 | 哔哩影视[js]",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/哔哩影视.js"
         },
         {
             "key": "drpy_js_厂长资源",
@@ -2263,6 +2278,11 @@
             }
         },
         {
+            "name": "ovvo",
+            "type": 0,
+            "url": "https://json.ovvo.pro/jx.php?url="
+        },
+        {
             "name": "饭",
             "type": 1,
             "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
@@ -2405,6 +2425,15 @@
         }
     ],
     "rules": [
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
         {
             "name": "lz",
             "hosts": [

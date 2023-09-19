@@ -49,6 +49,18 @@
             "ext": "./js/菜狗.js"
         },
         {
+            "key": "探探",
+            "name": "🏵饭佬影探",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://ytcms.lyyytv.cn/api.php/app/",
+            "jar": "./jars/探探.jar"
+        },
+        {
             "key": "彩虹",
             "name": "🌈彩虹4K",
             "type": 3,
@@ -76,24 +88,20 @@
             "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
-            "key": "超前",
-            "name": "👑超前4K👑",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "./drpy2.min.js",
-            "ext": "./js/4K超前.js"
-        },
-        {
-            "key": "ymym",
-            "name": "👑夜猫优米👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_AppYsV2",
+            "key": "zyys",
+            "name": "👑夜猫自营👑",
+            "type": 1,
+            "api": "https://ys.md214.cn/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ym.dytt996.com:12/api.php/app/"
+            "playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "categories": [
+                "电影",
+                "连续剧",
+                "动漫",
+                "综艺"
+            ]
         },
         {
             "key": "yc",
@@ -204,7 +212,7 @@
         },
         {
             "key": "dr_jqr",
-            "name": "👑夜猫聚影2(待修复)👑",
+            "name": "👑夜猫聚影2👑",
             "type": 3,
             "playerType": 2,
             "api": "./drpy2.min.js",
@@ -987,19 +995,6 @@
             "name": "超嗅探",
             "type": 3,
             "url": "Web"
-        },
-        {
-            "name": "影探专用",
-            "type": 1,
-            "url": "http://jiexi.lyyytv.cn/json.php?url=",
-            "ext": {
-                "flag": [
-                    "XY"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/3.12.11"
-                }
-            }
         },
         {
             "name": "优米",

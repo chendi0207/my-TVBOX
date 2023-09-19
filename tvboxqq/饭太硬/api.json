@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
         },
         {
             "key": "Bili",
@@ -88,7 +88,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
+            "ext": "http://22222.yiyingys.asia/api.php/app/"
         },
         {
             "key": "Czsapp",
@@ -101,17 +101,6 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "💡率率┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
-        },
-        {
             "key": "Auete",
             "name": "🏝奥特┃直连",
             "type": 3,
@@ -119,6 +108,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "蚂蚁",
+            "name": "🐜蚂蚁┃直连",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
         },
         {
             "key": "zxzj",
@@ -843,8 +842,7 @@
                 "s5.bfzycdn"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {

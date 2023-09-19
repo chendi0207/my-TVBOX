@@ -198,26 +198,6 @@
             ]
         },
         {
-            "key": "csp_woggcli",
-            "name": "💂‍┃玩偶┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
-        },
-        {
-            "key": "聚搜磁力",
-            "name": "🍵‍┃聚搜┃磁力",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/ali/cli_Alii",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
-        },
-        {
             "key": "csp_WoGG",
             "name": "💂‍┃阿里┃玩偶",
             "type": 3,
@@ -1012,16 +992,6 @@
             "ext": "./js/88看球.js"
         },
         {
-            "key": "js_JRS直播",
-            "name": "⚽┃JRS┃直播",
-            "type": 3,
-            "api": "./drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./js/jrslive.js"
-        },
-        {
             "key": "js_JRKAN直播",
             "name": "🥎┃JRK┃看球",
             "type": 3,
@@ -1253,13 +1223,14 @@
             "ext": "./json/短视频聚合.json"
         },
         {
-            "key": "csp_Yj1211",
+            "key": "js_Yj1211直播",
             "name": "👑┃直播┃合集",
             "type": 3,
-            "api": "csp_Yj1211",
+            "api": "./drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "ext": "./js/jrslive.js"
         },
         {
             "key": "py_huya",
@@ -1320,6 +1291,102 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/金眼影视.json"
+        },
+        {
+            "key": "js_i275听书",
+            "name": "📚️┃听书┃i275",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/i275.js"
+        },
+        {
+            "key": "js_爱上你听书网",
+            "name": "📚️┃听书┃爱尚",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/aishang.js"
+        },
+        {
+            "key": "js_博看听书",
+            "name": "📚️┃听书┃博看",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/bokan.js"
+        },
+        {
+            "key": "js_海洋听书",
+            "name": "📚️┃听书┃海洋",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/sea.js"
+        },
+        {
+            "key": "js_六月听书",
+            "name": "📚️┃听书┃六月",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/6yue.js"
+        },
+        {
+            "key": "js_听书网",
+            "name": "📚️┃听书┃天天",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/tingshu.js"
+        },
+        {
+            "key": "js_有声小说",
+            "name": "📚️┃听书┃天天",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/yousheng.js"
+        },
+        {
+            "key": "js_中华听书网",
+            "name": "📚️┃听书┃中华",
+            "type": 3,
+            "api": "./drpy2.js",
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": "./js/zhonghua.js"
         },
         {
             "key": "push_agent",

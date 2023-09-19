@@ -18,13 +18,14 @@ try {
     VOD.vod_content = "";
     log(VOD);
     var v_tks = '';
-	let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
-    eval(script);
+	// let script = pdfa(html1,'script').find(it=>it.includes('v_tks+=')).replace(/<script>|<\\/script>/g,'');
+    // eval(script);
 	input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2"+"&token="+v_tks;
     // input = "https://www.ikanbot.com/api/getResN?videoId=" + input.split("/").pop() + "&mtype=2";
 	let html = request(input, {
         headers: {
-			'User-Agent':'PC_UA',
+			// 'User-Agent':'PC_UA',
+            'User-Agent':'MOBILE_UA',
             'Referer': input,
         }
     });
@@ -54,19 +55,19 @@ try {
 				arr.push({
                 flag: '👑夜猫快看👑',
                 url: map[key],
-				sort:2
+				sort:1
             })}
 			if('bfzym3u8'==key){
 				arr.push({
                 flag: '👑夜猫暴风👑',
                 url: map[key],
-				sort:1
+				sort:3
             })}
            if('1080zyk'==key){
 				arr.push({
                 flag: '👑夜猫1080👑',
                 url: map[key],
-				sort:3
+				sort:5
             })}
             if('ffm3u8'==key){
 				arr.push({
@@ -78,7 +79,7 @@ try {
 				arr.push({
                 flag: '👑夜猫量子👑',
                 url: map[key],
-				sort:5
+				sort:2
             })}
 
     }

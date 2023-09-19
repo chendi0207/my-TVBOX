@@ -13,6 +13,16 @@
     ],
     "sites": [
         {
+            "key": "米酷视频",
+            "name": "米酷视频",
+            "type": 3,
+            "api": "csp_DDMJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://43.248.129.116:6688"
+        },
+        {
             "key": "影咖视频",
             "name": "影咖视频",
             "type": 3,
@@ -21,16 +31,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": ""
-        },
-        {
-            "key": "米酷视频",
-            "name": "米酷视频",
-            "type": 3,
-            "api": "csp_DDMJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://103.222.188.33:6688"
         },
         {
             "key": "剧圈视频",
