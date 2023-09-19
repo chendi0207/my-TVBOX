@@ -13,10 +13,10 @@ https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/
 - 影视仓_5.0.6
 - https://wwp.lanzoul.com/iVX081610u8h
 - 密码：7dk7
--
--影视仓_5.0.8（因蓝奏云新规，普通用户无法直接分享APK软件，下载后请自行解压）
--https://wwp.lanzoul.com/i1oZR191l0sb
--
+- 
+- 影视仓_5.0.8（因蓝奏云新规，普通用户无法直接分享APK软件，下载后请自行解压）
+- https://wwp.lanzoul.com/i1oZR191l0sb
+- 
 - 影迷_2.1.0手机竖屏版
 - https://wwp.lanzoul.com/iDhot15ju8wb
 - 密码：aina
