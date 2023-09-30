@@ -14,6 +14,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_YGP",
+            "name": "🚀叨观荐影",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
             "key": "csp_77",
             "name": "👒酷云七七",
             "type": 3,
@@ -99,6 +109,27 @@
             "filterable": 1
         },
         {
+            "key": "csp_MLYS",
+            "name": "🐴毛驴",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "csp_MYYS",
+            "name": "🐜蚂蚁",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
+        },
+        {
             "key": "爱迪",
             "name": "🍟爱迪",
             "type": 3,
@@ -139,21 +170,19 @@
             "ext": "https://www.6080yy3.com/"
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "🌎一起看",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
             "key": "csp_Cokemv",
             "name": "🚗可乐",
             "type": 3,
             "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Bttwoo",
+            "name": "✌比特",
+            "type": 3,
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -240,6 +269,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "Aid",
+            "name": "🚑急救教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "csp_WoGG",
@@ -358,6 +397,46 @@
             "ext": "./js/荐片.js"
         },
         {
+            "key": "电影港",
+            "name": "🧲电影港",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/电影港磁力.json"
+        },
+        {
+            "key": "BT天堂",
+            "name": "🧲BT天堂",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/BT天堂.json"
+        },
+        {
+            "key": "极影网",
+            "name": "🧲极影网",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/极影网.json"
+        },
+        {
+            "key": "高清MP4",
+            "name": "🧲高清MP4",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/高清MP4.json"
+        },
+        {
             "key": "奇优",
             "name": "️💢奇优",
             "type": 3,
@@ -378,24 +457,28 @@
             "ext": "./json/乐猪.json"
         },
         {
-            "key": "电影港",
-            "name": "🧲电影港",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影港磁力.json"
-        },
-        {
-            "key": "臭蛋蛋",
-            "name": "💢臭蛋蛋",
+            "key": "Freeok",
+            "name": "💢Freeok",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/臭蛋蛋.json"
+            "playerType": "1",
+            "ext": {
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
+                "分类": "电影&剧集&动漫&综艺",
+                "搜索url": "https://www.cupfox.app/s/{wd}",
+                "分类值": "1&2&3&4",
+                "嗅探词": "m3u8#.m3u8#.mp4#mp4",
+                "搜索二次截取": "type=\"application/json\">&&</script>",
+                "搜索数组": "{\"te&&}[包含:freeok]",
+                "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
+                "搜索标题": "xt\":\"&&\"",
+                "搜索链接": "\"url\":\"&&\"",
+                "搜索副标题": "FREEOK",
+                "搜索模式": "1",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "<p>&&</p>"
+            }
         },
         {
             "key": "有声小说吧",
@@ -819,8 +902,7 @@
                 "s5.bfzycdn"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {

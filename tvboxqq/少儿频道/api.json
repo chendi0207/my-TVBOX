@@ -410,7 +410,7 @@
         {
             "name": "高清解析1",
             "type": 1,
-            "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
                 "flag": [
                     "qq",

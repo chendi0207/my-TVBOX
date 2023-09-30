@@ -1,4 +1,5 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
@@ -11,8 +12,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/360影视.json"
         },
@@ -22,8 +21,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/drpy.js"
         },
@@ -33,10 +30,54 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/荐片.js"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶┃云盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
+            },
+            "jar": "./jars/玩偶.jar"
+        },
+        {
+            "key": "厂长资源",
+            "name": "厂长┃影视",
+            "type": 3,
+            "api": "./czzy_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "快看",
+            "name": "快看1┃影视",
+            "type": 3,
+            "api": "./kkys_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "快看影视",
+            "name": "快看2┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/快看.js"
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看3┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "磁力熊",
@@ -44,8 +85,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/磁力熊[磁].js"
         },
@@ -55,8 +94,6 @@
             "type": 3,
             "api": "csp_SixV",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "http://www.xb6v.com/"
         },
@@ -66,8 +103,6 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/电影港磁力.json",
             "jar": "./jars/电影港.jar"
@@ -78,10 +113,7 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
-            "playerType": 1,
             "ext": "./js/ddys.js"
         },
         {
@@ -90,8 +122,6 @@
             "api": "csp_YQKAPP",
             "type": 3,
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "https://api-aws.11ty.top"
         },
@@ -101,10 +131,7 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
-            "playerType": 1,
             "ext": "./js/酷云77.js"
         },
         {
@@ -113,22 +140,8 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
-            "playerType": 1,
             "ext": "./js/两个BT.js"
-        },
-        {
-            "key": "csp_FanYY",
-            "name": "玩偶┃云盘",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "明明",
@@ -136,30 +149,6 @@
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快看影视",
-            "name": "快看1┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "ext": "./js/快看.js"
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看2┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -168,8 +157,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/LIBVIO.js"
         },
@@ -179,8 +166,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/乐猪TV.json"
         },
@@ -190,8 +175,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/饭团影视.js"
         },
@@ -201,8 +184,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/Auete.js"
         },
@@ -212,8 +193,6 @@
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -222,8 +201,6 @@
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -232,8 +209,6 @@
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -242,8 +217,6 @@
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -252,8 +225,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/cokemv.js"
         },
@@ -263,8 +234,6 @@
             "type": 3,
             "api": "csp_DuoX",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -273,20 +242,7 @@
             "type": 3,
             "api": "csp_MmYs",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/厂长资源.js"
         },
         {
             "key": "探探",
@@ -294,8 +250,6 @@
             "type": 3,
             "api": "csp_YT",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1
         },
         {
@@ -304,8 +258,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/新视觉影视.js"
         },
@@ -315,8 +267,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/农民影视.js"
         },
@@ -326,8 +276,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/双十电影.js"
         },
@@ -337,8 +285,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/voflix.js"
         },
@@ -348,8 +294,6 @@
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "https://www.zxzjhd.com/"
         },
@@ -359,8 +303,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/555电影[V2].js"
         },
@@ -370,8 +312,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/007影视.js"
         },
@@ -381,8 +321,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/139影视.js"
         },
@@ -392,8 +330,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/348电影网.js"
         },
@@ -403,8 +339,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/4K电影网.js"
         },
@@ -414,8 +348,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/539影视.js"
         },
@@ -425,8 +357,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/58动漫.js"
         },
@@ -436,8 +366,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/69美剧[V2].js"
         },
@@ -447,8 +375,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/7喜影院.js"
         },
@@ -458,8 +384,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/8号影院.js"
         },
@@ -469,8 +393,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/91free.js"
         },
@@ -480,8 +402,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/9U电影.js"
         },
@@ -491,8 +411,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/AnFuns.js"
         },
@@ -502,8 +420,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/B站影视.js"
         },
@@ -513,8 +429,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/F7好看剧[V2].js"
         },
@@ -524,8 +438,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/HG影院[V2].js"
         },
@@ -535,8 +447,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/Icio影视.js"
         },
@@ -546,8 +456,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/KOK影院.js"
         },
@@ -557,8 +465,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/NT动漫.js"
         },
@@ -568,8 +474,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/NY影院.js"
         },
@@ -579,8 +483,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/NyaFun.js"
         },
@@ -590,8 +492,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/TVB云播.js"
         },
@@ -601,8 +501,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/UM电影.js"
         },
@@ -612,8 +510,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/ikanbot2.js"
         },
@@ -623,8 +519,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/l0l.js"
         },
@@ -634,8 +528,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/七年影视.js"
         },
@@ -645,8 +537,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/万博剧院.js"
         },
@@ -656,8 +546,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/万能影视.js"
         },
@@ -667,8 +555,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/乐鱼影视.js"
         },
@@ -678,8 +564,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/人人影视.js"
         },
@@ -689,8 +573,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/兄弟影视.js"
         },
@@ -700,8 +582,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/光棍影院.js"
         },
@@ -711,8 +591,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/免费看.js"
         },
@@ -722,8 +600,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/八蛋影视.js"
         },
@@ -733,8 +609,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/六度TV.js"
         },
@@ -744,8 +618,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/兰花影院.js"
         },
@@ -755,8 +627,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/凌云影视.js"
         },
@@ -766,8 +636,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/创艺影视.js"
         },
@@ -777,8 +645,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/剧迷.js"
         },
@@ -788,8 +654,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/剧迷su.js"
         },
@@ -799,8 +663,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/动漫岛.js"
         },
@@ -810,8 +672,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/北川影视.js"
         },
@@ -821,8 +681,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/去看吧.js"
         },
@@ -832,8 +690,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/咕噜[V2].js"
         },
@@ -843,8 +699,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/嘶哩嘶哩.js"
         },
@@ -854,8 +708,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/野荷塘.json"
         },
@@ -865,8 +717,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/素白白影视.json"
         },
@@ -876,8 +726,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/莫扎兔.json"
         },
@@ -887,8 +735,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/干饭影视.json"
         },
@@ -898,8 +744,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/看一看影视.json"
         },
@@ -909,8 +753,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/奇优影院.json"
         },
@@ -920,8 +762,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/Vidhub.json"
         },
@@ -931,8 +771,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/冷曦影视.json"
         },
@@ -942,8 +780,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/NikeTV.json"
         },
@@ -953,8 +789,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/APP影院.json"
         },
@@ -964,8 +798,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/剧白白.json"
         },
@@ -975,8 +807,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/52看剧.json"
         },
@@ -986,8 +816,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./json/零度影视.json"
         },
@@ -997,9 +825,19 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "proxy": true,
+            "jar": "./jars/玩偶.jar"
+        },
+        {
+            "key": "星星",
+            "name": "🛫星星┃海外",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1,
+            "proxy": true,
+            "jar": "./jars/玩偶.jar"
         },
         {
             "key": "唐人街影院",
@@ -1007,8 +845,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/唐人街影视[飞].js"
         },
@@ -1018,8 +854,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 1,
             "ext": "./js/吼吼[飞].js"
         },
@@ -1033,8 +867,6 @@
                 "ratio": 1.597
             },
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/A8音乐.js"
         },
@@ -1044,8 +876,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/DJ音乐.js"
         },
@@ -1055,8 +885,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/JangoIndex.js"
         },
@@ -1066,8 +894,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/MV263.js"
         },
@@ -1077,8 +903,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/啦啦DJ.js"
         },
@@ -1088,8 +912,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/短视频.json"
         },
@@ -1099,8 +921,6 @@
             "type": 1,
             "api": "https://mv.饭太硬.ml/mv/vod",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0
         },
         {
@@ -1109,8 +929,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/酷奇MV.json"
         },
@@ -1120,8 +938,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩合集.json"
         },
@@ -1131,8 +947,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩戏曲.json"
         },
@@ -1142,8 +956,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩音乐.json"
         },
@@ -1153,8 +965,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/兔小贝.js"
         },
@@ -1164,8 +974,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩少儿.json"
         },
@@ -1175,8 +983,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩小学.json"
         },
@@ -1186,8 +992,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩初中.json"
         },
@@ -1197,8 +1001,6 @@
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/哔哩哔哩高中.json"
         },
@@ -1208,8 +1010,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/JustLive.js"
         },
@@ -1219,8 +1019,6 @@
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0
         },
         {
@@ -1229,8 +1027,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/虎牙直播.js"
         },
@@ -1240,8 +1036,6 @@
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/斗鱼直播.json"
         },
@@ -1251,8 +1045,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./json/企鹅体育.json"
         },
@@ -1262,8 +1054,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/310直播.js"
         },
@@ -1273,8 +1063,6 @@
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "./js/JRKAN直播.js"
         },
@@ -1284,8 +1072,6 @@
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1295,8 +1081,6 @@
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1306,8 +1090,6 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1317,10 +1099,8 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt>+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso",
@@ -1328,8 +1108,6 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1339,8 +1117,6 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1349,9 +1125,7 @@
             "name": "推送┃磁力",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
         },
@@ -1361,8 +1135,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1371,8 +1143,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1381,8 +1151,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1391,8 +1159,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1401,8 +1167,6 @@
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         }
     ],
@@ -1436,69 +1200,28 @@
         "mgtv",
         "bilibili"
     ],
-    "ads": [
-        "wan.51img1.com",
-        "iqiyi.hbuioo.com",
-        "vip.ffzyad.com",
-        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
-        "mimg.0c1q0l.cn",
-        "www.googletagmanager.com",
-        "www.google-analytics.com",
-        "mc.usihnbcq.cn",
-        "mg.g1mm3d.cn",
-        "mscs.svaeuzh.cn",
-        "cnzz.hhttm.top",
-        "tp.vinuxhome.com",
-        "cnzz.mmstat.com",
-        "www.baihuillq.com",
-        "s23.cnzz.com",
-        "z3.cnzz.com",
-        "c.cnzz.com",
-        "stj.v1vo.top",
-        "z12.cnzz.com",
-        "img.mosflower.cn",
-        "tips.gamevvip.com",
-        "ehwe.yhdtns.com",
-        "xdn.cqqc3.com",
-        "www.jixunkyy.cn",
-        "sp.chemacid.cn",
-        "hm.baidu.com",
-        "s9.cnzz.com",
-        "z6.cnzz.com",
-        "um.cavuc.com",
-        "mav.mavuz.com",
-        "wofwk.aoidf3.com",
-        "z5.cnzz.com",
-        "xc.hubeijieshikj.cn",
-        "tj.tianwenhu.com",
-        "xg.gars57.cn",
-        "k.jinxiuzhilv.com",
-        "cdn.bootcss.com",
-        "ppl.xunzhuo123.com",
-        "xomk.jiangjunmh.top",
-        "img.xunzhuo123.com",
-        "z1.cnzz.com",
-        "s13.cnzz.com",
-        "xg.huataisangao.cn",
-        "z7.cnzz.com",
-        "z2.cnzz.com",
-        "s96.cnzz.com",
-        "q11.cnzz.com",
-        "thy.dacedsfa.cn",
-        "xg.whsbpw.cn",
-        "s19.cnzz.com",
-        "z8.cnzz.com",
-        "s4.cnzz.com",
-        "f5w.as12df.top",
-        "ae01.alicdn.com",
-        "www.92424.cn",
-        "k.wudejia.com",
-        "vivovip.mmszxc.top",
-        "qiu.xixiqiu.com",
-        "cdnjs.hnfenxun.com",
-        "cms.qdwght.com"
-    ],
     "rules": [
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "8.1748",
+                "10.0099",
+                "10.3333",
+                "16.0599"
+            ]
+        },
+        {
+            "name": "暴風",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
         {
             "name": "星星",
             "hosts": [
@@ -1509,10 +1232,11 @@
             ]
         },
         {
-            "name": "量子广告",
+            "name": "量子",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -1520,7 +1244,7 @@
             ]
         },
         {
-            "name": "非凡广告",
+            "name": "非凡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
@@ -1531,18 +1255,7 @@
             ]
         },
         {
-            "name": "bf",
-            "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "火山",
+            "name": "火山嗅探",
             "hosts": [
                 "huoshan.com"
             ],
@@ -1551,7 +1264,7 @@
             ]
         },
         {
-            "name": "抖音",
+            "name": "抖音嗅探",
             "hosts": [
                 "douyin.com"
             ],
