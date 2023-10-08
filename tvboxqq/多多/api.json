@@ -266,15 +266,14 @@
             "ext": "./json/港口.json"
         },
         {
-            "key": "js_秒看",
-            "name": "⚡️‍┃秒看┃影视",
+            "key": "csp_XBPQ_haoxi",
+            "name": "⚡️┃好戏┃影视",
             "type": 3,
-            "playerType": 2,
-            "api": "./drpy2.js",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/ytcms.js"
+            "ext": "./json/好戏.json"
         },
         {
             "key": "js_荐片",

@@ -826,7 +826,6 @@
             "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1,
-            "proxy": true,
             "jar": "./jars/玩偶.jar"
         },
         {
@@ -836,7 +835,6 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
-            "proxy": true,
             "jar": "./jars/玩偶.jar"
         },
         {
@@ -1100,7 +1098,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso",
@@ -1201,6 +1199,25 @@
         "bilibili"
     ],
     "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
         {
             "name": "海外看",
             "hosts": [

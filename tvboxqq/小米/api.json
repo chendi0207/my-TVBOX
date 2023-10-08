@@ -60,16 +60,6 @@
             }
         },
         {
-            "key": "追忆",
-            "name": "追忆┃APP",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/zy.js"
-        },
-        {
             "key": "世界",
             "name": "世界┃APP",
             "type": 3,
@@ -78,6 +68,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/sj.js"
+        },
+        {
+            "key": "Mino",
+            "name": "👻Mino┃App",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        },
+        {
+            "key": "追忆2",
+            "name": "✌追忆┃App",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+        },
+        {
+            "key": "橘子",
+            "name": "🍊橘子┃直连",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
         },
         {
             "key": "csp_77",
@@ -139,25 +159,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./json/nmys.json"
-        },
-        {
-            "key": "csp_AppYsV2_YuMi",
-            "name": "玉米┃APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "playUrl": "parse:玉米",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ym.dytt996.com:3/api.php/app/",
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫",
-                "国产剧"
-            ]
         },
         {
             "key": "贱贱",
@@ -473,7 +474,7 @@
                 "搜索url": "https://影搜.com/s/?wd={wd}",
                 "搜索模式": "1",
                 "搜索二次截取": "<div class=\"row\">&&<i class=\"posts-nav",
-                "搜索数组": "<div class=\"card-body\">&&/i>[包含:爱看剧]",
+                "搜索数组": "<div class=\"card-body\">&&/i>[包含:速搜影院]",
                 "搜索图片": "data-src=\"&&\"",
                 "搜索标题": "<strong>&&</strong>",
                 "搜索副标题": "速搜",
@@ -814,7 +815,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./txt/tok.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         }
     ],
     "parses": [
@@ -863,7 +864,7 @@
         {
             "name": "左岸🌾",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
             "ext": {
                 "flag": [
                     "爱奇艺",
@@ -885,14 +886,14 @@
                     "芒果"
                 ],
                 "header": {
-                    "User-Agent": "Dart/2.19 (dart:io)"
+                    "User-Agent": "okhttp/3.12.0"
                 }
             }
         },
         {
             "name": "比u比u🥭",
             "type": 1,
-            "url": "https://jxjson.cf/json.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",

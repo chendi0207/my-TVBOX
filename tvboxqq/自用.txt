@@ -16,8 +16,6 @@
 
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/南风/api.json", "name": "南风" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/夜猫子/api.json", "name": "夜猫子" },
-
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
 
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/动漫频道/api.json", "name": "动漫频道" },
