@@ -36,8 +36,6 @@
 
 { "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
-{ "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
-
 { "url": "http://cdn.yydsys.top/duo", "name": "多多家庭" },
 
 { "url": "https://yydsys.top/duo/ali", "name": "阿里精品" },
