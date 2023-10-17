@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "菜妮丝": "https://cainisi.cf",
@@ -19,7 +19,7 @@
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/drpy.js"
@@ -28,7 +28,7 @@
             "key": "荐片",
             "name": "荐片┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/荐片.js"
@@ -50,7 +50,7 @@
             "key": "厂长资源",
             "name": "厂长┃影视",
             "type": 3,
-            "api": "./czzy_open.js",
+            "api": "./api/czzy_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -58,7 +58,7 @@
             "key": "快看",
             "name": "快看1┃影视",
             "type": 3,
-            "api": "./kkys_open.js",
+            "api": "./api/kkys_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -66,7 +66,7 @@
             "key": "快看影视",
             "name": "快看2┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/快看.js"
@@ -83,7 +83,7 @@
             "key": "磁力熊",
             "name": "🧲磁力熊",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/磁力熊[磁].js"
@@ -111,7 +111,7 @@
             "key": "低端影视",
             "name": "低端┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/ddys.js"
@@ -129,7 +129,7 @@
             "key": "鲲娱七七",
             "name": "七七┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/酷云77.js"
@@ -138,7 +138,7 @@
             "key": "两个BT",
             "name": "两个BT┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/两个BT.js"
@@ -155,7 +155,7 @@
             "key": "LIBVIO影视",
             "name": "LIBVIO┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/LIBVIO.js"
@@ -173,7 +173,7 @@
             "key": "饭团影视",
             "name": "饭团┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/饭团影视.js"
@@ -182,7 +182,7 @@
             "key": "Auete影视",
             "name": "Auete┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/Auete.js"
@@ -223,7 +223,7 @@
             "key": "COKEMV",
             "name": "COKE┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/cokemv.js"
@@ -256,7 +256,7 @@
             "key": "新视觉影院",
             "name": "新视觉┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/新视觉影视.js"
@@ -265,7 +265,7 @@
             "key": "农民影视",
             "name": "农民┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/农民影视.js"
@@ -274,7 +274,7 @@
             "key": "双十电影",
             "name": "双十┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/双十电影.js"
@@ -283,7 +283,7 @@
             "key": "VOFLIX",
             "name": "VOFLIX┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/voflix.js"
@@ -301,7 +301,7 @@
             "key": "555电影",
             "name": "555┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/555电影[V2].js"
@@ -310,7 +310,7 @@
             "key": "零零七影视",
             "name": "零零七┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/007影视.js"
@@ -319,7 +319,7 @@
             "key": "139影视",
             "name": "139┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/139影视.js"
@@ -328,7 +328,7 @@
             "key": "348电影网",
             "name": "348┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/348电影网.js"
@@ -337,7 +337,7 @@
             "key": "4K电影网",
             "name": "4K┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/4K电影网.js"
@@ -346,7 +346,7 @@
             "key": "539影视",
             "name": "539┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/539影视.js"
@@ -355,7 +355,7 @@
             "key": "58动漫网",
             "name": "58┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/58动漫.js"
@@ -364,7 +364,7 @@
             "key": "69美剧",
             "name": "69┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/69美剧[V2].js"
@@ -373,7 +373,7 @@
             "key": "7喜影院",
             "name": "7喜┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/7喜影院.js"
@@ -382,7 +382,7 @@
             "key": "8号影院",
             "name": "8号┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/8号影院.js"
@@ -391,7 +391,7 @@
             "key": "91影院",
             "name": "91┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/91free.js"
@@ -400,7 +400,7 @@
             "key": "9u电影",
             "name": "9u┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/9U电影.js"
@@ -409,7 +409,7 @@
             "key": "AnFuns动漫",
             "name": "AnFuns┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/AnFuns.js"
@@ -418,7 +418,7 @@
             "key": "B站影视",
             "name": "B站┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/B站影视.js"
@@ -427,7 +427,7 @@
             "key": "F7好看剧",
             "name": "F7┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/F7好看剧[V2].js"
@@ -436,7 +436,7 @@
             "key": "HG影视",
             "name": "HG┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/HG影院[V2].js"
@@ -445,7 +445,7 @@
             "key": "Icio影视",
             "name": "Icio┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/Icio影视.js"
@@ -454,7 +454,7 @@
             "key": "OK影院",
             "name": "OK┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/KOK影院.js"
@@ -463,7 +463,7 @@
             "key": "NT动漫",
             "name": "NT┃动漫",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/NT动漫.js"
@@ -472,7 +472,7 @@
             "key": "纽约影院",
             "name": "纽约┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/NY影院.js"
@@ -481,7 +481,7 @@
             "key": "NyaFun",
             "name": "NyaFun┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/NyaFun.js"
@@ -490,7 +490,7 @@
             "key": "TVB云播",
             "name": "TVB┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/TVB云播.js"
@@ -499,7 +499,7 @@
             "key": "UM影院",
             "name": "UM┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/UM电影.js"
@@ -508,7 +508,7 @@
             "key": "iKanBot",
             "name": "iKan┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/ikanbot2.js"
@@ -517,7 +517,7 @@
             "key": "101影院",
             "name": "101┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/l0l.js"
@@ -526,7 +526,7 @@
             "key": "七年影视",
             "name": "七年┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/七年影视.js"
@@ -535,7 +535,7 @@
             "key": "万博剧院",
             "name": "万博┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/万博剧院.js"
@@ -544,7 +544,7 @@
             "key": "万能影院",
             "name": "万能┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/万能影视.js"
@@ -553,7 +553,7 @@
             "key": "乐鱼影视",
             "name": "乐鱼┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/乐鱼影视.js"
@@ -562,7 +562,7 @@
             "key": "人人影视",
             "name": "人人┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/人人影视.js"
@@ -571,7 +571,7 @@
             "key": "兄弟影视",
             "name": "兄弟┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/兄弟影视.js"
@@ -580,7 +580,7 @@
             "key": "光棍影院",
             "name": "光棍┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/光棍影院.js"
@@ -589,7 +589,7 @@
             "key": "免费看影视",
             "name": "免费看┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/免费看.js"
@@ -598,7 +598,7 @@
             "key": "八蛋影视",
             "name": "八蛋┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/八蛋影视.js"
@@ -607,7 +607,7 @@
             "key": "六度TV",
             "name": "六度┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/六度TV.js"
@@ -616,7 +616,7 @@
             "key": "兰花影院",
             "name": "兰花┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/兰花影院.js"
@@ -625,7 +625,7 @@
             "key": "凌云影视",
             "name": "凌云┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/凌云影视.js"
@@ -634,7 +634,7 @@
             "key": "创艺影视",
             "name": "创艺┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/创艺影视.js"
@@ -643,7 +643,7 @@
             "key": "Gimy剧迷ai",
             "name": "剧迷ai┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/剧迷.js"
@@ -652,7 +652,7 @@
             "key": "Gimy剧迷su",
             "name": "剧迷su┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/剧迷su.js"
@@ -661,7 +661,7 @@
             "key": "动漫岛",
             "name": "岛┃动漫",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/动漫岛.js"
@@ -670,7 +670,7 @@
             "key": "北川影视",
             "name": "北川┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/北川影视.js"
@@ -679,7 +679,7 @@
             "key": "去看吧",
             "name": "去看吧┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/去看吧.js"
@@ -688,7 +688,7 @@
             "key": "咕噜[V2]",
             "name": "咕噜┃影视",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/咕噜[V2].js"
@@ -697,7 +697,7 @@
             "key": "嘶哩嘶哩",
             "name": "嘶哩┃动漫",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/嘶哩嘶哩.js"
@@ -841,7 +841,7 @@
             "key": "唐人街影院",
             "name": "🛫唐人街┃海外",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/唐人街影视[飞].js"
@@ -850,7 +850,7 @@
             "key": "吼吼",
             "name": "🛫吼吼┃海外",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/吼吼[飞].js"
@@ -859,7 +859,7 @@
             "key": "A8音乐",
             "name": "🎵A8┃MV",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -872,7 +872,7 @@
             "key": "DJ哟哟音乐网",
             "name": "🎵DJ哟哟┃音乐",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/DJ音乐.js"
@@ -881,7 +881,7 @@
             "key": "Jango",
             "name": "🎵Jango┃音乐",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/JangoIndex.js"
@@ -890,7 +890,7 @@
             "key": "MV263",
             "name": "🎵MV263┃MV",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/MV263.js"
@@ -899,7 +899,7 @@
             "key": "啦啦DJ音乐网",
             "name": "🎵啦啦DJ┃音乐",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/啦啦DJ.js"
@@ -961,7 +961,7 @@
             "key": "兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/兔小贝.js"
@@ -1006,7 +1006,7 @@
             "key": "JustLive",
             "name": "Just┃直播",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/JustLive.js"
@@ -1023,7 +1023,7 @@
             "key": "js虎牙",
             "name": "虎牙┃直播",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/虎牙直播.js"
@@ -1050,7 +1050,7 @@
             "key": "310直播",
             "name": "⚽310┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/310直播.js"
@@ -1059,7 +1059,7 @@
             "key": "JRKAN直播",
             "name": "⚽JRKAN┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/JRKAN直播.js"
@@ -1098,7 +1098,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso",
@@ -1349,7 +1349,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "./lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]

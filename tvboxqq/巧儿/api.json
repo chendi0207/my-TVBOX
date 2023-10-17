@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -7,7 +7,7 @@
         {
             "name": "redirect",
             "type": 0,
-            "url": "./redirect.txt",
+            "url": "./lives/redirect.txt",
             "epg": ""
         }
     ],
@@ -31,7 +31,40 @@
             "name": "橘子影视",
             "type": 3,
             "api": "csp_Appto",
-            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
+        },
+        {
+            "key": "喵喵影视",
+            "name": "喵喵影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
+        },
+        {
+            "key": "布蕾影视",
+            "name": "布蕾影视",
+            "type": 3,
+            "api": "csp_Appto",
+            "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6OTk4OC9hcHB0by92MQ"
+        },
+        {
+            "key": "yqikan",
+            "name": "一起看",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "ext": "https://api-aws.ctdy.cc"
+        },
+        {
+            "key": "JianPian",
+            "name": "荐片[边下边播]",
+            "type": 3,
+            "api": "csp_JianPian"
+        },
+        {
+            "key": "Dygang",
+            "name": "电影港[边下边播]",
+            "type": 3,
+            "api": "csp_Dygang"
         },
         {
             "key": "米酷视频",
@@ -78,15 +111,6 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "油果视频",
-            "name": "油果视频",
-            "type": 3,
-            "api": "csp_Youguo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "时常影视",
@@ -251,38 +275,6 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
-        {
-            "name": "古哥解析",
-            "type": 0,
-            "url": "https://qiaoji8.com/vip/?url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "renrenmi",
-                    "rx",
-                    "xfyun",
-                    "muxm3u8",
-                    "xigua",
-                    "xueren",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "letv"
-                ]
-            }
         },
         {
             "name": "巧技解析",

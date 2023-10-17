@@ -4,7 +4,7 @@
     
     "站名":"好戏影视",
     
-    "主页url":"https://haoxi.vip/",
+    "主页url":"https://好戏.com/",
     
     "简介":"关注公众号【应用边界】获取更多影视资源，加入QQ频道【应用多多】防失联！提醒您请勿相信影片中的广告，以免上当受骗！+简介：&&</li>",
     
@@ -50,7 +50,7 @@
     
     "线路二次截取":"<div class=\"swiper-wrapper\"&&</div>",
     
-    "分类url":"https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
+    "分类url":"https://好戏.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5",
     
