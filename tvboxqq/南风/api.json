@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -20,25 +20,6 @@
             "api": "csp_YGP",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_77",
-            "name": "👒酷云七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360",
-            "name": "💘360",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
         },
@@ -69,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.cz01.pro/"
+            "ext": "https://cz01.pw/"
         },
         {
             "key": "csp_YQKan",
@@ -108,7 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+3/"
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
         },
         {
             "key": "布雷",
@@ -119,7 +100,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/"
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
+        },
+        {
+            "key": "csp_JOJO",
+            "name": "🕊︎JOJO",
+            "type": 3,
+            "api": "csp_JOJO",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_DiDuan",
@@ -248,6 +239,25 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.ysgc.fun"
+        },
+        {
+            "key": "csp_77",
+            "name": "👒酷云七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "360",
+            "name": "💘360",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_SixV",
@@ -440,7 +450,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html;;r1da",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1da",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
                 "ocr": "https://api.xhofe.top/ocr/b64/text",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
@@ -453,28 +463,8 @@
             }
         },
         {
-            "key": "奇优",
-            "name": "️💢奇优",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奇优.json"
-        },
-        {
-            "key": "乐猪",
-            "name": "💢乐猪",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/乐猪.json"
-        },
-        {
             "key": "蜗牛",
-            "name": "💢蜗牛(有广告)",
+            "name": "💢蜗牛",
             "type": 3,
             "api": "csp_XBPQ",
             "playStartTime": 15,
@@ -493,6 +483,79 @@
             }
         },
         {
+            "key": "乐猪",
+            "name": "💢乐猪",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/乐猪.json"
+        },
+        {
+            "key": "奇优",
+            "name": "️💢奇优",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇优.json"
+        },
+        {
+            "key": "短剧网",
+            "name": "💢短剧网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"
+        },
+        {
+            "key": "爱美剧",
+            "name": "💢爱美剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "站名": "爱美剧影视",
+                "主页url": "http://172.247.44.75:8083/appto/v1/home/cateData?id=1",
+                "请求头": "User-Agent$Dart/2.10 (dart:io)",
+                "二次截取": "\"data\"*[&&]",
+                "数组": "{&&}",
+                "图片": "\"vod_pic\"*\"&&\"",
+                "标题": "\"vod_name\"*\"&&\"",
+                "副标题": "\"vod_remarks\"*\"&&\"",
+                "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
+                "线路数组": "\"player_info\":{&&}",
+                "线路标题": "\"show\"*\"&&\"",
+                "导演": "vod_director\"*\"&&\"",
+                "主演": "vod_actor\"*\"&&\"",
+                "简介": "vod_blurb\"*\"&&\"",
+                "播放二次截取": "&&[替换]",
+                "播放数组": "urls*\\[&&\\]",
+                "播放列表": "{&&}",
+                "跳转播放链接": "\"url\"*\"&&\"",
+                "播放标题": "\"name\"*\"&&\"",
+                "跳转解析": "美剧线路1$https://bfq.erting.net//TX_video//gzc_1000144.php?url=#美剧线路2$https://www.erting.net//ALI_jiexi//ali_jiexi.php?url=",
+                "播放链接": "解析+\"url\"*\"&&\"",
+                "搜索url": "http://172.247.44.75:8083/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
+                "搜索模式": "1",
+                "搜索二次截取": "\"data\"*[&&]",
+                "搜索数组": "{&&}",
+                "搜索图片": "\"vod_pic\":\"&&\"",
+                "搜索标题": "\"vod_name\"*\"&&\"",
+                "搜索副标题": "\"vod_remarks\"*\"&&\"",
+                "搜索链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
+                "分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
+                "分类": "短剧$41#电影$1#电视剧$2#动漫$4"
+            }
+        },
+        {
             "key": "Freeok",
             "name": "💢Freeok",
             "type": 3,
@@ -503,17 +566,19 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
-                "分类": "电影&剧集&动漫&综艺",
-                "搜索url": "https://www.cupfox.app/s/{wd}",
-                "分类值": "1&2&3&4",
+                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
+                "分类值": "new&1&2&3&4&hot",
                 "嗅探词": "m3u8#.m3u8#.mp4#mp4",
                 "搜索二次截取": "type=\"application/json\">&&</script>",
-                "搜索数组": "{\"te&&}[包含:freeok]",
-                "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
-                "搜索标题": "xt\":\"&&\"",
-                "搜索链接": "\"url\":\"&&\"",
-                "搜索副标题": "FREEOK",
                 "搜索模式": "1",
+                "搜索url": "https://search.ymck.me/index.php?q={wd}",
+                "搜索数组": "<b>&&</b>[包含:Freeok]",
+                "搜索副标题": "<a>&&</a>",
+                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题": "<span>&&</small>",
+                "搜索标题": "class='movie_name'>&&</a>",
+                "搜索链接": "href=\"&&\"",
+                "搜索图片": "http://xhww.fun:63/ss.jpg",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "简介": "<p>&&</p>"
@@ -941,11 +1006,13 @@
             ]
         },
         {
-            "name": "wn",
+            "name": "蜗牛直连去广",
             "hosts": [
-                "vip.123pan.cn"
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
             ],
             "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]

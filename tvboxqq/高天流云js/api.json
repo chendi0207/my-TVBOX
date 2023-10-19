@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -57,6 +57,16 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "./js/新片场.js"
+        },
+        {
+            "key": "drpy_js_短剧网",
+            "name": "短剧 | 短剧网[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./js/短剧网.js"
         },
         {
             "key": "csp_YGP",
@@ -405,6 +415,20 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/咕噜[V2].js"
+        },
+        {
+            "key": "drpy_js_吼吼[V2]",
+            "name": "影视 | 吼吼[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/吼吼[V2].js"
+        },
+        {
+            "key": "drpy_js_曲奇影视[V2]",
+            "name": "影视 | 曲奇影视[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/曲奇影视[V2].js"
         },
         {
             "key": "drpy_js_热剧猫[V2]",
@@ -1948,21 +1972,6 @@
             "url": "Web"
         },
         {
-            "name": "-777-",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "-剖云-",
-            "type": 0,
-            "url": "https://www.kkvip2022.com/vip/jiexi1/?url="
-        },
-        {
-            "name": "冰哲",
-            "type": 1,
-            "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="
-        },
-        {
             "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
@@ -1991,91 +2000,9 @@
             }
         },
         {
-            "name": "黄黄",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/3.12.0"
-                }
-            }
-        },
-        {
-            "name": "稻香",
-            "type": 1,
-            "url": "http://42.157.128.109:2323/CH/app/tv.php?url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "芒果"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/3.12.0"
-                }
-            }
-        },
-        {
-            "name": "ovvo",
-            "type": 0,
-            "url": "https://json.ovvo.pro/jx.php?url="
-        },
-        {
-            "name": "饭1",
-            "type": 1,
-            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-        },
-        {
-            "name": "饭2",
-            "type": 1,
-            "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
-        },
-        {
-            "name": "饭3",
+            "name": "饭饭",
             "type": 1,
             "url": "http://119.91.123.253:1234/Api/cs.php?url="
-        },
-        {
-            "name": "521",
-            "type": 0,
-            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
         },
         {
             "name": "PM",
@@ -2115,11 +2042,6 @@
             }
         },
         {
-            "name": "爱酷解析",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
             "name": "全民",
             "url": "http://api.wpsseo.cn/?v=",
             "type": 0,
@@ -2157,7 +2079,7 @@
             }
         },
         {
-            "name": "m3u8tv",
+            "name": "m3u8",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
@@ -2199,14 +2121,82 @@
             }
         },
         {
-            "name": "zui",
-            "type": 0,
-            "url": "https://jx.zui.cm/?url="
-        },
-        {
             "name": "看看",
             "type": 0,
             "url": "https://jx.m3u8.pw/?url="
+        },
+        {
+            "name": "左岸",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.0"
+                }
+            }
+        },
+        {
+            "name": "世界",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "mgtv",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+                    "referer": "https://www.xyflv.cc/"
+                }
+            }
+        },
+        {
+            "name": "云解析",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },
+        {
+            "name": "爱豆",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
         }
     ],
     "rules": [
@@ -2222,6 +2212,7 @@
         {
             "name": "proxy",
             "hosts": [
+                "epg.112114.xyz",
                 "raw.githubusercontent.com",
                 "googlevideo.com",
                 "cdn.v82u1l.com",

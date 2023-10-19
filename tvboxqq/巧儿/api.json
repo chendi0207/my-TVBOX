@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -13,39 +13,64 @@
     ],
     "sites": [
         {
-            "key": "mino4K",
-            "name": "mino4K",
-            "type": 3,
-            "api": "csp_Appto",
-            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-        },
-        {
             "key": "追忆影视",
             "name": "追忆影视",
             "type": 3,
             "api": "csp_Appto",
-            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+            "playerType": 2,
+            "ext": "CFlDNYd/CKcMAmYOm0LdDmG7FJ/U6ccjlpig+SuPsdbrFUss0huqjjVPO2RGZOLB6XauQ9sy2FsQy6L03sX2WkP6Zw5+bMtri/fvaN3jLYosYILZwS0s4Gwd6q5IRBVcQau24w896hol/NHlKEh9TeEQSsrGnCX3rESd13TCMX7FaXTTRTNRCyNSG5TXTm5GwYWPKq53NUtzUr88MogSWnUN1EnelRGgA/XEAyabS2a6zORTk0zmc3WT1Uc73isn7i0ESgKpFZNg4K0T63qt6O93G4rrHAqetpAtJB3uXt4EzU2spafDli0GBb9J+d8VUDNuI1NYjQR1RnNSgX+/ObxweibPOk8nAyT4l8kHI9sAHJqhwu22b3zVDNsxdN13Lchr2QedxDiM/LVueBUTbI1dxDkwbosUpEjJMZohJ8XMmqqpOlhWo6A4+14GrYkY648U7mBwkqYpcFUoUL1cvQi4K1H3TVgNqWO+A8XOYjGj3bNiqnHYckGjVFfHbbuACA8ygtriWg54ipYIEXv3kmBKXORETVRsXUbeJpYBZ9Io0G5CpxHUwF2vpTQPq2tu9S8Ptf25L/W7d33OYBqtY1rm8i/wMF7rjbHU6ewcd3r+p02cyafv91oafvFjwpEcbFMB1QTa7JSP6FVo4bBRQaz3E3ozaAs/09KyEYWjJmQyuQZ121Fa5Tuto8ipBCqDtfF1+cZQJSxELxCG4OmfzlTqo5JxF5ewjMXegzMfcrsdM8K6vYKxJpzSwwmYo5kcSiypbGaD2kqKqGaNI1nHq3mRs23rKxljBFFxrWJDje0n1/lNTPy4OlByJ4aSUK68WhQdcG/W/92j++5wWXuofygfAxXuYgOY9aTnjstqMszzASU66MNubEy91a4KL3uBFJFnzhjthHLmcV7JkmZCE7jR2PVUtwH3lM6fTVpSMCXFL7Ycywr74+IpDpHFZpTsAYCP5WyKZ8nlr+ENEY0yjT+Kd/YSs6vFGnx7JQi2+DH+k5UkIS/kJRqzVV7vau4HZ"
         },
         {
             "key": "橘子影视",
             "name": "橘子影视",
             "type": 3,
             "api": "csp_Appto",
-            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE"
+            "playerType": 2,
+            "ext": "fkZrXkPqoMrR/SQqKB9jozxS0LSzV9ubNLxjyKHB8x3/Q758oMiZwxmQ3W1fko0MarADgqAaKuKxV+sloWG8m1J25td2yHhpMHTxfk2C4Br9NnPiOG0noveXt6BGEoX5Lncs7dTJnlxnX7m2uj61CLQMrhnt3an0fGkuLPho/4RzaepFzAJ+nuRarfKG9ps11QBQtnKdaOQ9Ug8GSw1qFv7J9ySON/M8WKJ1MX+K/ABfEPZHlAwmBTmeXkEfro4a71SFIiQi2rqazyZIQq9utjn0S4Ur4/heOOA8xnoqM4qsQTSozPxKIej/2ZoosJTnYEMyR8i4pG8qwysCeaFf/24trdAklsDxDwv0ZJUnEi21WmdQUd/MY7cdH4iEUQOOpRzHtUv5BB0TXqCOodXLjap+T/sSuAKu2s5Jo/gr0HbpD/f4goQlLBazQt9xtV8Nl2ZUQzP5NtYdH1nIiyoaXEPWDBg0TXUTW9eBJN74kX4fYg+66Zeojxy/oYk4nFr8fo1vTr75YbEL1alCtJfTty1xM/3tteFKTmqRmci9O9lvS8xuXQFxqCbPt3LD+ki5P/FIZiRyhJ6B+lHPUB4QmnMJcunGs9jjwmumLXbQ7U/G8D4Az9dFOOXDH8C0eKFEdzomQoFJ7WttO7ExNmcWqSWvN9TtB/7/BSGSIRwvkXbo="
         },
         {
             "key": "喵喵影视",
             "name": "喵喵影视",
             "type": 3,
             "api": "csp_Appto",
-            "ext": "u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="
+            "playerType": 2,
+            "ext": "KYc9VRSTOMJj9D7uMMJpPGloADLlNsvMuFsclnW5lhcvSeYUSGYrQEL5P1dPhEJJsv3BeBSJKD8AxB0XHl7uxbh/zYh8GbvW0JojCT7GF+P3cGHWye9FRYXycQT5ySldvDwOotu/+MnANqJwFZYCf1dv08B/z7150ToNJgh9XEk6yfyzy3DC7y6r1v4qjpCGdlZ0YzElShksxlSgRSqoX5tq+7mTe0YzLCHe3HL8h9H9mDxVv85HlPZigXsY1lWDoA27Z7b477FqU3UsOSKOeJiq/FvLx5x9W2EadFGuFMm7UeCU1HqdttlZxQmyGdzZorzFxde9sgZVV2MI9PkNzh03KLRy0j69J0yH6/djoFdJFoiOtHQ2qtlQk+7XnHk55NyuDe0eQt/RGdGJeJ5n4HjbB0MbT3FwWQZlbsums59LP0Lglz7TUT3BZZlcrqYWg3OJI9O9OYMw+5HbWpSIVeUb3DXUvT8tBBJCOnpfNmWGgOmTDKpgy602V8XK2YD50g3AoDLDY8W1ce+7lfaQIZoLRJ/ySb0DCGelW48hi8SrpwOhfymmI75DLtF8SnqxFAT9dEEPXvv4U96ELnwvQrM/oshZjyxZuHGxHNOOXZcBNfBOonz0MLCPpnP8xbk3LF6+hRxf5EN1MbVZdgcMMwqIB7p0vzsV/P4zd5rNGqkc="
         },
         {
             "key": "布蕾影视",
             "name": "布蕾影视",
             "type": 3,
             "api": "csp_Appto",
-            "ext": "VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6OTk4OC9hcHB0by92MQ"
+            "playerType": 2,
+            "ext": "qwGC2Q6LErUIkATyLhazDlLldNUPQ+AiUvQ3xzzVbAIFYk5huMjX556LYuNY5LkjL7ZEtl/qWkB0xIZC69xUYYEuUMVJFKUzWNMzTSab+ZmWNnktb+GolAA2QIL84G0Yrrq6LHPoA0W051P0x8F9cxDvg4fsZJVorEtF6f0vSyke6m+krqviMuy3i2ZXGd+wjpp2aZPot9iFkwA1YRRkzfuRCUm5fyYOvPPDdTwM68860Q78x/Cujx8Zz4ZrNPbNzGkwi7iDy65OSYXQrOoBtMad11MASrQr9PNCzb+STReqQtU0bdkAWLKCZyaMcqXFehcSIYHejbDmgh3EOEloPOED3mSe4MU56NeZU4ag7DeHaoKBH5MIZ1cWiPDhB2bCfkx5j84phfnot05DIq8+ScYeCkUkUJUHLgu0o4KzxC6Z7hGeNXBTbSfKFSqQYSxg/OHTTHUYcYwbhYBIwL7Di7NPhVYFbXzV8HIt3+SzUEUMnsy98VLw3p7YXZfsg3XmMPQ4rn/RtfssA5x5Y84n3NUeZoQdCE0zp5l4n1oyH1QOKVkfrGDdR32I+mYT3hzPPFjhTWZPfLPDba+CXrP4hIwruV96mhY6ZaefimX1kZaRjXT/wEmy+TM8rksnPks6Nh6nbaF5BWaKJNbJEOB/IV8qRU/Z39BA1dMFO5+BRelo9CPvf1sGje0kf1Cv7mthjZPQjnfa8Y9yW/QSM8jk/P8uSJcaARnD0aNmh4OG/Fv33uJQizJPNXceGIciiyx/rpTN+EYcqWhvd0rwA9iMhpHX+kYmYGce7q9WnDOQsbbZqQCPoFBeSI7kppHBGtd2iORhl3uiPw+5ZcVgDWPtBk2773e84picrBAKJRgNFx6ZKVbDozX7jAwaJdzjt5+0HX+qU+bsDArdiTYfI89fUwbmxgb9H6SrWkhbtiEwu4ln/Nzq9U6kH+q1TxVDdXdoPxaJdpJN17jAh1fct13Ym8jWexi0Ei0tYwvJO71vrD6YDPOjNWRDT5wjIwqVUBYM0ZFJGLykzIugI3VENkB3NhlsdE0pawIuX/DTRtsmfgsiOS2jsmMS7OJ6rHUEEl8DLgV45A3jd1vRbssLaieDBid35bPRnPDk1hBCDiKbKKZZyot7Gd37nA7q0xn1VPnCCUkh5jrdO4vdfGTNTcOtHl2tlAQl9GnBS+kBbE9uBkeLZBG2XRDU1c/AobIQiZXrF2z13v1ho7TcUJtkC/OnAebhkGATZ47KG6Q/WXLyMgHfhUX8SwiRSFVU9e03oMeJcHxUJ5zrupdW17tpUiJwMO9RCCq1XYP6rG+/dQ72lFiavEtkNRibQzWH6zRRGIxOUleJfUUiXy7Y/891Mcws3rw=="
+        },
+        {
+            "key": "mino4K",
+            "name": "mino4K",
+            "type": 3,
+            "api": "csp_Appto",
+            "ext": "NMWPi2eSTQHUuN+2iRE6M1AZfGzppP6c4M+INMBOKdXQVDkG6ouC48tgKxyhXeK3ffs0xZvy+VdVAtk2AogcvSzkKteChz4i4cDE0sHtrjPzAI8AWxK6lBWJhXsO/R8V5LPMx+cZkz06/iNOAoc2UulrooJZISsJLD3QZ+sgnFP0J4ozf6y2i6pNCmFQCfSZPDQHWONdqgqWmvZQa5J1IWyaPZslixkGd9ipZQSB0ljvoY6TrG1qm9eLAvVLHGNZz0DvFJEz3BjDFh3VK0b/3B0oaPtV0AryJqj9XvP1ygCHt3vMxU2D4Qu+NlUWCHxBh9MU9JJxyKGauc6F9fqGS6AmNH/4GNFfUY5VG3CBs/e1Cj9IAnuALDAFoFESaIejBXmZeJS00mZ7y13mA1hRC7jCDxi71bl71QNPG/HDvM6cxvr+obKJfW+XTsHrn81b7f0Cy0rRCiv5T7a0O4tIn1HukNimjbbZN7aQ4IIB6x9kH2tQy/hGCmC+KZiehalk8TjOVn3TvMoLBLC8gTm+GGjL84Ur4b91fglSqq+clKJtvqysTvS//HsUK2uZRBVmitsP5VV8ypunnJ637yMovsjHiN9NfvMep/qrzrUJDitMO8KDcArXr0n/GhLmfeuZibCpiHw4bRv1aRDNeWkFPmcSIIBDWIxyc6VSEfhHtNNaWVbAnM5t9NMPQSKiEEBJErfE1Ici1ty+yFbPWIsIFczZVPHUrXDO1A42gi8f/CWrExspzrdivP58o1h7XDT4Axvy93IjAeAsdmoWlbgoCzWnvXeJoT4nsda2ZQ9r2UIoqA7CS0crMqYvPtMn8SULAqUbl9e3Rmm5XAKKmgLB7xsmr4RexngO0bUdUaIdIQO0knv2hFD27neo9OGRkn6mfPWekmws5lNvNjRfWHs2A7XNA8HNYl+tfU+WVA70Xqc8YbpJ2spRwy3lcNaRp0PuveYLXdvduKLkmxUHAuLkr+gPCF5V+8AV7EZZNHKoRhNF+sceZU300oVincA76EoGQ"
+        },
+        {
+            "key": "图图影视",
+            "name": "图图影视",
+            "type": 3,
+            "api": "csp_APPTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
+        },
+        {
+            "key": "热剧猫",
+            "name": "热剧猫",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://v.aaaa0.top:2525/api.php/app/"
         },
         {
             "key": "yqikan",
@@ -74,7 +99,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://43.248.129.116:6688"
+            "ext": "http://43.248.129.116:6688/appto/v1"
         },
         {
             "key": "蚂蚁视频",
@@ -104,13 +129,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": ""
-        },
-        {
-            "key": "EMO",
-            "name": "EMO蓝光",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
         },
         {
             "key": "时常影视",
@@ -297,6 +315,36 @@
                     "芒果",
                     "rx",
                     "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "绿豆解析",
+            "type": 1,
+            "url": "http://pandown.pro/app/lvdou.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
                     "bilibili",
                     "1905",
                     "xigua"

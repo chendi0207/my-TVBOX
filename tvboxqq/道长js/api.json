@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -32,7 +32,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$http://tvfan.xxooo.cf/"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
         },
         {
             "key": "csp_阿里七夜",
@@ -92,7 +92,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$自己去注册$$$qq112233"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$自己去注册$$$qq112233"
         },
         {
             "key": "drpy_js_我的哔哩",

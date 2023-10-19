@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "菜妮丝": "https://cainisi.cf",
@@ -820,6 +820,16 @@
             "ext": "./json/零度影视.json"
         },
         {
+            "key": "手机影院",
+            "name": "手机影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/手机影院.json",
+            "jar": "./jars/手机影院.jar"
+        },
+        {
             "key": "csp_Nbys",
             "name": "🛫泥巴┃海外",
             "type": 3,
@@ -1098,7 +1108,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
         },
         {
             "key": "csp_search_Upyunso",

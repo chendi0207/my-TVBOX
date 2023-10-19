@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐享，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -15,7 +15,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ2群：891992786",
+            "name": "🅱️追剧影院|T热播 QQ②群：891992786",
             "type": 3,
             "api": "./api/Api.js",
             "searchable": 0,
@@ -33,6 +33,16 @@
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
+            "key": "Wogg",
+            "name": "🅱️玩偶哥哥|T追剧",
+            "type": 3,
+            "api": "csp_XPathAli",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./json/玩偶哥哥.json"
+        },
+        {
             "key": "csp_xBPQ_奇优",
             "name": "🅱️奇优影视|T追剧",
             "type": 3,
@@ -41,6 +51,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/奇优影视.json"
+        },
+        {
+            "key": "csp_威士",
+            "name": "🅱️威士影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/vs影视.json"
+        },
+        {
+            "key": "csp_午夜",
+            "name": "🅱️午夜影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/午夜影视.json"
+        },
+        {
+            "key": "csp_吼吼",
+            "name": "🅱️吼吼影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/hoho影视.json"
         },
         {
             "key": "csp_乐猪",
@@ -83,6 +123,16 @@
             "ext": "./json/好戏影视.json"
         },
         {
+            "key": "csp_低端",
+            "name": "🅱️低端影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/低端影视.json"
+        },
+        {
             "key": "csp_Free",
             "name": "🅱️Free影视|T追剧",
             "type": 3,
@@ -91,36 +141,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/Free影视.json"
-        },
-        {
-            "key": "Wogg",
-            "name": "🅱️玩偶哥哥|T追剧",
-            "type": 3,
-            "api": "csp_XPathAli",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/玩偶哥哥.json"
-        },
-        {
-            "key": "影巢",
-            "name": "🅱️网盘影巢|T追剧",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
-        },
-        {
-            "key": "Czspp",
-            "name": "🅱️厂长影视|T追剧",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.cz01.fun/"
         },
         {
             "key": "csp_热播",
@@ -151,16 +171,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/348影视.json"
-        },
-        {
-            "key": "csp_熊猫",
-            "name": "🅱️熊猫影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/熊猫影视.json"
         },
         {
             "key": "csp_淘剧",
@@ -211,16 +221,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/圣城影视.json"
-        },
-        {
-            "key": "csp_007",
-            "name": "🅱️凌漆影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/007影视.json"
         },
         {
             "key": "csp_土豪",
@@ -313,16 +313,6 @@
             "ext": "./json/66影视.json"
         },
         {
-            "key": "csp_明帝",
-            "name": "🅱️明帝影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/明帝影视.json"
-        },
-        {
             "key": "csp_蛋蛋",
             "name": "🅱️蛋蛋影视|T追剧",
             "type": 3,
@@ -343,14 +333,14 @@
             "ext": "./json/黑狐影视.json"
         },
         {
-            "key": "csp_臭蛋",
-            "name": "🅱️臭蛋影视|T追剧",
+            "key": "csp_歪片",
+            "name": "🅱️歪片星球|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/臭蛋影视.json"
+            "ext": "./json/歪片星球.json"
         },
         {
             "key": "csp_苹果",
@@ -381,6 +371,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/新视觉影视.json"
+        },
+        {
+            "key": "csp_子子",
+            "name": "🅱️紫梓影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/子子影视.json"
         },
         {
             "key": "csp_非凡",
@@ -737,70 +737,9 @@
             "url": "Web"
         },
         {
-            "name": "观音嗅探",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "茶桶解析",
+            "name": "观音解析",
             "type": 1,
-            "url": "http://119.91.123.253:1234/Api/cs.php?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "xigua",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "盖碗解析",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "xigua",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
-        {
-            "name": "茶杯解析",
-            "type": 1,
-            "url": "https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url=",
+            "url": "http://61.147.93.21:8090/index.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -838,6 +777,77 @@
                     "芒果视频",
                     "乐视视频"
                 ]
+            }
+        },
+        {
+            "name": "茶杯解析",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
+        },
+        {
+            "name": "盖碗解析",
+            "type": 1,
+            "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "xigua",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
             }
         },
         {
