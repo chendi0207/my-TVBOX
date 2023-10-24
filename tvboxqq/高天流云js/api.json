@@ -78,6 +78,44 @@
             "changeable": 0
         },
         {
+            "key": "jojo弹幕直连",
+            "name": "弹幕 | JOJO[jar]",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "csp_Sp360",
+            "name": "弹幕 | 360[jar]",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "荐片弹幕版",
+            "name": "弹幕 | 荐片[jar]",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1",
+            "timeout": 60
+        },
+        {
             "key": "csp_WoGG",
             "name": "阿里 | 玩偶哥哥[jar]",
             "type": 3,
@@ -96,18 +134,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./json/token.json",
-            "timeout": 30
-        },
-        {
-            "key": "csp_wogg_cli",
-            "name": "俊于 | 玩偶[T4]",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://wobge.run.goorm.io",
             "timeout": 30
         },
         {
@@ -1946,6 +1973,15 @@
             "ext": "./js/小宝影院[飞].js"
         },
         {
+            "key": "應用商店",
+            "name": "應用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./json/market.json"
+        },
+        {
             "key": "bb",
             "name": "配置接口完全免费",
             "type": 3,
@@ -2003,6 +2039,26 @@
             "name": "饭饭",
             "type": 1,
             "url": "http://119.91.123.253:1234/Api/cs.php?url="
+        },
+        {
+            "name": "视界",
+            "type": 1,
+            "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "YuMi-vip"
+                ]
+            }
         },
         {
             "name": "PM",
@@ -2212,6 +2268,7 @@
         {
             "name": "proxy",
             "hosts": [
+                "dmku.thefilehosting.com",
                 "epg.112114.xyz",
                 "raw.githubusercontent.com",
                 "googlevideo.com",

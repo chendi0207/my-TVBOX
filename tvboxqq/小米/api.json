@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "豆瓣┃10.17接口仅供测试",
+            "name": "豆瓣┃10.23接口仅供测试",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -58,16 +58,16 @@
             "jar": "./jars/世界.jar",
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1da",
+                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-                "ocr": "https://api.xhofe.top/ocr/b64/text",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
                 "数组": "\"v_img\"&&/div>",
                 "标题": "title=\"&&\"",
                 "副标题": "v_note\"&&</div",
                 "跳转播放链接": "<iframe*src=\"&&\"",
                 "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-                "三次跳转播放链接": "\"url\"*\"&&\""
+                "三次跳转播放链接": "https://hkjx.hhplayer.com+\"url\"*\"&&\""
             }
         },
         {
@@ -78,19 +78,18 @@
             "playerType": "1",
             "jar": "./jars/世界.jar",
             "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-                "分类值": "new&1&2&3&4&hot",
-                "嗅探词": "m3u8#.m3u8#.mp4#mp4",
-                "搜索二次截取": "type=\"application/json\">&&</script>",
+                "分类值": "hot&new&1&2&3&4",
+                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
                 "搜索模式": "1",
                 "搜索url": "https://search.ymck.me/index.php?q={wd}",
                 "搜索数组": "<b>&&</b>[包含:Freeok]",
-                "搜索副标题": "<a>&&</a>",
+                "搜索副标题": "Freeok",
                 "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
                 "线路标题": "<span>&&</small>",
                 "搜索标题": "class='movie_name'>&&</a>",
-                "搜索链接": "href=\"&&\"",
+                "搜索链接": "href='&&'",
                 "搜索图片": "http://xhww.fun:63/ss.jpg",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
@@ -108,6 +107,36 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
         },
         {
+            "key": "皮皮虾",
+            "name": "皮虾┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+        },
+        {
+            "key": "热剧猫",
+            "name": "️热猫┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
+        },
+        {
+            "key": "一念",
+            "name": "一念┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "pbM7swoYcMwhlvQpaoG2Jd/6X2Jd13bHC2Aahc26fZ/idbImlEWVen1XgZcBp3yqv/dv+LwjZdqA6dEPlrD7nM4qD8TjoujS0A0H2Wu8/3J/92iQ364AuVy9ELVKbf3bx5k5Vs7aQch8g1pdki1lQf/SbxTNhTUgWxdhaY4433vESg1GeKVXRJpz1dBlbl4iFc4XVfz2mQrBITIlnn9uLqrEuwBpal3HPeGa/uKaqTRgnwn7g1Y9JUK+NjfU3XDvzGAMW4eZ57tDXsIkBRsVaQQAY8rkU3F1LLi8Hb/g7AYdScOIxxqmuh9l2Ci+h3nzTDG2t4ZAnenfod3YVyAxtGWHSLlBttuvcuu2o6J63QC9qowfj/sE5aeWMMooKEwicHTA11ZGk3nDDvX3ZiUlqvEwZ4UJuAlrTt10GV5o8+S8KqSXfn1QGQCYsOJk4pUNOwP+u1jAARfvdgKzF4Q8Y+KDVclGdWvVQ7gGrqrgQu8DNt9gcpD6bQFM3DBkjOOzhDC96tcMhSSlcwEQnj8E+BqolN1r8IYlt6dKmX5OhnBV9UxZ26k1ORQ9bHI3L2bh9lPpTXHlIifXIEuVKgjKcE7GHaYJls1zZGCMtU3mKOWsrgtB07XnMkTxrbeA8atoTnJZzSW6+8zbe1V8j6LdFaCfyjHcl0dSjPvUKqdpfBAA="
+        },
+        {
             "key": "橘子",
             "name": "橘子┃App",
             "type": 3,
@@ -116,33 +145,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-        },
-        {
-            "key": "伊人",
-            "name": "💡伊人┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
-        },
-        {
-            "key": "布雷",
-            "name": "💥布雷┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "playerType": 2,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
-        },
-        {
-            "key": "JOJO2",
-            "name": "︎JOJO┃直连",
-            "type": 3,
-            "api": "csp_JOJO",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "喵喵影视1",
@@ -163,15 +165,22 @@
             "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
         },
         {
-            "key": "图图影视",
-            "name": "图图┃影视",
+            "key": "JOJO",
+            "name": "︎JOJO┃直连",
             "type": 3,
-            "jar": "./jars/喵喵影视1.jar",
-            "api": "csp_APPTT",
+            "api": "csp_JOJO",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
+            "changeable": 1
+        },
+        {
+            "key": "艾艾",
+            "name": "艾艾┃App",
+            "type": 3,
+            "jar": "./jars/喵喵影视1.jar",
+            "api": "csp_Appto",
+            "playerType": 2,
+            "ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
         },
         {
             "key": "追忆影视",
@@ -230,13 +239,13 @@
             "ext": {
                 "站名": "爱美剧影视",
                 "主页url": "http://172.247.44.75:8083/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.10 (dart:io)",
+                "请求头": "User-Agent$Dart/2.19 (dart:io)",
                 "二次截取": "\"data\"*[&&]",
                 "数组": "{&&}",
                 "图片": "\"vod_pic\"*\"&&\"",
                 "标题": "\"vod_name\"*\"&&\"",
                 "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
+                "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=fgDdxSaYjcm9bcB3EEDb6yZpi3jPJnlNesR48t8u7KR5Zg9t7oOP3OhXcUqfdcf30TDbuK9cx6wO%2BuqDzCOMWm8OU6m6jjMQd5W56peu5OtP1CfYHz5b1EdzI1HH2qobNv6dQZYtbvBK9Y%2F37El1%2Bw%3D%3D",
                 "线路数组": "\"player_info\":{&&}",
                 "线路标题": "\"show\"*\"&&\"",
                 "导演": "vod_director\"*\"&&\"",
@@ -251,12 +260,6 @@
                 "播放链接": "解析+\"url\"*\"&&\"",
                 "搜索url": "http://172.247.44.75:8083/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
                 "搜索模式": "1",
-                "搜索二次截取": "\"data\"*[&&]",
-                "搜索数组": "{&&}",
-                "搜索图片": "\"vod_pic\":\"&&\"",
-                "搜索标题": "\"vod_name\"*\"&&\"",
-                "搜索副标题": "\"vod_remarks\"*\"&&\"",
-                "搜索链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
                 "分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
                 "分类": "短剧$41#电影$1#电视剧$2#动漫$4"
             }
@@ -280,17 +283,6 @@
             "changeable": 1
         },
         {
-            "key": "探探",
-            "name": "🏵影探┃APP",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_YTVIP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
-        },
-        {
             "key": "毛驴",
             "name": "毛驴┃App",
             "type": 3,
@@ -301,15 +293,6 @@
             "ext": "https://www.maolvys.com/"
         },
         {
-            "key": "JOJO",
-            "name": "JOJO┃App",
-            "type": 3,
-            "api": "./api/jojo.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Czsapp",
             "name": "🗯️厂长┃直连",
             "type": 3,
@@ -318,7 +301,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "ext": "https://cz01.pw/",
+            "ext": "https://www.czzy88.com/",
             "filterable": 1
         },
         {
@@ -600,7 +583,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://api.jialiangos.com:88/api.php/app/"
+            "ext": "http://api.jialiangos.com:81/api.php/app/"
         },
         {
             "key": "348",
@@ -637,38 +620,6 @@
                 "搜索链接前缀": "https://www.348z.com",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
-            }
-        },
-        {
-            "key": "低端拼接",
-            "name": "低端┃BPQ",
-            "type": 3,
-            "changeable": 1,
-            "jar": "./jars/世界.jar",
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "ext": {
-                "主页url": "https://ddys.fun",
-                "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-                "搜索模式": "0",
-                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "线路数组": " <div class=\"stui-pannel__head clearfix\">&&</div[排序:蓝光-Ymv>蓝光-put>蓝光-01>蓝光-02>极速-01>极速-02][不包含:蓝光-m3#极速-03#蓝光-01]",
-                "线路标题": "<h3 class=\"iconfont icon-iconfontplay2\">&&</h3>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "影片类型": "类型：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "display: none;\">&&</span>",
-                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-                "分类url": "https://ddys.fun//show/{cateId}--{area}------{catePg}---{year}.html;;au0",
-                "跳转解析": "默认$空#极速-02$http://118.25.184.129:9668/?url=#极速-01$http://118.25.184.129:9668/?url=#蓝光-Ymv$http://111.231.2.179//?url=#蓝光-put$https://jiexi.ahailove.cn/qingjian.php?url=",
-                "跳转播放链接": "解析+urlDecode(Base64(vod_class*url\":\"&&\"))",
-                "二次跳转播放链接": "\"url\"*\"&&\""
             }
         },
         {
@@ -865,16 +816,6 @@
                 "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
-        },
-        {
-            "key": "测试",
-            "name": "影探┃VIP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://vipcms.lyyytv.cn/api.php/app/"
         },
         {
             "key": "爱迪",
@@ -1335,6 +1276,7 @@
         "YuMi-vip",
         "优酷视频",
         "youku",
+        "seven",
         "优酷",
         "优 酷",
         "优酷视频",

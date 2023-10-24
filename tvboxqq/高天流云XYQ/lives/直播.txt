@@ -710,7 +710,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 北京大蜜,http://epg.112114.xyz/douyu/805235
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
@@ -822,7 +821,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 华语动作电影,http://epg.112114.xyz/douyu/1504768
 怀旧90,http://epg.112114.xyz/douyu/9275635
 国产影片,http://epg.112114.xyz/douyu/5423
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
 高帧影片,http://epg.112114.xyz/douyu/6763930
 米娅电影,http://epg.112114.xyz/douyu/6537888
 小九电影,http://epg.112114.xyz/douyu/7136517
@@ -832,7 +830,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 连续剧5,http://epg.112114.xyz/douyu/4396972
 游戏解说,http://epg.112114.xyz/douyu/805235
 斗鱼小品,http://epg.112114.xyz/douyu/3980787
-斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼动画,http://epg.112114.xyz/douyu/7528160
 斗鱼电影1,http://epg.112114.xyz/douyu/2935323
 斗鱼电影2,http://epg.112114.xyz/douyu/7459925
@@ -999,13 +996,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 
 
-湖南综合,#genre#
-金鹰纪实,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8?
-岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
-
-
 四川综合,#genre#
 广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
 广元公共,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8?zsicd
@@ -1091,7 +1081,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1704038399-0-0-57a073b16d0dbf7182a51df714d103f9
 通城综合,https://tongcheng-live21.cjyun.org/10132/s10132-tongchengtv01.m3u8?auth_key=1704038399-0-0-4340a5902757b9adebfafe14d7d1e683
 孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
-应城新闻党建,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1704038399-0-0-183e4f22e93e62e3d5853726af611aed
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1704038399-0-0-a0b56187fea04cf4f776c0b23cf5f547
 荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1704038399-0-0-35f354ebd7cf85af1104fa76d623c1c6

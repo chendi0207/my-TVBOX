@@ -34,15 +34,6 @@
             "ext": "./json/农民影视.json"
         },
         {
-            "key": "快看",
-            "name": "👀快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Czsapp",
             "name": "🏭厂长",
             "type": 3,
@@ -50,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cz01.pw/"
+            "ext": "https://www.czz9.com/"
         },
         {
             "key": "csp_YQKan",
@@ -82,16 +73,6 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
         },
         {
-            "key": "伊人",
-            "name": "🌀伊人",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
-        },
-        {
             "key": "布雷",
             "name": "⚡布雷",
             "type": 3,
@@ -103,14 +84,24 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
         },
         {
-            "key": "csp_JOJO",
-            "name": "🕊︎JOJO",
+            "key": "热剧猫",
+            "name": "🐱热剧猫",
             "type": 3,
-            "api": "csp_JOJO",
+            "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
+        },
+        {
+            "key": "皮皮虾",
+            "name": "🦑皮皮虾",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
         },
         {
             "key": "csp_DiDuan",
@@ -142,6 +133,16 @@
             "ext": "http://www.aueteys.com/"
         },
         {
+            "key": "csp_MYYS",
+            "name": "🐜蚂蚁",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
+        },
+        {
             "key": "csp_MLYS",
             "name": "🐴毛驴",
             "type": 3,
@@ -153,16 +154,6 @@
             "ext": "https://www.maolvys.com/"
         },
         {
-            "key": "csp_MYYS",
-            "name": "🐜蚂蚁",
-            "type": 3,
-            "api": "csp_MYYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://rzys.xyz"
-        },
-        {
             "key": "爱迪",
             "name": "🍟爱迪",
             "type": 3,
@@ -171,16 +162,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
-        },
-        {
-            "key": "鸭鸭",
-            "name": "🦆鸭鸭",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key": "迷你库",
@@ -231,20 +212,19 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "csp_Ysgc",
-            "name": "🎥影视工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.fun"
-        },
-        {
             "key": "csp_77",
             "name": "👒酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kuaikan",
+            "name": "👀快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -450,9 +430,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1da",
+                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-                "ocr": "https://api.xhofe.top/ocr/b64/text",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
                 "数组": "\"v_img\"&&/div>",
                 "标题": "title=\"&&\"",
@@ -524,13 +504,13 @@
             "ext": {
                 "站名": "爱美剧影视",
                 "主页url": "http://172.247.44.75:8083/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.10 (dart:io)",
+                "请求头": "User-Agent$Dart/2.19 (dart:io)",
                 "二次截取": "\"data\"*[&&]",
                 "数组": "{&&}",
                 "图片": "\"vod_pic\"*\"&&\"",
                 "标题": "\"vod_name\"*\"&&\"",
                 "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
+                "链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
                 "线路数组": "\"player_info\":{&&}",
                 "线路标题": "\"show\"*\"&&\"",
                 "导演": "vod_director\"*\"&&\"",
@@ -565,20 +545,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-                "分类值": "new&1&2&3&4&hot",
+                "分类值": "hot&new&1&2&3&4",
                 "嗅探词": "m3u8#.m3u8#.mp4#mp4",
-                "搜索二次截取": "type=\"application/json\">&&</script>",
-                "搜索模式": "1",
-                "搜索url": "https://search.ymck.me/index.php?q={wd}",
-                "搜索数组": "<b>&&</b>[包含:Freeok]",
-                "搜索副标题": "<a>&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "搜索标题": "class='movie_name'>&&</a>",
-                "搜索链接": "href=\"&&\"",
-                "搜索图片": "http://xhww.fun:63/ss.jpg",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "简介": "<p>&&</p>"
@@ -768,11 +738,6 @@
             "name": "Json聚合",
             "type": 3,
             "url": "Demo"
-        },
-        {
-            "name": "哥哥们",
-            "type": 1,
-            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
             "name": "战狼",

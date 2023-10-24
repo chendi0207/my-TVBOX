@@ -1,27 +1,8 @@
 
-🐼丨央视频道,#genre#
+🐼丨频道,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
-熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
-
-CCTV1,http://111.20.35.103:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
-CCTV2,http://111.20.35.103:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00
-CCTV3,http://111.20.35.103:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
-CCTV4,http://111.20.35.103:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
-CCTV5,http://111.20.35.103:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00
-CCTV5+,http://111.20.35.103:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00
-CCTV6,http://111.20.35.103:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00
-CCTV7,http://111.20.35.103:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00
-CCTV8,http://111.20.35.103:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00
-CCTV9,http://111.20.35.103:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00
-CCTV10,http://111.20.35.103:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=00
-CCTV11,http://111.20.35.103:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00
-CCTV12,http://111.20.35.103:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00
-CCTV13,http://111.20.35.103:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00
-CCTV14,http://111.20.35.103:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=00
-CCTV15,http://111.20.35.103:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00
-CCTV17,http://111.20.35.103:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+熊猫频道,https.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -153,41 +134,6 @@ CGTN阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 
 🐼丨卫视频道,#genre#
-
-湖南卫视,http://111.20.35.103:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
-浙江卫视,http://111.20.35.103:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00
-江苏卫视,http://111.20.35.103:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=00
-广东卫视,http://111.20.35.103:6610/000000001000/1000000001000014176/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=00
-深圳卫视,http://111.20.35.103:6610/000000001000/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=00
-北京卫视,http://111.20.35.103:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
-天津卫视,http://111.20.35.103:6610/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00
-东方卫视,http://111.20.35.103:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
-山东卫视,http://111.20.35.103:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
-湖北卫视,http://111.20.35.103:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
-四川卫视,http://111.20.35.103:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
-重庆卫视,http://111.20.35.103:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00
-安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-黑龙江卫视,http://111.20.35.103:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=00
-河北卫视,http://111.20.35.103:6610/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=00
-河南卫视,http://111.20.35.103:6610/000000001000/7304224304099543804/index.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=00
-东南卫视,http://111.20.35.103:6610/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00
-辽宁卫视,http://111.20.35.103:6610/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=00
-江西卫视,http://111.20.35.103:6610/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00
-广西卫视,http://111.20.35.103:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=00
-山西卫视,http://111.20.35.103:6610/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=00
-陕西卫视,http://111.20.35.103:6610/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=00
-海南卫视,http://111.20.35.103:6610/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=00
-云南卫视,http://111.20.35.103:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00
-吉林卫视,http://111.20.35.103:6610/000000001000/6042486520432105075/index.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=00
-贵州卫视,http://111.20.35.103:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
-大湾区卫视,http://111.20.35.103:6610/000000001000/1000000002000011619/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=00
-青海卫视,http://111.20.35.103:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=00
-内蒙古卫视,http://111.20.35.103:6610/000000001000/5559214655508729688/index.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=00
-宁夏卫视,http://111.20.35.103:6610/000000001000/7527747602951312973/index.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=00
-甘肃卫视,http://111.20.35.103:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
-新疆卫视,http://111.20.35.103:6610/000000001000/5802765535081445534/index.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=00
-西藏卫视,http://111.20.35.103:6610/000000001000/6603041244077933770/index.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=00
-山东教育卫视,http://111.20.35.103:6610/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=00
 
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
@@ -758,13 +704,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 🐼丨少儿频道,#genre#
-
-金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
-优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
-卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
-哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
-嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
-
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 金鹰卡通,http://hz752.live:63/vvs/astv.php?id=jykt
 金鹰卡通,http://39.134.136.151:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
