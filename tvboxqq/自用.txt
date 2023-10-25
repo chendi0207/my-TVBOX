@@ -32,9 +32,9 @@
 
 { "url": "http://rihou.vip:88/荷城茶秀", "name": "💖荷城茶秀〔多条线路〕" },
 
-{ "url": "https://s2.pub/xymz", "name": "💖夜猫子☀" },
-
 { "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
+
+{ "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json", "name": "新马路" },
 
 { "url": "http://cdn.yydsys.top/duo", "name": "多多家庭" },
 
@@ -54,10 +54,7 @@
 
 { "url": "https://xhdwc.tk/0", "name": "dxawi" },
 
-{ "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92", "name": "月光宝盒" },
-
 { "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2", "name": "欧歌" },
-
 
 { "url": "https://download.kstore.space/download/2863/01.txt", "name": "潇洒" },
 
