@@ -26,13 +26,13 @@
         
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
+{ "url": "http://xxxoo.shop/", "name": "精品路线" },
+
 { "url": "https://www.tv555.cc/tv/XC.json", "name": "万达影视" },
 
 { "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星家庭版" },
 
 { "url": "http://rihou.vip:88/荷城茶秀", "name": "💖荷城茶秀〔多条线路〕" },
-
-{ "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
 { "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json", "name": "新马路" },
 
@@ -61,5 +61,7 @@
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 
 { "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "abc线路" },
+
+{ "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
 { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "🚀道长线路🚀" }]}
