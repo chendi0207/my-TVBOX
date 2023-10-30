@@ -17,7 +17,7 @@
       "homeVodImg": "//@data-echo",
       "homeVodImgR": "",
       "homeVodMark": "/div/span[2]/span/text()",
-      "cateUrl": "https://nmddd.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html",
+      "cateUrl": "https://nmddd.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html",
       "cateVodNode": "//ul[@class='resize_list']/li/a",
       "cateVodName": "/@title",
       "cateVodId": "/@href",
@@ -83,6 +83,7 @@
             "key":"year",
             "value":[
            {"n":"全部","v":""},
+           {"n":"2023","v":"2023"},
            {"n":"2022","v":"2022"},
            {"n":"2021","v":"2021"},
            {"n":"2020","v":"2020"},
@@ -142,6 +143,7 @@
             "key":"year",
             "value":[
            {"n":"全部","v":""},
+           {"n":"2023","v":"2023"},
            {"n":"2022","v":"2022"},
            {"n":"2021","v":"2021"},
            {"n":"2020","v":"2020"},
@@ -197,6 +199,7 @@
             "key":"year",
             "value":[
            {"n":"全部","v":""},
+           {"n":"2023","v":"2023"},
            {"n":"2022","v":"2022"},
            {"n":"2021","v":"2021"},
            {"n":"2020","v":"2020"},
@@ -254,6 +257,7 @@
             "key":"year",
             "value":[
            {"n":"全部","v":""},
+           {"n":"2023","v":"2023"},
            {"n":"2022","v":"2022"},
            {"n":"2021","v":"2021"},
            {"n":"2020","v":"2020"},

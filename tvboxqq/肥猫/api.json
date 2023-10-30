@@ -19,6 +19,18 @@
             "ext": "./json/直播仓.json"
         },
         {
+            "key": " 短剧┃网",
+            "name": "⏯️┃短剧┃视频",
+            "type": 3,
+            "api": "./api/ddrpy2.m.js",
+            "ext": "./js/短剧网.js",
+            "gridview": "0-0-H",
+            "style": {
+                "type": "rect",
+                "ratio": 1.68
+            }
+        },
+        {
             "key": " 在线┃直播1",
             "name": "📺┃竞技┃直播",
             "type": 3,
@@ -157,6 +169,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
+        },
+        {
+            "key": "毛驴",
+            "name": "🪅┃毛驴┃影视",
+            "type": 3,
+            "api": "csp_MLYS",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "嘉靓",
@@ -566,7 +589,8 @@
             "key": "Qtv",
             "name": "🐧┃企鹅┃官源",
             "type": 3,
-            "api": "csp_Qtv",
+            "api": "./api/ddrpy2.m.js",
+            "ext": "./js/腾云.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -856,9 +880,9 @@
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
         },
         {
-            "name": "叉车解析",
+            "name": "乐酷蓝光",
             "type": 1,
-            "url": "http://cache.json.icu/1804857380.php?url="
+            "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="
         },
         {
             "name": "世界🥭",

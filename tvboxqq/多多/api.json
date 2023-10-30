@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『应用边界』提供🍥",
+            "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖,公众号:『多多影音』提供🍥",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -83,6 +83,18 @@
             "ext": "./json/jojo.json"
         },
         {
+            "key": "app_轻简",
+            "name": "🚈┃轻简┃影视",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+            "categories": [
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
             "key": "js_nangua",
             "name": "🎃┃南瓜┃影视",
             "type": 3,
@@ -100,14 +112,12 @@
             "ext": "./json/蜗牛.json"
         },
         {
-            "key": "csp_AppYsV2_365",
-            "name": "🐟️┃天天┃影视",
+            "key": "XBPQ_一只蜗",
+            "name": "🐮┃牛牛┃影视",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.12.21.186:119/api.php/app/"
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "ext": "./json/一只蜗.json"
         },
         {
             "key": "js_mogu",
@@ -134,23 +144,10 @@
             "name": "🪔┃加亮┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://api.jialiangos.com:88/api.php/app/"
-        },
-        {
-            "key": "app_轻简",
-            "name": "🚈┃轻简┃影视",
-            "type": 1,
-            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-            "categories": [
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
+            "ext": "http://api.jialiangos.com:81/api.php/app/"
         },
         {
             "key": "骑骑影院",
@@ -179,6 +176,16 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_appysv2_毛子",
+            "name": "🐛┃毛子┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
         },
         {
             "key": "js_耐菲",
@@ -226,98 +233,6 @@
                 "欧美剧",
                 "日韩剧"
             ]
-        },
-        {
-            "key": "js_changmeng",
-            "name": "💤┃畅梦┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/changmeng.js"
-        },
-        {
-            "key": "csp_SNzy",
-            "name": "🐉┃索尼┃高清",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
-        {
-            "key": "cjzy_暴风资源",
-            "name": "🎈┃暴风┃影视",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "categories": [
-                "国产剧",
-                "国产动漫",
-                "大陆综艺",
-                "港台综艺",
-                "香港剧",
-                "台湾剧",
-                "日本剧",
-                "欧美剧",
-                "泰国剧",
-                "日本动漫",
-                "日本综艺",
-                "综艺频道",
-                "新马泰综艺",
-                "纪录片",
-                "科幻片",
-                "喜剧片",
-                "战争片"
-            ]
-        },
-        {
-            "key": "csp_XBPQ_haoxi",
-            "name": "⚡️┃好戏┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/好戏.json"
-        },
-        {
-            "key": "js_轰轰",
-            "name": "💥‍┃轰轰┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/hoho.js"
         },
         {
             "key": "js_荐片",
@@ -470,6 +385,118 @@
             "jar": "./jars/csp_WoGG.jar"
         },
         {
+            "key": "js_changmeng",
+            "name": "💤┃畅梦┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/changmeng.js"
+        },
+        {
+            "key": "csp_SNzy",
+            "name": "🐉┃索尼┃高清",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "cjzy_暴风资源",
+            "name": "🎈┃暴风┃影视",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "大陆综艺",
+                "港台综艺",
+                "香港剧",
+                "台湾剧",
+                "日本剧",
+                "欧美剧",
+                "泰国剧",
+                "日本动漫",
+                "日本综艺",
+                "综艺频道",
+                "新马泰综艺",
+                "纪录片",
+                "科幻片",
+                "喜剧片",
+                "战争片"
+            ]
+        },
+        {
+            "key": "csp_XBPQ_圣城",
+            "name": "🏯┃圣城┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/圣城.json"
+        },
+        {
+            "key": "csp_XBPQ_348z",
+            "name": "🎲┃348┃电影",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/348z.json"
+        },
+        {
+            "key": "csp_XBPQ_haoxi",
+            "name": "⚡️┃好戏┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/好戏.json"
+        },
+        {
+            "key": "js_轰轰",
+            "name": "💥‍┃轰轰┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/hoho.js"
+        },
+        {
             "key": "XBPQ_葡萄",
             "name": "🎦┃短剧┃葡萄",
             "type": 3,
@@ -513,6 +540,16 @@
                 "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
                 "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
             }
+        },
+        {
+            "key": "js_蛋蛋",
+            "name": "🥚‍┃蛋蛋┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/蛋蛋.js"
         },
         {
             "key": "js_在线之家",
@@ -1555,61 +1592,35 @@
         {
             "name": "自动解析",
             "type": 1,
-            "url": "http://119.91.123.253:1234/Api/cs.php?url=",
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
                     "qiyi",
-                    "iqiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
-                    "mgtv",
-                    "芒果",
+                    "sohu",
+                    "搜狐",
                     "letv",
                     "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "rx",
+                    "ltnb",
                     "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
+                    "1905",
+                    "xigua"
                 ]
             }
         },
         {
-            "name": "手动解析1",
+            "name": "手动解析",
             "type": 1,
             "url": "https://www.playm3u8.cn/jiexi.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "手动解析2",
-            "type": 1,
-            "url": "https://dx.maclsj.com/blue/json.php?url=",
             "ext": {
                 "flag": [
                     "qq",

@@ -1,5 +1,3 @@
-//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "lives": [
@@ -69,13 +67,49 @@
             "ext": "./js/短剧网.js"
         },
         {
-            "key": "csp_YGP",
-            "name": "新片 | 预告片[jar]",
+            "key": "lf_js_p2p",
+            "name": "路飞 | 磁力[js]",
             "type": 3,
-            "api": "csp_YGP",
             "searchable": 1,
+            "changeable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "filterable": 1,
+            "api": "./api/lf_p2p2_min.js",
+            "timeout": 30
+        },
+        {
+            "key": "lf_js_lf_live",
+            "name": "路飞 | 直播[js]",
+            "type": 3,
+            "api": "./api/lf_live_min.js",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./txt/lf_live.txt"
+        },
+        {
+            "key": "drpy_js_直播大全",
+            "name": "电视 | 直播大全[js]",
+            "type": 3,
+            "api": "./api/live2cms.js",
+            "style": {
+                "type": "oval"
+            },
+            "changeable": 0,
+            "ext": "./json/live2mv_data.json"
+        },
+        {
+            "key": "NanGua",
+            "name": "南瓜|弹幕",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1"
         },
         {
             "key": "jojo弹幕直连",
@@ -117,7 +151,7 @@
         },
         {
             "key": "csp_WoGG",
-            "name": "阿里 | 玩偶哥哥[jar]",
+            "name": "弹幕 | 玩偶哥哥[jar]",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -128,7 +162,7 @@
         },
         {
             "key": "csp_Wobg",
-            "name": "阿里 | 玩偶表哥[jar]",
+            "name": "弹幕 | 玩偶表哥[jar]",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -138,51 +172,93 @@
             "timeout": 30
         },
         {
-            "key": "小纸条_cli",
-            "name": "俊于 | 小纸条[T4]",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-            "searchable": 1,
+            "key": "Ppxzy",
+            "name": "弹幕 | 皮皮虾[jar]",
+            "type": 3,
+            "api": "csp_Ppxzy",
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://ppxzy.net/$$$null",
             "timeout": 30
         },
         {
-            "key": "lf_js_p2p",
-            "name": "路飞 | 磁力[js]",
+            "key": "Mino",
+            "name": "弹幕 | Mino[jar]",
             "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"
+        },
+        {
+            "key": "布雷",
+            "name": "弹幕 | 布雷[jar]",
+            "type": 3,
+            "api": "csp_AppMao",
+            "playerType": 2,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g==$$$null$$$1"
+        },
+        {
+            "key": "一念",
+            "name": "弹幕 | 一念[jar]",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS$$$null$$$1"
+        },
+        {
+            "key": "新6V",
+            "name": "弹幕 | 新6V[jar]",
+            "type": 3,
+            "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 1,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$http://www.xb6v.com$$$1"
+        },
+        {
+            "key": "4KHDR",
+            "name": "弹幕 | 4KHDR[jar]",
+            "type": 3,
+            "api": "csp_FourKHDR",
+            "ext": "./txt/4khdr.txt",
             "quickSearch": 1,
-            "filterable": 1,
-            "api": "./api/lf_p2p2_min.js",
+            "changeable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "校长影视",
+            "name": "弹幕 | 校长[jar]",
+            "type": 3,
+            "api": "csp_XiaoZhang",
+            "ext": "./json/token.json",
+            "quickSearch": 1,
+            "changeable": 1,
             "timeout": 30
         },
         {
-            "key": "lf_js_lf_live",
-            "name": "路飞 | 直播[js]",
+            "key": "团长资源",
+            "name": "弹幕 | 团长[jar]",
             "type": 3,
-            "api": "./api/lf_live_min.js",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 1,
-            "changeable": 0,
+            "api": "csp_TZFile",
+            "ext": "./json/token.json",
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./txt/lf_live.txt"
+            "changeable": 1,
+            "timeout": 30
         },
         {
-            "key": "drpy_js_直播大全",
-            "name": "电视 | 直播大全[js]",
+            "key": "迪迪",
+            "name": "弹幕 | 迪迪[jar]",
+            "api": "csp_AppYsV2",
             "type": 3,
-            "api": "./api/live2cms.js",
-            "style": {
-                "type": "oval"
-            },
-            "changeable": 0,
-            "ext": "./json/live2mv_data.json"
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/$$$1"
         },
         {
             "key": "drpy_js_酷云77",
@@ -381,11 +457,18 @@
             "ext": "./js/华乐影院.js"
         },
         {
-            "key": "drpy_js_4K视界[V2]",
-            "name": "影视 | 4K视界[V2]",
+            "key": "drpy_js_电影先生",
+            "name": "影视 | 电影先生[js]",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "./js/4K视界[V2].js"
+            "ext": "./js/电影先生.js"
+        },
+        {
+            "key": "drpy_js_落攻阁影视",
+            "name": "影视 | 落攻阁影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/落攻阁影视.js"
         },
         {
             "key": "drpy_js_555电影[V2]",
@@ -458,13 +541,6 @@
             "ext": "./js/曲奇影视[V2].js"
         },
         {
-            "key": "drpy_js_热剧猫[V2]",
-            "name": "影视 | 热剧猫[V2]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/热剧猫[V2].js"
-        },
-        {
             "key": "drpy_js_速看100[V2]",
             "name": "影视 | 速看100[V2]",
             "type": 3,
@@ -484,6 +560,90 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/影探[V2].js"
+        },
+        {
+            "key": "drpy_js_佳靓[V2]",
+            "name": "影视 | 佳靓[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/佳靓[V2].js"
+        },
+        {
+            "key": "drpy_js_北极狐[V2]",
+            "name": "影视 | 北极狐[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/北极狐[V2].js"
+        },
+        {
+            "key": "drpy_js_大米星球[V2]",
+            "name": "影视 | 大米星球[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/大米星球[V2].js"
+        },
+        {
+            "key": "drpy_js_奈飞狗[V2]",
+            "name": "影视 | 奈飞狗[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/奈飞狗[V2].js"
+        },
+        {
+            "key": "drpy_js_思古影视[V2]",
+            "name": "影视 | 思古影视[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/思古影视[V2].js"
+        },
+        {
+            "key": "drpy_js_映迷[V2]",
+            "name": "影视 | 映迷[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/映迷[V2].js"
+        },
+        {
+            "key": "drpy_js_电影先生[V2]",
+            "name": "影视 | 电影先生[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/电影先生[V2].js"
+        },
+        {
+            "key": "drpy_js_美益达[V2]",
+            "name": "影视 | 美益达[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/美益达[V2].js"
+        },
+        {
+            "key": "drpy_js_落攻阁影视[V2]",
+            "name": "影视 | 落攻阁影视[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/落攻阁影视[V2].js"
+        },
+        {
+            "key": "drpy_js_西门[V2]",
+            "name": "影视 | 西门[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/西门[V2].js"
+        },
+        {
+            "key": "drpy_js_路人甲[V2]",
+            "name": "影视 | 路人甲[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/路人甲[V2].js"
+        },
+        {
+            "key": "drpy_js_鑫鑫[V2]",
+            "name": "影视 | 鑫鑫[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/鑫鑫[V2].js"
         },
         {
             "key": "drpy_js_360影视",
@@ -755,26 +915,6 @@
             "timeout": 30
         },
         {
-            "key": "drpy_js_meow",
-            "name": "影视 | meow[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/meow.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30
-        },
-        {
-            "key": "drpy_js_kkpans",
-            "name": "夸克 | kk盘[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/kkpans.js",
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30
-        },
-        {
             "key": "drpy_js_校长影视",
             "name": "夸克 | 校长影视[js]",
             "type": 3,
@@ -820,6 +960,16 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/funletu.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30
+        },
+        {
+            "key": "drpy_js_meow",
+            "name": "影视 | meow搜[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/meow.js",
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 30
@@ -1574,13 +1724,6 @@
             "ext": "./js/大米星球.js"
         },
         {
-            "key": "drpy_js_电影先生",
-            "name": "影视 | 电影先生[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/电影先生.js"
-        },
-        {
             "key": "drpy_js_飞兔影视",
             "name": "影视 | 飞兔影视[js]",
             "type": 3,
@@ -1649,13 +1792,6 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/零度影视.js"
-        },
-        {
-            "key": "drpy_js_落攻阁影视",
-            "name": "影视 | 落攻阁影视[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/落攻阁影视.js"
         },
         {
             "key": "drpy_js_美剧网",
@@ -2182,6 +2318,66 @@
             "url": "https://jx.m3u8.pw/?url="
         },
         {
+            "name": "巧技",
+            "type": 1,
+            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "K影院",
+            "type": 1,
+            "url": "http://pandown.pro/app/lvdou.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS"
+                ]
+            }
+        },
+        {
             "name": "左岸",
             "type": 1,
             "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
@@ -2268,6 +2464,13 @@
         {
             "name": "proxy",
             "hosts": [
+                "kubady1.com",
+                "kuba222.com",
+                "mp4us.com",
+                "dydhhy.com",
+                "magicalsearch.top",
+                "api123.adys.app",
+                ".*wogg.xyz",
                 "dmku.thefilehosting.com",
                 "epg.112114.xyz",
                 "raw.githubusercontent.com",

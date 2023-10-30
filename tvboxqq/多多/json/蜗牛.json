@@ -1,11 +1,12 @@
- {
-        "二次截取": "module-items&&<footer id=+module-item-cover",
-        "数组": "module-item-pic&&module-item-cover",
-        "副标题": "module-item-text*>&&</div>",
-        "简介": "关注公众号【应用边界】获取更多优质资源，加入QQ频道【应用多多】防失联！提醒您请勿相信影片中的广告，以免上当受骗！+剧情：</span>&&</span>",
-        "搜索模式": "0",
-        "播放数组": "\"module-blocklist\">&&</div>",
-        "播放标题": "<span>&&</span>",
-        "分类": "电影$1#海外剧$2#日韩剧$21#动漫$20#短剧$23",
-        "分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
-      }
+{
+				"二次截取": "module-items&&<footer id=+module-item-cover",
+				"数组": "module-item-pic&&module-item-cover",
+				"副标题": "module-item-text*>&&</div>",
+				"简介": "剧情：关注公众号【多多影音】获取更多影视资源，加入QQ频道【应用多多】防失联！提醒您请勿相信影片中的广告，以免上当受骗！+</span>&&</span>",
+				"搜索模式": "0",
+				//"搜索url":"https://v.woniufan.cn/index.php/vod/search.html?wd={wd}",
+				"播放数组": "\"module-blocklist\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"分类": "电影$1#海外剧$2#日韩剧$21#动漫$20#短剧$23",
+				"分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
+			}
