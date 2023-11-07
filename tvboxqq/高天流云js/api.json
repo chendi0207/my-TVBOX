@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "lives": [
@@ -103,28 +105,6 @@
             "ext": "./json/live2mv_data.json"
         },
         {
-            "key": "NanGua",
-            "name": "南瓜|弹幕",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "null$$$1"
-        },
-        {
-            "key": "jojo弹幕直连",
-            "name": "弹幕 | JOJO[jar]",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30
-        },
-        {
             "key": "csp_Sp360",
             "name": "弹幕 | 360[jar]",
             "type": 3,
@@ -172,6 +152,15 @@
             "timeout": 30
         },
         {
+            "key": "NanGua",
+            "name": "弹幕 | 南瓜[jar]",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1"
+        },
+        {
             "key": "Ppxzy",
             "name": "弹幕 | 皮皮虾[jar]",
             "type": 3,
@@ -181,34 +170,6 @@
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://ppxzy.net/$$$null",
             "timeout": 30
-        },
-        {
-            "key": "Mino",
-            "name": "弹幕 | Mino[jar]",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"
-        },
-        {
-            "key": "布雷",
-            "name": "弹幕 | 布雷[jar]",
-            "type": 3,
-            "api": "csp_AppMao",
-            "playerType": 2,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g==$$$null$$$1"
-        },
-        {
-            "key": "一念",
-            "name": "弹幕 | 一念[jar]",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS$$$null$$$1"
         },
         {
             "key": "新6V",
@@ -296,6 +257,13 @@
             "ext": "./js/南瓜影视.js"
         },
         {
+            "key": "drpy_js_Auete",
+            "name": "影视 | Auete[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/Auete.js"
+        },
+        {
             "key": "drpy_js_cokemv",
             "name": "影视 | cokemv[js]",
             "type": 3,
@@ -357,6 +325,13 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/在线之家.js"
+        },
+        {
+            "key": "drpy_js_量子资源",
+            "name": "影视 | 量子资源[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/量子资源.js"
         },
         {
             "key": "drpy_js_热播库",

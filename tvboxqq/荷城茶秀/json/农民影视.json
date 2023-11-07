@@ -50,7 +50,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://m.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
+    "分类url":"https://m.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     

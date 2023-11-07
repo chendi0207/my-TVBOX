@@ -54,7 +54,9 @@
     
     "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
     
-    "分类url":"http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html",
+    //"分类url":"http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html",
+    
+    "分类url":"http://www.lezhutv.com/type/{cateId}-{catePg}.html"}
         
     "筛选":{
     "1":[

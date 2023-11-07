@@ -26,21 +26,19 @@
     
     "链接":"href=\"&&\"",
     
-    //"搜索url":"/vod/search.html?wd={wd}&submit=",
+    "搜索模式":"1",
     
-    //"搜索数组":"myui-vodlist__thumb&&</a>",
+    "搜索url":"/vod/search.html?wd={wd}&submit=",
     
-    //"搜索标题":"title=\"&&\"",
+    "搜索数组":"myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload\"&&</a>",
     
-    //"搜索副标题":"pic-tag pic-tag-top\">&&</span>",
+    "搜索标题":"title=\"&&\"",
     
-    //"搜索图片":"data-original=\"&&\"",
+    "搜索副标题":"background-color:*>&&</span>",
     
-    //"搜索链接":"href=\"&&\"",
+    "搜索图片":"data-original=\"&&\"",
     
-    //"搜索模式":"1",
-    
-    //"搜索后缀":"/vod/detail/id/",
+    "搜索链接":"href=\"&&\"",
     
     "线路数组":"</a><h3&&/h3>",
     

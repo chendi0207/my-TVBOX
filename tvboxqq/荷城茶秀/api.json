@@ -1,4 +1,4 @@
-//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -15,7 +15,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ②群：891992786",
+            "name": "🅱️追剧影院|T热播",
             "type": 3,
             "api": "./api/Api.js",
             "searchable": 0,
@@ -43,10 +43,20 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
+            "key": "Czspp",
+            "name": "🅱️厂长影视|T追剧",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzy88.com/"
+        },
+        {
             "key": "csp_乐猪",
             "name": "🅱️乐猪影视|T追剧",
             "type": 3,
-            "api": "csp_xBPQ",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -56,7 +66,7 @@
             "key": "csp_花猫",
             "name": "🅱️花猫影视|T追剧",
             "type": 3,
-            "api": "csp_xBPQ",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -83,37 +93,7 @@
             "ext": "./json/星辰影视.json"
         },
         {
-            "key": "csp_xBPQ_蜗牛",
-            "name": "🅱️蜗牛影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/蜗牛影视.json"
-        },
-        {
-            "key": "csp_盒子",
-            "name": "🅱️电影盒子|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影盒子.json"
-        },
-        {
-            "key": "csp_干饭",
-            "name": "🅱️干饭影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/干饭影视.json"
-        },
-        {
-            "key": "csp_xBPQ_疯狗",
+            "key": "csp_疯狗",
             "name": "🅱️疯狗影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
@@ -121,6 +101,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/疯狗影视.json"
+        },
+        {
+            "key": "csp_爱看",
+            "name": "🅱️爱看影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱看影视.json"
+        },
+        {
+            "key": "csp_七新",
+            "name": "🅱️七新影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七新影视.json"
+        },
+        {
+            "key": "csp_超前",
+            "name": "🅱️超前点播|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/超前B站.json"
         },
         {
             "key": "csp_午舞",
@@ -153,34 +163,14 @@
             "ext": "./json/奇优影视.json"
         },
         {
-            "key": "csp_七七",
-            "name": "🅱️七七影视|T追剧",
+            "key": "csp_xBPQ_视觉",
+            "name": "🅱️视觉影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/三七影视.json"
-        },
-        {
-            "key": "csp_笑笑",
-            "name": "🅱️笑笑影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/笑笑影视.json"
-        },
-        {
-            "key": "csp_老蟹",
-            "name": "🅱️老蟹影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/老蟹影视.json"
+            "ext": "./json/新视觉影视.json"
         },
         {
             "key": "csp_午夜",
@@ -253,16 +243,6 @@
             "ext": "./json/348影视.json"
         },
         {
-            "key": "csp_淘剧",
-            "name": "🅱️淘剧影院|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/淘剧影院.json"
-        },
-        {
             "key": "csp_TVB",
             "name": "🅱️TVB云播|T追剧",
             "type": 3,
@@ -271,36 +251,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/TVB云播.json"
-        },
-        {
-            "key": "csp_光棍",
-            "name": "🅱️光棍影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/光棍影视.json"
-        },
-        {
-            "key": "csp_101",
-            "name": "🅱️摇玲影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/101影视.json"
-        },
-        {
-            "key": "csp_圣城",
-            "name": "🅱️圣城影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/圣城影视.json"
         },
         {
             "key": "csp_土豪",
@@ -323,14 +273,14 @@
             "ext": "./json/YYDS影视.json"
         },
         {
-            "key": "csp_345",
-            "name": "🅱️看片影视|T追剧",
+            "key": "csp_达龟",
+            "name": "🅱️达龟影院|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/345看片.json"
+            "ext": "./json/达达龟影视.json"
         },
         {
             "key": "csp_七年",
@@ -341,16 +291,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/七年影视.json"
-        },
-        {
-            "key": "csp_酷茶",
-            "name": "🅱️酷茶影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/酷茶影视.json"
         },
         {
             "key": "csp_蛋蛋",
@@ -393,14 +333,14 @@
             "ext": "./json/米爱影视.json"
         },
         {
-            "key": "csp_子子",
-            "name": "🅱️紫梓影视|T追剧",
+            "key": "csp_低端",
+            "name": "🅱️低端影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/子子影视.json"
+            "ext": "./json/低端影视.json"
         },
         {
             "key": "csp_非凡",
@@ -424,10 +364,10 @@
         },
         {
             "key": "js_搜狗",
-            "name": "🅱️搜狗官源|T追剧",
+            "name": "🅱️荷城官源|T追剧",
             "type": 3,
             "api": "./api/Api.js",
-            "ext": "./js/搜狗官源.js"
+            "ext": "./js/荷城官源.js"
         },
         {
             "key": "荐片",
@@ -448,13 +388,13 @@
             "filterable": 0
         },
         {
-            "key": "Gitcafe",
-            "name": "🔍阿里|纸条搜",
+            "key": "PanSearch",
+            "name": "🔍阿里|网盘搜",
             "type": 3,
-            "api": "csp_Paper",
+            "api": "csp_PanSearch",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
+            "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
@@ -463,8 +403,8 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
+            "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
@@ -473,9 +413,19 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
+            "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+        },
+        {
+            "key": "YiSou",
+            "name": "🔍阿里|易搜搜",
+            "type": 3,
+            "api": "csp_YiSou",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"
         },
         {
             "key": "Zhaozy",
@@ -483,9 +433,19 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$hccx$$$hccx"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "🔍阿里|小纸条",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$ygfxz$$$66666"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "cctv",
@@ -531,8 +491,8 @@
             "name": "🐼动漫丨巴士",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/动漫巴士.json"
         },
@@ -541,8 +501,8 @@
             "name": "🐼维奇丨动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/维奇动漫.json"
         },
@@ -551,8 +511,8 @@
             "name": "🎧刷刷｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/短剧网.json"
         },
@@ -699,52 +659,9 @@
             "url": "Web"
         },
         {
-            "name": "观音解析",
+            "name": "茶王解析",
             "type": 1,
-            "url": "http://61.147.93.21:8090/index.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
-        },
-        {
-            "name": "茶杯解析",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -787,7 +704,7 @@
         {
             "name": "盖碗解析",
             "type": 1,
-            "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
             "ext": {
                 "flag": [
                     "qiyi",

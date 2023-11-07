@@ -20,7 +20,7 @@
     
     "搜索url":"/index.php?s=vod-search-name;post;wd={wd}",
     
-    "线路数组":"glyphicon glyphicon-facetime-video ff-text\">&&</div>[不包含:极速]",
+    "线路数组":"glyphicon glyphicon-facetime-video ff-text\">&&</div>",
     
     "线路标题":"🌸荷城茶秀接口🌸+</span>&&</h2>",
     
@@ -30,6 +30,6 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html;;akd0",
+    "分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html;;akd0x",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
