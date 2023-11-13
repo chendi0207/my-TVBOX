@@ -1,9 +1,9 @@
 
 {"urls":[
+{"name":"🐼肥猫宝贝👙","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"🐼熊猫不叫猫🐼","url":"https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"},
 {"name":"🐯精简👙","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
  {"name":"🐯跑马👙","url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json"},
-{"name":"🐼肥猫宝贝👙","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"未知源👙","url":"https://wds.ecsxs.com/230989.json"},
 {"url": "https://agit.ai/30215429/TVBox/raw/branch/master/sft.txt","name": "⚜️爽翻天主线路"},
 {"url": "http://itvbox.cc/sft/sft.m3u8","name": "⚜️爽翻天备用线路"},
@@ -11,14 +11,13 @@
 {"url": "http://饭太硬.top/tv","name": "⚜️饭太硬线路"},                
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "⚜️小米线路"},
 {"url": "http://刚刚.live/猫","name": "⚜️肥猫刚刚🦀"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
-{"url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json","name": "⚜️香雅晴2线路"},                 
+{"url": "http://yydsys.top/duo","name": "⚜️多多家庭线路"},
+{"name": "🚡阿里精品","url": "http://yydsys.top/duo/ali"},  
 {"url": "https://tvbox.cainisi.cf","name": "🌼菜妮丝👙"},                      
 {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "⚜️南风线路"},   
 {"url": "https://神器每日推送.tk/pz.json","name": "📿神器👙"},       
 {"url": "http://52bsj.vip:98/wuai","name": "⚜️吾爱1线路"},   
 {"url": "http://suo.im/9iyzB","name": "⚜️吾爱2线路"},
-{"url": "http://yydsys.top/duo","name": "⚜️多多家庭线路"},
 {"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "⚜️月光线路1"},
 {"url":"http://52bsj.vip:98/cl","name":"⚜️月光线路2"},
 {"url":"http://home.jundie.top:81/top98.json","name":"⚜️俊宇线路"},
@@ -88,7 +87,6 @@
 {"name": "💕全部4k资源","url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"},
 {"name": "💗锦哥","url": "http://jin.锦哥哥.love"},
 {"name": "🐈影音天堂4k","url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"},
-{"name": "🚡阿里精品","url": "http://yydsys.top/duo/ali"},
 {"name": "🚖影探4k","url": "http://www.lyyytv.cn/yt/yt.json"},
 {"name": "💗4k","url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"},
 {"name": "😍短剧大全","url": "http://wp.anxwl.cn/view.php/16789475e9f1d205409131129d2b1162.jpg"},
@@ -157,5 +155,7 @@
 {"name":"🌿乱世👙","url":"http://www.dmtv.ml/mao/single.json"},
 {"name":"🏡潇洒👙","url":"https://la.kstore.space/download/2863/01.txt"},
 {"name":"✨精简👙","url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
+{"url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json","name": "⚜️香雅晴2线路"},
 {"name":"🅱yoisk👙","url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json"}
 ]}
