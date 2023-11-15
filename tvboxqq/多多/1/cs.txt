@@ -689,10 +689,6 @@
       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
     },
     {
-      "name": "🏁速度搜索",
-      "url": "http://52bsj.vip:81/api/v3/file/get/172234/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%86%85%E5%AE%B9.txt?sign=qZLVlqUfttYuVJdIw75KcAdx_ZzeZSJgKdmcba48U3U%3D%3A0"
-    },
-    {
       "name": "🌈盐枭接口",
       "url": "https://9xi4o.tk/tvbox.json"
     },
@@ -703,14 +699,6 @@
     {
       "name": "🥃荷城茶秀",
       "url": "http://rihou.cc:88/荷城茶秀"
-    },
-    {
-      "name": "🍭徐徐影视",
-      "url": "http://xutv.hz.cz/tv/xu106.txt"
-    },
-    {
-      "name": "🏩源来享家",
-      "url": "https://box.000913.xyz/230924"
     },
     {
       "name": "🐝蜂窝接口",
@@ -725,20 +713,8 @@
       "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"
     },
     {
-      "name": "🌮于氏影业",
-      "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
-    },
-    {
-      "name": "🎀熊猫接口",
-      "url": "https://s2.pub/xmbjmxdc"
-    },
-    {
       "name": "📮好人接口",
       "url": "https://xhdwc.tk/0"
-    },
-    {
-      "name": "🌹乐享接口",
-      "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
     },
     {
       "name": "💛猫技接口",
