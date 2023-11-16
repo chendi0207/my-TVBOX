@@ -6,9 +6,7 @@
 
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/道长js/api.json", "name": "道长js" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云js/api.json", "name": "高天流云js" },
-
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
+{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
 

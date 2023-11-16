@@ -23,21 +23,18 @@
             "name": "⏯️┃短剧┃视频",
             "type": 3,
             "api": "./api/ddrpy2.m.js",
-            "ext": "./js/短剧网.js",
-            "gridview": "0-0-H",
-            "style": {
-                "type": "rect",
-                "ratio": 1.68
-            }
+            "ext": "./js/短剧网.js"
         },
         {
             "key": " 在线┃直播1",
             "name": "📺┃竞技┃直播",
             "type": 3,
             "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "gridview": "0-0-H",
+            "style": {
+                "type": "rect",
+                "ratio": 1.68
+            }
         },
         {
             "key": " 在线┃直播2",
@@ -63,6 +60,13 @@
                 "ratio": 3.8
             },
             "gridview": "0-0-4.1"
+        },
+        {
+            "key": "橘子",
+            "name": "🍊｜橘子┃影视",
+            "type": 3,
+            "api": "csp_AppMao",
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
         {
             "key": "alist",
@@ -93,15 +97,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-        },
-        {
-            "key": "csp_电影",
-            "name": "🐼┃贝贝┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://app.dianyi.ng/api.php/v1.vod",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "毛驴",
@@ -137,7 +132,7 @@
             "key": "荐片",
             "name": "🎬┃荐片┃影视",
             "type": 3,
-            "api": "./api/drpy1.min.js",
+            "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js"
         },
         {
@@ -163,67 +158,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/虎虎.json"
-        },
-        {
-            "key": "蜗牛2",
-            "name": "🐌┃蜗牛┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playStartTime": 15,
-            "ext": {
-                "二次截取": "module-items&&<footer id=+module-item-cover",
-                "数组": "module-item-pic&&module-item-cover",
-                "副标题": "module-item-text*>&&</div>",
-                "简介": "剧情：</span>&&</span>",
-                "搜索模式": "0",
-                "播放数组": "\"module-blocklist\">&&</div>",
-                "播放标题": "<span>&&</span>",
-                "分类": "电影$1#海外剧$2#日韩剧$21#动漫$20#短剧$23",
-                "分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
-            }
-        },
-        {
-            "key": "csp_XBP南坊",
-            "name": "🏡┃南坊┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/csp_XBP南坊.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "站名": "南坊影视",
-                "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.10 (dart:io)",
-                "二次截取": "\"data\"*[&&]",
-                "数组": "{&&}[替换:mac>>http]",
-                "图片": "\"vod_pic\"*\"&&\"",
-                "标题": "\"vod_name\"*\"&&\"",
-                "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-                "线路数组": "\"player_info\":{&&}",
-                "线路标题": "\"show\"*\"&&\"",
-                "导演": "vod_director\"*\"&&\"",
-                "主演": "vod_actor\"*\"&&\"",
-                "简介": "vod_blurb\"*\"&&\"",
-                "播放二次截取": "&&[替换]",
-                "播放数组": "urls*\\[&&\\]",
-                "播放列表": "{&&}",
-                "跳转播放链接": "\"url\"*\"&&\"",
-                "播放标题": "\"name\"*\"&&\"",
-                "跳转解析": "默认$空#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=",
-                "播放链接": "解析+\"url\"*\"&&\"",
-                "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-                "搜索模式": "1",
-                "搜索二次截取": "\"data\"*[&&]",
-                "搜索数组": "{&&}",
-                "搜索图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
-                "搜索标题": "\"vod_name\"*\"&&\"",
-                "搜索副标题": "\"vod_remarks\"*\"&&\"",
-                "搜索链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-                "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
-                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-            }
         },
         {
             "key": "索尼资源",
@@ -311,17 +245,6 @@
             "ext": "./json/nmys.json"
         },
         {
-            "key": "厂长",
-            "name": "🏭┃厂长┃影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": "https://cz01.pw/"
-        },
-        {
             "key": "csp_FanYY",
             "name": "👲┃玩偶┃影视",
             "type": 3,
@@ -361,19 +284,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "一蜗牛",
-            "name": "🐌┃蜗蜗┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
-                "嗅探词": "xunlei.com#m3u8#.mp4",
-                "分类": "电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4",
-                "搜索模式": "1",
-                "搜索url": "https://www.yizhiwo.cc/vodsearch/{wd}-------------.html"
-            }
         },
         {
             "key": "蘑菇",
@@ -617,16 +527,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "./json/ych.json"
-        },
-        {
-            "key": "csp_XYQBiu_聚合短视频",
-            "name": "📽️┃视频┃聚合",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/短视频.json"
         },
         {
             "key": "csp_Nbys",

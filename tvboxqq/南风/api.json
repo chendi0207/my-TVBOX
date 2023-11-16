@@ -14,16 +14,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_YGP",
-            "name": "🚀叨观荐影",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "csp_Czsapp",
             "name": "🏭厂长",
             "type": 3,
@@ -356,7 +346,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
         },
         {
             "key": "YiSo",
@@ -759,19 +749,19 @@
     ],
     "parses": [
         {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
             "name": "Json聚合",
             "type": 3,
             "url": "Demo"
         },
         {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
             "name": "qiaoji",
             "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -800,6 +790,67 @@
                     "qiqi",
                     "XALS",
                     "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "米太硬",
+            "type": 1,
+            "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "77",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
                 ]
             }
         },
