@@ -727,6 +727,74 @@
     {
       "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
       "name": "📕教育专线"
+    },
+    {
+      "url": "https://api.zalman2022.repl.co/api.json",
+      "name": "影视资源站"
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "name": "宝盒vip专享"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
+      "name": "乐享汇fans4K蓝光专线①"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt",
+      "name": "乐享汇fans4K蓝光专线②"
+    },
+    {
+      "url": "http://ftp6590005.host131.sanfengyun.cn/free/api.json",
+      "name": "青木接口"
+    },
+    {
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json",
+      "name": "短剧接口"
+    },
+    {
+      "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt",
+      "name": "pan.shangui.cc"
+    },
+    {
+      "url": "http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json",
+      "name": "阿里专线"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=https://weixine.net/ysc.json",
+      "name": "运输车"
+    },
+    {
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt",
+      "name": "恒星"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "abc"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=http://rihou.vip:88/荷城茶秀",
+      "name": "荷城茶秀"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+      "name": "欧歌"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+      "name": "月光宝盒"
+    },
+    {
+      "url": "https://jm.dovxi.repl.co/api?url=https://wds.ecsxs.com/230989.json",
+      "name": "春盈天下"
+    },
+    {
+      "url": "https://framagit.org/tiantuhao/honor/-/raw/master/tian.json",
+      "name": "田什么"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "name": "高天流云 No.1"
     }
   ]
 }
