@@ -201,8 +201,8 @@
       "name": "⚜️巧技线路"
     },
     {
-      "url": "http://124.220.63.232/关注码上放生/时光机",
-      "name": "⚜️时光机线路"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
+      "name": "⚜️码上线路"
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
@@ -479,10 +479,6 @@
     {
       "name": "🐗月光宝盒影视",
       "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json"
-    },
-    {
-      "name": "🦑码上放生",
-      "url": "https://www.bestpvp.site/关注码上放生/时光机"
     },
     {
       "name": "🦕饭佬备份",
