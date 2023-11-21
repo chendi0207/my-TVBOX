@@ -13,6 +13,10 @@
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
     {
+      "name": "☠有毒科技☠",
+      "url": "https://youdu.fan/yd/yd.json"
+    },
+    {
       "name": "🐼熊猫不叫猫🐼",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
     },
@@ -202,7 +206,7 @@
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
-      "name": "⚜️码上线路"
+      "name": "⚜️码上时光"
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
