@@ -1,30 +1,30 @@
-{ "urls": [{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "小米" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/道长js/api.json", "name": "道长js" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/道长js/api.json", "name": "道长js" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云js/api.json", "name": "高天流云js" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云js/api.json", "name": "高天流云js" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/多多/api.json", "name": "多多" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/多多/api.json", "name": "多多" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/南风/api.json", "name": "南风" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/动漫频道/api.json", "name": "动漫频道" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/动漫频道/api.json", "name": "动漫频道" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧儿/api.json", "name": "巧儿" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧儿/api.json", "name": "巧儿" },
         
-{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
 { "url": "http://xxxoo.shop/", "name": "精品路线" },
 

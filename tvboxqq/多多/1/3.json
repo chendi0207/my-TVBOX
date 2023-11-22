@@ -3,8 +3,8 @@
 "storeHouse":
 [
 
-{"sourceName":"本地仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt"},
-{"sourceName":"自搜网络","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/自用.txt"},
-{"sourceName":"大神网络","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/多多/1/cs.txt"}
+{"sourceName":"本地仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt"},
+{"sourceName":"自搜网络","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/自用.txt"},
+{"sourceName":"大神网络","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/多多/1/cs.txt"}
 ]
 }
