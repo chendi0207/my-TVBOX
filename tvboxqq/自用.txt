@@ -6,9 +6,7 @@
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/道长js/api.json", "name": "道长js" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云js/api.json", "name": "高天流云js" },
-
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/高天流云XYQ/api.json", "name": "高天流云XYQ" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
 
@@ -22,7 +20,7 @@
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧儿/api.json", "name": "巧儿" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧技/api.json", "name": "巧技" },
         
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 

@@ -20,4 +20,4 @@
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧儿/api.json", "name": "巧儿" }]}
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/巧技/api.json", "name": "巧技" }]}
