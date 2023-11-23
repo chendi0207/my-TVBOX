@@ -503,7 +503,7 @@ CGTN阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 贵州卫视,http://hz752.live:63/vvs/astv.php?id=gzwshd
 贵州卫视,http://39.134.136.151:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
-贵州卫视,http://hz752.live:63/vvs/bst.php?id=gzws
+贵州��视,http://hz752.live:63/vvs/bst.php?id=gzws
 贵州卫视,http://hz752.live:63/vvs/gzws.php?id=gzws
 贵州卫视,http://hz752.live:63/vvs/yst.php?id=guizhoustv
 贵州卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8

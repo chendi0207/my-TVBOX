@@ -29,7 +29,7 @@ var rule = {
     searchUrl: '/api/live/search?platform=all&keyWords=**&isLive=0',
     // searchable: 2,
     searchable: 0,
-    quickSearch: 1,
+    quickSearch: 0,
     headers: {
         'User-Agent': 'MOBILE_UA'
     },

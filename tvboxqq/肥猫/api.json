@@ -12,11 +12,12 @@
             "filterable": 0
         },
         {
-            "key": "直播转点播",
-            "name": "🐼️┃电视┃直播",
+            "key": "YGP",
+            "name": "🚀┃叨观┃荐影",
             "type": 3,
-            "api": "./api/直播转点播2.js",
-            "ext": "./json/直播仓.json"
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": " 短剧┃网",
@@ -62,13 +63,6 @@
             "gridview": "0-0-4.1"
         },
         {
-            "key": "橘子",
-            "name": "🍊｜橘子┃影视",
-            "type": 3,
-            "api": "csp_AppMao",
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-        },
-        {
             "key": "alist",
             "name": "🍰┃小鸭┃网盘",
             "type": 3,
@@ -77,6 +71,34 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/alist.json"
+        },
+        {
+            "key": "csp_FanYY",
+            "name": "👲┃玩偶┃影视",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "橘子",
+            "name": "🍊｜橘子┃影视",
+            "type": 3,
+            "api": "csp_AppMao",
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+        },
+        {
+            "key": "南瓜",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "影探VIP",
@@ -119,14 +141,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://api.jialiangos.com:81/api.php/app/"
-        },
-        {
-            "key": "YGP",
-            "name": "🚀┃叨观┃荐影",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0,
-            "quickSearch": 0
         },
         {
             "key": "荐片",
@@ -243,16 +257,6 @@
             "type": 3,
             "api": "csp_Nmys",
             "ext": "./json/nmys.json"
-        },
-        {
-            "key": "csp_FanYY",
-            "name": "👲┃玩偶┃影视",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://wogg.xyz/"
         },
         {
             "key": "奇奇",
@@ -445,7 +449,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_search_PanSearch",
@@ -455,7 +459,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_search_Yisou",
@@ -466,7 +470,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_search_Zhaozy",
@@ -477,7 +481,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "playerType": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$feimao$$$123456"
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
         },
         {
             "key": "csp_search_Upyunso",
@@ -488,7 +492,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_search_Alips",
@@ -499,7 +503,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         },
         {
             "key": "csp_BBB",
@@ -566,43 +570,73 @@
         },
         {
             "key": "儿童",
+            "name": "📚┃儿童┃启蒙",
+            "type": 3,
+            "api": "./api/ddrpy2.m.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./js/兔小贝.js"
+        },
+        {
+            "key": "少儿",
             "name": "📚┃少儿┃教育",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./json/少儿教育.json"
         },
         {
             "key": "小学",
             "name": "📚┃小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./json/小学课堂.json"
         },
         {
             "key": "初中",
             "name": "📚┃初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./json/初中课堂.json"
         },
         {
             "key": "高中",
             "name": "📚┃高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./json/高中课堂.json"
         },
         {
             "key": "push_agent",
@@ -613,7 +647,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "playerType": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
         },
         {
             "key": "ext_live_protocol",
@@ -627,8 +661,14 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lives/live.txt",
+            "url": "",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "redirect",
+            "type": 0,
+            "url": "",
+            "epg": ""
         }
     ],
     "parses": [
@@ -1002,89 +1042,13 @@
             ]
         }
     ],
-    "rules": [
-        {
-            "name": "lz",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "蜗牛直连去广",
-            "hosts": [
-                "vip.123pan.cn",
-                "rescdn.wuxivlog.cn"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "ff",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "bf",
-            "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "hs",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
-        },
-        {
-            "name": "dy",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        },
-        {
-            "name": "cl",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "最 新",
-                "直 播",
-                "更 新"
-            ]
-        }
-    ],
     "ads": [
         "wan.51img1.com",
         "iqiyi.hbuioo.com",
         "vip.ffzyad.com",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
-    "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
+    "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "warningText": "接口完全免费，切勿付费购买。",
     "spider": "./spider.jar"
 }

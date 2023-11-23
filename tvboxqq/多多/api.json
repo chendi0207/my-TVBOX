@@ -109,6 +109,7 @@
             "name": "🐌┃蜗牛┃影视",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/蜗牛.json"
         },
         {
@@ -117,7 +118,53 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/一只蜗.json"
+        },
+        {
+            "key": "49zy",
+            "name": "🦁┃狮鹫┃资源",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "体育赛事",
+                "海外剧"
+            ]
         },
         {
             "key": "js_mogu",
@@ -127,6 +174,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/蘑菇.json"
         },
         {
@@ -147,7 +195,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/星辰影视.json"
+        },
+        {
+            "key": "csp_XBPQ_wanda",
+            "name": "🗽┃万达┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/万达.json"
         },
         {
             "key": "骑骑影院",
@@ -218,14 +278,21 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key": "XBPQ_九八",
-            "name": "🗡️┃九八┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
+            "key": "小战影视",
+            "name": "🗡️┃小战┃影视",
+            "type": 1,
+            "playerType": 1,
+            "api": "http://d.xzam.cn/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/98影视.json"
+            "changeable": 1,
+            "categories": [
+                "电影",
+                "国产剧",
+                "欧美剧",
+                "日韩剧"
+            ]
         },
         {
             "key": "js_荐片",
@@ -239,26 +306,14 @@
             "filterable": 1
         },
         {
-            "key": "wogg_T4",
-            "name": "💂‍┃玩偶┃T4",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_WoGG",
             "name": "💂‍┃阿里┃玩偶",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto",
-                "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
-            }
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "js_4KHDR",
@@ -317,8 +372,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "PanSearch",
@@ -328,8 +383,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "Upyunso",
@@ -339,19 +394,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "XiaoZhiTiao",
-            "name": "🏷️┃阿里┃纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "Alips",
@@ -361,8 +405,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "Yisou",
@@ -372,8 +416,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "Zhaozy",
@@ -383,8 +427,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jars/csp_WoGG.jar",
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$多多$$$159357"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
         },
         {
             "key": "js_changmeng",
@@ -466,6 +510,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/圣城.json"
         },
         {
@@ -476,6 +521,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/348z.json"
         },
         {
@@ -486,6 +532,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/好戏.json"
         },
         {
@@ -514,6 +561,7 @@
             "name": "🎦┃短剧┃葡萄",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": {
                 "数组": "class=\"stui-vodlist__box&&</li",
                 "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
@@ -549,6 +597,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": {
                 "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
                 "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
@@ -575,6 +624,17 @@
             "ext": "./js/zxzj.js"
         },
         {
+            "key": "XBPQ_九八",
+            "name": "🍸️┃九八┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/98影视.json"
+        },
+        {
             "key": "js_555",
             "name": "🌟┃三五┃影视",
             "type": 3,
@@ -592,6 +652,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/mayi.json"
         },
         {
@@ -602,6 +663,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/free.json"
         },
         {
@@ -612,6 +674,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/奇优影院.json"
         },
         {
@@ -678,14 +741,14 @@
             ]
         },
         {
-            "key": "csp_YQKAPP",
+            "key": "csp_YQKan",
             "name": "👨‍👩‍👧‍👦┃一起┃电视",
             "type": 3,
-            "api": "csp_YQKAPP",
+            "api": "csp_YQKan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://hk-api-cf.yqk5659.com"
+            "jar": "./jars/蜗牛有广告.jar"
         },
         {
             "key": "js_农民",
@@ -715,6 +778,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/剧白白.json"
         },
         {
@@ -725,6 +789,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/shiliu.json"
         },
         {
@@ -824,6 +889,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/胖虎.json"
         },
         {
@@ -845,16 +911,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./py/cctv.py"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "🎬️┃影视┃工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.fun"
         },
         {
             "key": "csp_Btwtoo",
@@ -1024,6 +1080,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/酷奇MV.json"
         },
         {
@@ -1050,6 +1107,7 @@
             "name": "🌊┃蓝猫┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
         },
         {
@@ -1350,6 +1408,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/短视频聚合.json"
         },
         {
@@ -1507,7 +1566,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
         },
         {
             "key": "提示",
@@ -2174,7 +2233,7 @@
         "api.htpan.net",
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
-    "wallpaper": "http://yydsys.top/bg.php",
+    "wallpaper": "https://tool.weetai.cn/api",
     "warningText": "接口免费整理维护，请勿付费购买",
     "spider": "./spider.jar"
 }

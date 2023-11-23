@@ -2,20 +2,12 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "./lives/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        }
-    ],
+    "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播 QQ③群：869277279",
+            "name": "🅱️追剧影院|T热播 QQ①群：532127696",
             "type": 3,
             "api": "./api/Api.js",
             "searchable": 0,
@@ -30,7 +22,7 @@
             "api": "csp_AliYunPan",
             "searchable": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
         },
         {
             "key": "Wogg",
@@ -53,16 +45,6 @@
             "ext": "https://www.czzy88.com/"
         },
         {
-            "key": "csp_小鹿",
-            "name": "🅱️小鹿影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/小鹿影视.json"
-        },
-        {
             "key": "csp_骚火",
             "name": "🅱️骚火影视|T追剧",
             "type": 3,
@@ -71,6 +53,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/骚火影视.json"
+        },
+        {
+            "key": "csp_威士",
+            "name": "🅱️威士影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/威士影视.json"
         },
         {
             "key": "csp_Free",
@@ -303,14 +295,14 @@
             "ext": "./json/土豪影视.json"
         },
         {
-            "key": "csp_兔年",
-            "name": "🅱️兔年影视|T追剧",
+            "key": "csp_觅知",
+            "name": "🅱️觅知影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/YYDS影视.json"
+            "ext": "./json/觅知影视.json"
         },
         {
             "key": "csp_达龟",
@@ -438,7 +430,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
         },
         {
             "key": "PanSou",
@@ -448,7 +440,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
         },
         {
             "key": "UpYun",
@@ -458,7 +450,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
         },
         {
             "key": "YiSou",
@@ -468,7 +460,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"
         },
         {
             "key": "Zhaozy",
@@ -478,7 +470,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$hccx$$$hccx"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$hccx$$$hccx"
         },
         {
             "key": "Gitcafe",
@@ -488,7 +480,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
         },
         {
             "key": "cctv",

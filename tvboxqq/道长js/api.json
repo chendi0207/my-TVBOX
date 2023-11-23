@@ -17,7 +17,7 @@
             "name": "Alist[js]",
             "type": 3,
             "api": "./api/alist.min.js",
-            "ext": "./js/alist.conf"
+            "ext": "http://qiqiv.cn/tvbox/XYQTVBox/drpy_js/js/alist.conf"
         },
         {
             "key": "AList",
@@ -37,7 +37,7 @@
             "searchable": 1,
             "filterable": 1,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "小纸条",
@@ -47,7 +47,7 @@
             "searchable": 1,
             "filterable": 1,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "易搜",
@@ -57,7 +57,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "盘搜",
@@ -67,7 +67,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "UP云搜",
@@ -77,7 +77,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "找资源",
@@ -87,7 +87,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$yingshi$$$abcd1234"
+            "ext": "clan://XYQTVBox/alitoken.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "push_agent",
@@ -97,7 +97,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "clan://XYQTVBox/alitoken.txt"
         },
         {
             "key": "drpy_js_奇珍异兽",

@@ -19,7 +19,7 @@ var rule = {
     url:'/djlist/fyclass_fypage.html',
     searchUrl:'/search?musicname=**',
     searchable:2,
-    quickSearch:1,
+    quickSearch:0,
     class_parse:'#top_banner_bg div;a&&Text;a&&href;/djlist/(\\d+)_1.html',
     headers:{
         'User-Agent':'PC_UA'

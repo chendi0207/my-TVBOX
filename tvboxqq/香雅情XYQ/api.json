@@ -9,6 +9,12 @@
             "type": 0,
             "url": "./lives/在线.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "本地",
+            "type": 0,
+            "url": "clan://XYQTVBox/live.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "sites": [
@@ -65,7 +71,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/alitoken.txt"
         },
         {
             "key": "csp_Zhaozy",
@@ -85,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/alitoken.txt"
         },
         {
             "key": "csp_Yisou",
@@ -95,7 +101,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/alitoken.txt"
         },
         {
             "key": "csp_Upyunso",
@@ -105,7 +111,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/alitoken.txt"
         },
         {
             "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -185,7 +191,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/alitoken.txt"
         },
         {
             "key": "csp_Mp4Mov",
@@ -567,10 +573,10 @@
             "ext": "./json/Bili短剧.json"
         },
         {
-            "key": "csp_XYQHiker_短剧网",
+            "key": "csp_短剧网",
             "name": "短剧网",
             "type": 3,
-            "api": "Duanjuw",
+            "api": "csp_Duanjuw",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1

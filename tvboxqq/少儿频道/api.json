@@ -34,11 +34,15 @@
             "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
-            "key": "童趣",
-            "name": "🍭 | 童趣",
+            "key": "csp_XYQHiker_童趣",
+            "name": "🍭童趣",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/童趣.js"
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/播视童趣.json",
+            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
         },
         {
             "key": "幼儿启蒙",
@@ -318,7 +322,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext": "./txt/token.txt"
         }
     ],
     "parses": [
@@ -335,7 +339,7 @@
         {
             "name": "夜猫超解析",
             "type": 1,
-            "url": "https://api.json.icu/api/?key=2d8f7d8ce736b70c7e3382b2fba57bc9&url=",
+            "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -358,8 +362,8 @@
                     "mgtv",
                     "MangGuo",
                     "芒果",
-                    "SLYS4k",
-                    "BYGA",
+                    "SMD",
+                    "YuMi",
                     "luanzi",
                     "AliS",
                     "dxzy",
@@ -374,14 +378,14 @@
                     "乐视视频"
                 ],
                 "header": {
-                    "User-Agent": "Dart/3.0(dart:io)"
+                    "User-Agent": "okhttp/3.12.11"
                 }
             }
         },
         {
             "name": "夜猫超聚合",
             "type": 1,
-            "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url=",
+            "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -420,14 +424,14 @@
                     "乐视视频"
                 ],
                 "header": {
-                    "User-Agent": "Dart/3.0(dart:io)"
+                    "User-Agent": "Dart/2.18 (dart:io)"
                 }
             }
         },
         {
             "name": "夜猫超解析2",
             "type": 1,
-            "url": "https://api.8l2.cn/api/?key=5c9905a3dc0bef77647d1bb4a1d319ad&url=",
+            "url": "https://jxjson.cf/json_balabala.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -464,10 +468,78 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
+                ]
+            }
+        },
+        {
+            "name": "夜猫全能解",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "YuMi",
+                    "SMD",
+                    "FYNB",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
                 ],
                 "header": {
-                    "User-Agent": "Dart/3.0(dart:io)"
+                    "User-Agent": "okhttp/4.1.0"
                 }
+            }
+        },
+        {
+            "name": "高清解析",
+            "type": 1,
+            "url": "https://jxjson.cf/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "腾讯专用",
+            "type": "1",
+            "url": "https://api.8l2.cn/api/?key=5c9905a3dc0bef77647d1bb4a1d319ad&url=",
+            "ext": {
+                "flag": [
+                    "qq"
+                ]
             }
         },
         {
