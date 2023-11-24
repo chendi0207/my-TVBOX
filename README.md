@@ -2,7 +2,7 @@
 
 1：多仓接口（2023.11.23以前的加速代理已失效，更新了下接口）
 ````bash
-https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
+https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
 ````
 
 - 软件下载
