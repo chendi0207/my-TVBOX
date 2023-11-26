@@ -121,7 +121,7 @@
       "name": "⚜️春风影视线路"
     },
     {
-      "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
       "name": "⚜️蜂蜜线路"
     },
     {
@@ -325,7 +325,7 @@
       "name": "⚜️未知线路2"
     },
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "⚜️未知线路3"
     },
     {
@@ -354,7 +354,7 @@
     },
     {
       "name": "💗4k",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
     },
     {
       "name": "😍短剧大全",
@@ -398,7 +398,7 @@
     },
     {
       "name": "🌺泥巴",
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
     },
     {
       "name": "🌺香雅情",
@@ -406,11 +406,11 @@
     },
     {
       "name": "🌼圈圈",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"
     },
     {
       "name": "☃️蚂蚁接口",
-      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
     {
       "name": "🏆荷城茶秀",
@@ -422,7 +422,7 @@
     },
     {
       "name": "🥝蜂蜜",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
     },
     {
       "name": "💞多多",
@@ -466,7 +466,7 @@
     },
     {
       "name": "熊猫不叫猫🐼",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"
     },
     {
       "name": "🦋拾光趣乐屋",
@@ -498,7 +498,7 @@
     },
     {
       "name": "👯高天流水",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
     {
       "name": "🐶二哈",
@@ -618,7 +618,7 @@
     },
     {
       "name": "🛰时光机源",
-      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github_1.json"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github_1.json"
     },
     {
       "name": "💠小重楼楼",
