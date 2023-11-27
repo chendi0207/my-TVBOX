@@ -5,19 +5,12 @@
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
 ````
 
-- 软件下载
-- 堡盒（支持多仓）_3.0.9
-- https://wwp.lanzoul.com/iurv515jujhc
-- 密码：56oz
+- 软件下载链接如下：
+- TV用
+- https://www.123pan.com/s/RQVbVv-wFAFd.html
+- 提取码:8888
 -
-- 影视仓_5.0.11
-- https://wwp.lanzoul.com/i99vG1e2fwza
-- 密码：5vqj
+- 手机用
+- https://www.123pan.com/s/RQVbVv-gFAFd.html
+- 提取码:8888
 - 
-- 影视仓手机版_2.0.8_2
-- https://wwp.lanzoul.com/iecfc1e2gdeb
-- 密码：dry3
-- 
-- 影迷_2.3.5手机竖屏版
-- https://wwp.lanzoul.com/itMuN1e2o4ne
-- 密码：d6mf
