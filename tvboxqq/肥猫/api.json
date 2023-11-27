@@ -20,11 +20,11 @@
             "quickSearch": 0
         },
         {
-            "key": " 短剧┃网",
-            "name": "⏯️┃短剧┃视频",
+            "key": "葡萄剧场",
+            "name": "🍇┃短剧┃视频",
             "type": 3,
-            "api": "./api/ddrpy2.m.js",
-            "ext": "./js/短剧网.js"
+            "api": "csp_XBPQ",
+            "ext": "数组:class=\"stui-vodlist__box&&</li,分类url:https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html,分类:微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#爱情$11"
         },
         {
             "key": " 在线┃直播1",

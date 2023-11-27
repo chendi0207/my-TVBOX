@@ -5,7 +5,7 @@ var rule = {
 	url: 'fyclass',
 	searchUrl: '/?search=**',
 	searchable:2,
-	quickSearch:0,
+	quickSearch:1,
 	filterable:0,
 	headers:{
 		'User-Agent': 'MOBILE_UA'

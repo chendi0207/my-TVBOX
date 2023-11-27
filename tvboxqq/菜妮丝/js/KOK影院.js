@@ -20,7 +20,7 @@ var rule = {
         kokjl:{by:'/by/time'}
     },
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     headers:{
         'User-Agent':'MOBILE_UA'
     },

@@ -32,7 +32,7 @@ var rule = {
     detailUrl: 'http://live.yj1211.work/api/live/getRoomInfo?uid=&platform=douyu&roomId=fyid',// JustLive
     searchUrl:'/api/search/liveRoom?#did=10000000000000000000000000001501&limit=20&offset=0&sk=**;post',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     headers:{
         'User-Agent':'MOBILE_UA'
     },

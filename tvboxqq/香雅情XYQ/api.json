@@ -3,17 +3,24 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./spider.jar",
+    "comment": "多路直播配置只有蜂蜜影视支持",
     "lives": [
         {
-            "name": "在线",
+            "name": "Yoursmile7",
             "type": 0,
-            "url": "./lives/在线.txt",
+            "url": "./lives/Yoursmile7.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "本地",
+            "name": "JUNDIE",
             "type": 0,
-            "url": "clan://XYQTVBox/live.txt",
+            "url": "./lives/JUNDIE.txt",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "fanmingming",
+            "type": 0,
+            "url": "./lives/fanmingming.txt",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
@@ -373,7 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czzy88.com"
+            "ext": "http://wogg.link"
         },
         {
             "key": "csp_Bdys",
@@ -541,6 +548,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/異世界動漫.json"
+        },
+        {
+            "key": "csp_XYQHiker_有声小说吧",
+            "name": "有声小说吧(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/有声小说吧.json"
         },
         {
             "key": "csp_XYQHiker_DJ呦呦音乐网",

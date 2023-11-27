@@ -1,11 +1,11 @@
 {
 	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "http://wogg.xyz/",
+	"homeUrl": "http://wogg.link/",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
 	"cateManual": {"自营电影":"1","自营电视剧":"2","综艺":"4","动漫":"3","音乐":"5","自营短剧":"6"},
     // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "http://wogg.xyz/index.php/vodshow/{cateId}--------{catePg}---.html",
+	"cateUrl": "http://wogg.link/index.php/vodshow/{cateId}--------{catePg}---.html",
     // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//div[@class='module-items']/div",
 	"cateVodName": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@title",
@@ -15,7 +15,7 @@
 	"cateVodMark": "//div[@class='module-item-text']/text()",
 	//"cateVodMark": "/div[@class='module-item-cover']/div[@class='module-item-caption']/span/text()",
 	 // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "http://wogg.xyz/{vid}",
+	"dtUrl": "http://wogg.link/{vid}",
     // 详情节点
 	"dtNode": "//div[@class='box view-heading']",
     // 视频名
@@ -64,7 +64,7 @@
 	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
 	"playUrl": "{playUrl}",
 	//搜索
-	"searchUrl": "http://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}",
+	"searchUrl": "http://wogg.link/index.php/vodsearch/-------------.html?wd={wd}",
     "scVodNode": "//div[@class='module-items']/div",
     "scVodName": "/div[@class='video-info']/div[@class='video-info-header']/a/@title",
     "scVodId": "/div[@class='video-info']/div[@class='video-info-header']/a/@href",

@@ -22,7 +22,7 @@ var rule = {
     },
     searchUrl:'https://search.cdn.huya.com/?m=Search&do=getSearchContent&q=**&uid=0&v=4&typ=-5&livestate=0&rows=40&start=0',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     headers:{
         'User-Agent':'MOBILE_UA'
     },

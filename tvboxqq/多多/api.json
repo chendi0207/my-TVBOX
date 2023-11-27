@@ -113,13 +113,13 @@
             "ext": "./json/蜗牛.json"
         },
         {
-            "key": "XBPQ_一只蜗",
-            "name": "🐮┃牛牛┃影视",
+            "key": "XBPQ_黑狐",
+            "name": "🦝┃黑狐┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 1,
             "jar": "./jars/蜗牛有广告.jar",
-            "ext": "./json/一只蜗.json"
+            "ext": "./json/黑狐.json"
         },
         {
             "key": "49zy",
@@ -266,6 +266,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/侦探.js"
+        },
+        {
+            "key": "js_007",
+            "name": "🕵‍┃特工┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/007.js"
         },
         {
             "key": "csp_beijihu",
@@ -546,6 +556,16 @@
             "ext": "./js/hoho.js"
         },
         {
+            "key": "益达影视",
+            "name": "🌝┃益达┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+        },
+        {
             "key": "csp_Bili短剧",
             "name": "🎦┃短剧┃BiL",
             "api": "csp_Bili",
@@ -771,15 +791,15 @@
             "ext": "./js/bzys.js"
         },
         {
-            "key": "csp_jbb",
-            "name": "🦢┃剧白┃影视",
+            "key": "csp_rbzj",
+            "name": "⏱️┃热播┃之家",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jars/蜗牛有广告.jar",
-            "ext": "./json/剧白白.json"
+            "ext": "./json/热播之家.json"
         },
         {
             "key": "XBPQ_石榴",
@@ -1198,28 +1218,30 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "./jars/XYQH_JOJO.jar",
+            "jar": "./jars/蜗牛有广告.jar",
             "ext": "./json/bili.json"
         },
         {
-            "key": "py_dashan",
+            "key": "csp_Bili_dashan",
             "name": "💋┃搭讪┃教程",
             "type": 3,
-            "api": "py_dashan",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/搭讪.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/搭讪.json"
         },
         {
-            "key": "py_dapei",
+            "key": "csp_Bili__dapei",
             "name": "💃┃搭配┃教程",
             "type": 3,
-            "api": "py_dapei",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/搭配.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/搭配.json"
         },
         {
             "key": "js_B站精简",
@@ -1232,134 +1254,147 @@
             "ext": "./js/B站精简.js"
         },
         {
-            "key": "py_meishi",
+            "key": "csp_Bili_meishi",
             "name": "🅱️┃美食┃合集",
             "type": 3,
-            "api": "py_meishi",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/美食合集.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/美食合集.json"
         },
         {
-            "key": "py_youer",
+            "key": "csp_Bili_youer",
             "name": "🅱️┃幼儿┃教育",
             "type": 3,
-            "api": "py_youer",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/youer.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/youer.json"
         },
         {
-            "key": "py_xiaoxue",
+            "key": "csp_Bili_xiaoxue",
             "name": "🅱️┃小学┃教育",
             "type": 3,
-            "api": "py_xiaoxue",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/xiaoxue.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/xiaoxue.json"
         },
         {
-            "key": "py_czxx",
+            "key": "csp_Bili_czxx",
             "name": "🅱️┃初中┃教育",
             "type": 3,
-            "api": "py_czxx",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/chuzhong.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/chuzhong.json"
         },
         {
-            "key": "py_gaozxx",
+            "key": "csp_Bili_gaozxx",
             "name": "🅱️┃高中┃教育",
             "type": 3,
-            "api": "py_gaozxx",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/gaozhong.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/gaozhong.json"
         },
         {
-            "key": "py_zyy",
+            "key": "csp_Bili_zyy",
             "name": "🅱️┃中医┃药区",
             "type": 3,
-            "api": "py_zyy",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/zyy.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/zyy.json"
         },
         {
-            "key": "py_xuqu1",
+            "key": "csp_Bili_xuqu1",
             "name": "🅱️┃戏曲┃合集",
             "type": 3,
-            "api": "py_xuqu1",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/xiqu.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/xiqu.json"
         },
         {
-            "key": "py_TYjs",
+            "key": "csp_Bili_TYjs",
             "name": "🅱️┃体育┃健身",
             "type": 3,
-            "api": "py_TYjs",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/tiyu.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/tiyu.json"
         },
         {
-            "key": "py_xiangsh",
+            "key": "csp_Bili_xiangsh",
             "name": "🅱️┃相声┃小品",
             "type": 3,
-            "api": "py_xiangsh",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/xiaopin.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/xiaopin.json"
         },
         {
-            "key": "py_FBqx",
+            "key": "csp_Bili_FBqx",
             "name": "🅱️┃球队┃球星",
             "type": 3,
-            "api": "py_FBqx",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/qiudui.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/qiudui.json"
         },
         {
-            "key": "py_Meinvw",
+            "key": "csp_Bili_Meinvw",
             "name": "🅱️┃美女┃舞蹈",
             "type": 3,
-            "api": "py_Meinvw",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/meinv.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/meinv.json"
         },
         {
-            "key": "py_yanchh",
+            "key": "csp_Bili_yanchh",
             "name": "🅱️┃歌手┃合集",
             "type": 3,
-            "api": "py_yanchh",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/geshou.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/geshou.json"
         },
         {
-            "key": "py_Nvtuan",
+            "key": "csp_Bili_Nvtuan",
             "name": "🅱️┃女团┃热舞",
             "type": 3,
-            "api": "py_Nvtuan",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/nvtuan.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/nvtuan.json"
         },
         {
             "key": "MV_vod",
@@ -1371,24 +1406,26 @@
             "filterable": 1
         },
         {
-            "key": "py_MTV",
-            "name": "🅱️┃歌曲┃视频",
+            "key": "csp_Bili_MTV",
+            "name": "🅱️┃歌曲┃演唱",
             "type": 3,
-            "api": "py_MTV",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/mtv.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/mtv.json"
         },
         {
-            "key": "py_Yinl2",
+            "key": "csp_Bili_Yinl2",
             "name": "🅱️┃音悦┃合集",
             "type": 3,
-            "api": "py_Yinl2",
+            "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/yinyue.py"
+            "jar": "./jars/蜗牛有广告.jar",
+            "ext": "./json/yinyue.json"
         },
         {
             "key": "js_哔哩直播",
@@ -1615,27 +1652,40 @@
             ]
         },
         {
-            "name": "CL",
+            "name": "hwk",
             "hosts": [
-                "magnet"
+                "haiwaikan"
             ],
             "regex": [
-                "最 新",
-                "直 播",
-                "更 新"
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "10.85"
             ]
         },
         {
-            "name": "锁你",
+            "name": "yqk",
             "hosts": [
-                "suonizy"
+                "yqk88"
             ],
             "regex": [
+                "18.4",
                 "15.1666"
             ]
         },
         {
-            "name": "抱疯",
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "bf",
             "hosts": [
                 "bfzy"
             ],
@@ -1644,30 +1694,38 @@
             ]
         },
         {
-            "name": "亮子",
+            "name": "xx",
             "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
+                "aws.ulivetv.net"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "飞幡",
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz1",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "18.5333"
+            ]
+        },
+        {
+            "name": "非凡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "25.0666"
             ]
         },
         {
-            "name": "伙散",
+            "name": "hs",
             "hosts": [
                 "huoshan.com"
             ],
@@ -1676,7 +1734,7 @@
             ]
         },
         {
-            "name": "痘印",
+            "name": "dy",
             "hosts": [
                 "douyin.com"
             ],
@@ -1685,12 +1743,23 @@
             ]
         },
         {
-            "name": "农民",
+            "name": "nm",
             "hosts": [
                 "toutiaovod.com"
             ],
             "regex": [
                 "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
             ]
         }
     ],

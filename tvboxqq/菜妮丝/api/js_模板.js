@@ -21,7 +21,7 @@ function getMubans() {
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
@@ -50,7 +50,7 @@ function getMubans() {
             url: '/show/fyclass--------fypage---.html',
             searchUrl: '/search/**----------fypage---.html',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             class_parse: '.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
             play_parse: true,
@@ -75,7 +75,7 @@ function getMubans() {
             url: '/vodshow/fyclass--------fypage---/',
             searchUrl: '/vodsearch/**----------fypage---.html',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
@@ -104,7 +104,7 @@ function getMubans() {
             url: '/list/fyclass-fypage.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'UC_UA',
@@ -136,7 +136,7 @@ function getMubans() {
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/-------------.html?wd=**',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'MOBILE_UA',
@@ -152,7 +152,7 @@ function getMubans() {
             url: '/index.php/vod/show/id/fyclass/page/fypage.html',
             searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'UC_UA',
@@ -202,7 +202,7 @@ function getMubans() {
             },
             搜索: '.hl-list-item;a&&title;a&&data-original;.remarks&&Text;a&&href',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
         },
         海螺2: {
@@ -231,7 +231,7 @@ function getMubans() {
             },
             搜索: '.search-list;a&&title;.lazy&&data-original;.deployment&&Text;a&&href',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
         },
         短视: {
@@ -241,7 +241,7 @@ function getMubans() {
             url: '/channel/fyclass-fypage.html',
             searchUrl: '/search.html?wd=**',
             searchable: 2,//是否启用全局搜索,
-            quickSearch: 0,//是否启用快速搜索,
+            quickSearch: 1,//是否启用快速搜索,
             filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
@@ -272,7 +272,7 @@ function getMubans() {
             class_url:'1&2&3&4',
             searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=50',
             searchable: 2,
-            quickSearch: 0,
+            quickSearch: 1,
             headers:{'User-Agent':'MOBILE_UA'},
             url: '/index.php/api/vod#type=fyclass&page=fypage',
             filterable:0,//是否启用分类筛选,

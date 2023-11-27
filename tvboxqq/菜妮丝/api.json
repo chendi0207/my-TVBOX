@@ -17,15 +17,6 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "360影视",
-            "name": "360┃官源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/360影视.json"
-        },
-        {
             "key": "玩偶",
             "name": "玩偶┃云盘",
             "type": 3,
@@ -184,6 +175,15 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
+            "key": "360影视",
+            "name": "360┃解析",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/360影视.jar"
+        },
+        {
             "key": "厂长资源",
             "name": "厂长┃影视",
             "type": 3,
@@ -218,7 +218,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "./json/电影港磁力.json",
-            "jar": "./jars/电影港.jar"
+            "jar": "./jars/360影视.jar"
         },
         {
             "key": "低端影视",
@@ -855,7 +855,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
         },
         {
             "key": "csp_search_Zhaozy",
@@ -864,7 +864,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanty$$$qqq111"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanty$$$qqq111"
         },
         {
             "key": "push_agent",
@@ -959,7 +959,9 @@
         "sohu",
         "imgo",
         "mgtv",
-        "bilibili"
+        "bilibili",
+        "pptv",
+        "PPTV"
     ],
     "rules": [
         {

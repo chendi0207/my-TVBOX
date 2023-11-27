@@ -41,16 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.CZZ9.com/"
-        },
-        {
-            "key": "77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "ext": "https://czz9.com/"
         },
         {
             "key": "南瓜",
@@ -73,14 +64,13 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
         {
-            "key": "小小",
-            "name": "👀小小┃App",
+            "key": "77",
+            "name": "👒七七┃App",
             "type": 3,
-            "api": "csp_AppSK",
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"
+            "changeable": 1
         },
         {
             "key": "嘿嘿",
@@ -152,6 +142,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
+        },
+        {
+            "key": "小小",
+            "name": "👀小小┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"
         },
         {
             "key": "极光",
@@ -691,10 +691,10 @@
             "ext": "./json/高中课堂.json"
         },
         {
-            "key": "ext_live_protocol",
+            "key": "fan",
             "name": "导航 https://饭太硬.top",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "csp_fan",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -703,7 +703,7 @@
             "key": "cc",
             "name": "请勿相信视频中任何广告",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "csp_fan",
             "searchable": 0,
             "quickSearch": 0
         }

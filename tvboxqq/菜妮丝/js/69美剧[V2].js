@@ -14,7 +14,7 @@ var rule = {
 	detailUrl:'/xgapp.php/v2/video_detail?id=fyid',
 	searchUrl: '/xgapp.php/v2/search?text=**&pg=fypage',
 	searchable: 2,
-	quickSearch: 0,
+	quickSearch: 1,
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,

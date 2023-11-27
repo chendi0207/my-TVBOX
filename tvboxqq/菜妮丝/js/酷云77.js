@@ -29,7 +29,7 @@ var rule = {
     homeUrl:'/api.php/provide/homeBlock?type_id=0',
     searchUrl:'/api.php/provide/searchVideo?searchName=**',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     filterable:1,
     multi:1,
     // 分类链接fypage参数支持1个()表达式

@@ -107,7 +107,7 @@ var rule={
     url:'/fyclass/page/fypage/',
     searchUrl:'/?s=**&post_type=post',
     searchable:2,
-    quickSearch:0,
+    quickSearch:1,
     filterable:0,
     headers:{
         'User-Agent':'MOBILE_UA',

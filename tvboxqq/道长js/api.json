@@ -17,7 +17,7 @@
             "name": "Alist[js]",
             "type": 3,
             "api": "./api/alist.min.js",
-            "ext": "http://qiqiv.cn/tvbox/XYQTVBox/drpy_js/js/alist.conf"
+            "ext": "./js/alist.js"
         },
         {
             "key": "AList",
