@@ -75,7 +75,7 @@ var rule = {
                     url: it.profileRoom,
                     title: it.introduction,
                     img: it.screenshot,
-                    desc: '🆙' + it.nick,
+                    desc: '👁' + it.totalCount + '  🆙' + it.nick,
                 })
         });
         setResult(d);
@@ -88,7 +88,7 @@ var rule = {
                     url: it.profileRoom,
                     title: it.introduction,
                     img: it.screenshot,
-                    desc: '🆙' + it.nick,
+                    desc: '👁' + it.totalCount + '  🆙' + it.nick,
                 })
         });
         setResult(d);

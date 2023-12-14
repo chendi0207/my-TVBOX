@@ -365,26 +365,6 @@
             "ext": "./json/低端影视.json"
         },
         {
-            "key": "csp_乐猪",
-            "name": "🅱️乐猪影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/乐猪影视.json"
-        },
-        {
-            "key": "csp_花猫",
-            "name": "🅱️花猫影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/花猫影视.json"
-        },
-        {
             "key": "csp_非凡",
             "name": "🅱️非凡资源|T追剧",
             "type": 3,

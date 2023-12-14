@@ -4,24 +4,6 @@
     "spider": "./spider.jar",
     "sites": [
         {
-            "key": "次元城",
-            "name": "次元城",
-            "type": 3,
-            "api": "csp_Cycdm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://app.95189371.cn/ciyuancheng.php/v6/",
-            "jar": "./jars/次元城.jar"
-        },
-        {
-            "key": "NyaFun",
-            "name": "NyaFun",
-            "type": 3,
-            "api": "./api/drpy.min.js",
-            "ext": "./js/NyaFun.js"
-        },
-        {
             "key": "AGE动漫",
             "name": "AGE动漫",
             "type": 3,
@@ -77,20 +59,6 @@
             "ext": "./js/妮可动漫.js"
         },
         {
-            "key": "drpy_js_动漫岛",
-            "name": "动漫岛",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/动漫岛.js"
-        },
-        {
-            "key": "drpy_js_路漫漫",
-            "name": "路漫漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/路漫漫.js"
-        },
-        {
             "key": "csp_Ysj",
             "name": "异界动漫",
             "type": 3,
@@ -109,15 +77,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Ying",
-            "name": "樱花动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "动漫直链",
             "name": "动漫┃直链",
             "type": 3,
@@ -128,32 +87,11 @@
             "ext": "./json/动漫直链.json"
         },
         {
-            "key": "风车动漫",
-            "name": "风车动漫",
-            "type": 3,
-            "api": "./api/drpy.min.js",
-            "ext": "./js/风车动漫.js"
-        },
-        {
             "key": "去看吧",
             "name": "去看吧",
             "type": 3,
             "api": "./api/drpy.min.js",
             "ext": "./js/去看吧.js"
-        },
-        {
-            "key": "drpy_js_NyaFun",
-            "name": "动漫 | NyaFun[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/NyaFun.js"
-        },
-        {
-            "key": "drpy_js_爱弹幕",
-            "name": "动漫 | 爱弹幕[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/爱弹幕.js"
         },
         {
             "key": "nt动漫",
