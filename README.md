@@ -6,11 +6,11 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX
 ````
 
 - 软件下载链接如下：
-- TV用（影视仓5.0.13等）
+- TV用（影视仓5.0.15等）
 - https://www.123pan.com/s/RQVbVv-wFAFd.html
 - 提取码:8888
 -
-- 手机用（影视仓2.0.9等）
+- 手机用（影视仓2.0.11等）
 - https://www.123pan.com/s/RQVbVv-gFAFd.html
 - 提取码:8888
 - 

@@ -20,7 +20,7 @@ var rule = {
     class_name:'电影&连续剧&综艺&动漫',
     class_url:'1&2&3&4',
     play_parse: true,
-    lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("http://103.42.31.123:5821/jx/?url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
+    lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request("https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url="+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
     limit:6,
     // 图片来源:'@Referer=https://api.douban.com/@User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36',
     推荐:`js:

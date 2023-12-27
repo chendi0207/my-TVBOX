@@ -78,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./txt/alitoken.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "csp_Zhaozy",
@@ -98,7 +98,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "csp_Yisou",
@@ -108,7 +108,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "csp_Upyunso",
@@ -118,7 +118,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./txt/alitoken.txt"
+            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
         },
         {
             "key": "csp_Mp4Mov",

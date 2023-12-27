@@ -26,6 +26,10 @@
     
     "链接":"href=\"&&\"",
     
+    "搜索模式":"1",
+    
+    "搜索url":"/vod-so/-------------.html?wd={wd}",
+    
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
     
     "线路标题":"🌸荷城茶秀接口🌸+<span>&&</small>[替换:高清频道>>高清#备用频道>>备用#OK频道>>OK#</span><small>>>>共]+集",
@@ -36,7 +40,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     

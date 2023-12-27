@@ -1,0 +1,12 @@
+{
+        "二次截取": "1&&-1+module-item-cover",
+        "数组": "module-item-pic&&module-item-cover",
+        "链接":"href=\"&&\"[包含:detail]",
+        "副标题": "module-item-text*>&&<",
+/*        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "剧情：&&</div>",
+*/        "搜索url": "http://win11.asuscomm.com:56708/index.php/vod/search/wd/{wd}.html",
+        "分类url": "http://win11.asuscomm.com:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html;;阿里",
+       "阿里token": "",
+        "分类": "自营电影$1#自营剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"}
