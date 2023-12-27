@@ -26,10 +26,11 @@
             "ext": "./js/JRKAN直播.js"
         },
         {
-            "key": "88kanqiu",
-            "name": "88看球",
+            "key": "drpy_js_88看球",
+            "name": "体育 | 88看球[js]",
             "type": 3,
-            "api": "csp_Kanqiu"
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/88看球.js"
         },
         {
             "key": "drpy_js_310直播",
@@ -1107,6 +1108,13 @@
             "ext": "./js/139影视.js"
         },
         {
+            "key": "drpy_js_369影视",
+            "name": "影视 | 369影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/369影视.js"
+        },
+        {
             "key": "drpy_js_555电影",
             "name": "影视 | 555电影[js]",
             "type": 3,
@@ -1337,13 +1345,6 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/子子影视.js"
-        },
-        {
-            "key": "賤賤",
-            "name": "賤賤",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "ext": "./json/jianpian.json"
         },
         {
             "key": "索尼",

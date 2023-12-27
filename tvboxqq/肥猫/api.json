@@ -26,14 +26,13 @@
             "name": "💓┃短剧┃视频",
             "type": 3,
             "api": "csp_Panda",
-            "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+            "ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
         },
         {
             "key": "种子短剧",
             "name": "💮┃短剧┃视频",
-            "type": 3,
-            "api": "csp_Panda",
-            "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
+            "type": 1,
+            "api": "http://zzdj.cc/api.php/provide/vod"
         },
         {
             "key": "alist",
@@ -54,24 +53,6 @@
             "ext": "./js/南瓜.js"
         },
         {
-            "key": "77",
-            "name": "🌈┃七七┃影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "河马",
-            "name": "🦛┃河马┃影视",
-            "type": 3,
-            "api": "csp_Hmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "https://m.sshbhz.com",
-            "jar": "./jars/河马.jar"
-        },
-        {
             "key": "csp_Panda_玩偶哥哥",
             "name": "👲┃玩偶┃影视",
             "api": "csp_Panda",
@@ -80,7 +61,7 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "ext": "./json/玩偶表哥.json"
+            "ext": "./json/玩偶哥哥.json"
         },
         {
             "key": "蜂鸟",
@@ -89,25 +70,16 @@
             "api": "csp_AppSK",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
-            "key": "小小",
-            "name": "😛┃小小┃影视",
+            "key": "嘿嘿",
+            "name": "️🤭┃嘿嘿┃影视",
             "type": 3,
-            "api": "csp_AppSK",
+            "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
-        },
-        {
-            "key": "极光",
-            "name": "🦄┃极光┃影视",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
         },
         {
             "key": "南坊",
@@ -141,12 +113,13 @@
             "ext": "./js/yt.js"
         },
         {
-            "key": "路人",
-            "name": "🖼┃画画┃影视",
-            "api": "csp_AppYs",
+            "key": "忍者",
+            "name": "🥷┃忍者┃影视",
+            "api": "csp_AppRZ",
             "type": 3,
             "playerType": "2",
-            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+            "ext": "http://rzys.xyz/",
+            "jar": "./jars/忍者.jar"
         },
         {
             "key": "996",
@@ -277,7 +250,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jars/河马.jar"
+            "jar": "./jars/忍者.jar"
         },
         {
             "key": "Aid",
@@ -315,7 +288,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./jars/河马.jar"
+            "jar": "./jars/忍者.jar"
         },
         {
             "key": "drpy_js_310直播",
@@ -328,6 +301,16 @@
                 "type": "list"
             },
             "ext": "./js/310直播.js"
+        },
+        {
+            "key": "yinyue",
+            "name": "🎤┃酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Music",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": "./json/music.json",
+            "jar": "./jars/yinyue.jar"
         },
         {
             "key": "csp_search_Panda_pansearch",
@@ -484,7 +467,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "./json/market.json",
-            "jar": "./jars/河马.jar"
+            "jar": "./jars/忍者.jar"
         },
         {
             "key": "push_agent",
@@ -510,7 +493,7 @@
         {
             "name": "公众号：肥猫宝贝",
             "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/wudi.php?url=",
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
             "ext": {
                 "flag": [
                     "qq",

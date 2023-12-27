@@ -8,6 +8,10 @@
 
 { "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/道长JS/api.json", "name": "道长JS" },
 
+{ "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/PG/api.json", "name": "PG" },
+
 { "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/多多/api.json", "name": "多多" },
 
 { "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/菜妮丝/api.json", "name": "菜妮丝" },

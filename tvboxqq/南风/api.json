@@ -53,17 +53,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Hmys",
-            "name": "🦉河马",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://m.jmzp.net.cn"
-        },
-        {
             "key": "橘子",
             "name": "🍊橘子",
             "type": 3,
@@ -97,6 +86,17 @@
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
         },
         {
+            "key": "电影",
+            "name": "🗽电影",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
             "key": "皮皮虾",
             "name": "🦀皮皮虾",
             "type": 3,
@@ -104,7 +104,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwMYZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
         },
         {
             "key": "繁星",
@@ -117,6 +117,17 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+        },
+        {
+            "key": "csp_Cs1369",
+            "name": "🎀九六",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_DiDuan",
@@ -149,7 +160,7 @@
         },
         {
             "key": "csp_MYYS",
-            "name": "🐜蚂蚁",
+            "name": "👻忍者",
             "type": 3,
             "api": "csp_MYYS",
             "searchable": 1,
@@ -447,14 +458,14 @@
             "filterable": 1,
             "ext": {
                 "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
                 "数组": "\"v_img\"&&/div>",
                 "标题": "title=\"&&\"",
                 "副标题": "v_note\"&&</div",
                 "跳转播放链接": "<iframe*src=\"&&\"",
-                "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+                "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
             }
         },
@@ -505,30 +516,6 @@
             }
         },
         {
-            "key": "龟龟",
-            "name": "💢龟龟",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "主页url": "https://www.jugege.cc/",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-            }
-        },
-        {
             "key": "Freeok",
             "name": "💢Freeok",
             "type": 3,
@@ -538,10 +525,11 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-                "分类值": "hot&new&1&2&3&4",
+                "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类值": "1&2&3&4&12&5",
                 "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+                "副标题": "<div class=\"module-item-note\">&&</div>",
                 "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
                 "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
                 "线路标题": "<span>&&</small>",

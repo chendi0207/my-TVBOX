@@ -1218,15 +1218,15 @@
     ],
     "lives": [
         {
-            "name": "直播列表1",
+            "name": "LIVE",
             "type": 0,
-            "url": "./lives/直播列表1.txt",
+            "url": "./lives/LIVE.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "直播列表2",
+            "name": "IPv6",
             "type": 0,
-            "url": "./lives/直播列表2.txt",
+            "url": "./lives/IPv6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]

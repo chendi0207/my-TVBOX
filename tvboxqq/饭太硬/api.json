@@ -15,7 +15,7 @@
         },
         {
             "key": "玩偶哥哥",
-            "name": "👽玩偶哥哥┃尝试修复15分钟断流",
+            "name": "👽玩偶哥哥┃已修复断流",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -54,20 +54,20 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
         {
-            "key": "77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜┃App",
             "type": 3,
             "api": "csp_NanGua",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -93,62 +93,34 @@
             "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
         },
         {
-            "key": "河马",
-            "name": "👀河马┃App",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "ext": "https://m.jmzp.net.cn"
-        },
-        {
-            "key": "蜂鸟",
-            "name": "🕊蜂鸟┃App",
+            "key": "电影",
+            "name": "🗽电影┃App",
             "type": 3,
             "api": "csp_AppSK",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
         },
         {
-            "key": "极光",
-            "name": "🦄️极光┃App",
+            "key": "九六",
+            "name": "🎀九六┃直连",
             "type": 3,
-            "api": "csp_AppSK",
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "毛驴",
+            "name": "🍓毛驴┃直连",
+            "type": 3,
+            "api": "csp_MLYS",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg=="
-        },
-        {
-            "key": "皮皮虾",
-            "name": "🦀皮皮虾┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-        },
-        {
-            "key": "蚂蚁",
-            "name": "🐜蚂蚁┃App",
-            "type": 3,
-            "api": "csp_MYYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://rzys.xyz"
-        },
-        {
-            "key": "觅视频",
-            "name": "🗽追影猫┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "繁星",
@@ -160,6 +132,24 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+        },
+        {
+            "key": "河马",
+            "name": "👀河马┃App",
+            "type": 3,
+            "api": "csp_Hmys",
+            "playerType": 1,
+            "ext": "https://m.jmzp.net.cn"
+        },
+        {
+            "key": "忍者",
+            "name": "🐜忍者┃App",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://rzys.xyz"
         },
         {
             "key": "一起看 ",
@@ -181,26 +171,6 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "毛驴",
-            "name": "🍓毛驴┃直连",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "Auete",
-            "name": "🏝奥特┃直连",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://haozhansou.com/"
-        },
-        {
             "key": "迪迪",
             "name": "🌈迪迪┃App",
             "api": "csp_AppYsV2",
@@ -219,17 +189,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "贱贱",
-            "name": "🐭贱贱┃p2p",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/jp.js"
         },
         {
             "key": "Lib",
@@ -282,6 +241,16 @@
             "changeable": 1
         },
         {
+            "key": "Auete",
+            "name": "🏝奥特┃直连",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://haozhansou.com/"
+        },
+        {
             "key": "csp_SP33",
             "name": "📺三三┃解析",
             "type": 3,
@@ -290,6 +259,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
+        },
+        {
+            "key": "贱贱",
+            "name": "🐭贱贱┃p2p",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/jp.js"
         },
         {
             "key": "4KHDR",
@@ -709,7 +689,7 @@
         {
             "name": "神秘的哥哥们",
             "type": 1,
-            "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -738,33 +718,6 @@
                     "qiqi",
                     "XALS",
                     "YuMi-vip"
-                ]
-            }
-        },
-        {
-            "name": "公众号",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
                 ]
             }
         },
