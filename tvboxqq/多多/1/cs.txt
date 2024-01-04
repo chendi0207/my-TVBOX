@@ -17,6 +17,10 @@
       "name": "秒播路线"
     },
     {
+      "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json",
+      "name": "拾光秒播"
+    },
+    {
       "name": "💕巧技APP线路",
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },

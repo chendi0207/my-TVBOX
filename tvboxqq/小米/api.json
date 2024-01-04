@@ -1,4 +1,4 @@
-
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -64,7 +64,7 @@
             "type": 3,
             "jar": "./jars/赞赞.jar",
             "api": "csp_AppYsV2",
-            "ext": "http://154.12.21.186:119/api.php/app/",
+            "ext": "http://111.230.51.151:9696//api.php/app/",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
@@ -88,7 +88,7 @@
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "http://103.42.31.123:5820/api.php/app/"
+            "ext": "http://122.228.84.103:6117/api.php/app/"
         },
         {
             "key": "河马",
@@ -135,7 +135,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
             "key": "嘿嘿",
@@ -264,6 +264,7 @@
             "api": "csp_XBPQ",
             "jar": "./jars/赞赞.jar",
             "searchable": 1,
+            "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
@@ -286,7 +287,7 @@
                 "播放列表": "{&&}",
                 "跳转播放链接": "\"url\"*\"&&\"",
                 "播放标题": "\"name\"*\"&&\"",
-                "跳转解析": "默认$http://zn.ghlyys.com/znjsonapi.php.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
+                "跳转解析": "默认$空#墨鸦内部$https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
                 "播放链接": "解析+\"url\"*\"&&\"",
                 "搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
                 "搜索模式": "1",
@@ -482,6 +483,7 @@
             "name": "🍰小鸭┃网盘",
             "type": 3,
             "playerType": "1",
+            "jar": "./jars/赞赞.jar",
             "api": "csp_AList",
             "searchable": 1,
             "quickSearch": 0,
@@ -625,7 +627,7 @@
         {
             "name": "飞云🌾",
             "type": 1,
-            "url": "",
+            "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
             "ext": {
                 "flag": [
                     "FYNB",
@@ -671,7 +673,7 @@
         {
             "name": "赞赞🌾",
             "type": 1,
-            "url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
+            "url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
             "ext": {
                 "flag": [
                     "JMZN"
@@ -684,7 +686,7 @@
         {
             "name": "左岸🌾",
             "type": 1,
-            "url": "http://122.228.84.103:5829/jx/?url=F",
+            "url": "http://122.228.84.103:5829/jx/?url=",
             "ext": {
                 "flag": [
                     "seven",

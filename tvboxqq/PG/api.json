@@ -1,4 +1,4 @@
-
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -16,6 +16,18 @@
             "name": "本地",
             "type": 3,
             "api": "csp_Local"
+        },
+        {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$http://qiqiv.cn/tvbox/pg/lib/pikpakclass.json$$$http://qiqiv.cn/tvbox/pg/lib/pikpakclass.json.txt.gz"
         },
         {
             "key": "网盘配置",
@@ -112,6 +124,39 @@
             "ext": "./json/wogg.json"
         },
         {
+            "key": "影视车",
+            "name": "影视车|网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./json/wogg.json"
+        },
+        {
+            "key": "Wobg",
+            "name": "玩偶表哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./json/wogg.json"
+        },
+        {
+            "key": "Pan99",
+            "name": "盘99|网盘",
+            "type": 3,
+            "api": "csp_Pan99",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+        },
+        {
             "key": "Hdhive",
             "name": "影巢|网盘",
             "type": 3,
@@ -156,17 +201,6 @@
             "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$null$$$1"
         },
         {
-            "key": "Wobg",
-            "name": "玩偶表哥|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
-        },
-        {
             "key": "Libvio",
             "name": "LIBVIO|网盘",
             "type": 3,
@@ -175,7 +209,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://www.libvio.vip$$$null"
+            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
             "key": "PanSearch",
@@ -829,7 +863,7 @@
         {
             "key": "量子",
             "name": "量子",
-            "type": 0,
+            "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "playerType": 1,
             "searchable": 1,
@@ -838,7 +872,7 @@
         {
             "key": "非凡",
             "name": "非凡",
-            "type": 0,
+            "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playerType": 1,
             "searchable": 1,
