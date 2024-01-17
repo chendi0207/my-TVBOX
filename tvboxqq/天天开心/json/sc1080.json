@@ -50,7 +50,7 @@
     
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     
-    "分类":"电影$20#电视剧$21#综艺$22#动漫$23#记录片$24#4K片库$25",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5",
     
     "筛选":{
     "1":[

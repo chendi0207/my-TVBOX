@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy88.com"
+            "ext": "https://www.czzy66.com"
         },
         {
             "key": "csp_Kunyu77",
@@ -46,22 +46,32 @@
             "name": "🎃南瓜",
             "type": 3,
             "api": "csp_NanGua",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
         },
         {
-            "key": "橘子",
-            "name": "🍊橘子",
+            "key": "小柚",
+            "name": "🍊小柚",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+        },
+        {
+            "key": "萌米",
+            "name": "👀萌米",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+            "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
         },
         {
             "key": "嘿嘿",
@@ -120,17 +130,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Hmys",
-            "name": "🦉河马",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://m.jmzp.net.cn"
-        },
-        {
             "key": "csp_DiDuan",
             "name": "📺低端",
             "type": 3,
@@ -179,16 +178,6 @@
             "filterable": 0,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "爱迪",
-            "name": "🍟爱迪",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
         {
             "key": "csp_Xinsj",
@@ -321,7 +310,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "YiSo",
@@ -613,17 +602,8 @@
             }
         },
         {
-            "key": "MV_vod",
-            "name": "🎸明星MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
             "key": "酷奇MV",
-            "name": "🎤酷奇MV",
+            "name": "🎸酷奇MV",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,

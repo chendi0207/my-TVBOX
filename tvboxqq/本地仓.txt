@@ -6,7 +6,7 @@
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
-{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/道长JS/api.json", "name": "道长JS" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/道长js/api.json", "name": "道长JS" },
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/天天开心/api.json", "name": "天天开心" },
 

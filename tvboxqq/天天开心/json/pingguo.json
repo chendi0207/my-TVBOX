@@ -48,7 +48,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.pg8090.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html;;akx",
+    "分类url":"http://www.pg8090.com/type/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html;;akx",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     

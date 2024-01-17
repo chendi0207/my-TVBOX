@@ -21,11 +21,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "YGP",
-            "name": "🚀叨观荐影┃速递",
+            "name": "🚀叨观荐影┃新片",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -41,24 +41,44 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy22.com/"
+            "ext": "https://www.czzy66.com/"
         },
         {
-            "key": "橘子",
-            "name": "🍊橘子┃App",
+            "key": "Xinsj",
+            "name": "👓视觉┃直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.hdmyy.com/"
+        },
+        {
+            "key": "南坊",
+            "name": "☀南坊┃App",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
             "key": "南瓜",
             "name": "🎃南瓜┃App",
             "type": 3,
             "api": "csp_NanGua",
-            "playerType": 1,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "九六",
+            "name": "🎀九六┃直连",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -73,6 +93,26 @@
             "changeable": 1
         },
         {
+            "key": "小柚",
+            "name": "🍊小柚┃App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+        },
+        {
+            "key": "萌米",
+            "name": "👀萌米┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+        },
+        {
             "key": "嘿嘿",
             "name": "💡嘿嘿┃App",
             "type": 3,
@@ -81,26 +121,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-        },
-        {
-            "key": "南坊",
-            "name": "☀南坊┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-        },
-        {
-            "key": "九六",
-            "name": "🎀九六┃直连",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "毛驴",
@@ -113,8 +133,8 @@
             "ext": "https://www.maolvys.com/"
         },
         {
-            "key": "繁星",
-            "name": "💥繁星┃App",
+            "key": "星奇",
+            "name": "💥星奇┃App",
             "type": 3,
             "api": "csp_AppMao",
             "playerType": 2,
@@ -132,14 +152,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-        },
-        {
-            "key": "河马",
-            "name": "👀河马┃App",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "ext": "https://m.jmzp.net.cn"
         },
         {
             "key": "一起看 ",
@@ -161,15 +173,14 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
-            "key": "迪迪",
-            "name": "🌈迪迪┃App",
-            "api": "csp_AppYsV2",
+            "key": "DiDuan",
+            "name": "⏮️低端┃直连",
             "type": 3,
-            "playerType": 2,
+            "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
+            "changeable": 1
         },
         {
             "key": "csp_Bttoo",
@@ -191,16 +202,6 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "DiDuan",
-            "name": "⏮️低端┃直连",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Nmys",
             "name": "🌾农民┃直连",
             "type": 3,
@@ -209,16 +210,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./json/nmys.json"
-        },
-        {
-            "key": "Xinsj",
-            "name": "👓视觉┃直连",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
         },
         {
             "key": "Cokemv",
@@ -262,18 +253,8 @@
             "ext": "./js/jp.js"
         },
         {
-            "key": "4KHDR",
-            "name": "🧲世界磁力┃慎用",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/4khdr.js"
-        },
-        {
             "key": "新6V",
-            "name": "🧲新6V磁力┃慎用",
+            "name": "🧲新6V┃磁力",
             "type": 3,
             "api": "csp_SixV",
             "searchable": 1,
@@ -392,18 +373,6 @@
             "ext": "./json/企鹅直播.json"
         },
         {
-            "key": "MV_vod",
-            "name": "🎶明星┃MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "酷奇js",
             "name": "🎤酷奇┃MV",
             "type": 3,
@@ -418,13 +387,28 @@
             "changeable": 0
         },
         {
+            "key": "MTV",
+            "name": "🎧明星┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./json/MTV.json"
+        },
+        {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/虎牙直播.js",
             "style": {
-                "type": "list"
+                "type": "rect",
+                "ratio": 1.755
             },
             "searchable": 0,
             "quickSearch": 0,
@@ -437,7 +421,8 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/斗鱼直播.js",
             "style": {
-                "type": "list"
+                "type": "rect",
+                "ratio": 1.755
             },
             "searchable": 0,
             "quickSearch": 0,
@@ -901,15 +886,15 @@
     ],
     "lives": [
         {
-            "name": "sao0",
+            "name": "SAO0",
             "type": 0,
-            "url": "./lives/sao0.txt",
+            "url": "./lives/SAO0.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "ipv6",
+            "name": "IPV6",
             "type": 0,
-            "url": "./lives/ipv6.txt",
+            "url": "./lives/IPV6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]

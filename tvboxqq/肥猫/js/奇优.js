@@ -6,7 +6,7 @@ muban.首图2.二级.tabs = '.nav-tabs a';
 var rule = {
     title:'奇优影院',
     模板:'首图2',
-    host:'http://1e6e.com',
+    host:'http://www.326tv.com',
     // url:'/list/fyclass_fypage.html',
     url:'/list/fyclass_fypage.html?order=fyfilter',
     filterable:1,//是否启用分类筛选,

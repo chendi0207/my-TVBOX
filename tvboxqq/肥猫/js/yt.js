@@ -1,7 +1,7 @@
 var rule = {
 	title: '影探[V2]', // csp_AppYsV2
 	// host: 'http://ytcms.lyyytv.cn/api.php/app/',
-	host: 'http://vvipcms.lyyytv.cn/api.php/app/',
+	host: 'http://wvwip.lyyytv.cn/api.php/app/',
 	url: 'video?tid=fyclassfyfilter&limit=20&pg=fypage',
 	filter_url:'&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&letter={{fl.letter}}&year={{fl.year}}&by={{fl.by}}',
 	filter: {
