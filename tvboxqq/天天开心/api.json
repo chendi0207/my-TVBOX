@@ -73,12 +73,6 @@
             "ext": "./json/开心影视.json"
         },
         {
-            "key": "熊掌",
-            "name": "🎦熊掌┃秒播",
-            "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod"
-        },
-        {
             "key": "荐片",
             "name": "🎦荐片",
             "type": 3,
@@ -167,14 +161,10 @@
             "ext": "./json/shyyVIP.json"
         },
         {
-            "key": "开心果",
-            "name": "🎦开心果┃秒播",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+            "key": "熊掌",
+            "name": "🎦熊掌┃秒播",
+            "type": 1,
+            "api": "https://xzcjz.com/api.php/provide/vod"
         },
         {
             "key": "益达影视",
@@ -287,16 +277,6 @@
             "ext": "./js/ddys.js"
         },
         {
-            "key": "csp_苹果",
-            "name": "🎦苹果┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/pingguo.json"
-        },
-        {
             "key": "csp_黑狐",
             "name": "🎦黑狐┃秒播",
             "type": 3,
@@ -355,16 +335,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/VIPyingshi.json"
-        },
-        {
-            "key": "csp_七月",
-            "name": "🎦️七月┃秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/qiyue.json"
         },
         {
             "key": "七新影视",
@@ -428,16 +398,6 @@
             "ext": "./json/dandan.json"
         },
         {
-            "key": "蚂蚁",
-            "name": "🎦蚂蚁┃2K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://wushutvcms.byzz.top/api.php/app/"
-        },
-        {
             "key": "达达龟",
             "name": "🎦达龟┃2K",
             "type": 3,
@@ -464,6 +424,45 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/nangua.js"
+        },
+        {
+            "key": "csp_xml_爱坤",
+            "name": "🎦爱坤┃2K",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://www.ikdmjx.com/?url=",
+            "categories": [
+                "动作片",
+                "大陆剧",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动漫电影",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "台湾剧",
+                "日剧",
+                "海外剧",
+                "泰剧",
+                "体育",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
         },
         {
             "key": "49zy",
@@ -755,23 +754,6 @@
             "ext": "./json/TVB.json"
         },
         {
-            "key": "畅梦",
-            "name": "🎦畅梦",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/changmeng.js"
-        },
-        {
-            "key": "555影视",
-            "name": "🎦555蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/555.json"
-        },
-        {
             "key": "热播之家",
             "name": "🎦热播之家",
             "type": 3,
@@ -790,17 +772,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/HDmoli.json"
-        },
-        {
-            "key": "爱看影院",
-            "name": "🎦爱看影院",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": "1",
-            "ext": "./json/aikan.json"
         },
         {
             "key": "策驰影院",
@@ -861,16 +832,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/bttwo.json"
-        },
-        {
-            "key": "csp_AppYsV2",
-            "name": "🎦69美剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "七年影视",

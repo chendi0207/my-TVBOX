@@ -4,7 +4,7 @@
     
     "站名":"开心影视",
     
-    "主页url":"http://ttkx.site:33/",
+    "主页url":"http://www.ttkx.site:33/",
     
     "简介":"<p>&&</p>",
     
@@ -28,7 +28,7 @@
     
     "搜索模式":"1",
     
-    "搜索url":"http://ttkx.site:33/index.php/vod/search/wd/.html?wd={wd}",
+    "搜索url":"http://www.ttkx.site:33/index.php/vod/search/wd/.html?wd={wd}",
     
     "搜索数组":"module-card-item-class\">&&</a>",
     
