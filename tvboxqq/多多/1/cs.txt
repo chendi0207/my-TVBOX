@@ -25,6 +25,10 @@
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },
     {
+      "name": "💗锦哥",
+      "url": "http://jin.锦哥哥.love"
+    },
+    {
       "url": "https://www.lianyingtv.com/fast/fast",
       "name": "💕恋影线路"
     },
@@ -63,6 +67,10 @@
     {
       "url": "http://rihou.cc:99/荷城茶秀",
       "name": "💕荷城茶秀线路"
+    },
+    {
+      "name": "💮巴不巴拉",
+      "url": "https://bjson.cf/balabala"
     },
     {
       "name": "🐯CatT4👙",
@@ -819,14 +827,6 @@
     {
       "name": "🛰️天微影视🛰️蓝色影视仓库💚",
       "url": "http://hm16458.k785.icu/tvys/svip.json"
-    },
-    {
-      "name": "💮巴不巴拉",
-      "url": "https://bjson.cf/balabala"
-    },
-    {
-      "name": "💗锦哥",
-      "url": "http://jin.锦哥哥.love"
     },
     {
       "name": "♻️业余-香雅情B线路♻️",
