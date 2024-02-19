@@ -1,5 +1,6 @@
 // 注入全局方法 (仅支持tvbox的js1以及c#版drpy的js0，暂不支持drpy官方py版的js0)
-
+// 注入全局方法 (仅支持tvbox的js1以及c#版drpy的js0，暂不支持drpy官方py版的js0)
+// 注入全局方法 (仅支持tvbox的js1以及c#版drpy的js0，暂不支持drpy官方py版的js0)
 globalThis.getHeaders= function(input){
     let t = new Date().getTime().toString();
 	let headers = {

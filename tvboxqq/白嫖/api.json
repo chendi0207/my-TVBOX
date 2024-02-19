@@ -1,0 +1,200 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
+{
+    "spider": "./spider.jar",
+    "lives": [],
+    "sites": [
+        {
+            "key": "douban",
+            "name": "关注公众号:影视资源站,防失联",
+            "type": 3,
+            "api": "csp_DouBan",
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "nangua",
+            "name": "APP|南瓜",
+            "type": 3,
+            "api": "csp_AppYSDQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "公众号:影视资源站"
+        },
+        {
+            "key": "aikun",
+            "name": "影视|皮皮",
+            "type": 3,
+            "api": "csp_WebAiKun",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://aikun.tv"
+        },
+        {
+            "key": "yqkan",
+            "name": "影视|一起",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "公众号:影视资源站"
+        },
+        {
+            "key": "nm",
+            "name": "弹幕|农民",
+            "type": 3,
+            "api": "csp_WebNM",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://v.nmvod.cn"
+        },
+        {
+            "key": "997",
+            "name": "影视|997",
+            "type": 3,
+            "api": "csp_Web608",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://www.6080yy4.com"
+        },
+        {
+            "key": "hh",
+            "name": "影视|胡胡",
+            "type": 3,
+            "api": "csp_WebHH",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "gg",
+            "name": "外剧|高光",
+            "type": 3,
+            "api": "csp_WebGGYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ggys.me"
+        },
+        {
+            "key": "AList",
+            "name": "网盘|雅雅",
+            "type": 3,
+            "api": "csp_AListBox",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "xifan",
+            "name": "动漫|稀饭",
+            "type": 3,
+            "api": "csp_Xifan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "公众号:影视资源站"
+        },
+        {
+            "key": "zz",
+            "name": "短剧|种子",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://zzdj.cc/api.php/provide/vod"
+        },
+        {
+            "key": "bili",
+            "name": "娱乐|B站",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "./json/bili.json"
+        },
+        {
+            "key": "yinyue",
+            "name": "音乐|酷狗",
+            "type": 3,
+            "api": "csp_Music",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "./json/music.json"
+        },
+        {
+            "key": "ting",
+            "name": "听书|听书",
+            "type": 3,
+            "api": "csp_BookTing",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://m.ting275.com#公众号#影视资源站"
+        },
+        {
+            "key": "cofig",
+            "name": "全局|配置",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "api": "csp_Config"
+        }
+    ],
+    "parses": [],
+    "flags": [],
+    "rules": [
+        {
+            "name": "LZ",
+            "hosts": [
+                "vip.lz",
+                "hd.lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "FF",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "YQK",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+            ]
+        }
+    ]
+}
