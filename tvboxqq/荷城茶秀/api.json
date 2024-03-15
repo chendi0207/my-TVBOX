@@ -2,7 +2,7 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+    "wallpaper": "http://rihou.cc:88/壁纸",
     "lives": [
         {
             "name": "live",
@@ -63,20 +63,10 @@
             "ext": "./json/运输阿里.json"
         },
         {
-            "key": "Alist",
-            "name": "🅱️Alist网盘|T追剧",
-            "type": 3,
-            "api": "./api/alist.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://rihou.cc:5678/tvbox/json/alist_ext.json;200;video"
-        },
-        {
             "key": "csp_厂长",
             "name": "🅱️厂长影视|T追剧",
             "type": 3,
-            "api": "csp_CsCz",
+            "api": "csp_AppHccxCz",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://bo.czys.me@@荷城茶秀"
@@ -85,23 +75,12 @@
             "key": "csp_南瓜",
             "name": "🅱️南瓜影视|T追剧",
             "type": 3,
-            "api": "csp_AppNg",
+            "api": "csp_AppHccxNg",
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1,
             "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"
-        },
-        {
-            "key": "csp_皮虾",
-            "name": "🅱️皮虾影视|T追剧",
-            "type": 3,
-            "api": "csp_CsPpx",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://aikun.tv/@@荷城茶秀"
         },
         {
             "key": "csp_xBPQ_玖八",

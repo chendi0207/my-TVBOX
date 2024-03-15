@@ -24,16 +24,6 @@
             "ext": "公众号:影视资源站"
         },
         {
-            "key": "aikun",
-            "name": "影视|皮皮",
-            "type": 3,
-            "api": "csp_WebAiKun",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://aikun.tv"
-        },
-        {
             "key": "yqkan",
             "name": "影视|一起",
             "type": 3,
@@ -64,6 +54,16 @@
             "ext": "https://www.6080yy4.com"
         },
         {
+            "key": "aikun",
+            "name": "影视|皮皮",
+            "type": 3,
+            "api": "csp_WebAiKun",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://aikun.tv"
+        },
+        {
             "key": "hh",
             "name": "影视|胡胡",
             "type": 3,
@@ -73,14 +73,23 @@
             "filterable": 0
         },
         {
-            "key": "gg",
-            "name": "外剧|高光",
+            "key": "jp",
+            "name": "APP|荐片",
             "type": 3,
-            "api": "csp_WebGGYS",
+            "api": "csp_Jianpian",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "996",
+            "name": "弹幕|白嫖",
+            "type": 3,
+            "api": "csp_Web996",
+            "searchable": 1,
+            "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ggys.me"
+            "ext": "https://baipiaoys.cc#公众号:影视资源站#https://www.baipiao-ys.cc"
         },
         {
             "key": "AList",
@@ -130,7 +139,7 @@
         },
         {
             "key": "yinyue",
-            "name": "音乐|酷狗",
+            "name": "音乐|爱听",
             "type": 3,
             "api": "csp_Music",
             "searchable": 1,
@@ -139,8 +148,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.433
-            },
-            "ext": "./json/music.json"
+            }
         },
         {
             "key": "ting",

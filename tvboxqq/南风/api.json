@@ -21,7 +21,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy55.com/"
+            "ext": "https://www.czzy77.com/"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "💥追剧",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
         },
         {
             "key": "csp_YQKan",
@@ -53,16 +64,14 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "🌸率率",
+            "key": "csp_YCyz",
+            "name": "☀原创",
             "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
+            "api": "csp_YCyz",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
+            "changeable": 1
         },
         {
             "key": "萌米",
@@ -74,18 +83,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
-        },
-        {
-            "key": "星奇",
-            "name": "💥星奇",
-            "type": 3,
-            "api": "csp_AppMao",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
         },
         {
             "key": "csp_Jianpian",
@@ -135,7 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.80yy3.com/"
         },
         {
             "key": "csp_Bttwoo",
@@ -154,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.libvio.la/"
+            "ext": "https://www.libvio.pw/"
         },
         {
             "key": "csp_Kuaikan",
@@ -229,17 +226,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Duanju",
-            "name": "🎭短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://duanju.one"
         },
         {
             "key": "csp_Yj1211",
@@ -335,17 +321,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🦊找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$lmok37266@bazatek.com$$$Yoursmile"
         },
         {
             "key": "push_agent",
@@ -701,35 +676,6 @@
                     "哔哩哔哩",
                     "哔哩"
                 ]
-            }
-        },
-        {
-            "name": "云播",
-            "type": 0,
-            "url": "https://vip.lianfaka.com/vip/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
             }
         },
         {
