@@ -37,6 +37,14 @@
       "name": "动漫频道"
     },
     {
+      "name": "💗小盒子4K",
+      "url": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "💗摸鱼4K",
+      "url": "http://我不是.摸鱼儿.top"
+    },
+    {
       "name": "💗锦哥",
       "url": "http://jin.锦哥哥.love"
     },
@@ -101,7 +109,7 @@
       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
     },
     {
-      "name": "未知源👙",
+      "name": "春盈天下👙",
       "url": "https://wds.ecsxs.com/230989.json"
     },
     {
