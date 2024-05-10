@@ -10,7 +10,7 @@
     },
     {
       "name": "🎎最全短剧",
-      "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
+      "url": "https://notabug.org/dongchenys/pt/raw/json/duanju.json"
     },
     {
       "name": "☠有毒科技☠",
