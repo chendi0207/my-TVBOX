@@ -61,6 +61,10 @@
       "name": "💕云星家庭线路"
     },
     {
+      "name": "🎎短剧备用",
+      "url": "http://hucongrong.web3v.work/%E7%9F%AD%E5%89%A7.json"
+    },
+    {
       "name": "🎯 文坤主力线路 🎯",
       "url": "http://qrh.yimkj.cn/wk/文坤.json"
     },
