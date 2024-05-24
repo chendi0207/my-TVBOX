@@ -10,7 +10,7 @@
     },
     {
       "name": "🎎最全短剧",
-      "url": "http://hucongrong.web3v.work/短剧.json"
+      "url": "https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/短剧/短剧.bmp"
     },
     {
       "name": "☠有毒科技☠",
