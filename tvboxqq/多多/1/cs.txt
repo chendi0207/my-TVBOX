@@ -49,6 +49,10 @@
       "url": "http://jin.锦哥哥.love"
     },
     {
+      "name": "💗路人2",
+      "url": "https://gitee.com/dongchenliu/liu/raw/master/hd.json"
+    },
+    {
       "name": "💗路人",
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Gn.json"
     },
