@@ -43,7 +43,7 @@
     "线路数组":"data-from=&&</a>[不包含:超清资源#MY][排序:极速2]",
     
     "线路标题":">&&</em>[替换:<em>>>共]+集",
-    
-    "分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+ 
+    "分类url":"https://348z.com/vodshow/{area}{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}

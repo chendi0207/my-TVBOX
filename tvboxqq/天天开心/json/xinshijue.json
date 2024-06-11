@@ -1,13 +1,13 @@
     {
     
-    "作者":"荷城茶秀",
+    "作者":"天天开心",
     
     "站名":"新视觉影视",
     
-    "主页url":"https://www.hdmyy.com/",
+    "主页url":"https://www.6080yy3.com/",
     
-    "简介":"video-info-item video-info-content vod_content\"&&</div>",
-   
+    "简介":"&&<a",
+    
     "导演":"导演：&&</div>",
     
     "主演":"主演：&&</div>",
@@ -26,23 +26,9 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索模式":"1",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
     
-    "搜索url":"https://search.ymck.me/index.php?q={wd}",
-    
-    "搜索数组":"<b>&&</b>[包含:新视觉影视]",
-    
-    "搜索副标题":"<a>&&</a>",
-    
-    "搜索标题":"class='movie_name'>&&</a>",
-    
-    "搜索链接":"href=\"&&\"",
-    
-    "搜索图片":"http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg",
-    
-    "线路数组":"data-dropdown-value=&&</div>",
-    
-    "线路标题":"天天开心-+<span>&&</small>[替换:蓝光专享线路>>蓝光①#在线观看线路>>在线#极速-01线路>>01线路#极速播放线路>>极速#蓝光专线2线路>>蓝光②#蓝光专享2线路>>蓝光③#蓝光专享3线路>>蓝光④#</span><small>>>>线路共]+集",
+    "线路标题":"+<span>&&</small>[替换:</span><small>>>>线路共]+集",
         
     "播放数组":"sort-item\"&&</div>",
     
@@ -50,7 +36,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.hdmyy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     

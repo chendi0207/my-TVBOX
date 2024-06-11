@@ -4,6 +4,145 @@
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
 
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-1 综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-3 综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/a75c405c16-0-0-dfdfc6539b46fbb9e1c885d1e280acc3/index.m3u8
+CCTV-3 综艺,https://iptv.luas.edu.cn/liverespath/4112f13561cff5bd2be250480f4abed975bf48a1/a767505525-0-0-35fd26ebfef2ab441dec774c328c25b1/index.m3u8
+CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-6 电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV-6 电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV-6 电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/276aad8446-0-0-b3a3ac2123ecbaddab4857b77c384584/index.m3u8
+CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-7 国防军事,https://iptv.luas.edu.cn/liverespath/d9db906862f5d8d013735f7b27b97ff233fb15ac/96842517d9-0-0-be3431546a8c5da60453bffb3da55902/index.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-9 纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10 科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV-12 社会与法,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
+CCTV-12 社会与法,https://iptv.luas.edu.cn/liverespath/c9edac5e53c8f301d094706617f302feb37f9592/77844bd73b-0-0-efe56a2d9baeb5086ef85d5f8033fa73/index.m3u8
+CCTV-13 新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-13 新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV-14 少儿,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/6afcb195c8-0-0-53bd011e883748166483716a2b08f003/index.m3u8
+CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-15 音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV-16 奥林匹克,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV-17 农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
+CCTV-16 4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+
+CCTV-4k,http://www.238311.top:8883/央视频.php?id=cctv4k
+CCTV-8k,http://www.238311.top:8883/央视频.php?id=cctv8k
+CCTV1,http://www.238311.top:8883/央视频.php?id=cctv1
+CCTV2,http://www.238311.top:8883/央视频.php?id=cctv2
+CCTV3,http://www.238311.top:8883/央视频.php?id=cctv3
+CCTV4,http://www.238311.top:8883/央视频.php?id=cctv4
+CCTV5,http://www.238311.top:8883/央视频.php?id=cctv5
+CCTV5+,http://www.238311.top:8883/央视频.php?id=cctv5p
+CCTV6,http://www.238311.top:8883/央视频.php?id=cctv6
+CCTV7,http://www.238311.top:8883/央视频.php?id=cctv7
+CCTV8,http://www.238311.top:8883/央视频.php?id=cctv8
+CCTV9,http://www.238311.top:8883/央视频.php?id=cctv9
+CCTV10,http://www.238311.top:8883/央视频.php?id=cctv10
+CCTV11,http://www.238311.top:8883/央视频.php?id=cctv11
+CCTV12,http://www.238311.top:8883/央视频.php?id=cctv12
+CCTV13,http://www.238311.top:8883/央视频.php?id=cctv13
+CCTV14,http://www.238311.top:8883/央视频.php?id=cctv14
+CCTV15,http://www.238311.top:8883/央视频.php?id=cctv15
+CCTV16,http://www.238311.top:8883/央视频.php?id=cctv16
+CCTV16-4k,http://www.238311.top:8883/央视频.php?id=cctv16-4k
+CCTV17,http://www.238311.top:8883/央视频.php?id=cctv17
+CCTV兵器科技,http://www.238311.top:8883/央视频.php?id=bqkj
+CCTV第一剧场,http://www.238311.top:8883/央视频.php?id=dyjc
+CCTV怀旧剧场,http://www.238311.top:8883/央视频.php?id=hjjc
+CCTV风云剧场,http://www.238311.top:8883/央视频.php?id=fyjc
+CCTV风云音乐,http://www.238311.top:8883/央视频.php?id=fyyy
+CCTV风云足球,http://www.238311.top:8883/央视频.php?id=fyzq
+CCTV电视指南,http://www.238311.top:8883/央视频.php?id=dszn
+CCTV女性时尚,http://www.238311.top:8883/央视频.php?id=nxss
+CCTV央视文化精品,http://www.238311.top:8883/央视频.php?id=whjp
+CCTV世界地理,http://www.238311.top:8883/央视频.php?id=sjdl
+CCTV高尔夫网球,http://www.238311.top:8883/央视频.php?id=gefwq
+CCTV央视台球,http://www.238311.top:8883/央视频.php?id=ystq
+CCTV卫生健康,http://www.238311.top:8883/央视频.php?id=wsjk
+
+CCTV-1 综合,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-1H265_4000
+CCTV-2 财经,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-2H265_4000
+CCTV-3 综艺,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-3H265_4000
+CCTV-4 中文国际,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-4H265_4000
+CCTV-5 体育,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-5H265_4000
+CCTV-5+ 体育赛事,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-5plusH265_4000
+CCTV-6 电影,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-6H265_4000
+CCTV-7 国防军事,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-7H265_4000
+CCTV-8 电视剧,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-8H265_4000
+CCTV-9 纪录,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-9H265_4000
+CCTV-10 科教,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-10H265_4000
+CCTV-11 戏曲,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-11-H265_4000
+CCTV-12 社会与法,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-12H265_4000
+CCTV-13 新闻,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-xw_4000
+CCTV-14 少儿,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-14H265_4000
+CCTV-15 音乐,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-15-yyH265_4000
+CCTV-16 奥林匹克,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-16_4000
+CCTV-16 奥林匹克 4K,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-16-4K_8000
+CCTV-17 农业农村,http://www.mhq3vvv.work.gd/ssxg.php?id=CCTV-17_4000
+CCTV-4K 超高清,http://www.mhq3vvv.work.gd/ssxg.php?id=ys4Kcq_2000
+
+CCTV1综合,http://114.132.99.29:8883/doudou.php?id=cctv1
+CCTV2财*,http://114.132.99.29:8883/doudou.php?id=cctv2
+CCTV3综艺,http://114.132.99.29:8883/doudou.php?id=cctv3
+CCTV4中文国际,http://114.132.99.29:8883/doudou.php?id=cctv4
+CCTV4美洲,http://114.132.99.29:8883/doudou.php?id=cctv4a
+CCTV4欧洲,http://114.132.99.29:8883/doudou.php?id=cctv4o
+CCTV5体育,http://114.132.99.29:8883/doudou.php?id=cctv5
+CCTV5+体育赛事,http://114.132.99.29:8883/doudou.php?id=cctv5p
+CCTV6电影,http://114.132.99.29:8883/doudou.php?id=cctv6
+CCTV7国防军事,http://114.132.99.29:8883/doudou.php?id=cctv7
+CCTV8电视剧,http://114.132.99.29:8883/doudou.php?id=cctv8
+CCTV9纪录,http://114.132.99.29:8883/doudou.php?id=cctv9
+CCTV10科教,http://114.132.99.29:8883/doudou.php?id=cctv10
+CCTV11戏曲,http://114.132.99.29:8883/doudou.php?id=cctv11
+CCTV12社会与法,http://114.132.99.29:8883/doudou.php?id=cctv12
+CCTV13新闻,http://114.132.99.29:8883/doudou.php?id=cctv13
+CCTV14少儿,http://114.132.99.29:8883/doudou.php?id=cctv14
+CCTV15音乐,http://114.132.99.29:8883/doudou.php?id=cctv15
+CCTV17农业农村,http://114.132.99.29:8883/doudou.php?id=cctv17
+CCTV发现之旅,http://114.132.99.29:8883/doudou.php?id=fxzl
+CCTV老故事,http://114.132.99.29:8883/doudou.php?id=lgs
+CCTV中学生,http://114.132.99.29:8883/doudou.php?id=zxs
+CGTN,http://114.132.99.29:8883/doudou.php?id=cgtn
+CGTN纪录,http://114.132.99.29:8883/doudou.php?id=cgtnjl
+CCTV西班牙语,http://114.132.99.29:8883/doudou.php?id=cgtne
+CCTV法语,http://114.132.99.29:8883/doudou.php?id=cgtnf
+CCTV阿拉伯语,http://114.132.99.29:8883/doudou.php?id=cgtna
+CCTV俄语,http://114.132.99.29:8883/doudou.php?id=cgtnr
+
+
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2 财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-3 综艺,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8

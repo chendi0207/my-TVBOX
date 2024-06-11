@@ -5,12 +5,6 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "白嫖",
-            "type": 0,
-            "url": "./lives/白嫖.txt",
-            "epg": ""
-        },
-        {
             "name": "tvlive",
             "type": 0,
             "url": "./lives/tvlive.txt",
@@ -34,8 +28,33 @@
             "filterable": 0
         },
         {
-            "key": "快看",
-            "name": "快看",
+            "key": "玩偶",
+            "name": "玩偶哥哥(网盘4K)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://www.wogg.link/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Djuu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷看",
+            "name": "酷看",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -49,13 +68,14 @@
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
-            "key": "Xinsj",
-            "name": "新视觉",
+            "key": "视觉",
+            "name": "视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "timeout": 15,
@@ -65,65 +85,39 @@
             "ext": "https://www.80yy3.com/"
         },
         {
+            "key": "苹果",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "糯米",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/nmys.json"
+        },
+        {
             "key": "厂长",
             "name": "厂长",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://czzy.top/"
         },
         {
-            "key": "南瓜",
-            "name": "南瓜",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "玩偶哥哥(饭太硬)",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/jp.js"
-        },
-        {
-            "key": "drpy_js_lf_p2p",
-            "name": "磁力p2p(搜索)",
-            "type": 3,
-            "api": "./api/lf_p2p1_min.js"
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "Bttwoo",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "DiDuan",
+            "key": "低端",
             "name": "低端",
             "type": 3,
             "api": "csp_Ddrk",
@@ -133,45 +127,95 @@
             "changeable": 1
         },
         {
-            "key": "追剧",
-            "name": "追剧",
+            "key": "zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "贱贱",
+            "name": "荐片P2P",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/jp.js"
+        },
+        {
+            "key": "小点",
+            "name": "小点",
+            "type": 3,
+            "api": "csp_Xdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "热播",
+            "name": "热播",
             "type": 3,
             "api": "csp_AppTT",
+            "timeout": 15,
             "playerType": 2,
-            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
-            "key": "哔嘀",
-            "name": "哔嘀",
+            "key": "萌米",
+            "name": "萌米",
             "type": 3,
-            "api": "csp_Bdys",
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
-            "key": "77",
-            "name": "七七",
+            "key": "比特",
+            "name": "比特",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
-            "key": "一起看 ",
-            "name": "一起看",
+            "key": "可可",
+            "name": "可可",
             "type": 3,
-            "api": "csp_YQKan",
+            "api": "csp_Kekys",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
         {
             "key": "Lib",
-            "name": "Libvio",
+            "name": "立播",
             "type": 3,
             "api": "csp_Libvio",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -179,65 +223,25 @@
         },
         {
             "key": "Auete",
-            "name": "Auete",
+            "name": "奥特",
             "type": 3,
             "api": "csp_Auete",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
         },
         {
-            "key": "农民",
-            "name": "农民",
+            "key": "毛驴",
+            "name": "毛驴",
             "type": 3,
-            "api": "csp_Nmys",
+            "api": "csp_MLYS",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./json/nmys.json"
-        },
-        {
-            "key": "drpy_js_量子资源",
-            "name": "量子[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/量子资源.js"
-        },
-        {
-            "key": "鑫鑫[V2]",
-            "name": "鑫鑫[V2][js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/鑫鑫[V2].js"
-        },
-        {
-            "key": "ikanbot3",
-            "name": "ikanbot3[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ikanbot3.js"
-        },
-        {
-            "key": "新视觉js",
-            "name": "新视觉[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/新视觉影视.js"
-        },
-        {
-            "key": "drpy_js_Auete",
-            "name": "Auete[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/Auete.js"
-        },
-        {
-            "key": "drpy_js_LIBVIO",
-            "name": "LIBVIO[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/LIBVIO.js"
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "新6V",
@@ -248,6 +252,83 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "http://www.xb6v.com/"
+        },
+        {
+            "key": "量子资源",
+            "name": "量子资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "伦理片"
+            ]
+        },
+        {
+            "key": "haiwaikan",
+            "name": "海外看(墙外)",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日本动漫",
+                "国产动漫",
+                "欧美动漫",
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "台剧",
+                "泰剧",
+                "港剧",
+                "欧美剧",
+                "动画电影",
+                "韩国综艺",
+                "国产综艺",
+                "日本综艺",
+                "欧美综艺",
+                "冒险片",
+                "剧情片",
+                "动作片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "战争片",
+                "歌舞片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "纪录片",
+                "经典片"
+            ]
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "泥视频(墙外)",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "腐宅",
@@ -261,83 +342,56 @@
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "暴风",
-            "name": "暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "YiSo",
-            "name": "易搜┃搜索",
+            "name": "易搜搜索",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "PanSou",
-            "name": "盘搜┃搜索",
+            "name": "盘搜搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "UpYun",
-            "name": "Up搜┃搜索",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "PanSearch",
-            "name": "盘Se┃搜索",
+            "name": "盘Se搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "push_agent",
-            "name": "推送",
+            "name": "手机推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "bili_open",
-            "name": "哔哩貓",
-            "type": 3,
-            "api": "./api/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
             "ext": {
-                "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
             }
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "泥视频(墙外)",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Bili",
@@ -404,31 +458,72 @@
             "ext": "./json/xx5.json"
         }
     ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
     "rules": [
         {
-            "name": "hwk",
+            "name": "kk",
             "hosts": [
-                "haiwaikan"
+                "kuaikan"
             ],
             "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "12.33",
-                "10.85"
+                "5",
+                "20.123",
+                "20.167",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
             "name": "yqk",
             "hosts": [
-                "yqk88"
+                "yqk"
             ],
             "regex": [
                 "18.4",
                 "15.1666",
-                "16.5333",
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
             ]
         },
         {
@@ -465,11 +560,15 @@
         {
             "name": "lz",
             "hosts": [
-                "lz"
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz",
+                "yzzy1.play"
             ],
             "regex": [
                 "18.5333",
-                "19.52"
+                "19.52",
+                "18.6666"
             ]
         },
         {

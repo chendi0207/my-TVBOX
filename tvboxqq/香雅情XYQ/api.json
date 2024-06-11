@@ -58,16 +58,6 @@
             "ext": "./js/百忙无果.js"
         },
         {
-            "key": "Gitcafe",
-            "name": "📀小纸条(搜索)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./txt/alitoken.txt"
-        },
-        {
             "key": "csp_Zhaozy",
             "name": "📀找资源(搜索)",
             "type": 3,
@@ -75,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+            "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"https://zhaoziyuan1.cc/so?filename={wd}\"}"
         },
         {
             "key": "csp_AliPS",
@@ -108,6 +98,16 @@
             "ext": "./txt/alitoken.txt"
         },
         {
+            "key": "csp_XYQHiker_影搜",
+            "name": "📀影搜(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/影搜.json"
+        },
+        {
             "key": "csp_XYQHikerAL_玩偶哥哥",
             "name": "📀玩偶哥哥(优)",
             "type": 3,
@@ -116,16 +116,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/玩偶哥哥.json"
-        },
-        {
-            "key": "csp_XYQHikerAL_玩偶妹妹",
-            "name": "📀玩偶妹妹(优)",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/玩偶妹妹.json"
         },
         {
             "key": "csp_XYQHikerAL_云盘资源",
@@ -229,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czzy55.com"
+            "ext": "https://www.czys.top"
         },
         {
             "key": "csp_Bdys",
@@ -250,15 +240,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kunyu77",
-            "name": "🐞77影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_JianPian",
             "name": "🔨荐片",
             "type": 3,
@@ -267,7 +248,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+            "ext": "http://112.124.0.131:20000"
         },
         {
             "key": "csp_Ikanbot",
@@ -276,7 +257,8 @@
             "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://v.aikanbot.com"
         },
         {
             "key": "csp_Bili",
@@ -389,43 +371,14 @@
             "ext": "./json/Bili短剧.json"
         },
         {
-            "key": "csp_短剧网",
-            "name": "短剧网",
-            "type": 3,
-            "api": "csp_Duanjuw",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_XYQHiker_农民影视",
-            "name": "🧑🏻‍农民影视(HM2)",
+            "name": "🧑🏻‍农民影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/农民影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_996影视",
-            "name": "996影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/996影视.json"
-        },
-        {
-            "key": "csp_XYQBiu_88看球",
-            "name": "88看球(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/88看球.json"
         },
         {
             "key": "csp_Yj1211",
@@ -456,26 +409,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./json/虎牙直播.json"
-        },
-        {
-            "key": "csp_XYQHiker_斗鱼直播",
-            "name": "🐠斗鱼直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/斗鱼直播.json"
-        },
-        {
-            "key": "csp_XYQBiu_网易CC直播",
-            "name": "🕸网易CC直播(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/网易CC直播.json"
         }
     ],
     "parses": [
@@ -660,7 +593,8 @@
                 ".cdnlz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "17.19",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
@@ -671,8 +605,8 @@
                 "hd.ffzy"
             ],
             "regex": [
-                "20.52",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "17.99",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"
             ]

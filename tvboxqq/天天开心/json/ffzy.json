@@ -55,7 +55,7 @@
     
     "播放标题":"title=\"&&\"[不包含:复制]",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$36",
     
     "分类url":"http://ffzy5.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
     

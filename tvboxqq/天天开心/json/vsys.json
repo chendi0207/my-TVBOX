@@ -4,7 +4,7 @@
     
     "站名":"vs影视",
     
-    "主页url":"https://www.ytshengde.com/",
+    "主页url":"https://m.ytshengde.com/",
     
     "简介":"+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
     
@@ -18,6 +18,6 @@
     
     "线路标题":">&&</a>+线路",
     
-    "分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
+    "分类url":"https://m.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
