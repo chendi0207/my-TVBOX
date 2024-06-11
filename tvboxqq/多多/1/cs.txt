@@ -21,7 +21,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
     },
     {
-      "url": "http://xb.tvbox.cam",
+      "url": "http://bp.tvbox.cam",
       "name": "💕小白秒播"
     },
     {
