@@ -53,6 +53,14 @@
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Gn.json"
     },
     {
+      "name": "💗统一骚零",
+      "url": "https://100km.top/0"
+    },
+    {
+      "name": "💗OK屌炸天",
+      "url": "http://ok321.top/tv"
+    },
+    {
       "url": "https://www.lianyingtv.com/fast/fast",
       "name": "💕恋影线路"
     },
