@@ -2,11 +2,11 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://深色壁纸.饭.eu.org/",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "豆豆",
-            "name": "重要更新！接口的top改com",
+            "name": "全接口智能过滤广告",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -58,6 +58,30 @@
             "changeable": 1
         },
         {
+            "key": "Lib",
+            "name": "🌟立播┃秒播",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "Zx4k",
+            "name": "🚝专线┃秒播",
+            "type": 3,
+            "api": "csp_Zx4k",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "原创",
             "name": "☀原创┃不卡",
             "type": 3,
@@ -69,17 +93,6 @@
             "changeable": 1
         },
         {
-            "key": "视觉",
-            "name": "👓视觉┃多线",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-        },
-        {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
             "type": 3,
@@ -87,17 +100,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "糯米",
-            "name": "🍙糯米┃秒播",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./json/nmys.json"
         },
         {
             "key": "厂长",
@@ -112,11 +114,33 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "低端",
-            "name": "⏮️低端┃外剧",
+            "key": "视觉",
+            "name": "👓视觉┃多线",
             "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.6080yy3.com/"
+        },
+        {
+            "key": "蛋蛋",
+            "name": "🍓蛋蛋┃多线",
+            "type": 3,
+            "api": "csp_Cddys",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -133,6 +157,16 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
+            "key": "低端",
+            "name": "⏮️低端┃外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "贱贱",
             "name": "🐭贱贱┃P2P",
             "type": 3,
@@ -142,6 +176,17 @@
             "playerType": "1",
             "api": "./api/drpy2.min.js",
             "ext": "./js/jp.js"
+        },
+        {
+            "key": "可可",
+            "name": "👻可可┃多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "小点",
@@ -175,6 +220,15 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
+            "key": "比特",
+            "name": "🍄比特┃秒播",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "南瓜",
             "name": "🎃南瓜┃多线",
             "type": 3,
@@ -186,37 +240,6 @@
             "changeable": 1
         },
         {
-            "key": "比特",
-            "name": "🍄比特┃秒播",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "可可",
-            "name": "👻可可┃多线",
-            "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "🌟立播┃不卡",
-            "type": 3,
-            "api": "csp_Libvio",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pw/"
-        },
-        {
             "key": "Auete",
             "name": "🏝奥特┃无广",
             "type": 3,
@@ -226,17 +249,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
-        },
-        {
-            "key": "毛驴",
-            "name": "🍓毛驴┃多线",
-            "type": 3,
-            "api": "csp_MLYS",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "新6V",
@@ -253,15 +265,6 @@
             "name": "🚌巴士┃动漫",
             "type": 3,
             "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Ying",
-            "name": "💮樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -311,7 +314,7 @@
             "changeable": 0
         },
         {
-            "key": "企鹅体育xp",
+            "key": "企鹅xp",
             "name": "🐧鹅鹅┃体育",
             "type": 3,
             "api": "csp_XPath",
@@ -474,6 +477,19 @@
             "name": "🦊盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "UpYun",
+            "name": "😻Up搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -684,7 +700,7 @@
             "name": "live",
             "type": 0,
             "url": "./lives/live.txt",
-            "epg": ""
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
             "name": "XIUTAN",

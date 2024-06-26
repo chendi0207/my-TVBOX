@@ -2,8 +2,8 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-    "logo": "http://我不是.肥猫.live/fatcat.jpg",
+    "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
+    "logo": "http://like.xn--z7x900a.com/panda/0262.png",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -46,6 +46,15 @@
             "filterable": 1
         },
         {
+            "key": "哔嘀",
+            "name": "😹┃哔嘀┃影视",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "胖虎",
             "name": "🐯┃胖虎┃影视",
             "type": 3,
@@ -55,6 +64,13 @@
             "filterable": 1,
             "playerType": 1,
             "ext": "https://physvod.com"
+        },
+        {
+            "key": "csp_FengGo",
+            "name": "🐕┃疯狗┃影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "playerType": 2
         },
         {
             "key": "csp_Nkdy",
@@ -137,8 +153,10 @@
             "key": "FreeOK",
             "name": "️️👌┃Fre┃影视",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/FreeOK.js"
+            "api": "csp_FreeOK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "毛驴",
@@ -167,13 +185,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "saohuo",
-            "name": " 👗┃骚火┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_SaoHuo"
         },
         {
             "key": "云播影视",
@@ -349,16 +360,62 @@
             "gridview": "0-0-4.1"
         },
         {
+            "key": "酷奇",
+            "name": "🎤┃酷奇┃MV",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/酷奇MV.js"
+        },
+        {
+            "key": "MTV",
+            "name": "🎧┃明星┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./json/MTV.json"
+        },
+        {
             "key": " 在线┃直播1",
             "name": "📺┃竞技┃直播",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/JustLive.js",
+            "api": "csp_JustLive",
             "gridview": "0-0-H",
             "style": {
                 "type": "rect",
                 "ratio": 1.68
             }
+        },
+        {
+            "key": "虎牙直播js",
+            "name": "🐯┃虎牙┃直播",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "playerType": 1,
+            "ext": "./js/huya2.js"
+        },
+        {
+            "key": "斗鱼js",
+            "name": "🐟┃斗鱼┃直播",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "playerType": 1,
+            "ext": "./js/斗鱼直播.js"
+        },
+        {
+            "key": "聚短视频js",
+            "name": "📽┃️聚短┃视频",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/短视频.js"
         },
         {
             "key": "看球",
@@ -428,15 +485,15 @@
             "key": "drpy_哔哩",
             "name": "🅱┃哔哩┃合集",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "csp_Bili",
             "playerType": 1,
-            "ext": "./js/B站.js"
+            "ext": "./json/bilibili.json"
         },
         {
             "key": "儿童",
             "name": "📚┃儿童┃启蒙",
             "type": 3,
-            "api": "./api/ddrpy2.m.js",
+            "api": "./api/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
