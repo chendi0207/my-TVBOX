@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "🐼肥猫宝贝👙",
-      "url": "https://肥猫.live/"
+      "url": "http://xn--z7x900a.live/"
     },
     {
       "url": "http://www.饭太硬.com/tv/",
