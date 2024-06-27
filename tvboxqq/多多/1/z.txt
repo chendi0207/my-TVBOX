@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "🐼肥猫宝贝👙",
-      "url": "http://xn--z7x900a.live/"
+      "url": "http://xn--z7x900a.com/"
     },
     {
       "url": "http://www.饭太硬.com/tv/",
@@ -17,12 +17,16 @@
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },
     {
-      "name": "🐼熊猫不叫猫🐼",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
+      "url": "http://dy.cwb0207.online:801/华为8.json",
+      "name": "💕华为"
     },
     {
       "url": "http://bp.tvbox.cam",
       "name": "💕小白秒播"
+    },
+    {
+      "name": "🐼熊猫不叫猫🐼",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json",

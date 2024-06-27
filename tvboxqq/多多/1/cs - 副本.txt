@@ -18,7 +18,7 @@
     },
     {
       "url": "http://dy.cwb0207.online:801/华为8.json",
-      "name": "💕华为"
+      "name": "💕小白秒播"
     },
     {
       "url": "http://bp.tvbox.cam",
