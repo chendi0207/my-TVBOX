@@ -17,7 +17,7 @@
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },
     {
-      "url": "http://dy.cwb0207.online:801/华为8.json",
+      "url": "http://dy.cwb0207.online:909/华为8.json",
       "name": "💕华为"
     },
     {
