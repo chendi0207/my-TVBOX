@@ -21,6 +21,18 @@
       "name": "💕华为"
     },
     {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zzq12345/jiemuyuan/24ecaf2ddf2c0728b2974a37449e1ea515934da0/jsm.json",
+      "name": "💕zzq12345"
+    },
+    {
+      "url": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+      "name": "💕月光宝盒"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LinWei0718/iptvtw/5b764ff78c40867b1aaa6473ddfc6d855fcbdcc7/config.json",
+      "name": "💕Git备用"
+    },
+    {
       "url": "http://bp.tvbox.cam",
       "name": "💕小白秒播"
     },
@@ -57,11 +69,11 @@
       "url": "http://jin.锦哥哥.love"
     },
     {
-      "name": "💗路人2",
+      "name": "💗土豆2",
       "url": "https://gitee.com/dongchenliu/liu/raw/master/hd.json"
     },
     {
-      "name": "💗路人",
+      "name": "💗土豆",
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Gn.json"
     },
     {
@@ -79,10 +91,6 @@
     {
       "url": "http://itvbox.cc/云星日记",
       "name": "💕云星家庭线路"
-    },
-    {
-      "url": "http://itvbox.cc/可视仓库",
-      "name": "💕云星可视"
     },
     {
       "name": "🎎短剧备用",
@@ -157,24 +165,8 @@
       "name": "💕道长2线路"
     },
     {
-      "url": "http://rihou.vip:55/天天开心",
-      "name": "💕日后线路"
-    },
-    {
       "url": "https://download.kstore.space/download/2863/01.txt",
       "name": "💕潇洒线路"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=a3&jar=a3&b=白嫖小蚂蚁",
-      "name": "💕蚂蚁哔哩线路"
-    },
-    {
-      "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&jar=index2&123&b=白嫖小蚂蚁",
-      "name": "💕蚂蚁家庭线路"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all&jar=all&b=白嫖小蚂蚁",
-      "name": "💕蚂蚁阿里线路"
     },
     {
       "url": "http://jxym.ygx888.com/vip/api.json",
@@ -190,7 +182,7 @@
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-      "name": "💕未知线路3"
+      "name": "💕liu673cn"
     }
   ]
 }
