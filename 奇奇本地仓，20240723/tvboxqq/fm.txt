@@ -1,0 +1,25 @@
+{ "urls": [{ "url": "file://tvboxqq/饭太硬/api.json", "name": "饭太硬[本地]" },
+
+{ "url": "file://tvboxqq/小米/api.json", "name": "小米[本地]" },
+
+{ "url": "file://tvboxqq/肥猫/api.json", "name": "肥猫[本地]" },
+
+{ "url": "file://tvboxqq/王二小/api.json", "name": "王二小[本地]" },
+
+{ "url": "file://tvboxqq/PG/api.json", "name": "PG[本地]" },
+
+{ "url": "file://tvboxqq/香雅情/api.json", "name": "香雅情[本地]" },
+
+{ "url": "file://tvboxqq/南风/api.json", "name": "南风[本地]" },
+
+{ "url": "file://tvboxqq/骚零/api.json", "name": "骚零[本地]" },
+
+{ "url": "file://tvboxqq/OK/api.json", "name": "OK[本地]" },
+
+{ "url": "file://tvboxqq/白嫖/api.json", "name": "白嫖[本地]" },
+
+{ "url": "file://tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐[本地]" },
+
+{ "url": "file://tvboxqq/少儿频道/api.json", "name": "少儿频道[本地]" },
+
+{ "url": "file://tvboxqq/动漫频道/api.json", "name": "动漫频道[本地]" }]}
