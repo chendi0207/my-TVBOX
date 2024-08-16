@@ -1,0 +1,9 @@
+ {
+        "简介": "关注公众号【多多影音】获取更多影视资源，加入QQ频道【应用多多】防失联！提醒您请勿相信影片中的广告，以免上当受骗！+class=\"video-info-item video-info-content vod_content\">&&</span>",
+        "数组": "class=\"module-item-text\"&&class=\"loading\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集⚡️‍公众号【多多影音】专享接口⚡️‍",
+        "副标题": " class=\"module-item-text\">&&</div>",
+        "分类": "电影$1#日韩剧$21#海外剧$2#动漫$20#短剧$23",
+        "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
+      }
