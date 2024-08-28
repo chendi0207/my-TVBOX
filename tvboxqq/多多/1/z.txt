@@ -25,6 +25,10 @@
       "name": "💕zzq12345"
     },
     {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "name": "💕高天流云"
+    },
+    {
       "url": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
       "name": "💕月光宝盒"
     },
