@@ -27,12 +27,29 @@
         },
         {
             "key": "Wexconfig",
-            "name": "🐮配置┃中心🐮",
+            "name": "🐮通用类型┃配置中心🐮",
             "type": 3,
             "api": "csp_Wexconfig",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0
+        },
+        {
+            "key": "Wexokconfig",
+            "name": "🐮影视专用┃配置中心🐮",
+            "type": 3,
+            "api": "csp_Wexokconfig",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexalllive",
+            "name": "💓‍聚合┃直播💓‍",
+            "type": 3,
+            "api": "csp_Wexalllive",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "115",
@@ -41,6 +58,7 @@
             "api": "csp_Wex115share",
             "searchable": 1,
             "changeable": 1,
+            "timeout": 50,
             "style": {
                 "type": "list"
             }
@@ -86,6 +104,38 @@
             "changeable": 1
         },
         {
+            "key": "Wexmuougg",
+            "name": "💓木偶┃4K💓",
+            "type": 3,
+            "api": "csp_Wexmuougg",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexlabi",
+            "name": "💓蜡笔┃4K💓",
+            "type": 3,
+            "api": "csp_Wexlabi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexzhizhen",
+            "name": "💓至臻┃4K💓",
+            "type": 3,
+            "api": "csp_Wexzhizhen",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexxingyun",
+            "name": "💓幸运┃4K💓",
+            "type": 3,
+            "api": "csp_Wexxingyun",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "賤賤",
             "name": "📓賤片┃p2p📓",
             "type": 3,
@@ -94,34 +144,10 @@
             "changeable": 1
         },
         {
-            "key": "Wexxiongdiys",
-            "name": "💥基友┃影视💥",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexyuyueys",
-            "name": "💥雨落┃影视💥",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "💥瓜瓜┃影视💥",
             "type": 3,
             "api": "csp_WexNgys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexkukantv",
-            "name": "😁看呗┃影视😁",
-            "type": 3,
-            "api": "csp_Wexkukantv",
             "searchable": 1,
             "changeable": 1
         },
@@ -138,22 +164,6 @@
             "name": "😁腐剧┃影视😁",
             "type": 3,
             "api": "csp_WexFujutv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexTiantianys",
-            "name": "🎇明天┃秒播🎇",
-            "type": 3,
-            "api": "csp_WexTiantianys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexjiohub",
-            "name": "🎇啾啾┃秒播🎇",
-            "type": 3,
-            "api": "csp_Wexjiohub",
             "searchable": 1,
             "changeable": 1
         },
@@ -182,14 +192,6 @@
             "changeable": 1
         },
         {
-            "key": "WexShijuedy",
-            "name": "🎇看看┃秒播🎇",
-            "type": 3,
-            "api": "csp_WexShijuedy",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexsaohuo",
             "name": "🎇火火┃秒播🎇",
             "type": 3,
@@ -202,6 +204,14 @@
             "name": "🎇外剧┃秒播🎇",
             "type": 3,
             "api": "csp_Wexzxzj",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexbaozitv",
+            "name": "🎇包子┃秒播🎇",
+            "type": 3,
+            "api": "csp_Wexbaozitv",
             "searchable": 1,
             "changeable": 1
         },
@@ -350,6 +360,14 @@
             "changeable": 1
         },
         {
+            "key": "Wexjiazitv",
+            "name": "🌺甲子┃4K🌺",
+            "type": 3,
+            "api": "csp_Wexjiazitv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "Wexwencai",
             "name": "🌺文才┃秒播🌺",
             "type": 3,
@@ -366,18 +384,18 @@
             "changeable": 1
         },
         {
-            "key": "Wexhanxiaoquan",
-            "name": "🌺韩圈┃秒播🌺",
+            "key": "Wexhanjutv",
+            "name": "🌺韩剧┃秒播🌺",
             "type": 3,
-            "api": "csp_Wexhanxiaoquan",
+            "api": "csp_Wexhanjutv",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "Wexdiguatv",
-            "name": "🌺追剧┃秒播🌺",
+            "key": "Wexhanxiaoquan",
+            "name": "🌺韩圈┃秒播🌺",
             "type": 3,
-            "api": "csp_Wexdiguatv",
+            "api": "csp_Wexhanxiaoquan",
             "searchable": 1,
             "changeable": 1
         },
@@ -556,14 +574,6 @@
             "changeable": 0
         },
         {
-            "key": "上方需用在线接口",
-            "name": "🥁⬆️上方需用在线接口⬆️🥁",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexqingfengdj",
             "name": "🎼舞曲┃摇头🎼",
             "type": 3,
@@ -632,40 +642,8 @@
             "ext": "./json/qie.json"
         },
         {
-            "key": "櫻花",
-            "name": "🤡櫻花┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexYing",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "巴士",
-            "name": "🤡巴士┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexDm84",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "異界",
-            "name": "🤡異界┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexYsj",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexciliso",
-            "name": "🛩️磁力┃聚合┃搜",
-            "type": 3,
-            "api": "csp_Wexciliso",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "Wexmiso",
-            "name": "🎠小米┃综合┃搜",
+            "name": "🎠米搜┃综合🎠",
             "type": 3,
             "api": "csp_Wexmiso",
             "searchable": 1,
@@ -673,7 +651,7 @@
         },
         {
             "key": "Wexed3000",
-            "name": "🎠易迪┃阿里┃搜",
+            "name": "🎠易迪┃综合🎠",
             "type": 3,
             "api": "csp_Wexed3000",
             "searchable": 1,
@@ -681,49 +659,33 @@
         },
         {
             "key": "易搜",
-            "name": "🎠易搜┃阿里┃搜",
+            "name": "🎠易搜┃综合🎠",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0
         },
         {
-            "key": "雲搜",
-            "name": "🎠雲搜┃阿里┃搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "盤搜",
-            "name": "🎠盤搜┃阿里┃搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "盤搜索",
-            "name": "🎠盤搜索┃阿里┃搜",
+            "name": "🎠盤搜┃综合🎠",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0
         },
         {
-            "key": "搜吧",
-            "name": "🎠搜吧┃综合┃搜",
+            "key": "Wexyingso",
+            "name": "🎠影子┃综合🎠",
             "type": 3,
-            "api": "csp_Wexbtso",
+            "api": "csp_Wexyingso",
             "searchable": 1,
             "changeable": 0
         },
         {
-            "key": "Wexyingso",
-            "name": "🎠影子┃综合┃搜",
+            "key": "Wextyso",
+            "name": "🎠给力┃天逸🎠",
             "type": 3,
-            "api": "csp_Wexyingso",
+            "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0
         },
@@ -906,9 +868,15 @@
     ],
     "lives": [
         {
-            "name": "IPv6001",
+            "name": "王二小放牛娃推荐使用",
             "type": 0,
-            "url": "./lives/IPv6001.txt",
+            "url": "./lives/王二小放牛娃推荐使用.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "./lives/IPV6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
@@ -939,12 +907,6 @@
             "name": "IPV4",
             "type": 0,
             "url": "./lives/IPV4.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "./lives/IPV6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
