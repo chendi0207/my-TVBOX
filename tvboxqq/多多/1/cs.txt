@@ -17,7 +17,7 @@
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },
     {
-      "url": "http://dy.cwb0207.online:909/tvbox/fty/fty.json",
+      "url": "http://dy.cwb0207.online:1314/z.txt",
       "name": "💕华为"
     },
     {
