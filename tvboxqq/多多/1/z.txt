@@ -1,6 +1,6 @@
-{
+﻿{
   "urls": [
-    {
+     {
       "name": "🐼肥猫宝贝👙",
       "url": "http://xn--z7x900a.com/"
     },
@@ -9,19 +9,23 @@
       "name": "💕饭太硬线路"
     },
     {
+      "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "name": "💕小米线路"
+    },
+    {
       "name": "🎎最全短剧",
-      "url": "https://jihulab.com/jie200911161/cat/-/raw/main/TVBOX/短剧/短剧.bmp"
+      "url": "https://gitea.moe/Fathers/EkfkgH/raw/branch/main/短剧.json"
     },
     {
       "name": "☠有毒科技☠",
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },
     {
-      "url": "http://dy.cwb0207.online:1314/z.txt",
-      "name": "💕华为"
+      "name": "💗OK屌炸天",
+      "url": "http://ok321.top/tv"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zzq12345/jiemuyuan/24ecaf2ddf2c0728b2974a37449e1ea515934da0/jsm.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/jsm.json",
       "name": "💕zzq12345"
     },
     {
@@ -29,7 +33,7 @@
       "name": "💕高天流云"
     },
     {
-      "url": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
       "name": "💕月光宝盒"
     },
     {
@@ -41,12 +45,8 @@
       "name": "💕小白秒播"
     },
     {
-      "name": "🐼熊猫不叫猫🐼",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
-    },
-    {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json",
-      "name": "拾光秒播"
+      "name": "🐼时光趣乐屋🐼",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/hello/refs/heads/main/hello.json"
     },
     {
       "name": "💕巧技APP线路",
@@ -65,10 +65,6 @@
       "url": "http://我不是.摸鱼儿.top"
     },
     {
-      "name": "💕小雅💗",
-      "url": "http://192.168.2.1:4567/sub/0"
-    },
-    {
       "name": "💗锦哥",
       "url": "http://jin.锦哥哥.love"
     },
@@ -85,20 +81,12 @@
       "url": "https://100km.top/0"
     },
     {
-      "name": "💗OK屌炸天",
-      "url": "http://ok321.top/tv"
-    },
-    {
       "url": "https://www.lianyingtv.com/fast/fast",
       "name": "💕恋影线路"
     },
     {
       "url": "http://itvbox.cc/云星日记",
       "name": "💕云星家庭线路"
-    },
-    {
-      "name": "🎎短剧备用",
-      "url": "http://hucongrong.web3v.work/%E7%9F%AD%E5%89%A7.json"
     },
     {
       "name": "🎯 盒子迷 🎯",
@@ -117,16 +105,8 @@
       "name": "💕讴歌家庭线路"
     },
     {
-      "url": "http://rihou.cc:99/荷城茶秀",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
       "name": "💕荷城茶秀线路"
-    },
-    {
-      "name": "🌸荷城茶锈在线🌸",
-      "url": "http://rihou.vip:88/荷城茶秀"
-    },
-    {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "💕小米线路"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",

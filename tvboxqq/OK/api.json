@@ -1,3 +1,4 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -36,10 +37,10 @@
             "timeout": 10
         },
         {
-            "key": "酷看",
-            "name": "😎酷看┃直连",
+            "key": "文才",
+            "name": "🌺文才┃在线",
             "type": 3,
-            "api": "csp_Kkys",
+            "api": "csp_Jpys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -50,16 +51,6 @@
             "name": "🎃南瓜┃直连",
             "type": 3,
             "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
-            "key": "小苹果",
-            "name": "🍎苹果┃直连",
-            "type": 3,
-            "api": "csp_Xpg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -82,6 +73,89 @@
             "timeout": 30
         },
         {
+            "key": "糯米",
+            "name": "🍓糯米┃秒播",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "小苹果",
+            "name": "🍎苹果┃直连",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "木耳",
+            "name": "🪴木耳┃秒播",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 20,
+            "categories": [
+                "剧情片",
+                "动作片",
+                "冒险片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "歌舞片",
+                "战争片",
+                "经典片",
+                "动画电影",
+                "网络电影",
+                "其他片",
+                "国产剧",
+                "港剧",
+                "韩剧",
+                "日剧",
+                "泰剧",
+                "台剧",
+                "欧美剧",
+                "新马剧",
+                "其他剧",
+                "国产综艺",
+                "港台综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺",
+                "新马泰综艺",
+                "其他综艺",
+                "古装短剧",
+                "虐恋短剧",
+                "逆袭短剧",
+                "神豪短剧",
+                "重生短剧",
+                "复仇短剧",
+                "穿越短剧",
+                "甜宠短剧",
+                "强者短剧",
+                "欧美动漫",
+                "日本动漫",
+                "韩国动漫",
+                "国产动漫",
+                "港台动漫"
+            ],
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
+        },
+        {
             "key": "立播弹幕版",
             "name": "🐰立播┃在线",
             "type": 3,
@@ -93,8 +167,7 @@
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://libvio.link",
-                "danmu": true
+                "site": "https://libvio.link"
             },
             "timeout": 30
         },
@@ -109,8 +182,23 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "site": "https://duopan.fun",
-                "danmu": true
+                "site": "http://labipan.com"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "木偶弹幕",
+            "name": "🪵木偶┃在线",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "site": "http://mogg.小胡.top"
             },
             "timeout": 25
         },
@@ -136,52 +224,10 @@
             "timeout": 10
         },
         {
-            "key": "文才",
-            "name": "🌺文才┃在线",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
-            "key": "河马",
-            "name": "🦓河马┃在线",
-            "type": 3,
-            "api": "csp_Oka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-            "ext": "{\"cateUrl\":\"https://www.hemahd.com/tags/{cateId}--------{page}---.html\", \"cate\":\"电影$1#电视剧$2#动漫$3#综艺$4\", \"search\":\"/sou/{search}-------------.html\"}"
-        },
-        {
-            "key": "桃子",
-            "name": "🍑桃子┃在线",
-            "type": 3,
-            "api": "csp_Oka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-            "ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items .module-tab-item span\",\"playUrl\":\".module-list .module-play-list\", \"search\":\"/search/{search}-------------.html\", \"webview\":1}"
-        },
-        {
             "key": "荐片",
             "name": "⚔️荐片┃手机",
             "type": 3,
             "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
-            "key": "JOJO",
-            "name": "🍭JOJO┃直连",
-            "type": 3,
-            "api": "csp_Jiohub",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -308,17 +354,6 @@
             "timeout": 10
         },
         {
-            "key": "达达龟js",
-            "name": "🐢达达龟┃在线",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/dadagui.txt",
-            "timeout": 15
-        },
-        {
             "key": "ddys_js",
             "name": "🍄低端┃在线",
             "type": 3,
@@ -326,7 +361,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/ddys.txt",
+            "ext": "\"./txt/ddys.txt\"",
             "timeout": 15
         },
         {
@@ -359,25 +394,6 @@
             "timeout": 20
         },
         {
-            "key": "不太灵",
-            "name": "🍄不太灵┃磁力",
-            "type": 3,
-            "api": "csp_Bt0",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 20
-        },
-        {
-            "key": "追风",
-            "name": "🍊追风┃采集",
-            "type": 1,
-            "api": "http://www.zfsp.cc/api.php/provide/vod",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 10
-        },
-        {
             "key": "快手直播",
             "name": "😎快手┃直播",
             "type": 3,
@@ -405,15 +421,6 @@
             "timeout": 10
         },
         {
-            "key": "星星",
-            "name": "⭐️星星┃直连",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 10
-        },
-        {
             "key": "88看球",
             "name": "⚽88┃看球",
             "type": 3,
@@ -430,7 +437,7 @@
             "name": "⚽Jrs┃球迷",
             "type": 3,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/jrs.txt",
+            "ext": "\"./txt/jrs.txt\"",
             "style": {
                 "type": "list"
             },
@@ -447,7 +454,7 @@
             "name": "⚽310┃看球",
             "type": 3,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/310.txt",
+            "ext": "\"./txt/310.txt\"",
             "style": {
                 "type": "list"
             },
@@ -461,7 +468,7 @@
             "name": "🐯虎牙┃直播",
             "type": 3,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/huyazhibo.txt",
+            "ext": "\"./txt/huyazhibo.txt\"",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -476,7 +483,7 @@
             "name": "🐟斗鱼┃直播",
             "type": 3,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/douyuzhibo.txt",
+            "ext": "\"./txt/douyuzhibo.txt\"",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -491,7 +498,7 @@
             "name": "📽️聚短┃视频",
             "type": 3,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/duanshipin.txt",
+            "ext": "\"./txt/duanshipin.txt\"",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -528,7 +535,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:13/1720581193094/76165316/bili.txt"
+                "json": "./txt/bili.txt"
             },
             "timeout": 20
         },
@@ -546,7 +553,7 @@
             },
             "ext": {
                 "cookie": "file://TV/bili_cookie.txt",
-                "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:09/1720581189679/3486246/biliych.txt"
+                "json": "./txt/biliych.txt"
             },
             "timeout": 20
         },
@@ -696,8 +703,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
-                "uc_cookie": "file://TV/uc_cookie.txt",
-                "danmu": true
+                "uc_cookie": "file://TV/uc_cookie.txt"
             },
             "timeout": 5
         }
@@ -813,33 +819,33 @@
     ],
     "lives": [
         {
-            "name": "电影",
+            "name": "电视Live",
             "type": 0,
-            "url": "./lives/电影.txt",
+            "url": "./lives/电视Live.txt",
             "epg": ""
         },
         {
-            "name": "live-1",
+            "name": "网络Live",
             "type": 0,
-            "url": "./lives/live-1.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "./lives/网络Live.txt",
+            "epg": ""
         },
         {
-            "name": "live-2",
+            "name": "体育Live",
             "type": 0,
-            "url": "./lives/live-2.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "./lives/体育Live.txt",
+            "epg": ""
         },
         {
-            "name": "live-3",
+            "name": "MyTV",
             "type": 0,
-            "url": "./lives/live-3.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+            "url": "./lives/MyTV.txt",
+            "epg": ""
         },
         {
-            "name": "fanmingming",
+            "name": "范明明",
             "type": 0,
-            "url": "./lives/fanmingming.txt",
+            "url": "./lives/范明明.txt",
             "epg": ""
         },
         {

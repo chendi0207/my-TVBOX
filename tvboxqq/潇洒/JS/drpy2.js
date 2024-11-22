@@ -5,7 +5,9 @@ import './node-rsa.js';
 import './pako.min.js';
 // import JSEncrypt from './jsencrypt.js'; // 会导致壳子崩溃的
 import 模板 from './模板.js'
-import { gbkTool } from './gbk.js'
+import {
+    gbkTool
+} from './gbk.js'
 import './json5.js'
 // 下面是尝试对jinja2库进行更换
 import './jinja.js'
@@ -23,6 +25,9 @@ cheerio.jinja2 = function(template, obj) {
 // import "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/crypto-js.js";
 // import 模板 from"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/模板.js";
 // import {gbkTool} from 'https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/gbk.js'
+
+let vercode = typeof(pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
+const VERSION = vercode + ' 3.9.51beta5 20241014';
 
 function init_test() {
     // console.log(typeof(JSON5));
@@ -300,8 +305,6 @@ function pre() {
 }
 
 let rule = {};
-let vercode = typeof(pdfl) === 'function' ? 'drpy2.1' : 'drpy2';
-const VERSION = vercode + ' 3.9.51beta2 20240711';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -450,7 +453,8 @@ function window_b64() {
  */
 if (typeof atob !== 'function' || typeof btoa !== 'function') {
     var {
-        atob, btoa
+        atob,
+        btoa
     } = window_b64();
 }
 
@@ -829,7 +833,8 @@ function Utf8ArrayToStr(array) {
                 char2 = array[i++];
                 char3 = array[i++];
                 out += String.fromCharCode(
-                ((c & 0x0f) << 12) | ((char2 & 0x3f) << 6) | ((char3 & 0x3f) << 0));
+                    ((c & 0x0f) << 12) | ((char2 & 0x3f) << 6) | ((char3 & 0x3f) << 0)
+                );
                 break;
         }
     }
@@ -1667,6 +1672,46 @@ function keysToLowerCase(obj) {
     }, {});
 }
 
+//字符串To对象
+function parseQueryString(query) {
+    const params = {};
+    query.split('&').forEach(function(part) {
+        // 使用正则表达式匹配键和值，直到遇到第一个等号为止
+        const regex = /^(.*?)=(.*)/;
+        const match = part.match(regex);
+        if (match) {
+            const key = decodeURIComponent(match[1]);
+            const value = decodeURIComponent(match[2]);
+            params[key] = value;
+        }
+    });
+    return params;
+}
+
+//URL需要转码字符串
+function encodeIfContainsSpecialChars(value) {
+    // 定义在URL中需要编码的特殊字符
+    const specialChars = ":/?#[]@!$'()*+,;=%";
+    // 检查值中是否包含特殊字符
+    if (specialChars.split('').some(char => value.includes(char))) {
+        // 如果包含，则使用encodeURIComponent进行编码
+        return encodeURIComponent(value);
+    }
+    // 如果不包含特殊字符，返回原值
+    return value;
+}
+
+//对象To字符串
+function objectToQueryString(obj) {
+    const encoded = [];
+    for (let key in obj) {
+        if (obj.hasOwnProperty(key)) {
+            encoded.push(encodeURIComponent(key) + '=' + encodeIfContainsSpecialChars(obj[key]));
+        }
+    }
+    return encoded.join('&');
+}
+
 /**
  * 海阔网页请求函数完整封装
  * @param url 请求链接
@@ -1742,6 +1787,17 @@ function request(url, obj, ocr_flag) {
     if (obj.redirect === false) {
         obj.redirect = 0;
     }
+    if (obj.headers.hasOwnProperty('Content-Type') || obj.headers.hasOwnProperty('content-type')) {
+        if (obj.headers["Content-Type"].includes("application/x-www-form-urlencoded")) {
+            log("body");
+            //console.log(JSON.stringify(obj));
+            if (typeof obj.body == "string") {
+                let temp_obj = parseQueryString(obj.body);
+                //obj.body = objectToQueryString(temp_obj);
+            }
+        }
+    }
+
     console.log(JSON.stringify(obj.headers));
     // console.log('request:'+url+' obj:'+JSON.stringify(obj));
     console.log('request:' + url + `|method:${obj.method || 'GET'}|body:${obj.body || ''}`);
@@ -3103,36 +3159,39 @@ function getOriginalJs(js_code) {
     }
 
     let decode_funcs = [
-    (text) => {
-        try {
-            return ungzip(text)
-        } catch (e) {
-            logger('非gzip加密');
-            return ''
-        }
-    }, (text) => {
-        try {
-            return base64Decode(text)
-        } catch (e) {
-            logger('非b64加密');
-            return ''
-        }
-    }, (text) => {
-        try {
-            return aes_decrypt(text)
-        } catch (e) {
-            logger('非aes加密');
-            return ''
-        }
-    }, (text) => {
-        try {
-            return RSA.decode(text, rsa_private_key, null)
-        } catch (e) {
-            logger('非rsa加密');
-            return ''
-        }
-    },
-    // (text)=>{try {return NODERSA.decryptRSAWithPrivateKey(text, RSA.getPrivateKey(rsa_private_key).replace(/RSA /g,''), {options: {environment: "browser", encryptionScheme: 'pkcs1',b:'1024'}});} catch (e) {log(e.message);return ''}},
+        (text) => {
+            try {
+                return ungzip(text)
+            } catch (e) {
+                logger('非gzip加密');
+                return ''
+            }
+        },
+        (text) => {
+            try {
+                return base64Decode(text)
+            } catch (e) {
+                logger('非b64加密');
+                return ''
+            }
+        },
+        (text) => {
+            try {
+                return aes_decrypt(text)
+            } catch (e) {
+                logger('非aes加密');
+                return ''
+            }
+        },
+        (text) => {
+            try {
+                return RSA.decode(text, rsa_private_key, null)
+            } catch (e) {
+                logger('非rsa加密');
+                return ''
+            }
+        },
+        // (text)=>{try {return NODERSA.decryptRSAWithPrivateKey(text, RSA.getPrivateKey(rsa_private_key).replace(/RSA /g,''), {options: {environment: "browser", encryptionScheme: 'pkcs1',b:'1024'}});} catch (e) {log(e.message);return ''}},
     ]
     let func_index = 0
     while (!current_match.test(decode_content)) {
@@ -3190,8 +3249,12 @@ function init(ext) {
         if (typeof ext == 'object') {
             rule = ext;
         } else if (typeof ext == 'string') {
-            if (ext.startsWith('http') || ext.startsWith('file://')) {
+            let is_file = ext.startsWith('file://');
+            if (ext.startsWith('http') || is_file) {
                 let query = getQuery(ext); // 获取链接传参
+                if (is_file) {
+                    ext = ext.split('?')[0];
+                }
                 let js = request(ext, {
                     'method': 'GET'
                 });
@@ -3202,7 +3265,11 @@ function init(ext) {
                     eval("(function(){" + js.replace('var rule', 'rule') + "})()");
                 }
                 if (query.type === 'url' && query.params) { // 指定type是链接并且传了params支持简写如 ./xx.json
-                    rule.params = urljoin(ext, query.params);
+                    if (is_file && /^http/.test(query.params)) {
+                        rule.params = query.params;
+                    } else {
+                        rule.params = urljoin(ext, query.params);
+                    }
                 } else if (query.params) { // 没指定type直接视为字符串
                     rule.params = query.params;
                 }
@@ -3313,7 +3380,7 @@ function init(ext) {
             rule.sniffer = false;
         }
         rule.sniffer = rule.hasOwnProperty('sniffer') ? rule.sniffer : '';
-        rule.sniffer = !! (rule.sniffer && rule.sniffer !== '0' && rule.sniffer !== 'false');
+        rule.sniffer = !!(rule.sniffer && rule.sniffer !== '0' && rule.sniffer !== 'false');
 
         rule.isVideo = rule.hasOwnProperty('isVideo') ? rule.isVideo : '';
         if (rule.sniffer && !rule.isVideo) { // 默认辅助嗅探自动增强嗅探规则
@@ -3351,14 +3418,15 @@ function init(ext) {
             } catch (e) {
                 console.log(`处理headers发生错误:${e.message}`);
             }
+        } else {
+            rule.headers = {}
         }
-        // print(rule.headers);
+        oheaders = deepCopy(rule.headers);
         rule_fetch_params = {
-            'headers': rule.headers || false,
+            'headers': rule.headers,
             'timeout': rule.timeout,
             'encoding': rule.encoding
         };
-        oheaders = rule.headers || {};
         RKEY = typeof(key) !== 'undefined' && key ? key : 'drpy_' + (rule.title || rule.host);
         pre(); // 预处理
         init_test();
@@ -3584,6 +3652,101 @@ function getRule(key) {
     return key ? rule[key] || '' : rule
 }
 
+/**
+ * 深拷贝一个对象
+ * @param _obj
+ * @returns {any}
+ */
+function deepCopy(_obj) {
+    return JSON.parse(JSON.stringify(_obj))
+}
+
+//正则matchAll
+function matchesAll(str, pattern, flatten) {
+    if (!pattern.global) {
+        pattern = new RegExp(pattern.source, "g" + (pattern.ignoreCase ? "i" : "") + (pattern.multiline ? "m" : ""));
+    }
+    var matches = [];
+    var match;
+    while ((match = pattern.exec(str)) !== null) {
+        matches.push(match);
+    }
+    return flatten ? matches.flat() : matches;
+}
+
+//文本扩展
+function stringUtils() {
+    Object.defineProperties(String.prototype, {
+        replaceX: {
+            value: function(regex, replacement) {
+                let matches = matchesAll(this, regex, true);
+                if (matches && matches.length > 1) {
+                    const hasCaptureGroup = /\$\d/.test(replacement);
+                    if (hasCaptureGroup) {
+                        return this.replace(regex, (m) => m.replace(regex, replacement));
+                    } else {
+                        return this.replace(regex, (m, p1) => m.replace(p1, replacement));
+                    }
+                }
+                return this.replace(regex, replacement);
+            },
+            configurable: true,
+            enumerable: false,
+            writable: true
+        },
+        parseX: {
+            get: function() {
+                try {
+                    //console.log(typeof this);
+                    return JSON.parse(this);
+                } catch (e) {
+                    console.log(e.message);
+                    return this.startsWith("[") ? [] : {};
+                }
+            },
+            configurable: true,
+            enumerable: false,
+        }
+    });
+}
+
+//正则裁切
+function cut(text, start, end, method, All) {
+    let result = "";
+    let c = (t, s, e) => {
+        let result = "";
+        let rs = [];
+        let results = [];
+        try {
+            let lr = new RegExp(String.raw`${s}`.toString());
+            let rr = new RegExp(String.raw`${e}`.toString());
+            const segments = t.split(lr);
+            if (segments.length < 2) return '';
+            let cutSegments = segments.slice(1).map(segment => {
+                let splitSegment = segment.split(rr);
+                //log(splitSegment)
+                return splitSegment.length < 2 ? undefined : splitSegment[0] + e;
+            }).filter(f => f);
+            //log(cutSegments.at(-1))
+            if (All) {
+                return `[${cutSegments.join(',')}]`;
+            } else {
+                return cutSegments[0];
+            }
+        } catch (e) {
+            console.log(`Error cutting text:${e.message}`);
+        }
+        return result;
+    }
+    result = c(text, start, end);
+    stringUtils();
+    if (method && typeof method === "function") {
+        result = method(result);
+    }
+    //console.log(result);
+    return result
+}
+
 function DRPY() { //导出函数
     return {
         runMain: runMain,
@@ -3606,8 +3769,8 @@ function DRPY() { //导出函数
  * 导出函数无法简写成下面的形式:
 
  export default {
-  ...DRPY,
-  DRPY
+ ...DRPY,
+ DRPY
  }
 
  */
