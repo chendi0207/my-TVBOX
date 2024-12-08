@@ -28,6 +28,20 @@
             "playerType": 2
         },
         {
+            "key": "csp_FeiMaoUC",
+            "name": "⚡┃闪电┃优汐",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://feimaouc.cloud:666",
+                    "http://feimao.tech:666"
+                ],
+                "url_key": "FeiMaoUC"
+            }
+        },
+        {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
             "type": 3,
@@ -39,7 +53,8 @@
                     "http://labipan.com",
                     "http://feimaoai.site",
                     "https://mihdr.top"
-                ]
+                ],
+                "url_key": "Duopan2"
             }
         },
         {
@@ -70,12 +85,41 @@
             "ext": "http://rzys.xyz/"
         },
         {
-            "key": "csp_Netfixtv",
-            "name": "💌┃至臻┃影视",
+            "key": "csp_XMUC",
+            "name": "🍚┃小米┃UC",
             "type": 3,
             "api": "csp_Duopan",
             "filterable": 1,
-            "ext": "http://mpanso.com"
+            "ext": {
+                "site_urls": [
+                    "http://www.mucpan.cc",
+                    "http://ucmi.fun",
+                    "http://www.ucmi.fun"
+                ],
+                "url_key": "XMUC"
+            }
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://www.xhww.net",
+                    "http://xhww.net",
+                    "https://xiaomiai.site"
+                ],
+                "url_key": "Netfixtv2",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": "",
+                "threadinfo": {
+                    "chunksize": 450,
+                    "threads": 10
+                }
+            }
         },
         {
             "key": "csp_Nkdy",
@@ -88,12 +132,6 @@
             "name": "🛳️┃看客┃影视",
             "type": 3,
             "api": "csp_Kanke"
-        },
-        {
-            "key": "csp_Dadag",
-            "name": "🐢️┃达龟┃影视",
-            "type": 3,
-            "api": "csp_Dadag"
         },
         {
             "key": "csp_Qiyou",
@@ -122,7 +160,7 @@
             "name": "🎃┃南瓜┃影视",
             "type": 3,
             "playerType": "2",
-            "api": "./api/ng_open.js"
+            "api": "csp_NanGua"
         },
         {
             "key": "csp_J",
@@ -136,7 +174,7 @@
             "name": "💖┃Ivdy┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "\"./json/ivdy.json\"",
+            "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
             "searchable": 0
         },
         {
@@ -217,21 +255,6 @@
             "playerType": "2"
         },
         {
-            "key": "低端",
-            "name": "🛣┃低端┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "\"./js/ddys.js\""
-        },
-        {
-            "key": "虎虎",
-            "name": "🐯┃虎虎┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "\"./json/虎虎.json\""
-        },
-        {
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
             "type": 3,
@@ -304,7 +327,7 @@
             "api": "./api/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "\"./js/酷奇MV.js\""
+            "ext": "./js/酷奇MV.js"
         },
         {
             "key": "MTV",
@@ -313,7 +336,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "\"./json/MTV.json\""
+            "ext": "./json/MTV.json"
         },
         {
             "key": "虎牙直播js",
@@ -323,7 +346,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "playerType": 1,
-            "ext": "\"./js/huya2.js\""
+            "ext": "./js/huya2.js"
         },
         {
             "key": "斗鱼js",
@@ -333,7 +356,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "playerType": 1,
-            "ext": "\"./js/斗鱼直播.js\""
+            "ext": "./js/斗鱼直播.js"
         },
         {
             "key": "聚短视频js",
@@ -342,7 +365,7 @@
             "api": "./api/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "\"./js/短视频.js\""
+            "ext": "./js/短视频.js"
         },
         {
             "key": "看球",
@@ -367,21 +390,21 @@
             "style": {
                 "type": "list"
             },
-            "ext": "\"./js/310直播.js\""
+            "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
         },
         {
             "key": "米搜",
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
-            "ext": "\"./txt/kk.txt\""
+            "ext": "./txt/kk.txt"
         },
         {
             "key": "csp_PanSearch",
             "name": "🚃┃盘搜┃网盘",
             "type": 3,
             "api": "csp_PanSearch",
-            "ext": "\"./txt/token.txt\""
+            "ext": "./txt/token.txt"
         },
         {
             "key": "drpy_哔哩",
@@ -389,7 +412,7 @@
             "type": 3,
             "api": "csp_Bili",
             "playerType": 1,
-            "ext": "\"./json/bilibili.json\""
+            "ext": "./json/bilibili.json"
         },
         {
             "key": "儿童",
@@ -403,7 +426,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "\"./js/兔小贝.js\""
+            "ext": "./js/兔小贝.js"
         },
         {
             "key": "少儿",
@@ -417,7 +440,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "\"./json/少儿教育.json\""
+            "ext": "./json/少儿教育.json"
         },
         {
             "key": "小学",
@@ -431,7 +454,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "\"./json/小学课堂.json\""
+            "ext": "./json/小学课堂.json"
         },
         {
             "key": "初中",
@@ -445,7 +468,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "\"./json/初中课堂.json\""
+            "ext": "./json/初中课堂.json"
         },
         {
             "key": "高中",
@@ -459,7 +482,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "\"./json/高中课堂.json\""
+            "ext": "./json/高中课堂.json"
         },
         {
             "key": "push_agent",

@@ -1,5 +1,5 @@
 var rule = {
-    title: '小虎斑[资]',
+    title: '弹幕[资]',
     host: 'http://gy.xn--yet24tmq1a.xyz/',
     homeTid: '',
     homeUrl: '/api.php/provide/vod/?ac=detail&t={{rule.homeTid}}',
@@ -18,7 +18,7 @@ var rule = {
     play_parse: true,
     parse_url: '',
     lazy: $js.toString(() => {
-        let json = request("http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url=" + input);
+        let json = request("http://154.9.252.167:666/tvbox/json/json.php/?key=147258369&url=" + input);
         let bata = JSON.parse(json);
         input = {
             parse: 0,
