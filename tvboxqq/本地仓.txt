@@ -12,7 +12,7 @@
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/潇洒/api.json", "name": "潇洒" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/gufunhua/my-TVBOX/main/tvboxqq/%E5%8D%97%E9%A3%8E/api.json", "name": "南风" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/gufunhua/my-TVBOX/main/tvboxqq/南风/api.json", "name": "南风" },
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情/api.json", "name": "香雅情" },
 
