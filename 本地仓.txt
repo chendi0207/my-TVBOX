@@ -1,27 +1,27 @@
-{ "urls": [{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/小米/api.json", "name": "小米" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/王二小/api.json", "name": "王二小" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/王二小/api.json", "name": "王二小" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/潇洒/api.json", "name": "潇洒" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/潇洒/api.json", "name": "潇洒" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/欧歌/api.json", "name": "欧歌" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/欧歌/api.json", "name": "欧歌" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天微/api.json", "name": "天微" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/天微/api.json", "name": "天微" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/api.json", "name": "天天开心" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/天天开心/api.json", "name": "天天开心" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/南风/api.json", "name": "南风" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/香雅情/api.json", "name": "香雅情" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/香雅情/api.json", "name": "香雅情" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/多多/api.json", "name": "多多" }]}
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/多多/api.json", "name": "多多" }]}
