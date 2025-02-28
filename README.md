@@ -2,7 +2,7 @@
 
 1：多仓接口
 ````bash
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
+https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/本地仓.txt
 ````
 
 - 软件下载链接如下：
