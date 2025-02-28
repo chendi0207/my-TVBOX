@@ -1,0 +1,1360 @@
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/1358472111/u1358472111KFvSOIw.jpg" group-title="综合", 德赢社-92综合 正在直
+http://127.0.0.1:35345/yy/92925993
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 24官频陪你一起看
+http://127.0.0.1:35345/yy/1351186084
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/11/2544112607/u25441126077cuzOCM.jpg" group-title="综合", 晾剑 电视剧
+http://127.0.0.1:35345/yy/1451866697
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 举起手来-惊险抗日
+http://127.0.0.1:35345/yy/1382736877
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 武林外传
+http://127.0.0.1:35345/yy/1355652820
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 济公
+http://127.0.0.1:35345/yy/1355265814
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/2552474340/u2552474340uVnsyqv.png" group-title="综合", 铁齿铜牙纪晓岚
+http://127.0.0.1:35345/yy/1354143978
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/13/2677139677/u2677139677zGvbYdJ.jpg" group-title="综合", 【狂飙2老默】首播
+http://127.0.0.1:35345/yy/1354790484
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/77/2670778565/u2670778565SbKEkCT.png" group-title="综合", 大染坊
+http://127.0.0.1:35345/yy/1354773983
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/28/0064284026/u64284026d7iMqBQlL.png" group-title="综合", 绝版电影 港片女鬼
+http://127.0.0.1:35345/yy/1455988450
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/77/1755778855/u1755778855vEcHMAx.jpg" group-title="综合", 【鹿鼎记】金庸经典
+http://127.0.0.1:35345/yy/28265277
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2353689237/u2353689237IPcZthE.jpg" group-title="综合", 【林正英经典】玄幻电影
+http://127.0.0.1:35345/yy/1462895099
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港片 喜剧 动作
+http://127.0.0.1:35345/yy/1355480591
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10138.jpg" group-title="综合", 赵本山《超清版》
+http://127.0.0.1:35345/yy/1382683959
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/15/1536159096/u1536159096mZClTOe.jpeg" group-title="综合", 林正英-经典电影
+http://127.0.0.1:35345/yy/34229877
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 弹幕天团 下饭神剧
+http://127.0.0.1:35345/yy/23512910
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/42/1834428187/u18344281871tRaM8i.jpg" group-title="综合", 封神榜
+http://127.0.0.1:35345/yy/1353426319
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2676684134/u2676684134JPj4Cvo.png" group-title="综合", 雯子：港剧TVB
+http://127.0.0.1:35345/yy/1456829119
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/77/1647770566/u1647770566BLjX93g.jpg" group-title="综合", 经典鬼片3000部
+http://127.0.0.1:35345/yy/29460894
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 赵本山《蓝光版》
+http://127.0.0.1:35345/yy/32160832
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2242788982/u2242788982KKxPFSF.jpg" group-title="综合", 武林外传 超清
+http://127.0.0.1:35345/yy/21092633
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 神医喜来乐
+http://127.0.0.1:35345/yy/1382714119
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/91/2318917695/u2318917695RmfLHsx.png" group-title="综合", 纪晓岚
+http://127.0.0.1:35345/yy/1352227227
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 111
+http://127.0.0.1:35345/yy/1382571192
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/47/0990479943/u990479943fiYbqVmF.jpg" group-title="综合", 李连杰功夫 经典武侠
+http://127.0.0.1:35345/yy/74613175
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 电影百团大战
+http://127.0.0.1:35345/yy/1382736871
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宋小宝小品合集
+http://127.0.0.1:35345/yy/1354931577
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 地下交通站
+http://127.0.0.1:35345/yy/1382736795
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 速度与激情系列！-精彩大片
+http://127.0.0.1:35345/yy/1382736911
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 华子系列
+http://127.0.0.1:35345/yy/1354888726
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 敢死队-精彩动作电影
+http://127.0.0.1:35345/yy/1382735573
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 赌神-发哥
+http://127.0.0.1:35345/yy/1354889044
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 西游记后传
+http://127.0.0.1:35345/yy/1382736846
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 成龙系列
+http://127.0.0.1:35345/yy/1354888751
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 西游记张卫健版
+http://127.0.0.1:35345/yy/1354936155
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/56/0060563267/u60563267o-MDk7Y9E.png" group-title="综合", 绝版电影 港片女鬼
+http://127.0.0.1:35345/yy/1461579859
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778164/u2956778164hU2c-xK.jpg" group-title="综合", 神探狄仁杰1
+http://127.0.0.1:35345/yy/1382851575
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金牌配角达叔系列
+http://127.0.0.1:35345/yy/1354888728
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 速度与激情全集
+http://127.0.0.1:35345/yy/1382749892
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778179/u2956778179naZPtF0.jpg" group-title="综合", 士兵突击
+http://127.0.0.1:35345/yy/1382851600
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爱笑仙子
+http://127.0.0.1:35345/yy/1382736838
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/76/2627769220/u2627769220CUJwYhX.jpg" group-title="综合", 小甜甜    闯关东
+http://127.0.0.1:35345/yy/1354689861
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/94/2498946673/u2498946673gcQ-w4Y.jpg" group-title="综合", 小太阳 正在直播
+http://127.0.0.1:35345/yy/29067083
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 杭小妞
+http://127.0.0.1:35345/yy/1382736910
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 洪金宝福星系列
+http://127.0.0.1:35345/yy/1354924839
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超精彩！系列动作电影
+http://127.0.0.1:35345/yy/1382745096
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典大片合集
+http://127.0.0.1:35345/yy/1382749895
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/39/2352397628/u2352397628duCl9HR.jpg" group-title="综合", 【战狼3吴京】独播
+http://127.0.0.1:35345/yy/37999586
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号
+http://127.0.0.1:35345/yy/1354931582
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 你的回忆有我吗
+http://127.0.0.1:35345/yy/1354889024
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金星脱口秀
+http://127.0.0.1:35345/yy/1354931503
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/21/2535213897/u2535213897-k6qlGr.jpg" group-title="综合", 【港片】赌片 动作
+http://127.0.0.1:35345/yy/24921161
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/71/2838711783/u2838711783ZNzG_h5.jpg" group-title="综合", 惊恐盗暮鬼怪
+http://127.0.0.1:35345/yy/1382749525
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内喜剧
+http://127.0.0.1:35345/yy/1382736862
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/97/1721970758/u1721970758EWwEW2Y.jpg" group-title="综合", 【周星驰】搞笑电影
+http://127.0.0.1:35345/yy/38670875
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 雪中悍刀行
+http://127.0.0.1:35345/yy/1462996362
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 我的体育老师
+http://127.0.0.1:35345/yy/1382745169
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 三国演义【1994】
+http://127.0.0.1:35345/yy/1354930932
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778173/u2956778173d4Hhqbe.jpg" group-title="综合", 寻秦记-穿越剧经典
+http://127.0.0.1:35345/yy/1382851591
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/00/2228009724/u2228009724fD4o8rY.png" group-title="综合", 【新三国】萌儿陪看
+http://127.0.0.1:35345/yy/29216766
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/01/2385010131/u2385010131YN76PXp.jpg" group-title="综合", 打狗棍  4K超清
+http://127.0.0.1:35345/yy/39736069
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 距离你500米
+http://127.0.0.1:35345/yy/37264974
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/92/2977925579/u2977925579msm09Jf.png" group-title="综合", 五号特工组
+http://127.0.0.1:35345/yy/1414967772
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804211/u2563804211WcYp9iK.png" group-title="综合", 新白娘子传奇
+http://127.0.0.1:35345/yy/1354490667
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/51/2573519416/u2573519416gHFBYi6.png" group-title="综合", 笑傲江湖 4K超清
+http://127.0.0.1:35345/yy/1354282410
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10106.jpg" group-title="综合", 真实案件系列
+http://127.0.0.1:35345/yy/1382671124
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/60/1552607260/u15526072607FWzK5I.jpg" group-title="综合", 鉴证实录
+http://127.0.0.1:35345/yy/1356341389
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10141.jpg" group-title="综合", 宰相刘罗锅
+http://127.0.0.1:35345/yy/1353892468
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/24/2338241617/u2338241617rrt3MND.png" group-title="综合", 隋唐英雄传
+http://127.0.0.1:35345/yy/1352475619
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 海王-院线大片
+http://127.0.0.1:35345/yy/1354936142
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 科幻片：来看神奇的地球
+http://127.0.0.1:35345/yy/1354930897
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/89/2246894217/u2246894217_jnE9tk.png" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/26664495
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 贾玲春晚小品
+http://127.0.0.1:35345/yy/1382736720
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 靓剑
+http://127.0.0.1:35345/yy/1356043643
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/2552687588/u2552687588tVBVkVY.png" group-title="综合", 燕双鹰
+http://127.0.0.1:35345/yy/1354143942
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/2552691967/u2552691967t-dRFJI.png" group-title="综合", 83射雕英雄传
+http://127.0.0.1:35345/yy/1354210357
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/13/2345135168/u23451351684XL-T35.png" group-title="综合", 康熙微服私访记
+http://127.0.0.1:35345/yy/1352811698
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 狄仁杰
+http://127.0.0.1:35345/yy/1351755386
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10150.jpg" group-title="综合", 进来 陪你看动漫
+http://127.0.0.1:35345/yy/1352866135
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/53/2474538699/u2474538699rCvSZxg.jpg" group-title="综合", 热度榜1.包青天
+http://127.0.0.1:35345/yy/22701868
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/12/2758126736/u2758126736kvf-Haq.jpg" group-title="综合", 狂飙
+http://127.0.0.1:35345/yy/1355142167
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/81/2527819980/u2527819980ZZV_dQD.png" group-title="综合", 神探狄仁杰
+http://127.0.0.1:35345/yy/38338029
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/52/2663522678/u2663522678CWauMbO.jpg" group-title="综合", 勇敢的心 ~24经典好剧
+http://127.0.0.1:35345/yy/1354744544
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 黑衣人1、2—动作喜剧大片
+http://127.0.0.1:35345/yy/1354930936
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 雍正王朝
+http://127.0.0.1:35345/yy/1356043620
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 武林外传
+http://127.0.0.1:35345/yy/1454629602
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年包青天
+http://127.0.0.1:35345/yy/1356043677
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/75/2318756333/u2318756333krWTK9R.png" group-title="综合", 燕双鹰
+http://127.0.0.1:35345/yy/1352227153
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/2552474200/u2552474200Qy8nGLL.png" group-title="综合", 我和僵尸有个约会
+http://127.0.0.1:35345/yy/1354143966
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/56/2798561421/u2798561421DpmjdIz.jpg" group-title="综合", 狂飙
+http://127.0.0.1:35345/yy/1382754187
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2385505239/u2385505239dIYC_4U.jpg" group-title="综合", 【成龙经典】动作
+http://127.0.0.1:35345/yy/34460526
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/49/2397493006/u2397493006VAwaQH1.jpg" group-title="综合", 【科幻】超炫特效
+http://127.0.0.1:35345/yy/37988782
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/85/2219859126/u2219859126i34_0Go.jpg" group-title="综合", 破案港剧
+http://127.0.0.1:35345/yy/1350670730
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外科幻大作合集
+http://127.0.0.1:35345/yy/1382736836
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/62/2714622159/u2714622159yUkobtU.jpg" group-title="综合", 【盗暮笔记】24h
+http://127.0.0.1:35345/yy/1382702247
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/92/2456925852/u24569258522eM64JN.jpg" group-title="综合", 豪哥带我们发财
+http://127.0.0.1:35345/yy/23402146
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 这部剧你居然没看过？
+http://127.0.0.1:35345/yy/1354932355
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/64/2804646270/u2804646270wnZasbb.jpg" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/1382747970
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/47/2552474058/u25524740585EZ7BdS.png" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/1354143938
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/37/2852372449/u2852372449LYpLvU0.jpg" group-title="综合", 倚天屠龙记
+http://127.0.0.1:35345/yy/1449856066
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 每天都要快乐哦！
+http://127.0.0.1:35345/yy/1354930909
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/77/2533771672/u2533771672NHSp6Hs.png" group-title="综合", 少年包青天
+http://127.0.0.1:35345/yy/1382651363
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 薛仁贵传奇
+http://127.0.0.1:35345/yy/1355260662
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/07/2675078180/u2675078180-vuPrFB.jpg" group-title="综合", 【战狼4】吴京老师
+http://127.0.0.1:35345/yy/1354784284
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10121.jpg" group-title="综合", 知否知否应是绿肥红瘦
+http://127.0.0.1:35345/yy/21881901
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/33/1851338003/u1851338003ojuBP6L.jpg" group-title="综合", 武工队
+http://127.0.0.1:35345/yy/22089862
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/96/2610968788/u2610968788eHDzLzz.jpg" group-title="综合", 少年歌行
+http://127.0.0.1:35345/yy/1450556636
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/28/2858287019/u28582870196C9e_m-.png" group-title="综合", 鹊刀门
+http://127.0.0.1:35345/yy/1355344777
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 喨剑电视剧
+http://127.0.0.1:35345/yy/1455225203
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 战狼7吴京退役
+http://127.0.0.1:35345/yy/1382773714
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大家车言论
+http://127.0.0.1:35345/yy/1382570702
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 蜗牛车志
+http://127.0.0.1:35345/yy/1346966271
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小宝让你乐翻天：6到9集
+http://127.0.0.1:35345/yy/1354930971
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/92/2251927688/u2251927688Jmyz_60.jpg" group-title="综合", 【案发现场】1-4部全集
+http://127.0.0.1:35345/yy/33567888
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/21/1575219181/u1575219181j_2vaIy.png" group-title="综合", 超清鬼片 港片
+http://127.0.0.1:35345/yy/1335509613
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 【新三国】日版
+http://127.0.0.1:35345/yy/1382851457
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/29/1385295905/u1385295905sQ8a7jK.jpg" group-title="综合", 24【动漫】正在直播
+http://127.0.0.1:35345/yy/1350984033
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/22/2712225936/u2712225936d3BYQWD.png" group-title="综合", 花千骨
+http://127.0.0.1:35345/yy/1354943110
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/88/2453889186/u2453889186v0MbEbT.png" group-title="综合", 狂飙
+http://127.0.0.1:35345/yy/1382627144
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778172/u2956778172aZ2Pryh.jpg" group-title="综合", 正阳门下
+http://127.0.0.1:35345/yy/1382851588
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 憨豆先生-经典喜剧
+http://127.0.0.1:35345/yy/1354936239
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号-每天笑不停
+http://127.0.0.1:35345/yy/1382741642
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产爆剧-狂飙
+http://127.0.0.1:35345/yy/1354936131
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/60/2512607207/u2512607207daPCfls.jpg" group-title="综合", 水浒传
+http://127.0.0.1:35345/yy/1353873252
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 新白娘子传奇-女神赵雅芝
+http://127.0.0.1:35345/yy/1354930969
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624114/u2956624114W5xjDpi.jpg" group-title="综合", 娆�涔�棰�
+http://127.0.0.1:35345/yy/1382851577
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内喜剧
+http://127.0.0.1:35345/yy/1382735563
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624119/u2956624119uL9R72W.jpg" group-title="综合", 读心神探
+http://127.0.0.1:35345/yy/1382851589
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 科幻惊悚片-异形
+http://127.0.0.1:35345/yy/1382735543
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋Ⅱ
+http://127.0.0.1:35345/yy/1382851597
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 九品芝麻官包龙星
+http://127.0.0.1:35345/yy/1354930968
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 读心神探
+http://127.0.0.1:35345/yy/1382736875
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 星爷经典-百看不厌
+http://127.0.0.1:35345/yy/1382736808
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 火蓝刀锋
+http://127.0.0.1:35345/yy/1382737892
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宰相刘罗锅
+http://127.0.0.1:35345/yy/1382745191
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 亲爱的热爱的
+http://127.0.0.1:35345/yy/1354932433
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523392/u2454523392hIIEdOS.png" group-title="综合", 鹿鼎记-周星驰版
+http://127.0.0.1:35345/yy/1354658049
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778165/u2956778165RKtikAg.jpg" group-title="综合", 绗��叉�婀�
+http://127.0.0.1:35345/yy/1382851576
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/67/0058679144/u58679144oY6Z9NFrM.jpg" group-title="综合", 热血川军
+http://127.0.0.1:35345/yy/1507704566
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 甜甜的恋爱 这狗粮我吃了
+http://127.0.0.1:35345/yy/1354932438
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内高分悬疑剧-风筝
+http://127.0.0.1:35345/yy/1354931585
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宝莲灯前传
+http://127.0.0.1:35345/yy/1354931631
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 侏罗纪世界-国外科幻大片合集
+http://127.0.0.1:35345/yy/1382736851
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624118/u2956624118f61cBrp.jpg" group-title="综合", 康熙王朝
+http://127.0.0.1:35345/yy/1382851583
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作大片
+http://127.0.0.1:35345/yy/1354930926
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大进军全集：红色系列电影
+http://127.0.0.1:35345/yy/1382745083
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年包青天第三部
+http://127.0.0.1:35345/yy/1382736814
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 康熙王朝
+http://127.0.0.1:35345/yy/1382736818
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 院线动作大片
+http://127.0.0.1:35345/yy/1382736900
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 士兵突击
+http://127.0.0.1:35345/yy/1382828766
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/09/2910095991/u29100959911f7FBSS.png" group-title="综合", 纪晓岚
+http://127.0.0.1:35345/yy/1382781415
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号3
+http://127.0.0.1:35345/yy/1382736822
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/85/2830852210/u2830852210C1kUycV.png" group-title="综合", 彭禺厶鬼怪奇幻系列电影
+http://127.0.0.1:35345/yy/1355249116
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/19/2291192155/u2291192155VSmTZGl.png" group-title="综合", 神雕侠侣
+http://127.0.0.1:35345/yy/1351762426
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 仙剑奇侠传-神仙姐姐驾到
+http://127.0.0.1:35345/yy/1382749903
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 炊事班的故事II
+http://127.0.0.1:35345/yy/1382736885
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778167/u2956778167Z_BVVcc.jpg" group-title="综合", 炊事班的故事II
+http://127.0.0.1:35345/yy/1382851579
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 发哥系列
+http://127.0.0.1:35345/yy/1354888733
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 魔幻手机
+http://127.0.0.1:35345/yy/1382735544
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 神探狄仁杰2
+http://127.0.0.1:35345/yy/1382736907
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 香港院线大片-最新
+http://127.0.0.1:35345/yy/1354936242
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 上海滩
+http://127.0.0.1:35345/yy/1382745184
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金婚
+http://127.0.0.1:35345/yy/1382828768
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/38/2394384122/u2394384122RXkpjCd.jpg" group-title="综合", 黄金瞳
+http://127.0.0.1:35345/yy/1353215589
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 岳云鹏宋小宝也来演电影了？
+http://127.0.0.1:35345/yy/1354926612
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/45/2288454061/u2288454061D_S5gvc.jpg" group-title="综合", 朵宝陪你看狄仁杰
+http://127.0.0.1:35345/yy/1353753252
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 情满四合院
+http://127.0.0.1:35345/yy/1382736888
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小宝 天龙 神雕金庸
+http://127.0.0.1:35345/yy/1356043609
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/92/2475926623/u2475926623EEStXWq.jpg" group-title="综合", 雪中悍刀行
+http://127.0.0.1:35345/yy/1382660835
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 侏罗纪公园三部曲
+http://127.0.0.1:35345/yy/1354936191
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 加勒比海盗系列
+http://127.0.0.1:35345/yy/1382749914
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/1150685483/u1150685483sTIw5Gq.png" group-title="综合", 林正英 僵尸 鬼片
+http://127.0.0.1:35345/yy/1351505899
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/62/2665627706/u26656277060AyIQyO.png" group-title="综合", 僵尸鬼片
+http://127.0.0.1:35345/yy/1460889796
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外动作大片-夺宝奇兵1-4
+http://127.0.0.1:35345/yy/1382736833
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超英集结
+http://127.0.0.1:35345/yy/1382745091
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 巩汉林春晚小品合集
+http://127.0.0.1:35345/yy/1354889035
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作大片-热血开打
+http://127.0.0.1:35345/yy/1354936168
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超燃警匪片
+http://127.0.0.1:35345/yy/1382735576
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/49/2683492868/u2683492868f1o8Uq9.jpg" group-title="综合", 【经典抗战剧】
+http://127.0.0.1:35345/yy/1354806550
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/33/2388339726/u2388339726YssCero.jpg" group-title="综合", 港片电影
+http://127.0.0.1:35345/yy/33897188
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 外国科幻大片
+http://127.0.0.1:35345/yy/1382747628
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/33/2291330905/u2291330905kCTWJIi.png" group-title="综合", 天龙八部
+http://127.0.0.1:35345/yy/1351814644
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/67/2555670393/u2555670393GyWsYT-.jpg" group-title="综合", 【经典港片】佟瑶
+http://127.0.0.1:35345/yy/23531261
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/87/1746870103/u1746870103ga2zUdz.jpg" group-title="综合", 【僵尸道长】林正英
+http://127.0.0.1:35345/yy/30668277
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778178/u2956778178YJKxE-w.jpg" group-title="综合", 国内喜剧
+http://127.0.0.1:35345/yy/1382851598
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/04/1276043109/u1276043109cbWlqQb.png" group-title="综合", 少年包青天蓝光版
+http://127.0.0.1:35345/yy/38498680
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10139.jpg" group-title="综合", 林正英合集
+http://127.0.0.1:35345/yy/1453996620
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/29/1280295265/u1280295265CYEmTOm.jpg" group-title="综合", 恐怖电影
+http://127.0.0.1:35345/yy/24066336
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 正阳门下
+http://127.0.0.1:35345/yy/1354931580
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/79/2663798665/u2663798665CkJMDK0.jpg" group-title="综合", 火凤凰之战狼七
+http://127.0.0.1:35345/yy/1463088777
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10107.jpg" group-title="综合", 德爷单挑荒野
+http://127.0.0.1:35345/yy/27772604
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 二号交通站
+http://127.0.0.1:35345/yy/1354930965
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/81/2223817740/u2223817740JU6Tfjw.jpg" group-title="综合", 8090.电影一哥
+http://127.0.0.1:35345/yy/29197808
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宋小宝春晚小品合集
+http://127.0.0.1:35345/yy/1382736866
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10121.jpg" group-title="综合", 【新三国】蓝光版
+http://127.0.0.1:35345/yy/1382705738
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/38/2466387565/u2466387565UWEAMh6.jpg" group-title="综合", 绝版鬼片港片贼好看
+http://127.0.0.1:35345/yy/1454732419
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/24/1748242818/u1748242818T_zMUrb.jpg" group-title="综合", 经典港片动作搞笑
+http://127.0.0.1:35345/yy/1459869766
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 保护我家蓉儿
+http://127.0.0.1:35345/yy/1370293254
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 毒液：致命守护者
+http://127.0.0.1:35345/yy/1382745095
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/78/2540789452/u2540789452QEa424O.png" group-title="综合", 无敌燕双鹰
+http://127.0.0.1:35345/yy/23026835
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 进来 陪你看电视
+http://127.0.0.1:35345/yy/1353518742
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 007系列动作大片
+http://127.0.0.1:35345/yy/1382736897
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/24/2454240029/u2454240029tVg2YBr.jpg" group-title="综合", 雪豹2
+http://127.0.0.1:35345/yy/1450496699
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10137.jpg" group-title="综合", 我的兄弟叫顺溜
+http://127.0.0.1:35345/yy/1459331991
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/85/2718850416/u2718850416IA-j-7k.jpg" group-title="综合", 【战狼3吴京】首播
+http://127.0.0.1:35345/yy/1456668939
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2341804734/u2341804734mmDrsjn.png" group-title="综合", 24H地下交通站全
+http://127.0.0.1:35345/yy/37880083
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2725573919/u2725573919TTFyKOU.png" group-title="综合", 天龙八部
+http://127.0.0.1:35345/yy/1355067965
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 喨剑电视剧
+http://127.0.0.1:35345/yy/1453810838
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/41/2223417380/u2223417380U3EnBY7.png" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/25055036
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10121.jpg" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/1382788679
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/99/2952995563/u29529955630Nh11Z1.jpg" group-title="综合", 破案剧
+http://127.0.0.1:35345/yy/1356158015
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2460526223/u24605262233FAgbOU.png" group-title="综合", 西游记后传 蓝光
+http://127.0.0.1:35345/yy/1353392400
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/13/2182134254/u2182134254AUXW0Al.jpg" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/23993334
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/08/2619084655/u2619084655WA2XKVh.png" group-title="综合", 电影 古惑仔全集
+http://127.0.0.1:35345/yy/1354507447
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/62/2380627810/u2380627810LnM8Ixj.png" group-title="综合", 经典抗战100部
+http://127.0.0.1:35345/yy/1354508622
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2842788795/u2842788795xau85Gt.jpg" group-title="综合", 开心果 正在直播
+http://127.0.0.1:35345/yy/1457622044
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/15/2258155157/u2258155157_PwkbsN.png" group-title="综合", 国漫 一起看正在直播
+http://127.0.0.1:35345/yy/1351417866
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/60/2353609962/u2353609962_dzfX0i.jpeg" group-title="综合", 【动漫】精彩国漫
+http://127.0.0.1:35345/yy/28796627
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/79/2663798501/u2663798501bhbC54t.jpg" group-title="综合", 布丁-玄幻电影正在直播
+http://127.0.0.1:35345/yy/1455460998
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/86/2698867296/u2698867296pUy_YIe.png" group-title="综合", 老妖恐鬼片
+http://127.0.0.1:35345/yy/1354952229
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 《石敢当》六耳猕猴
+http://127.0.0.1:35345/yy/1394156613
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/88/0058881853/u58881853iX36PqSy6.jpg" group-title="综合", 8090年的热血与回忆
+http://127.0.0.1:35345/yy/1356243352
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/vipsys/41/64/76/4157766441/T1UyWCBTYT1RCvBVdK.png" group-title="综合", 好先生
+http://127.0.0.1:35345/yy/79382500
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/62/1287621270/u1287621270txIzzu-.jpg" group-title="综合", 天龙神雕经典回忆
+http://127.0.0.1:35345/yy/68260522
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/31/2668317531/u2668317531H5Kp7GZ.jpg" group-title="综合", 【神雕侠侣】金庸经典
+http://127.0.0.1:35345/yy/1382704651
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/61/1722612794/u1722612794bYYvt4M.jpg" group-title="综合", 【特jing力量】
+http://127.0.0.1:35345/yy/1508456184
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/78/2664784453/u266478445378sqTJP.jpg" group-title="综合", 鹿鼎记-高清全集
+http://127.0.0.1:35345/yy/1382704650
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 【新三国】吕布
+http://127.0.0.1:35345/yy/1382851459
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/80/2495803807/u2495803807eH-j1xL.jpg" group-title="综合", 唐朝诡事录好24h
+http://127.0.0.1:35345/yy/1353913646
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/28/0068284472/u682844723L5lsy0bf.png" group-title="综合", 无敌燕双鹰
+http://127.0.0.1:35345/yy/1354825244
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 热血抗日电影
+http://127.0.0.1:35345/yy/1382749907
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 《仙侠》开局无敌了
+http://127.0.0.1:35345/yy/29600150
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/64/1612648695/u1612648695_F1cQTm.jpg" group-title="综合", 电影
+http://127.0.0.1:35345/yy/37454459
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 辉煌或疯狂-韩剧
+http://127.0.0.1:35345/yy/1382749902
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 都挺好-电视剧
+http://127.0.0.1:35345/yy/1382736892
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/99/2711991834/u2711991834tUszgbU.jpg" group-title="综合", 绝版鬼片港片
+http://127.0.0.1:35345/yy/1382743247
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 父母爱情
+http://127.0.0.1:35345/yy/1382851594
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 战狼10086
+http://127.0.0.1:35345/yy/1382773686
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 天道-9.2高分好剧
+http://127.0.0.1:35345/yy/1382735574
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2367571304/u2367571304FhJ_J6z.jpg" group-title="综合", 【靓剑】乐乐陪看
+http://127.0.0.1:35345/yy/1352946111
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号
+http://127.0.0.1:35345/yy/1382735550
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2871683492/u2871683492J7ImiKy.png" group-title="综合", 鬼经典老片
+http://127.0.0.1:35345/yy/1463783198
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小沈阳春晚小品
+http://127.0.0.1:35345/yy/1382749941
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/95/2884959570/u2884959570pD5TZfs.jpg" group-title="综合", 鬼片.惊悚.港片
+http://127.0.0.1:35345/yy/1355497884
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 今夜欢乐颂
+http://127.0.0.1:35345/yy/1382735572
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 人生必看的科幻片
+http://127.0.0.1:35345/yy/1382745114
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 我爱我家
+http://127.0.0.1:35345/yy/1382851580
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 熊出没之探险日记S1-国漫
+http://127.0.0.1:35345/yy/1354930977
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 萌萌爱追剧
+http://127.0.0.1:35345/yy/1382745093
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/66/1587662225/u1587662225m-UfjRA.jpg" group-title="综合", 一剑开天门
+http://127.0.0.1:35345/yy/34313906
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大家都在看的电视剧
+http://127.0.0.1:35345/yy/1354930964
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/95/2839957413/u28399574137Qe5Ask.png" group-title="综合", 鸣人和九尾的故事
+http://127.0.0.1:35345/yy/1355336008
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/33/2291330629/u2291330629-Ab2mgi.png" group-title="综合", 精彩动漫
+http://127.0.0.1:35345/yy/1420843376
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 澳门风云
+http://127.0.0.1:35345/yy/1459243913
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778174/u29567781747Mi0Atp.jpg" group-title="综合", 伪装者
+http://127.0.0.1:35345/yy/1382851593
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/43/1702436400/u1702436400K_-znF2.jpg" group-title="综合", 玄幻道墓
+http://127.0.0.1:35345/yy/1459714870
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", �逋鞠盗�-国产喜剧
+http://127.0.0.1:35345/yy/1382736856
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 三国演义94年经典版
+http://127.0.0.1:35345/yy/1354936241
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 流行古装剧—知否知否应是绿肥红瘦
+http://127.0.0.1:35345/yy/1354936134
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 夏洛特烦恼-国内电影-喜剧
+http://127.0.0.1:35345/yy/1354936201
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 福贵
+http://127.0.0.1:35345/yy/1354926537
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐颂
+http://127.0.0.1:35345/yy/1382735624
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 神探狄仁杰2
+http://127.0.0.1:35345/yy/1382828767
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 田园生活
+http://127.0.0.1:35345/yy/1382736898
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 震撼！国内功夫大片
+http://127.0.0.1:35345/yy/1382736902
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778180/u29567781809cFGq5Q.jpg" group-title="综合", 情满四合院-小人物的悲欢离合
+http://127.0.0.1:35345/yy/1382851601
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑声传奇
+http://127.0.0.1:35345/yy/1382736880
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 非诚勿扰
+http://127.0.0.1:35345/yy/1382735583
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 炊事班的故事
+http://127.0.0.1:35345/yy/1382749901
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 父母爱情
+http://127.0.0.1:35345/yy/1382746276
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624116/u2956624116LN4j6HE.jpg" group-title="综合", 刑事侦缉档案I
+http://127.0.0.1:35345/yy/1382851585
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 中国味道 第4季-美食纪录片
+http://127.0.0.1:35345/yy/1382736845
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 红楼梦1987经典版
+http://127.0.0.1:35345/yy/1382745084
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋
+http://127.0.0.1:35345/yy/1354930939
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年包青天美黑之旅
+http://127.0.0.1:35345/yy/1354936141
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 神探狄仁杰1
+http://127.0.0.1:35345/yy/1354930934
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动物世界
+http://127.0.0.1:35345/yy/1382749889
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 尽享国内精彩战争片
+http://127.0.0.1:35345/yy/1382745094
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 二号交通站
+http://127.0.0.1:35345/yy/1382735582
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年包青天第三部
+http://127.0.0.1:35345/yy/1382851540
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号2
+http://127.0.0.1:35345/yy/1354930919
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 易中天品三国
+http://127.0.0.1:35345/yy/1354931498
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 炊事班的故事III
+http://127.0.0.1:35345/yy/1382736716
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 寻秦记-穿越剧经典
+http://127.0.0.1:35345/yy/1382749900
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 平凡岁月
+http://127.0.0.1:35345/yy/1382745117
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超激烈的猎食场面
+http://127.0.0.1:35345/yy/1382749898
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 精彩动作电影享不停
+http://127.0.0.1:35345/yy/1382736809
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爆笑小品大合集
+http://127.0.0.1:35345/yy/1382736821
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 新世界
+http://127.0.0.1:35345/yy/1382736850
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 传奇英雄
+http://127.0.0.1:35345/yy/1382735578
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 我的前半生
+http://127.0.0.1:35345/yy/1382735564
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 深海利剑
+http://127.0.0.1:35345/yy/1382736906
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 我爱我家
+http://127.0.0.1:35345/yy/1382735557
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 舌尖上的中国第2季
+http://127.0.0.1:35345/yy/1354930943
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 风筝
+http://127.0.0.1:35345/yy/1382828770
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2632685817/u2632685817Hyt_tdJ.jpg" group-title="综合", 赌神 港片 喜剧
+http://127.0.0.1:35345/yy/1355112116
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑傲帮
+http://127.0.0.1:35345/yy/1382735555
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 叶问全集
+http://127.0.0.1:35345/yy/1382736890
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 炊事班的故事1-2
+http://127.0.0.1:35345/yy/1382736886
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624117/u2956624117199l2Fq.jpg" group-title="综合", 二号交通站
+http://127.0.0.1:35345/yy/1382851582
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 原始人大挑战
+http://127.0.0.1:35345/yy/1382736884
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 最美的青春
+http://127.0.0.1:35345/yy/1382745116
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624115/u2956624115uHDCmW7.jpg" group-title="综合", ����������
+http://127.0.0.1:35345/yy/1382851578
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 永远的经典系列
+http://127.0.0.1:35345/yy/1354930204
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 舌尖上的中国第一季
+http://127.0.0.1:35345/yy/1354930952
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 精彩动作电影
+http://127.0.0.1:35345/yy/1382736823
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作电影合集
+http://127.0.0.1:35345/yy/1354926655
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 农家小菜
+http://127.0.0.1:35345/yy/1382736894
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624113/u2956624113idqwUTV.jpg" group-title="综合", 情满四合院
+http://127.0.0.1:35345/yy/1382851524
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 今晚80后脱口秀
+http://127.0.0.1:35345/yy/1382745098
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小生物的故事
+http://127.0.0.1:35345/yy/1382736834
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 粟裕大将-影视
+http://127.0.0.1:35345/yy/1354926542
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 谈判专家
+http://127.0.0.1:35345/yy/1382735560
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小鬼当家-童年回忆
+http://127.0.0.1:35345/yy/1382745104
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 高分动作大片-热血出击
+http://127.0.0.1:35345/yy/1382736909
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 漫威十年老粉福利来了
+http://127.0.0.1:35345/yy/1354930233
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 热血战争巨作
+http://127.0.0.1:35345/yy/1382745087
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 温柔好声音 给你停靠港
+http://127.0.0.1:35345/yy/1349538007
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 来看修牛蹄
+http://127.0.0.1:35345/yy/1382749887
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 复仇者联盟全季
+http://127.0.0.1:35345/yy/1354936167
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 科幻电影
+http://127.0.0.1:35345/yy/1354930209
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 老夫少妻搞笑忘年恋
+http://127.0.0.1:35345/yy/1354932391
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804534/u2563804534mupdNru.png" group-title="综合", 斗罗小舞 正在直播
+http://127.0.0.1:35345/yy/1354768831
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/97/2835978875/u2835978875L9RPAqK.jpg" group-title="综合", 恐怖诡异墓穴
+http://127.0.0.1:35345/yy/1382748585
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 回家的诱惑
+http://127.0.0.1:35345/yy/1354658043
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/92/1529929232/u1529929232hMV18mo.jpg" group-title="综合", 24小时陪你看
+http://127.0.0.1:35345/yy/1331686180
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 公主嫁到
+http://127.0.0.1:35345/yy/1382736915
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", X战警系列-国外科幻片
+http://127.0.0.1:35345/yy/1382735585
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 洪大哥系列
+http://127.0.0.1:35345/yy/1354888743
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2639576898/u2639576898eimHG6j.png" group-title="综合", 华矩小九er 电 正在直播
+http://127.0.0.1:35345/yy/1354690927
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 末日系列-外国电影合集
+http://127.0.0.1:35345/yy/1354889019
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/2661680795/u2661680795XQjhE-r.jpg" group-title="综合", 丫头动漫 斗罗斗破
+http://127.0.0.1:35345/yy/1458722520
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/38/2679387278/u2679387278_B3NLfN.jpg" group-title="综合", 新主播，求照顾
+http://127.0.0.1:35345/yy/1382690406
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超炫科幻大片
+http://127.0.0.1:35345/yy/1382736840
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778161/u2956778161rUYdVf2.jpg" group-title="综合", 最美的青春
+http://127.0.0.1:35345/yy/1382851530
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 父母爱情
+http://127.0.0.1:35345/yy/1354926650
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超燃科幻大片：明日边缘
+http://127.0.0.1:35345/yy/1382736835
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/20/2785203163/u2785203163A88_99H.png" group-title="综合", 24h小时打更人
+http://127.0.0.1:35345/yy/1355171357
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 疯狂动漫 正在直播
+http://127.0.0.1:35345/yy/1353937086
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大唐双龙传
+http://127.0.0.1:35345/yy/1354930979
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/60/2922604425/u2922604425Gp3ghJF.jpg" group-title="综合", 经典电影重温
+http://127.0.0.1:35345/yy/1382793140
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/75/2932756128/u2932756128Zo3N6YO.png" group-title="综合", 【破案 悬疑 港剧】
+http://127.0.0.1:35345/yy/1382800083
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/84/2763846360/u2763846360XS-TWTu.jpg" group-title="综合", 和你不见不散
+http://127.0.0.1:35345/yy/1355635293
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/26/0357260002/u357260002dZ73mJXQ.jpg" group-title="综合", 24h 我爱我家 纯音频
+http://127.0.0.1:35345/yy/1356212303
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/26/2725264611/u27252646113jBUSkD.png" group-title="综合", 【科幻电影】
+http://127.0.0.1:35345/yy/1355065896
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/82/2982829798/u2982829798oWwdiN5.jpg" group-title="综合", 梦梦古装武侠剧
+http://127.0.0.1:35345/yy/1382881708
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/61/2308616039/u2308616039_NrBf5I.jpg" group-title="综合", 【动漫】斗罗斗破
+http://127.0.0.1:35345/yy/35742228
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/44/2647443857/u2647443857Zo0gTG_.png" group-title="综合", 易中天品三国完整版
+http://127.0.0.1:35345/yy/1461244449
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 奇缘港台影院
+http://127.0.0.1:35345/yy/1354889234
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/90/0970904509/u970904509rbdctkaQ.jpg" group-title="综合", 二龙湖浩哥【经典搞笑】
+http://127.0.0.1:35345/yy/28205255
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/68/2300682477/u2300682477lhkBOYQ.jpg" group-title="综合", 【荒野求生】德爷贝爷各种
+http://127.0.0.1:35345/yy/21831828
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/35/2275350861/u2275350861OlZarGn.png" group-title="综合", 搞笑经典电影
+http://127.0.0.1:35345/yy/1351537467
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10138.jpg" group-title="综合", 动漫
+http://127.0.0.1:35345/yy/22777075
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/94/2817949407/u281794940735kZbMI.jpg" group-title="综合", 新白娘子4K高清观看
+http://127.0.0.1:35345/yy/1508902755
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/05/2717053439/u2717053439T9uJ6Fm.png" group-title="综合", 神探狄仁杰1—5部全集
+http://127.0.0.1:35345/yy/1382705592
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 叶问全集
+http://127.0.0.1:35345/yy/1382828771
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 《武林外传》武侠
+http://127.0.0.1:35345/yy/1394000563
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/54/2271542081/u22715420810ussqWX.png" group-title="综合", 经典动漫
+http://127.0.0.1:35345/yy/24180320
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/36/2946364405/u2946364405aHoUCap.jpg" group-title="综合", 探案！探案！
+http://127.0.0.1:35345/yy/1382829413
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动物世界-领略原始野性
+http://127.0.0.1:35345/yy/1382743138
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/0063695166/u63695166-62tXa-Fx.png" group-title="综合", 24小时循环播电视剧
+http://127.0.0.1:35345/yy/53320802
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/05/0166055038/u1660550386RKY4Bj1.jpg" group-title="综合", 军旅剧（回忆经典）
+http://127.0.0.1:35345/yy/1356306672
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 变形金刚
+http://127.0.0.1:35345/yy/1382736803
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624120/u2956624120ZpR05tB.jpg" group-title="综合", 大话西游至尊宝
+http://127.0.0.1:35345/yy/1382851590
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 十大经典港剧之《大时代》
+http://127.0.0.1:35345/yy/1354930891
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内玄幻电影-林正英
+http://127.0.0.1:35345/yy/1354932444
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年四大名捕
+http://127.0.0.1:35345/yy/1354936203
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小欢喜
+http://127.0.0.1:35345/yy/1382737888
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 张国荣与周润发的兄弟情
+http://127.0.0.1:35345/yy/1354930961
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小兵张嘎
+http://127.0.0.1:35345/yy/1354930225
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 郝蕾演绎-情满四合院
+http://127.0.0.1:35345/yy/1382745089
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 请回答1988
+http://127.0.0.1:35345/yy/1354932362
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 野山鹰-影视剧
+http://127.0.0.1:35345/yy/1354932395
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 电视剧-流金岁月
+http://127.0.0.1:35345/yy/1382749906
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 情满四合院-高分电视剧
+http://127.0.0.1:35345/yy/1382735541
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金星脱口秀-爆笑回归
+http://127.0.0.1:35345/yy/1382749951
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 单挑荒野第一季
+http://127.0.0.1:35345/yy/1354933535
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 哑巴竟然会说话
+http://127.0.0.1:35345/yy/1354932427
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 血色浪漫
+http://127.0.0.1:35345/yy/1354926676
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宫锁珠帘
+http://127.0.0.1:35345/yy/1354926666
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金婚
+http://127.0.0.1:35345/yy/1382736832
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 陈情令
+http://127.0.0.1:35345/yy/1382745121
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 另类民兵葛二蛋
+http://127.0.0.1:35345/yy/1382736895
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/48/2836489679/u2836489679FURj3Qt.jpg" group-title="综合", 港片鬼片老电影
+http://127.0.0.1:35345/yy/1355269576
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 灌篮高手
+http://127.0.0.1:35345/yy/1382735626
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 蔡明春晚小品
+http://127.0.0.1:35345/yy/1354936177
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 非诚勿扰
+http://127.0.0.1:35345/yy/1382745100
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778158/u2956778158pgG63r3.jpg" group-title="综合", 神探狄仁杰2
+http://127.0.0.1:35345/yy/1382851146
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 施公奇案1-欧阳震华
+http://127.0.0.1:35345/yy/1382749918
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778163/u295677816358dgO10.jpg" group-title="综合", 魔幻手机
+http://127.0.0.1:35345/yy/1382851541
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 热血动作电影
+http://127.0.0.1:35345/yy/1382736804
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 情满四合院
+http://127.0.0.1:35345/yy/1382736848
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 一笑倾城
+http://127.0.0.1:35345/yy/1382735553
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 穿越时空的爱恋
+http://127.0.0.1:35345/yy/1382735567
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋Ⅱ
+http://127.0.0.1:35345/yy/1354888736
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 你最爱的宋小宝
+http://127.0.0.1:35345/yy/1354936198
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大江大河2-高分影视推荐
+http://127.0.0.1:35345/yy/1382736797
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 探秘中华美食
+http://127.0.0.1:35345/yy/1354930954
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624121/u2956624121FQvGaEH.jpg" group-title="综合", 法证先锋
+http://127.0.0.1:35345/yy/1382851599
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 编辑部的故事
+http://127.0.0.1:35345/yy/1354936120
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 反黑
+http://127.0.0.1:35345/yy/1382745182
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 转角遇到爱
+http://127.0.0.1:35345/yy/1382745085
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 流金岁月-经典港剧
+http://127.0.0.1:35345/yy/1382736891
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋2
+http://127.0.0.1:35345/yy/1382736870
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 本山快乐营1
+http://127.0.0.1:35345/yy/1354936209
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 密子君
+http://127.0.0.1:35345/yy/1382736717
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 银河护卫队-国外科幻巨作
+http://127.0.0.1:35345/yy/1382736815
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 第8号当铺
+http://127.0.0.1:35345/yy/1382736905
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋Ⅲ
+http://127.0.0.1:35345/yy/1382736802
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 黄大妮-电视剧
+http://127.0.0.1:35345/yy/1354930904
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523390/u2454523390RHu9rXs.png" group-title="综合", 强悍“杀猪婆”的励志人生
+http://127.0.0.1:35345/yy/1354658062
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 无敌县令
+http://127.0.0.1:35345/yy/1354932390
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金星脱口秀
+http://127.0.0.1:35345/yy/1382736799
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 真心想让你幸福
+http://127.0.0.1:35345/yy/1382736876
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金玉满堂：精彩港剧
+http://127.0.0.1:35345/yy/1382736881
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 珍珠港-电影
+http://127.0.0.1:35345/yy/1354936234
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 来自星星的你
+http://127.0.0.1:35345/yy/1354930976
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大江大河-高分影视推荐
+http://127.0.0.1:35345/yy/1382736806
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 妖神记
+http://127.0.0.1:35345/yy/1382745171
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大汉贤后卫子夫
+http://127.0.0.1:35345/yy/1382735569
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 距离你500米
+http://127.0.0.1:35345/yy/1354821987
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 这个杀手不太冷-国外经典动作片
+http://127.0.0.1:35345/yy/1354936122
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 渴望
+http://127.0.0.1:35345/yy/1354930963
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 美国队长史蒂夫
+http://127.0.0.1:35345/yy/1382736813
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 百家讲坛――之明太祖朱元璋
+http://127.0.0.1:35345/yy/1354936149
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 高分科幻动作片
+http://127.0.0.1:35345/yy/1382749948
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", TVB收视爆剧-溏心风暴
+http://127.0.0.1:35345/yy/1382736916
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 北京爱情故事，心动不打烊
+http://127.0.0.1:35345/yy/1382744423
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宫心计
+http://127.0.0.1:35345/yy/1354932429
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 漫画解说
+http://127.0.0.1:35345/yy/1382735568
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大明王朝
+http://127.0.0.1:35345/yy/1382736879
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外院线动作大片
+http://127.0.0.1:35345/yy/1382735570
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 叛逆者
+http://127.0.0.1:35345/yy/1382736868
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 伪装者
+http://127.0.0.1:35345/yy/1354936244
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 以家人之名
+http://127.0.0.1:35345/yy/1382736908
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10138.jpg" group-title="综合", 林正英电影
+http://127.0.0.1:35345/yy/1382841203
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 风靡全球的谍战片
+http://127.0.0.1:35345/yy/1382736817
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 迷
+http://127.0.0.1:35345/yy/1382736719
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523393/u2454523393Gv5PS_m.png" group-title="综合", 寻秦记
+http://127.0.0.1:35345/yy/1354658048
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作大片-叶问宗师觉醒
+http://127.0.0.1:35345/yy/1354936181
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500355/u2454500355m3j9fi4.jpg" group-title="综合", 我的父亲我的兵
+http://127.0.0.1:35345/yy/1353413714
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 忠烈杨家将
+http://127.0.0.1:35345/yy/1382749909
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 老广的味道 第3季-美食纪录片
+http://127.0.0.1:35345/yy/1382735565
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑傲江湖 第2季
+http://127.0.0.1:35345/yy/1382736914
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 飞虎之潜行极战
+http://127.0.0.1:35345/yy/1354932420
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 非诚勿扰
+http://127.0.0.1:35345/yy/1382745106
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 河山
+http://127.0.0.1:35345/yy/1382749952
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 本山快乐营
+http://127.0.0.1:35345/yy/1354933529
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 苦乐村官
+http://127.0.0.1:35345/yy/1382736864
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐饭米粒儿，笑点密集来袭
+http://127.0.0.1:35345/yy/1382736798
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宫心计-港剧-古装
+http://127.0.0.1:35345/yy/1354933540
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/02/2488021994/u2488021994lhm4Oih.jpg" group-title="综合", 【电影】顶级动作电影
+http://127.0.0.1:35345/yy/24923327
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 哈利波特全集
+http://127.0.0.1:35345/yy/1382745105
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778160/u2956778160r59MiuJ.jpg" group-title="综合", 国内经典动作电影
+http://127.0.0.1:35345/yy/1382851522
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小小飞虎队
+http://127.0.0.1:35345/yy/1382749888
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 机械战警1-3
+http://127.0.0.1:35345/yy/1382736854
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 闲暇观看综艺
+http://127.0.0.1:35345/yy/1354932379
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 周星星系列
+http://127.0.0.1:35345/yy/1354888671
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/74/1541749696/u1541749696P0qr7as.jpg" group-title="综合", 的直播间
+http://127.0.0.1:35345/yy/1354129442
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑傲江湖-电视剧
+http://127.0.0.1:35345/yy/1354936128
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 施公奇案2-欧阳震华
+http://127.0.0.1:35345/yy/1382736824
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小师妹rua
+http://127.0.0.1:35345/yy/1382736975
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产动作电影
+http://127.0.0.1:35345/yy/1382736858
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 飓风营救
+http://127.0.0.1:35345/yy/1382735547
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 风味原产地潮汕
+http://127.0.0.1:35345/yy/1382745178
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 萌鸡小队S1-国漫
+http://127.0.0.1:35345/yy/1382736904
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/68/2543685369/u2543685369aRrDotS.jpg" group-title="综合", 十八动漫
+http://127.0.0.1:35345/yy/1354076248
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宫心计
+http://127.0.0.1:35345/yy/1382828769
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 热门喜剧
+http://127.0.0.1:35345/yy/1354931495
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 俺娘田小草
+http://127.0.0.1:35345/yy/1382741638
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500352/u2454500352sdfThM7.jpg" group-title="综合", 学生兵
+http://127.0.0.1:35345/yy/1354658003
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 娘亲舅大
+http://127.0.0.1:35345/yy/1354932360
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 本山快乐营-爆笑小品
+http://127.0.0.1:35345/yy/1354930948
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内动作大片
+http://127.0.0.1:35345/yy/1382745176
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 外星人到地球--超能疯人院
+http://127.0.0.1:35345/yy/1354930945
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑傲江湖 第1季
+http://127.0.0.1:35345/yy/1382749896
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/99/2210990252/u2210990252S5d-SvQ.jpg" group-title="综合", 周星驰喜剧武侠恐怖好看
+http://127.0.0.1:35345/yy/29945997
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作大片
+http://127.0.0.1:35345/yy/1354888739
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外动作片
+http://127.0.0.1:35345/yy/1354936124
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 漫威超级英雄系列
+http://127.0.0.1:35345/yy/1354932402
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 燃爆动作片
+http://127.0.0.1:35345/yy/1382736801
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 本山快乐营
+http://127.0.0.1:35345/yy/1382736852
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法证先锋Ⅳ
+http://127.0.0.1:35345/yy/1354932426
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/34/2810343459/u2810343459ZJIhsLP.jpg" group-title="综合", 迷糊不迷糊 正在直播
+http://127.0.0.1:35345/yy/1461931969
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外科幻
+http://127.0.0.1:35345/yy/1382736800
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/22/2728220271/u2728220271uLyLVsq.jpg" group-title="综合", 喨剑
+http://127.0.0.1:35345/yy/1355076627
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 缺宅男女-精彩港剧
+http://127.0.0.1:35345/yy/1382745088
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/53/2241532024/u2241532024p4_J3OD.jpg" group-title="综合", 泡芙陪你看电影
+http://127.0.0.1:35345/yy/24407222
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 法外风云
+http://127.0.0.1:35345/yy/1382736805
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 溏心风暴之家好月圆
+http://127.0.0.1:35345/yy/1354888747
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 美国惊险动作大片-饥饿游戏全季
+http://127.0.0.1:35345/yy/1354932365
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 不用加班真开心
+http://127.0.0.1:35345/yy/1354930924
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 一分钟学道菜
+http://127.0.0.1:35345/yy/1382736901
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宣萱主演-老婆大人
+http://127.0.0.1:35345/yy/1382736920
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 神厨小福贵
+http://127.0.0.1:35345/yy/1382736860
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内动作电影
+http://127.0.0.1:35345/yy/1382745175
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 巾帼枭雄之义海豪情
+http://127.0.0.1:35345/yy/1382736859
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外动作大片
+http://127.0.0.1:35345/yy/1382735540
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大帅哥-港剧
+http://127.0.0.1:35345/yy/1382736842
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外高分大片
+http://127.0.0.1:35345/yy/1382736867
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 妖神记之黑狱篇
+http://127.0.0.1:35345/yy/1382745173
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", YY用户
+http://127.0.0.1:35345/yy/85042287
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内动作大片
+http://127.0.0.1:35345/yy/1382749917
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804305/u2563804305b75d55Z.png" group-title="综合", 国漫动漫
+http://127.0.0.1:35345/yy/1354768828
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 众多神仙齐上阵-封神榜
+http://127.0.0.1:35345/yy/1382735625
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 百家讲坛-红楼梦篇
+http://127.0.0.1:35345/yy/1382741639
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 高分港剧合集
+http://127.0.0.1:35345/yy/1382735542
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 名媛望族-精彩港剧
+http://127.0.0.1:35345/yy/1354932431
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 吐槽大会 第2季
+http://127.0.0.1:35345/yy/1354936145
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产喜剧
+http://127.0.0.1:35345/yy/1382735584
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", Lisa丽莎
+http://127.0.0.1:35345/yy/1382736807
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产家庭电视剧-如果岁月可回头
+http://127.0.0.1:35345/yy/1382736883
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 惊险刺激！国内最新战争大片
+http://127.0.0.1:35345/yy/1382745189
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 抗日神片，燃爆抗战热血魂
+http://127.0.0.1:35345/yy/1354926600
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 你爱看的抗日大片
+http://127.0.0.1:35345/yy/1354936160
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778166/u2956778166PzRg4bd.jpg" group-title="综合", 娲���瀹�绂���绯诲��
+http://127.0.0.1:35345/yy/1382851602
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 当旺爸爸-港剧
+http://127.0.0.1:35345/yy/1354936208
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 憨豆先生
+http://127.0.0.1:35345/yy/1354930189
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 地球上的地狱
+http://127.0.0.1:35345/yy/1382736918
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 百家讲坛-之女皇武则天
+http://127.0.0.1:35345/yy/1354889015
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号58-70
+http://127.0.0.1:35345/yy/1382745119
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 太空科幻巨制-星际旅行
+http://127.0.0.1:35345/yy/1382736903
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金牌喜剧班
+http://127.0.0.1:35345/yy/1354889009
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 什么会让你快乐
+http://127.0.0.1:35345/yy/54886912
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 万里走单骑-解密世界遗产的互动综艺
+http://127.0.0.1:35345/yy/1382736853
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港片教你追女仔—最佳损友
+http://127.0.0.1:35345/yy/1382736917
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 揭秘！经典传奇背后的未解之谜
+http://127.0.0.1:35345/yy/1382736912
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超级英雄系列电影
+http://127.0.0.1:35345/yy/1382736863
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 欢乐集结号4
+http://127.0.0.1:35345/yy/1382736889
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 奥斯卡战争大片
+http://127.0.0.1:35345/yy/1354932397
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 长安汽车UNI-T直播
+http://127.0.0.1:35345/yy/1349602814
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/91/0090919811/u9091981194wENNVVt.jpg" group-title="综合", 你来
+http://127.0.0.1:35345/yy/25444932
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778171/u2956778171bWa0lRW.jpg" group-title="综合", 太空生命？高分科幻电影开播
+http://127.0.0.1:35345/yy/1382851586
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/69/2390690471/u2390690471W2ImUVu.jpg" group-title="综合", 动漫奥斯卡正在直播
+http://127.0.0.1:35345/yy/1382626335
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 抗日大片！震撼放映
+http://127.0.0.1:35345/yy/1354936229
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 能耐大了第1季
+http://127.0.0.1:35345/yy/1354930195
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 9.8分！这部纪录片封神了
+http://127.0.0.1:35345/yy/1382736825
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超治愈！奇趣动物园
+http://127.0.0.1:35345/yy/1382735545
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 史诗级战争大片
+http://127.0.0.1:35345/yy/1382745092
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 机动步队
+http://127.0.0.1:35345/yy/1354932371
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 王朝-自然-纪录片
+http://127.0.0.1:35345/yy/1354930927
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 致敬星爷致敬经典
+http://127.0.0.1:35345/yy/1354889048
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/34/0061340778/u61340778fDIURys7q.jpg" group-title="综合", 家花与野花
+http://127.0.0.1:35345/yy/1354420982
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 野性欧洲
+http://127.0.0.1:35345/yy/1354926622
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑到不行--欢乐集结号
+http://127.0.0.1:35345/yy/1382749913
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 一起来笑吧
+http://127.0.0.1:35345/yy/1454859415
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 能耐大了！德云社演技爆棚
+http://127.0.0.1:35345/yy/1354930915
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 许光汉-关于我和鬼变成家人的那件事
+http://127.0.0.1:35345/yy/1354926671
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 白鹿原-国内经典战争片
+http://127.0.0.1:35345/yy/1354931488
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/400/400/62/2956624099/u2956624099zq6TnkP.jpg" group-title="综合", 1920年代经典电影
+http://127.0.0.1:35345/yy/1356363810
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/55/2662551872/u2662551872cZioINd.jpg" group-title="综合", 精彩玄幻电影
+http://127.0.0.1:35345/yy/1382688400
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 值得n刷的律政俏佳人
+http://127.0.0.1:35345/yy/1382745099
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 小鱼干
+http://127.0.0.1:35345/yy/1382736816
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金星脱口秀：我敢说你敢听吗
+http://127.0.0.1:35345/yy/1382735552
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 赵本山爆笑小品2
+http://127.0.0.1:35345/yy/1354936217
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 喜剧闹翻天
+http://127.0.0.1:35345/yy/1382735548
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10100.jpg" group-title="综合", 国内科幻片来袭
+http://127.0.0.1:35345/yy/1354930821
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 缺宅男女
+http://127.0.0.1:35345/yy/1354930937
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/87/2892874859/u2892874859LdOcolq.jpg" group-title="综合", 欢迎光临
+http://127.0.0.1:35345/yy/1355532933
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 【新三国】
+http://127.0.0.1:35345/yy/1382851415
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 钟馗传说
+http://127.0.0.1:35345/yy/1382736839
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 深夜惊悚动作大片
+http://127.0.0.1:35345/yy/1382745110
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 宇宙护卫队--国漫
+http://127.0.0.1:35345/yy/1382736837
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 超越种族的爱恋-暮光之城
+http://127.0.0.1:35345/yy/1382745179
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 解放：苏联战争巨片
+http://127.0.0.1:35345/yy/1354936249
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 动作 港片电影
+http://127.0.0.1:35345/yy/1461037999
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 丛林敢死队-国内电影
+http://127.0.0.1:35345/yy/1354936214
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/400/400/77/2956778136/u2956778136fhU7opB.jpg" group-title="综合", 1930年代经典电影
+http://127.0.0.1:35345/yy/1356363815
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 极品芝麻官
+http://127.0.0.1:35345/yy/1354930984
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 古装武打港剧-肝胆昆仑
+http://127.0.0.1:35345/yy/1354936116
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 金庸经典-射雕英雄传
+http://127.0.0.1:35345/yy/1354889042
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 漫威电影-神奇女侠
+http://127.0.0.1:35345/yy/1354933556
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 燃情科幻--X战警
+http://127.0.0.1:35345/yy/1382736857
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 本山快乐营2
+http://127.0.0.1:35345/yy/1382736718
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产喜剧大片
+http://127.0.0.1:35345/yy/1382745113
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 远去的飞鹰-影视剧
+http://127.0.0.1:35345/yy/1354930912
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 战争大片
+http://127.0.0.1:35345/yy/1382736819
+#EXTINF:-1 tvg-logo="http://s1.yy.com/guild/header/10108.jpg" group-title="综合", 环球追捕，尖峰时刻带你狂飙全球
+http://127.0.0.1:35345/yy/1354658051
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 开心麻花出品-日不落酒店
+http://127.0.0.1:35345/yy/1354936210
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/53/2703539957/u2703539957DI9qz__.png" group-title="综合", 十亿少女的噩梦
+http://127.0.0.1:35345/yy/1354921392
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 大侦探霍桑
+http://127.0.0.1:35345/yy/1382737886
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", X战警系列电影
+http://127.0.0.1:35345/yy/1382736893
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 探案悬疑经典--狄仁杰
+http://127.0.0.1:35345/yy/1354930903
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 烧脑悬疑电影
+http://127.0.0.1:35345/yy/1382735571
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/76/2647767494/u2647767494QbjnQBX.jpg" group-title="综合", 甜甜正在直播
+http://127.0.0.1:35345/yy/1355119704
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523389/u2454523389MlriEhL.png" group-title="综合", 国外经典—小鬼当家
+http://127.0.0.1:35345/yy/1354658064
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 燃情无限流—罗拉快跑
+http://127.0.0.1:35345/yy/1354936136
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港剧经典-寒山潜龙
+http://127.0.0.1:35345/yy/1382745103
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 拆弹专家-刘德华
+http://127.0.0.1:35345/yy/1382745111
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港片-神探
+http://127.0.0.1:35345/yy/1382736872
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典搞笑影片
+http://127.0.0.1:35345/yy/1382749878
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 降服魔女的手段-泰剧
+http://127.0.0.1:35345/yy/1354932405
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 漫威经典-奇异博士
+http://127.0.0.1:35345/yy/1382736843
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 怪医文三块-影视剧
+http://127.0.0.1:35345/yy/1354936154
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 娱+仙侠古装全系列
+http://127.0.0.1:35345/yy/1452527211
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 电影黄飞鸿-燃爆武侠魂
+http://127.0.0.1:35345/yy/1382736841
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 传奇之王-影视剧
+http://127.0.0.1:35345/yy/1354926735
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 甜蜜青春-致我们暖暖的小时光
+http://127.0.0.1:35345/yy/1382736874
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 心理追凶-烧脑港剧
+http://127.0.0.1:35345/yy/1354936207
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/98/2671988297/u2671988297MQEN40t.jpg" group-title="综合", 经典抗战剧
+http://127.0.0.1:35345/yy/1355052097
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", TVB笑料王，翻生武林必看港剧
+http://127.0.0.1:35345/yy/1382749910
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/50/2967501668/u2967501668pfxceIr.jpg" group-title="综合", 征服
+http://127.0.0.1:35345/yy/1461655788
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内科幻
+http://127.0.0.1:35345/yy/1354936170
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 古往今来-秦皇汉帝的传奇
+http://127.0.0.1:35345/yy/1354936228
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 向英雄致敬！国内战争片精选
+http://127.0.0.1:35345/yy/1382745124
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 岳云鹏-屌丝抱得美人归
+http://127.0.0.1:35345/yy/1382736882
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 民国恩仇-兰花劫
+http://127.0.0.1:35345/yy/1354932409
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 天龙八部（国语版）
+http://127.0.0.1:35345/yy/1382736855
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/0076575154/u76575154Cxw87Kuv_.png" group-title="综合", 【电影】国外高分热门电影
+http://127.0.0.1:35345/yy/1509338836
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典喜剧-三枪拍案惊奇
+http://127.0.0.1:35345/yy/1382736849
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 脑洞大开的精彩科幻片
+http://127.0.0.1:35345/yy/1382736723
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑到发晕-李茶的姑妈
+http://127.0.0.1:35345/yy/1354930816
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/62/2956624111/u2956624111RwgKyF4.jpg" group-title="综合", 唐伯虎点秋香-国内爆笑喜剧
+http://127.0.0.1:35345/yy/1382851137
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 女医明妃传
+http://127.0.0.1:35345/yy/1382736861
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 最抚人心
+http://127.0.0.1:35345/yy/1382745181
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 星球大战燃爆来袭！
+http://127.0.0.1:35345/yy/1354932407
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/25/1153259720/u1153259720NWZOU9K.jpg" group-title="综合", 老卓电影
+http://127.0.0.1:35345/yy/1354770516
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 都市佳人
+http://127.0.0.1:35345/yy/1382736865
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 探寻诗歌的前世今生-诗中国
+http://127.0.0.1:35345/yy/1354936178
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/71/2651718170/u2651718170Hmb3dUU.jpg" group-title="综合", 欧美配音电影！！！
+http://127.0.0.1:35345/yy/1354693629
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 铭记的岁月-老人与海
+http://127.0.0.1:35345/yy/1354936195
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 你最爱的小龙女-神雕侠侣
+http://127.0.0.1:35345/yy/1354926637
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 战争大片
+http://127.0.0.1:35345/yy/1382735556
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", TVB-团圆
+http://127.0.0.1:35345/yy/1382749944
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港剧经典-我家无难事
+http://127.0.0.1:35345/yy/1382736715
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 猩球崛起-怪兽片合集
+http://127.0.0.1:35345/yy/1354930181
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 陈赫张颂文主演-一路向前
+http://127.0.0.1:35345/yy/1382749912
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 卡梅隆科幻经典大片-终结者
+http://127.0.0.1:35345/yy/1354930887
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 名不虚传-韩剧
+http://127.0.0.1:35345/yy/1382749904
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 飞虎之雷霆极战
+http://127.0.0.1:35345/yy/1382736869
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 破次元大作-蝙蝠侠大战超人
+http://127.0.0.1:35345/yy/1354932441
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/67/2757675299/u2757675299ETne91T.jpg" group-title="综合", 鹿鼎记
+http://127.0.0.1:35345/yy/1460463356
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 陪你一起看好剧
+http://127.0.0.1:35345/yy/1354932359
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 武术喜剧--醉拳
+http://127.0.0.1:35345/yy/1382735581
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 看国家珍稀物种！国家自然纪录片
+http://127.0.0.1:35345/yy/1382736913
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外巨制-我的野蛮女友
+http://127.0.0.1:35345/yy/1382749911
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 如沐春风
+http://127.0.0.1:35345/yy/1382736810
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 阳光之下
+http://127.0.0.1:35345/yy/1354936157
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778159/u2956778159YIxm4k1.jpg" group-title="综合", 林允张新成领衔-蜗牛与黄鹂鸟
+http://127.0.0.1:35345/yy/1382851148
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 沉睡魔咒
+http://127.0.0.1:35345/yy/1354930894
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 迎财神-暴走财神
+http://127.0.0.1:35345/yy/1354936238
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 胡杏儿出演港剧-巴不得爸爸
+http://127.0.0.1:35345/yy/1382749890
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爆笑来袭-小品欢乐集结号
+http://127.0.0.1:35345/yy/1382735558
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国风巨制-妖猫传
+http://127.0.0.1:35345/yy/1382736820
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 烧脑经典-决胜法庭
+http://127.0.0.1:35345/yy/1382745190
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/74/1817744934/u1817744934L0mddfh.jpg" group-title="综合", 你看与不看我都在
+http://127.0.0.1:35345/yy/1353422557
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/73/2343733006/u2343733006GKeT73L.jpg" group-title="综合", 双喜电影
+http://127.0.0.1:35345/yy/25519088
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典港剧-潮拜武当
+http://127.0.0.1:35345/yy/1354930967
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 《回到未来》全系列，科幻迷的时空盛宴
+http://127.0.0.1:35345/yy/1382736887
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典之作-复仇者
+http://127.0.0.1:35345/yy/1354932375
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 史诗级科幻电影-阿凡达
+http://127.0.0.1:35345/yy/1382735577
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国内奇幻电影大片
+http://127.0.0.1:35345/yy/1382735627
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 妖神记-全集
+http://127.0.0.1:35345/yy/1382735551
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 港剧迷必追！《收规华》烧脑来袭
+http://127.0.0.1:35345/yy/1382741640
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国外战争大片！看到过瘾
+http://127.0.0.1:35345/yy/1354930957
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 张子枫彭昱畅-快把我哥带走
+http://127.0.0.1:35345/yy/1354936231
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 博物馆奇妙夜
+http://127.0.0.1:35345/yy/1354936221
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/97/2509978304/u2509978304IyBTrdR.jpg" group-title="综合", 抗战剧
+http://127.0.0.1:35345/yy/1353852605
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爆笑-神偷大师
+http://127.0.0.1:35345/yy/1382745122
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 丁大命
+http://127.0.0.1:35345/yy/1382735579
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 蜘蛛侠1：超凡蜘蛛侠
+http://127.0.0.1:35345/yy/1382749940
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 【武林客栈】
+http://127.0.0.1:35345/yy/1382773728
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 国产抗战神剧合集
+http://127.0.0.1:35345/yy/1382749950
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 非典型古装喜剧-足秤老婆八两夫
+http://127.0.0.1:35345/yy/1382749905
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 爆笑小品！开心麻花街
+http://127.0.0.1:35345/yy/1354926643
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/70/2239704095/u2239704095I37MRCy.jpg" group-title="综合", 经典 老电影
+http://127.0.0.1:35345/yy/1414874879
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/57/2902574765/u29025747659zQ5ScC.png" group-title="综合", 靓剑电视剧
+http://127.0.0.1:35345/yy/1382883258
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/22/2218223943/u2218223943giSdpjo.jpg" group-title="综合", 火哥财经评论
+http://127.0.0.1:35345/yy/1350588542
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", tvb经典--街坊财爷
+http://127.0.0.1:35345/yy/1382735566
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 经典港片犯罪电影-寒战
+http://127.0.0.1:35345/yy/1382735559
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 闫妮主演-疯狂72小时
+http://127.0.0.1:35345/yy/1354936169
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 少年派的奇幻漂流
+http://127.0.0.1:35345/yy/1354936199
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 妖魔道
+http://127.0.0.1:35345/yy/1382749953
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/50/2454500353/u2454500353ZqY-oXw.jpg" group-title="综合", 悬疑剧-河神
+http://127.0.0.1:35345/yy/1353413683
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 云享健康
+http://127.0.0.1:35345/yy/1382736896
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 笑到颤抖，重温超时空同居
+http://127.0.0.1:35345/yy/1382735561
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 胡桃夹子·魔境冒险
+http://127.0.0.1:35345/yy/1382741637
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 治愈心灵-解忧杂货店
+http://127.0.0.1:35345/yy/1382745090
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 一条狗的使命
+http://127.0.0.1:35345/yy/1382736873
+#EXTINF:-1 tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="综合", 精彩喜剧-笑嗷喜剧人
+http://127.0.0.1:35345/yy/1382736844
