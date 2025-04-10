@@ -1,0 +1,55 @@
+{
+  "md5": "123",
+  "quark": {
+    "NORMAL": {
+      "name": "非会员",
+      "threadConfig": "60,64,80,88,100",
+      "thread": 64,
+      "chunksize": 170
+    },
+    "EXP_SVIP": {
+      "name": "88会员",
+      "threadConfig": "10,14,16,18",
+      "thread": 14,
+      "chunksize": 350
+    },
+    "SUPER_VIP": {
+      "name": "SVIP",
+      "threadConfig": "10,14,16,18",
+      "thread": 14,
+      "chunksize": 500
+    }
+  },
+  "uc": {
+    "NORMAL": {
+      "name": "非会员",
+      "threadConfig": "10,14,16,18",
+      "thread": 14,
+      "chunksize": 500
+    },
+    "VIP": {
+      "name": "普通会员",
+      "threadConfig": "10,14,16,18",
+      "thread": 14,
+      "chunksize": 500
+    },
+    "SUPER_VIP": {
+      "name": "SVIP",
+      "threadConfig": "10,14,16,18",
+      "thread": 14,
+      "chunksize": 500
+    }
+  },
+  "multi": {
+      "name": "多线程实现方式",
+      "config": {
+          "gox": {
+              "name" : "GOX"
+          },
+          "java": {
+              "name" : "Java"
+          }
+      },
+       "mode":"gox"
+  }
+}

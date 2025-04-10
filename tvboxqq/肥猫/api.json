@@ -57,21 +57,6 @@
             }
         },
         {
-            "key": "csp_Bili",
-            "name": "🅱┃️哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "./json/bili.json",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
-        },
-        {
             "key": "潮流",
             "name": "🏜┃潮流┃影视",
             "type": 3,
@@ -112,13 +97,6 @@
             "ext": "https://www.wwgz.cn"
         },
         {
-            "key": "csp_AppRZ",
-            "name": "🕵️┃忍者┃影视",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "ext": "http://rzys.xyz/"
-        },
-        {
             "key": "csp_Siren",
             "name": "🎉️┃私人┃影城",
             "type": 3,
@@ -149,7 +127,8 @@
                 "site_urls": [
                     "http://xiaomi666.fun",
                     "https://xiaomiai.site",
-                    "http://www.miqk.cc"
+                    "http://www.miqk.cc",
+                    "https://mihdr.top"
                 ],
                 "url_key": "Netfixtv2",
                 "token": "",
@@ -177,12 +156,6 @@
             "name": "🏔️┃来看┃影视",
             "type": 3,
             "api": "csp_Lkdy"
-        },
-        {
-            "key": "csp_Lggys",
-            "name": "💗️┃攻阁┃影视",
-            "type": 3,
-            "api": "csp_Lggys"
         },
         {
             "key": "csp_Tvyb",
@@ -235,19 +208,12 @@
             "playerType": 2
         },
         {
-            "key": "Ivdy",
-            "name": "💖┃Ivdy┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
-            "searchable": 0
-        },
-        {
             "key": "csp_SaoHuo",
             "name": "🔥┃火火┃影视",
             "type": 3,
             "api": "csp_SaoHuo",
-            "playerType": 2
+            "playerType": 2,
+            "ext": "https://shdy5.us"
         },
         {
             "key": "csp_Gz360",
@@ -287,6 +253,21 @@
             "name": "📺┃360┃官源",
             "type": 3,
             "api": "csp_SP360"
+        },
+        {
+            "key": "csp_Bili",
+            "name": "🅱┃️哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "ext": {
+                "json": "./json/bili.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            }
         },
         {
             "key": "csp_BookTing",

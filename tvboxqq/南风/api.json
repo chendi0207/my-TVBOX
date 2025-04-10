@@ -21,7 +21,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -29,25 +29,6 @@
             "name": "🍉瓜子",
             "type": 3,
             "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "金牌",
-            "name": "🥇金牌",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_TianTian",
-            "name": "🦉天天",
-            "type": 3,
-            "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -73,10 +54,28 @@
             "ext": "http://www.czzyvideo.com"
         },
         {
-            "key": "csp_Nongm",
+            "key": "csp_LiteApple",
+            "name": "🍎苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Siren",
+            "name": "🎉️私人",
+            "type": 3,
+            "api": "csp_Siren",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Wwys",
             "name": "👩‍🌾农民",
             "type": 3,
-            "api": "csp_Nongm",
+            "api": "csp_Wwys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -99,7 +98,8 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://shdy5.us"
         },
         {
             "key": "csp_Tvyb",
@@ -111,6 +111,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.tvyun01.com/"
+        },
+        {
+            "key": "csp_Qiyou",
+            "name": "🦌奇优",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Wetv",
@@ -131,16 +140,6 @@
             "filterable": 1
         },
         {
-            "key": "可可",
-            "name": "☕️可可",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/可可影视.json"
-        },
-        {
             "key": "csp_Fantuan",
             "name": "🍙饭团",
             "type": 3,
@@ -150,6 +149,16 @@
             "filterable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://www.fantuan.vip"
+        },
+        {
+            "key": "可可",
+            "name": "☕️可可",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/可可影视.json"
         },
         {
             "key": "csp_Ddys",
@@ -189,19 +198,48 @@
             "ext": "./json/jianpian.json"
         },
         {
+            "key": "csp_xlys",
+            "name": "🧲修罗",
+            "type": 3,
+            "api": "csp_xlys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://v.xlys.ltd.ua"
+        },
+        {
             "key": "csp_Mp4Mov",
             "name": "🧲Mp4电影",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.momp4.cc"
         },
         {
             "key": "csp_New6v",
             "name": "🧲新6V",
             "type": 3,
             "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DyGod",
+            "name": "🧲电影天堂",
+            "type": 3,
+            "api": "csp_DyGod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_QnMp4",
+            "name": "🧲七妹",
+            "type": 3,
+            "api": "csp_QnMp4",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -234,14 +272,13 @@
             "filterable": 1
         },
         {
-            "key": "修罗",
-            "name": "🧲修罗",
+            "key": "csp_BLSGod",
+            "name": "🧲80S影视",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_BLSGod",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/修罗影视.json"
+            "filterable": 1
         },
         {
             "key": "csp_SP360",
@@ -263,14 +300,14 @@
             "filterable": 1
         },
         {
-            "key": "动漫巴士",
+            "key": "csp_Dm84",
             "name": "🚌动漫巴士",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "playerType": "2",
+            "api": "csp_Dm84",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/动漫巴士.json"
+            "filterable": 1
         },
         {
             "key": "樱花",
@@ -291,6 +328,34 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧屋.json"
+        },
+        {
+            "key": "豆瓣",
+            "name": "🚀豆瓣预告",
+            "type": 3,
+            "api": "csp_YGP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "游戏直播",
+            "name": "🙀游戏直播",
+            "type": 3,
+            "api": "csp_Living",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9966/api/proxy/https://lemonlive.pages.dev"
+        },
+        {
+            "key": "csp_AppXY",
+            "name": "🎀️星牙短剧",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Kanqiu",
@@ -334,6 +399,18 @@
             }
         },
         {
+            "key": "csp_FirstAid",
+            "name": "🚑急救教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+        },
+        {
             "key": "玩偶gg",
             "name": "👽玩偶",
             "type": 3,
@@ -341,8 +418,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "http://wogg.xxooo.cf/",
+                "commonConfig": "./json/peizhi.json",
+                "siteUrl": "https://www.wogg.one/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -356,7 +433,20 @@
             "switchable": 0,
             "ext": {
                 "siteUrl": "https://www.qwnull.com",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
+            }
+        },
+        {
+            "key": "二小",
+            "name": "😈二小",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./json/peizhi.json",
+                "siteUrl": "https://erxiaofn.click/",
+                "filter": "./json/wogg.json"
             }
         },
         {
@@ -367,8 +457,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "http://www.xhww.net",
+                "commonConfig": "./json/peizhi.json",
+                "siteUrl": "https://mihdr.top",
                 "filter": "./json/wogg.json"
             }
         },
@@ -380,7 +470,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://feimaoai.site",
                 "filter": "./json/wogg.json"
             }
@@ -393,7 +483,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://woog.nxog.eu.org",
                 "filter": "./json/wogg.json"
             }
@@ -406,7 +496,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://tv.yydsys.top",
                 "filter": "./json/wogg.json"
             }
@@ -419,7 +509,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://mo.666291.xyz/",
                 "filter": "./json/wogg.json"
             }
@@ -432,7 +522,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://milvdou.fun",
                 "filter": "./json/wogg.json"
             }
@@ -445,7 +535,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "siteUrl": "http://1.95.79.193",
                 "filter": "./json/wogg.json"
             }
@@ -460,7 +550,7 @@
             "switchable": 0,
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -472,8 +562,8 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://1.star2.cn/",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "siteUrl": "https://star.banye.tech:7086/",
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -484,7 +574,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -497,7 +587,7 @@
             "switchable": 0,
             "ext": {
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -508,7 +598,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -529,7 +619,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "commonConfig": "./json/peizhi.json",
                 "share": "./json/网盘集合.json"
             }
         },
@@ -546,7 +636,7 @@
             },
             "ext": {
                 "json": "./json/youtube.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/youtubecookie.json"
+                "cookie": "./json/youtubecookie.json"
             }
         },
         {
@@ -559,8 +649,8 @@
             "ext": {
                 "siteUrl": "http://127.0.0.1:9999",
                 "count": 4,
-                "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "channelUsername": "xx123pan,Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
+                "commonConfig": "./json/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },
@@ -574,8 +664,8 @@
             "switchable": 0,
             "ext": {
                 "count": 4,
-                "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "channelUsername": "xx123pan,Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,oneonefivewpfx,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,zaihuayun,PanjClub,NewQuark,Mbox115,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,yunpanshare,shareAliyun,alyp_1",
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -586,7 +676,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+                "commonConfig": "./json/peizhi.json"
             }
         },
         {
@@ -822,9 +912,9 @@
             }
         },
         {
-            "name": "云2",
+            "name": "HLS",
             "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
+            "url": "https://jx.hls.one/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -970,7 +1060,7 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
-    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/NanFeng.gif",
+    "logo": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/NanFeng.gif",
     "rules": [
         {
             "name": "proxy",
