@@ -1,5 +1,5 @@
 {
-    "SiteUrl": "https://ouge.banye.tech:7086",
+    "SiteUrl": "https://woog.xn--dkw.xn--6qq986b3xl",
     "Domains": [
         "https://woog.nxog.eu.org",
         "https://woog.xn--dkw.xn--6qq986b3xl",
@@ -26,6 +26,10 @@
         {
             "type_name": "短剧",
             "type_id": "5"
+        },
+         {
+            "type_name": "教材",
+            "type_id": "21"
         }
     ],
     "Filters": {

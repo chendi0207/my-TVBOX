@@ -14,7 +14,7 @@
 
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/天微/api.json", "name": "天微" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/天天开心/api.json", "name": "天天开心" },
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/小虎斑/api.json", "name": "小虎斑" },
 
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/南风/api.json", "name": "南风" },
 

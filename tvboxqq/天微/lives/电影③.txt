@@ -1,8 +1,25 @@
 █████████████████████████████████████████████
-动作片0401,#genre#
+动作片0414,#genre#
 █████████████████████████████████████████████
 
 
+
+
+海宫艳盗 1953(美国动作片),https://v.lzcdn24.com/20250422/27775_33300164/index.m3u8
+枪手2025(美国动作片),https://v.lzcdn25.com/20250423/374_fa992731/index.m3u8
+制暴：无限杀机2025(英国动作片),https://v.lzcdn25.com/20250418/350_a904a9f8/index.m3u8
+猎魂人 2025(大陆动作片),https://v.lzcdn25.com/20250418/351_95c852bf/index.m3u8
+江湖通缉令 2025(大陆动作片),https://v1.cdnlz1.com/20250416/24808_f8aef1de/index.m3u8
+功夫 2004(大陆动作片),https://vip.lzcdn2.com/20220319/64_943f0f68/index.m3u8
+血洗鳄鱼仇1988(印度动作片),https://v.lzcdn25.com/20250413/327_799acdf7/index.m3u8
+射雕英雄传：侠之大者2025(大陆动作片),https://v.lzcdn25.com/20250411/316_13484dd9/index.m3u8
+G20峰会2025(美国动作片),https://v.lzcdn25.com/20250411/311_1ee5283f/index.m3u8
+绣衣使·西汉迷案2025(大陆动作片)https://vip.ffzy-video.com/20250410/15739_7061e21a/index.m3u8
+在失落之地2025(德国/加拿大/美国动作片),https://v.lzcdn25.com/20250408/290_6bd4116b/index.m3u8
+尖峰对决2025(大陆动作片),https://v.lzcdn25.com/20250406/278_aa1b3e80/index.m3u8
+黑木城盗金案2025(大陆动作片),https://v.lzcdn25.com/20250406/275_2464c453/index.m3u8
+人生对抗赛2025(印度动作片),https://v.lzcdn25.com/20250405/261_d5dfec96/index.m3u8
+黑袋行动2025(英国动作片),https://v.lzcdn25.com/20250403/254_068512da/index.m3u8
 特务追杀令2024(法国动作片),https://v.lzcdn25.com/20250401/236_5320235c/index.m3u8
 刺猬索尼克2024Ⅲ(美国动作片),https://v.lzcdn25.com/20250331/234_47c86ad4/index.m3u8
 坚毅奇兵2025(印度动作片),https://v.lzcdn25.com/20250331/226_6c326afb/index.m3u8
@@ -4715,14 +4732,15 @@ X战警：黑凤凰(美国动作片),
 这个杀手不太冷(法国动作片),
 【结束】
 █████████████████████████████████████████████
-科幻片0329,#genre#
+科幻片0414,#genre#
 █████████████████████████████████████████████
 
 
 
 
 
-
+评估2024(德国科幻片),https://v.lzcdn25.com/20250410/301_aa5fd16a/index.m3u8
+编号17   2025(美国科幻片),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
 末日2024(美国科幻片),https://v.lzcdn25.com/20250321/149_42cb40c2/index.m3u8
 美国队长Ⅳ2025(美国科幻片),https://v.lzcdn25.com/20250309/76_f578268f/index.m3u8
 人造正义2024(西班牙科幻片),https://v.lzcdn25.com/20250311/86_3cd9853b/index.m3u8
@@ -6072,12 +6090,31 @@ SPEC：天(日本科幻片),
 三大怪兽美食家(日本科幻片),
 星际穿越(美国科幻片),
 █████████████████████████████████████████████
-恐怖片0331,#genre#
+恐怖片0414,#genre#
 █████████████████████████████████████████████
 
 
 
-
+异世降临  2025(美国恐怖片),https://v.lzcdn25.com/20250423/380_1b99c9c2/index.m3u8
+紧锁  2025(美国恐怖片),https://v.lzcdn25.com/20250423/376_c528b6a7/index.m3u8
+女孩Ⅱ  2025(印度恐怖片),https://v.lzcdn25.com/20250423/372_bae804c9/index.m3u8
+i人质危机   (荷兰恐怖片),https://v.lzcdn25.com/20250419/358_c1a75b3d/index.m3u8
+4分44秒   2024(韩国恐怖片),https://v.lzcdn25.com/20250418/355_e87ae720/index.m3u8
+康奈尔之盒  2024(韩国恐怖片),https://v.lzcdn25.com/20250418/353_84420356/index.m3u8
+公路人质事件   2023(美国恐怖片),https://v1.cdnlz1.com/20250416/24811_c4a2d894/index.m3u8
+怪物大乱捣2024(美国恐怖片),https://v.lzcdn25.com/20250414/333_3b56785c/index.m3u8
+丧尸集中营2024(蒙古恐怖片),https://v.lzcdn25.com/20250411/309_ee94686b/index.m3u8
+马路对面的房子2023(美国恐怖片),https://v.lzcdn25.com/20250410/300_cba6e205/index.m3u8
+血色附身2022(西班牙恐怖片),https://v.lzcdn25.com/20250410/304_bfafc9e3/index.m3u8
+致命著作2025(美国恐怖片),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
+鹊之家2024(英国恐怖片),https://v.lzcdn25.com/20250408/285_c0c01885/index.m3u8
+阴宅捉迷藏2024(印度尼西亚恐怖片),https://v.lzcdn25.com/20250408/286_be95c500/index.m3u8
+库德拉特2022(印度尼西亚/马来西亚恐怖片),https://v.lzcdn25.com/20250408/288_a7bafa6b/index.m3u8
+观山太保2025(大陆恐怖片),https://v.lzcdn25.com/20250406/273_a4f1953d/index.m3u8
+404宿灵速速逃2024(泰国恐怖片),https://v.lzcdn25.com/share/a4f23670e1833f3fdb077ca70bbd5d66
+下午4点2024(韩国恐怖片),https://v.lzcdn25.com/20250402/249_39546aa9/index.m3u8
+虽然只是弄丢了手机~最终章~最后的黑客游戏2024(日本恐怖片),https://v.lzcdn25.com/20250402/247_0287db3b/index.m3u8
+验孕阴谋2023(加拿大恐怖片),https://v.lzcdn25.com/20250402/245_12d0197b/index.m3u8
 驱魔2024(美国恐怖片),https://v.lzcdn25.com/20250331/233_84d1802c/index.m3u8
 珍妮潘的规则2024(新西兰恐怖片),https://v.lzcdn25.com/20250331/225_2feebd3a/index.m3u8
 致命蜈蚣2025(大陆恐怖片),https://v.lzcdn25.com/20250331/231_dbf0c60f/index.m3u8
@@ -6090,11 +6127,11 @@ SPEC：天(日本科幻片),
 财富流感2024(美国恐怖片),https://v.lzcdn25.com/20250325/189_57368e1b/index.m3u8
 谋杀学教授2023(美国恐怖片),https://v.lzcdn25.com/20250325/188_bf6f9efb/index.m3u8
 睡着的女人2024(西班牙恐怖片),https://v.lzcdn25.com/20250323/170_fcdfdd93/index.m3u8
-致命玩笑Ⅲ 2014(美国恐怖片),
-致命玩笑Ⅱ 2008(美国恐怖片),
-连体1984【粤语】(香港恐怖片),
-连体1984【国语】(香港恐怖片),
-连体阴2007(泰国恐怖片),
+致命玩笑2019(美国恐怖片),https://vip.ffzy-play7.com/20230102/10857_26fe942b/index.m3u8
+致命玩笑Ⅲ 2014(美国恐怖片),https://vip.ffzy-online1.com/20230806/42745_e8ff9cc0/index.m3u8
+致命玩笑Ⅱ 2008(美国恐怖片),https://svip.high24-playback.com/20250317/20550_9735125a/2000k/hls/mixed.m3u8
+致命玩笑Ⅰ 2001(美国恐怖片),https://vip.ffzy-online1.com/20230906/43218_b07949a8/index.m3u8
+连体阴2007(泰国恐怖片),https://vip.ffzy-play2.com/20221022/271_1f07f7aa/index.m3u8
 来自谁的启示2025(韩国恐怖),https://v.lzcdn25.com/20250322/165_c1bace24/index.m3u8
 见鬼发财2024(越南恐怖片),https://v.lzcdn25.com/20250322/161_9e819704/index.m3u8
 变脸丈夫2023(美国恐怖片),https://v.lzcdn25.com/20250321/146_a209517c/index.m3u8
@@ -6102,7 +6139,6 @@ SPEC：天(日本科幻片),
 死去的东西2024(美国恐怖片),https://v.lzcdn25.com/20250318/138_90e79f0d/index.m3u8
 临界点2025(美国恐怖片),https://v.lzcdn25.com/20250317/134_625f2d39/index.m3u8
 血河2024(丹麦/英国/泰国恐怖片),https://v.lzcdn24.com/20250316/23499_0b96a3ff/index.m3u8
-邪恶森林2005(美国恐怖片),
 作祟的心2024(西班牙恐怖片),https://v.lzcdn25.com/20250316/130_a51c23c8/index.m3u8
 猩红诊所2024(印度尼西亚恐怖片),https://v.lzcdn25.com/20250315/124_164981bb/index.m3u8
 家教2025(美国恐怖片),https://v.lzcdn25.com/20250314/104_5a10b888/index.m3u8
@@ -9456,9 +9492,8 @@ ICQ幽灵【国语】(香港恐怖片),https://vip.lzcdn2.com/20220412/3163_cae2
 
 
 
-
-
-
+战争命运2024(英国战争片),https://v.lzcdn25.com/20250420/362_edaed5b7/index.m3u8
+战火中的小狐狸2022(战争片),https://v.lzcdn25.com/20250414/330_6a1725be/index.m3u8
 失控2023(英国战争片),https://v.lzcdn25.com/20250321/151_0e115e70/index.m3u8
 深山狙击2025(大陆战争片),https://v.lzcdn25.com/20250309/79_7d56fdec/index.m3u8
 普京2024(马耳他/波兰/美国/叙利亚/约旦/俄罗斯/乌克兰/以色列战争片),https://v.lzcdn25.com/20250307/57_d1af3f02/index.m3u8
@@ -11579,8 +11614,77 @@ WQXR-FM紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣新聞網BCCNewsRadio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網iRadioFM96.3,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
 
+█████████████████████████████████████████████
+大陆电视台,#genre#
+█████████████████████████████████████████████
+来自河南电信的酒店源(171.14.92.77:808)共有64个频道：
+CCTV-1综合,http://171.14.92.77:808/hls/1/index.m3u8
+CCTV-2财经,http://171.14.92.77:808/hls/2/index.m3u8
+CCTV-3综艺,http://171.14.92.77:808/hls/3/index.m3u8
+CCTV-4中文国际,http://171.14.92.77:808/hls/4/index.m3u8
+CCTV-5体育,http://171.14.92.77:808/hls/5/index.m3u8
+CCTV-6电影,http://171.14.92.77:808/hls/6/index.m3u8
+CCTV-7国防军事,http://171.14.92.77:808/hls/7/index.m3u8
+CCTV-8电视剧,http://171.14.92.77:808/hls/8/index.m3u8
+CCTV-9记录,http://171.14.92.77:808/hls/9/index.m3u8
+CCTV-10科教,http://171.14.92.77:808/hls/10/index.m3u8
+CCTV-11戏曲,http://171.14.92.77:808/hls/11/index.m3u8
+CCTV-12社会与法,http://171.14.92.77:808/hls/12/index.m3u8
 
-
+CCTV-13新闻,http://171.14.92.77:808/hls/13/index.m3u8
+CCTV-14少儿,http://171.14.92.77:808/hls/14/index.m3u8,http://171.14.92.77:808/hls/14/index.m3u8
+CCTV-15音乐,http://171.14.92.77:808/hls/15/index.m3u8
+CNTV,http://171.14.92.77:808/hls/16/index.m3u8
+CCTV-17农业农村,http://171.14.92.77:808/hls/17/index.m3u8
+CCTV5+体育赛事,http://171.14.92.77:808/hls/18/index.m3u8
+来自河南电信的酒店源(171.14.92.77:808)共有64个频道：
+河南卫视,http://171.14.92.77:808/hls/31/index.m3u8
+河南都市频道,http://171.14.92.77:808/hls/32/index.m3u8
+河南民生频道,http://171.14.92.77:808/hls/33/index.m3u8
+河南法制频道,http://171.14.92.77:808/hls/34/index.m3u8
+河南电视剧频道,http://171.14.92.77:808/hls/35/index.m3u8
+河南公共频道,http://171.14.92.77:808/hls/38/index.m3u8
+河南新农村频道,http://171.14.92.77:808/hls/39/index.m3u8
+河南国际频道,http://171.14.92.77:808/hls/40/index.m3u8
+浙江卫视,http://171.14.92.77:808/hls/61/index.m3u8
+东方卫视,http://171.14.92.77:808/hls/62/index.m3u8
+江苏卫视,http://171.14.92.77:808/hls/63/index.m3u8
+北京卫视,http://171.14.92.77:808/hls/64/index.m3u8
+广东卫视,http://171.14.92.77:808/hls/65/index.m3u8
+黑龙江卫视,http://171.14.92.77:808/hls/66/index.m3u8
+山东卫视,http://171.14.92.77:808/hls/67/index.m3u8
+安徽卫视,http://171.14.92.77:808/hls/68/index.m3u8
+辽宁卫视,http://171.14.92.77:808/hls/69/index.m3u8
+陕西卫视,http://171.14.92.77:808/hls/70/index.m3u8
+贵州卫视,http://171.14.92.77:808/hls/71/index.m3u8
+来自河南电信的酒店源(171.14.92.77:808)共有64个频道：
+河北卫视,http://171.14.92.77:808/hls/72/index.m3u8
+江西卫视,http://171.14.92.77:808/hls/73/index.m3u8
+湖南卫视,http://171.14.92.77:808/hls/74/index.m3u8
+深圳卫视,http://171.14.92.77:808/hls/75/index.m3u8
+四川卫视,http://171.14.92.77:808/hls/76/index.m3u8
+湖北卫视,http://171.14.92.77:808/hls/77/index.m3u8
+天津卫视,http://171.14.92.77:808/hls/78/index.m3u8
+云南卫视,http://171.14.92.77:808/hls/79/index.m3u8
+重庆卫视,http://171.14.92.77:808/hls/80/index.m3u8
+吉林卫视,http://171.14.92.77:808/hls/81/index.m3u8
+宁夏卫视,http://171.14.92.77:808/hls/82/index.m3u8
+东南卫视,http://171.14.92.77:808/hls/83/index.m3u8
+内蒙古卫视,http://171.14.92.77:808/hls/84/index.m3u8
+广西卫视,http://171.14.92.77:808/hls/85/index.m3u8
+山西卫视,http://171.14.92.77:808/hls/86/index.m3u8
+海南卫视,http://171.14.92.77:808/hls/88/index.m3u8
+甘肃卫视,http://171.14.92.77:808/hls/89/index.m3u8
+青海卫视,http://171.14.92.77:808/hls/90/index.m3u8
+金鹰卡通,http://171.14.92.77:808/hls/91/index.m3u8
+嘉佳卡通,http://171.14.92.77:808/hls/92/index.m3u8
+来自河南电信的酒店源(171.14.92.77:808)共有64个频道：
+卡酷动画,http://171.14.92.77:808/hls/93/index.m3u8
+炫动卡通,http://171.14.92.77:808/hls/94/index.m3u8
+信阳综合频道,http://171.14.92.77:808/hls/100/index.m3u8
+信阳公共频道,http://171.14.92.77:808/hls/101/index.m3u8
+浉河广电中心,http://171.14.92.77:808/hls/102/index.m3u8
+平桥广电中心,http://171.14.92.77:808/hls/103/index.m3u8
 
 
 

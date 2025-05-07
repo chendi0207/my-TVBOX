@@ -19,6 +19,7 @@
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
             "api": "csp_WoGGGuard",
+            "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -75,6 +76,17 @@
             }
         },
         {
+            "key": "白白",
+            "name": "🐟白白┃秒播",
+            "type": 3,
+            "api": "csp_SbaibaiGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "原创",
             "name": "☀原创┃不卡",
             "type": 3,
@@ -106,10 +118,10 @@
             "changeable": 1
         },
         {
-            "key": "白白",
-            "name": "🐟白白┃秒播",
+            "key": "文采",
+            "name": "💮文采┃秒播",
             "type": 3,
-            "api": "csp_SbaibaiGuard",
+            "api": "csp_JpysGuard",
             "timeout": 10,
             "playerType": 2,
             "searchable": 1,
@@ -117,15 +129,15 @@
             "changeable": 1
         },
         {
-            "key": "神车",
-            "name": "🐻小熊┃秒播",
+            "key": "溢彩",
+            "name": "💡溢彩┃秒播",
             "type": 3,
-            "api": "csp_AppSKGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
         },
         {
             "key": "Lib",
@@ -153,15 +165,15 @@
             "ext": "https://www.zxzjhd.com/"
         },
         {
-            "key": "溢彩",
-            "name": "💡流光┃秒播",
+            "key": "厂长",
+            "name": "📔厂长┃不卡",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_NewCzGuard",
             "timeout": 10,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA=="
+            "changeable": 1
         },
         {
             "key": "比特",
@@ -197,28 +209,6 @@
             "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
         },
         {
-            "key": "兄弟",
-            "name": "🍊水星┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
-        },
-        {
-            "key": "火星",
-            "name": "🌞星空┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprGv+T3+2qcnI67lW1iKsuzUE0beEMA/nE2s7EhOq5X1M8s5yK9aPYa5Fgv9l9CG+gdBtq3uqM="
-        },
-        {
             "key": "热播",
             "name": "📺热播┃多线",
             "type": 3,
@@ -231,6 +221,28 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
+            "key": "兄弟",
+            "name": "🍊水星┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+        },
+        {
+            "key": "即看",
+            "name": "🐻即看┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
+        },
+        {
             "key": "欢视",
             "name": "👓欢视┃多线",
             "type": 3,
@@ -241,29 +253,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT9fFAy5mE5qU="
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "奥特",
@@ -470,6 +459,19 @@
             }
         },
         {
+            "key": "PanSso",
+            "name": "🐌盘他┃三盘",
+            "type": 3,
+            "api": "csp_PanSsoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
             "key": "YpanSo",
             "name": "🐟盘她┃三盘",
             "type": 3,
@@ -671,15 +673,6 @@
             }
         },
         {
-            "key": "wx",
-            "name": "公众号：神秘的哥哥们",
-            "type": 3,
-            "api": "csp_XPathGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "fan",
             "name": "导航 www.饭太硬.com",
             "type": 3,
@@ -698,8 +691,14 @@
             "changeable": 0
         }
     ],
-    "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
+    "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
     "lives": [
+        {
+            "name": "V6范明明（需开启V6网络）",
+            "type": 0,
+            "url": "./lives/V6范明明（需开启V6网络）.txt",
+            "epg": ""
+        },
         {
             "name": "牛播一（仅新版影视仓┃ok影视）",
             "type": 0,
@@ -711,12 +710,6 @@
             "type": 0,
             "url": "./lives/V4聚合（卡顿请按左┃右键换线）.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "V6范明明",
-            "type": 0,
-            "url": "./lives/V6范明明.txt",
-            "epg": ""
         },
         {
             "name": "平台直播",

@@ -107,7 +107,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.momp4.cc"
+            "ext": "https://www.skymp4.com"
         },
         {
             "key": "csp_New6v",
@@ -192,6 +192,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🐞小苹果影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
         },
         {
             "key": "csp_Bdys",
@@ -374,6 +383,16 @@
             "ext": "./json/播视童趣.json"
         },
         {
+            "key": "csp_XYQHiker_风车动漫",
+            "name": "🌪风车动漫(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/风车动漫.json"
+        },
+        {
             "key": "csp_XYQHiker_樱花动漫",
             "name": "🌸樱花动漫(XYQH)",
             "type": 3,
@@ -495,6 +514,16 @@
             "ext": "./json/看一看影视.json"
         },
         {
+            "key": "csp_XYQHiker_瓜子影院",
+            "name": "瓜子影院(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/瓜子影视.json"
+        },
+        {
             "key": "csp_XYQHiker_八号影视",
             "name": "8️⃣八号影视(XYQH)",
             "type": 3,
@@ -513,6 +542,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/来看点播.json"
+        },
+        {
+            "key": "drpy_js_金牌",
+            "name": "金牌影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/金牌影视.js"
         },
         {
             "key": "柚子资源",
@@ -762,7 +798,8 @@
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy",
-                "super.ffzy"
+                "super.ffzy",
+                "cachem3u8.2s0"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -825,6 +862,26 @@
             ],
             "regex": [
                 "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts"
+            ]
+        },
+        {
+            "name": "黑木耳hmr",
+            "hosts": [
+                "hmrvideo"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "ryplay",
+            "hosts": [
+                "cdn.ryplay"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8\\.333333,[\\s\\S].*?\\.ts",
+                "#EXTINF:2\\.933333,[\\s\\S].*?\\.ts"
             ]
         },
         {
