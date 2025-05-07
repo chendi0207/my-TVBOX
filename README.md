@@ -6,11 +6,6 @@ https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/he
 ````
 
 - 软件下载链接如下：
-- TV用（影视仓、OK影视等）
-- https://www.123pan.com/s/RQVbVv-wFAFd.html
+- TV、手机（影视仓、OK影视等）
+- https://www.123912.com/s/RQVbVv-Gi1Fd
 - 提取码:8888
--
-- 手机用（影视仓、OK影视等）
-- https://www.123pan.com/s/RQVbVv-gFAFd.html
-- 提取码:8888
-- 
