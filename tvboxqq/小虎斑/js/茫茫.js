@@ -678,6 +678,9 @@ var rule = {
             log(bata)
             if (bata.url.includes("http")) {
                 input = {
+           header: {
+                    'User-Agent': ""
+                   },
                     parse: 0,
                     url: bata.url,
                     jx: 0,
@@ -685,6 +688,9 @@ var rule = {
                 };
             } else {
                 input = {
+           header: {
+                    'User-Agent': ''
+                   },
                     parse: 0,
                     url: input.split("?")[0],
                     jx: 1,
@@ -693,6 +699,9 @@ var rule = {
             }
         } catch {
             input = {
+           header: {
+                    'User-Agent': ''
+                   },
                 parse: 0,
                 url: input.split("?")[0],
                 jx: 1,

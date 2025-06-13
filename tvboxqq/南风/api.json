@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -31,33 +31,13 @@
             }
         },
         {
-            "key": "瓜子",
+            "key": "csp_Gz360",
             "name": "🍉瓜子",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_ReBo",
-            "name": "☀️热播",
-            "type": 3,
-            "api": "csp_ReBo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "🏭厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czzymovie.com/"
         },
         {
             "key": "csp_LiteApple",
@@ -117,15 +97,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Wetv",
-            "name": "🚗尘落",
-            "type": 3,
-            "api": "csp_Wetv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Jiaozi",
             "name": "🥣饺子",
             "type": 3,
@@ -133,17 +104,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Fantuan",
-            "name": "🍙饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://www.fantuan.vip"
         },
         {
             "key": "可可",
@@ -165,6 +125,122 @@
             "filterable": 1,
             "ext": "./json/剧圈圈.json",
             "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
+        },
+        {
+            "key": "影视大全",
+            "name": "🎞影视大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            }
+        },
+        {
+            "key": "永乐",
+            "name": "🍰永乐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
+                "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+            }
+        },
+        {
+            "key": "面包",
+            "name": "🎁面包",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+                "简介": "简介：&&"
+            }
+        },
+        {
+            "key": "海纳TV",
+            "name": "🌀海纳TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "简介：</em>&&",
+                "数组": "row\">&&</div></div>",
+                "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$59"
+            }
+        },
+        {
+            "key": "西瓜",
+            "name": "🍉西瓜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://sszzyy.com/",
+                "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$20#剧集$37",
+                "标题": "title=\"*\">&&</div>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放数组": "content_playlist&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "跳转播放链接": "src=\"&&\"",
+                "线路数组": "class=\"titleName cr3 swiper-slide&&</a>",
+                "线路标题": ">&&</a>"
+            }
+        },
+        {
+            "key": "百思派",
+            "name": "💯百思派",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": {
+                "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
+            }
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "🏭厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com/"
+        },
+        {
+            "key": "csp_Fantuan",
+            "name": "🍙饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": "https://www.fantuan.vip"
         },
         {
             "key": "csp_Ddys",
@@ -221,7 +297,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.xlmp4.com"
+            "ext": "https://mp4.z6.net.cn/"
         },
         {
             "key": "csp_New6v",
@@ -275,7 +351,8 @@
             "api": "csp_MeijuMi",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.meijumi.net/"
         },
         {
             "key": "csp_BLSGod",
@@ -445,7 +522,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "https://mihdr.top",
+                "siteUrl": "https://www.mihdr.top",
                 "filter": "./json/wogg.json"
             }
         },
@@ -472,19 +549,6 @@
             "ext": {
                 "commonConfig": "./json/peizhi.json",
                 "siteUrl": "https://woog.nxog.eu.org",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
-            "key": "清影",
-            "name": "🥛清影",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "https://revohd.com/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -523,7 +587,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://star.banye.tech:7086/",
+                "siteUrl": "https://1.star2.cn",
                 "commonConfig": "./json/peizhi.json"
             }
         },
@@ -547,7 +611,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://123.666291.xyz//",
+                "siteUrl": "http://123.666291.xyz/",
                 "filter": "./json/wogg.json"
             }
         },
@@ -586,18 +650,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "纸条搜",
-            "name": "📜小纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
+                "cookie": "satoken=f20ef191-ff19-4708-943d-90afda0e942c",
                 "commonConfig": "./json/peizhi.json"
             }
         },
@@ -706,16 +759,6 @@
             "changeable": 0
         },
         {
-            "key": "JRKAN直播",
-            "name": "🏀JRKAN直播",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/JRKAN直播.js"
-        },
-        {
             "key": "有声小说吧",
             "name": "📚有声小说吧",
             "type": 3,
@@ -725,27 +768,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./js/有声小说吧.js"
-        },
-        {
-            "key": "酷奇MV",
-            "name": "🎸酷奇MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.kuqimv.com",
-                "直接播放": "1",
-                "短视频": "1",
-                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-                "数组": "<li>&&</li>",
-                "标题": "title=\"&&\"",
-                "副标题": "target=\"play\">&&<",
-                "搜索模式": "1",
-                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-            }
         },
         {
             "key": "哔哩",

@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "wallpaper": "https://wp.upx8.com/api.php",
@@ -26,7 +26,7 @@
     "sites": [
         {
             "key": "csp_LocalFile",
-            "name": "💻本地视频",
+            "name": "本机文件(接口完全免费)",
             "type": 3,
             "api": "csp_LocalFile",
             "searchable": 0,
@@ -98,16 +98,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-        },
-        {
-            "key": "csp_Mp4Mov",
-            "name": "🧲Mp4电影",
-            "type": 3,
-            "api": "csp_Mp4Mov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.skymp4.com"
         },
         {
             "key": "csp_New6v",

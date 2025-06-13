@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "【神秘的哥哥们】",
+            "name": "修复蛋木【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -354,35 +354,6 @@
             }
         },
         {
-            "key": "Jrsjs",
-            "name": "⚽ Jrs┃球迷",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/jrk.js",
-            "style": {
-                "type": "list"
-            },
-            "timeout": 10,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "酷奇",
-            "name": "🎤酷奇┃MV",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/酷奇MV.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "timeout": 10,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "MTV",
             "name": "🎧明星┃MV",
             "type": 3,
@@ -700,7 +671,7 @@
             "epg": ""
         },
         {
-            "name": "牛播一（仅新版影视仓┃ok影视）",
+            "name": "牛播一",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"

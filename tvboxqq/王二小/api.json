@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -85,6 +85,15 @@
             "timeout": 120
         },
         {
+            "key": "WexZHyunchao",
+            "name": "💓云巢┃4K💓",
+            "type": 3,
+            "api": "csp_WexZHyunchaoGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },
+        {
             "key": "WexTuanZhangGuard",
             "name": "💓团长┃4K💓",
             "type": 3,
@@ -106,14 +115,6 @@
             "name": "💓鸟巢┃4K💓",
             "type": 3,
             "api": "csp_WexyingchaoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexwanni",
-            "name": "💓玩你┃4K💓",
-            "type": 3,
-            "api": "csp_WexwanniGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -142,22 +143,6 @@
             "changeable": 1
         },
         {
-            "key": "WextexiafanGuard",
-            "name": "💓下饭┃4K💓",
-            "type": 3,
-            "api": "csp_WextexiafanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexbaijiaGuard",
-            "name": "💓百家┃4K💓",
-            "type": 3,
-            "api": "csp_WexbaijiaGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "趣盘",
             "name": "💓‍趣盘┃4K💓‍",
             "type": 3,
@@ -173,14 +158,6 @@
             "name": "💓‍盘他┃4K💓‍",
             "type": 3,
             "api": "csp_WexYDpantaGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexpan123ziyuanGuard",
-            "name": "💓‍123┃4K💓‍",
-            "type": 3,
-            "api": "csp_Wexpan123ziyuanGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -215,23 +192,6 @@
             "api": "csp_WexydbixinGuard",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "Wex123qingying",
-            "name": "💓清影┃123💓",
-            "type": 3,
-            "api": "csp_Wex123qingyingGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wex4kfmGuard",
-            "name": "💓影库┃4K💓",
-            "type": 3,
-            "api": "csp_Wex4kfmGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 120
         },
         {
             "key": "Wexalllive",
@@ -421,14 +381,6 @@
             "changeable": 1
         },
         {
-            "key": "Wexvipduanju",
-            "name": "🍉短剧┃综合🍉",
-            "type": 3,
-            "api": "csp_WexvipduanjuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexduanjuvop",
             "name": "🍉短剧┃秒播🍉",
             "type": 3,
@@ -449,14 +401,6 @@
             "name": "🍉短剧┃帝品🍉",
             "type": 3,
             "api": "csp_WexduanjuvmpGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexduanju001",
-            "name": "🍉短剧┃极品🍉",
-            "type": 3,
-            "api": "csp_Wexduanju001Guard",
             "searchable": 1,
             "changeable": 1
         },
@@ -767,6 +711,17 @@
             "name": "🌐926┃体育🌐",
             "type": 3,
             "api": "csp_Wex926kanqiuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "瓜子看球",
+            "name": "🌐瓜子┃体育🌐",
+            "type": 3,
+            "api": "csp_WexGZsportGuard",
             "searchable": 1,
             "changeable": 0,
             "style": {
