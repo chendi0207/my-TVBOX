@@ -155,7 +155,7 @@ class Spider(Spider):
         pass
 
     def gethost(self):
-        data=pq(self.fetch('https://13826.kstore.space/jubba.py/jbb.html',headers=self.headers).text)
+        data=pq(self.fetch('https://13826.kstore.space/jubba.py/jbb1.html',headers=self.headers).text)
         hlist=list(data('.content-top ul li').items())[:2]
         hsots=[j('a').attr('href') for i in hlist for j in i('a').items()]
         return self.host_late(hsots)

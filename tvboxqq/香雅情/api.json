@@ -19,8 +19,7 @@
         {
             "name": "fanmingming",
             "type": 0,
-            "url": "./lives/fanmingming.txt",
-            "epg": ""
+            "url": "./lives/fanmingming.txt"
         }
     ],
     "sites": [

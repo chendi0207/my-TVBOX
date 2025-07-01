@@ -8,8 +8,7 @@
         {
             "name": "钵钵鸡(四网通用)",
             "type": 0,
-            "url": "切换成你自己的地址",
-            "epg": ""
+            "url": "切换成你自己的地址"
         }
     ],
     "sites": [
@@ -19,6 +18,13 @@
             "type": 3,
             "api": "csp_Douban",
             "ext": "./json/douban.json"
+        },
+        {
+            "key": "测试",
+            "name": "应用|更新",
+            "type": 3,
+            "api": "csp_Market",
+            "ext": "aHR0cHM6Ly84OTI0LmtzdG9yZS5zcGFjZS9odWJhbi9tYXJrLmpzb24="
         },
         {
             "key": "提醒",
@@ -46,11 +52,23 @@
             "api": "csp_HBset"
         },
         {
+            "key": "聚合",
+            "name": "聚合|在线",
+            "type": 3,
+            "api": "csp_HBlive"
+        },
+        {
             "key": "静月",
             "name": "养生|京城",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/养生.js"
+        },
+        {
+            "key": "馆源",
+            "name": "馆源|自定",
+            "type": 3,
+            "api": "csp_HB360"
         },
         {
             "key": "网盘虎斑",
@@ -138,7 +156,7 @@
             "name": "小猫|自定",
             "type": 3,
             "api": "csp_HBcms10",
-            "ext": "https://zy.xiaomaomi.cc/api.php/provide/vod/"
+            "ext": "https://zy.xmm.hk/api.php/provide/vod/"
         },
         {
             "key": "tenteng",
@@ -169,17 +187,11 @@
             "ext": "./js/茫茫.js"
         },
         {
-            "key": "馆源",
-            "name": "馆源|自定",
+            "key": "miaoying",
+            "name": "秒映|弹幕",
             "type": 3,
-            "api": "csp_HB360"
-        },
-        {
-            "key": "坛影",
-            "name": "坛影|弹幕",
-            "type": 3,
-            "api": "csp_ApplvDV2",
-            "ext": "0###DyoqWQIrBwMuUyBFDRtNGgQ4DB4HOQVEN1BMHzg3KgUuDyxeDSFBAQInKQM="
+            "api": "csp_HBgetappapi",
+            "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09IiwidG9rZW4iOiIwOTgxYzBmNTUwYjg3MzdkYTkyZDUwNWNiYjZlOTM4MzM0ZTBiNDZjMDc0NGQ1Mzk5OWU4NDQ2ZDg3ZjdjNzQ5In0="
         },
         {
             "key": "XBPQH1B",
@@ -187,39 +199,6 @@
             "type": 3,
             "api": "csp_HBPQ",
             "ext": "./json/KKYS.json"
-        },
-        {
-            "key": "234XBPQ",
-            "name": "234|弹幕",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": {
-                "首页": "0",
-                "数组": "class=\"stui-vodlist__thumb&&</h4>",
-                "图片": "original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "text-right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "免嗅": "1",
-                "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-                "播放列表": "<li&&</li>",
-                "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
-                "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
-            }
-        },
-        {
-            "key": "叶子",
-            "name": "叶子|弹幕",
-            "type": 3,
-            "api": "csp_HBgetapp",
-            "ext": "eyJob3N0IjoiaHR0cHM6Ly9sa3Zsb2cuY24vIiwia2V5IjoiWlRZMU1UUTBNemc1WlRrek5qRmlOUT09IiwiaXYiOiJaVFkxTVRRME16ZzVaVGt6TmpGaU5RPT0ifQ=="
-        },
-        {
-            "key": "miaoying",
-            "name": "秒映|弹幕",
-            "type": 3,
-            "api": "csp_HBgetappapi",
-            "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09IiwidG9rZW4iOiIwOTgxYzBmNTUwYjg3MzdkYTkyZDUwNWNiYjZlOTM4MzM0ZTBiNDZjMDc0NGQ1Mzk5OWU4NDQ2ZDg3ZjdjNzQ5In0="
         },
         {
             "key": "风神",
@@ -240,13 +219,6 @@
             "name": "0°|弹幕",
             "type": 3,
             "api": "csp_HBlingDu"
-        },
-        {
-            "key": "至白",
-            "name": "至白|弹幕",
-            "type": 3,
-            "api": "csp_ApplvDV2",
-            "ext": "0###DyoqWQIrBwMuUyBLCw8xHAMnBEAHOTwDIg82HC1dLgIDMltGDyo5Hzg3KgIuGCNbJ1AQWQUnKUMuGFdZDSo6XAM8XQYHOQIECiohHDhdXAM7OSxBIlAUHDsoPkEyUixZDQw2BQJfBB4yNStcNzo6HgA4OUwvNS9GIyY5BAUCBB44NldnDQ8PUA"
         },
         {
             "key": "演员",
@@ -295,7 +267,7 @@
             "name": "火猫|弹幕",
             "type": 3,
             "api": "csp_HBmoou",
-            "ext": "DyoqWQIrBwMuUyhGDSFMWi4rBB44IltbDAtAAygWJhoGKTxGIQtAHyw7PUUuCytIIggTHi0FPUAtCysBIDYfHi0WJR8rSgtzH0kdJBAWJR8rGz9EIwtMHigWJR8sDCcCN1AhESxdIhgsJQpYNzYyBS8GJR8rGzRYIFA2BCw7Jhw4Cz8CNw89EDs7MUg="
+            "ext": "DyoqWQIrBwMuUyhGDSFMWi4rBB44IltbDAtAVA=="
         },
         {
             "key": "顾我",
@@ -409,33 +381,6 @@
             "type": 3,
             "api": "csp_HBgetapp",
             "ext": "eyJob3N0IjoiaHR0cHM6Ly9tZnNwMzMudG9wLyIsImtleSI6Ik1USXpORFUyTnpnNE56WTFORE15TVE9PSIsIml2IjoiTVRJek5EVTJOemc0TnpZMU5ETXlNUT09IiwidHlwZUlkcyI6WyIyIiwiMSIsIjMiLCI0Il0sInR5cGVOYW1lcyI6WyLnlLXlvbEiLCLnlLXop4bliaciLCLliqjmvKsiLCLnu7zoiboiXX0="
-        },
-        {
-            "key": "QD4K",
-            "name": "QD4K|弹幕",
-            "type": 3,
-            "api": "csp_ApplvDV2",
-            "ext": "0###DyoqWQIrBwMuGysCIwtMXSwWXA0sNTdEIzYtHi4FLQIvNS9HNzo6GS0BKhoBIldZDSo5HygWJR8DKTwBDSYXHy1dJh0DNh5BIg8MWDg4BAY4OR5eCjUUGAU7IQA7U1dFIQgtHi87PQMDOQJcIlAIGTs3AAUuDyxeDSZBWAICH0wrGCNbDyoqWQIrBwMuUgZBNzVBBgU4AwA7UgJHCjYXESwrKQIuUyhGDzFARgBdPkAyNQpdNDYbEzs7IQw7Cz9GICYpWCxdLh47GytJIA89WSwrJh0vGyRdITU1XSsBPgwAJV5bJxs2BgUnOgItCFZHIzY9Hi0FOQIuCytLIBtMES8FD0MsNS9GIyFBAQIoAwMDDAJdCyUTHzhdUQEANldEPlIMBQQ7WTIxJAJAOCobHgMBJjcsCh5IOzYuIjMqPRgGOSRCPjE1AyhdAEUGKS8HIhtAWC48XA0sNSNEIzYhWi0FLUEsNQFLIxgtXC1dLgIDMlYeD1AuXDE6PkEGJDwHDA45WTgCJgYvUCB6ClJJXQU8MkQBDBkIKjMXVA=="
-        },
-        {
-            "key": "相随",
-            "name": "相随|弹幕",
-            "type": 3,
-            "api": "csp_ApplvDV2",
-            "ext": "0###DyoqWQIrBwMuGz9LIggxWS4sXA0vJS9EIzY1WC4FC0ctJQ1HNzo6GS0BKhoBIldZDSo5HygWJR8DKTwBDSYXHy0VOQ8uCycBISFMESwrKQAvNSMAIQgTXS8VOVoGOSRCPjE1AyhdAEUGKS8HIhtAWSwWXAwsJQlEIzY5Hi0FLQ8sNQEEISYbWTFcPgwAJV5bJxs2BgUnOgItCFZHICYbHCw7IQ0uCysCIBtMES4rIUMvNTtGIAtBGAQnDwABJgZGPlEuEAMrWEg="
-        },
-        {
-            "key": "觅影",
-            "name": "觅影|弹幕",
-            "type": 3,
-            "api": "csp_ApplvDV2",
-            "ext": "0###DyoqWQIrBwMuGytJIyFMWSwsXEUvIlpIICYxXy47AwwuUyhGDzFNHgAnKQM7OSxGIhs1AyhdAEUGKS8HIhtAESw7LQAvCycEIgg9XS4sXA0sNT8HIxg1EywWUR04JjxHDAw1HwMnMh4AUjhYDFEfHzg3KgUuDAJENCUuXTFdBB4yNQ1cCjoyGjE8JR8rUwYBCio6Ey4GUAMAKTRaDFEtXS0FJUUsNTcCIAtNXQQ3BwM7NjxaDFBNEy1dEEc4JlcANw9BXS1dLgIDMltBDA8qBQQrUQU4JV4AJAwuEAMrWEg="
-        },
-        {
-            "key": "星辰",
-            "name": "星辰|弹幕",
-            "type": 3,
-            "api": "csp_HBxingC"
         },
         {
             "key": "云端",
@@ -564,6 +509,46 @@
             "type": 3,
             "api": "csp_HBcms10",
             "ext": "https://json02.heimuer.xyz/api.php/provide/vod/"
+        },
+        {
+            "key": "d'd",
+            "name": "修罗c|弹幕",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": {
+                "数组": "card card-sm card-link&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "mb-0 card-title text-truncate\">&&<",
+                "副标题": "start-0 text-red-fg\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "剧情简介：&&\"",
+                "线路标题": "磁力+>&&<",
+                "播放数组": "download-list&&</tbody>",
+                "播放列表": "<tr&&</tr>",
+                "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
+                "跳转播放链接": "href=\"&&\"",
+                "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
+                "分类": "电影$0#电视剧$1"
+            }
+        },
+        {
+            "key": "234XBPQ",
+            "name": "234|弹幕",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": {
+                "首页": "0",
+                "数组": "class=\"stui-vodlist__thumb&&</h4>",
+                "图片": "original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "免嗅": "1",
+                "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
+            }
         },
         {
             "key": "push_agent",
