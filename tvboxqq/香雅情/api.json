@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "wallpaper": "https://wp.upx8.com/api.php",
@@ -228,8 +228,7 @@
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://apijp.rinhome.com"
+            "filterable": 1
         },
         {
             "key": "csp_Ikanbot",
@@ -320,16 +319,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/戏曲多多.json"
-        },
-        {
-            "key": "csp_XYQHiker_酷奇MV",
-            "name": "🎤酷奇MV(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/酷奇MV.json"
         },
         {
             "key": "csp_XYQHiker_短剧屋",
@@ -643,6 +632,38 @@
             }
         },
         {
+            "name": "-咸鱼-",
+            "type": 0,
+            "url": "https://jx.xymp4.cc/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "ext": {
+                    "header": {
+                        "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                        "referer": "https://jx.xyflv.cc/"
+                    }
+                }
+            }
+        },
+        {
             "name": "-淘片-",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
@@ -850,7 +871,8 @@
                 "bfikuncdn"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts"
+                "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts",
+                "#EXTINF.*?\\s+.*?p5XQill8.*?\\.ts"
             ]
         },
         {

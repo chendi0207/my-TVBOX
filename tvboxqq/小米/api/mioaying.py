@@ -29,7 +29,7 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='http://zero.mitotv.com'
+    host='http://ldys.sq1005.top'
 
     headers = {
         'User-Agent': 'okhttp/4.12.0',

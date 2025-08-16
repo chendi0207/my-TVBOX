@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -94,10 +94,10 @@
             "timeout": 120
         },
         {
-            "key": "WexZHyunchao",
-            "name": "💓云巢┃4K💓",
+            "key": "WexFox4KGuard",
+            "name": "💓极狐┃4K💓",
             "type": 3,
-            "api": "csp_WexZHyunchaoGuard",
+            "api": "csp_WexFox4KGuard",
             "searchable": 1,
             "changeable": 1,
             "timeout": 120
@@ -120,18 +120,18 @@
             "changeable": 1
         },
         {
-            "key": "Wexyingchao",
-            "name": "💓鸟巢┃4K💓",
-            "type": 3,
-            "api": "csp_WexyingchaoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "WexshuangzixingGuard",
             "name": "💓双星┃4K💓",
             "type": 3,
             "api": "csp_WexshuangzixingGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WexXuexi",
+            "name": "💓综合┃4K💓",
+            "type": 3,
+            "api": "csp_WexXuexiGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -199,14 +199,6 @@
             "name": "💓比心┃YD💓",
             "type": 3,
             "api": "csp_WexydbixinGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexXuexi",
-            "name": "💓原盘┃4K💓",
-            "type": 3,
-            "api": "csp_WexXuexiGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -565,7 +557,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./txt/bili001.txt"
+                "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
             }
         },
         {
@@ -581,7 +573,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./txt/bilisong.txt"
+                "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
             }
         },
         {
@@ -665,22 +657,6 @@
             "changeable": 0
         },
         {
-            "key": "Wexxsmp3",
-            "name": "🎤随身┃相声🎤",
-            "type": 3,
-            "api": "csp_Wexxsmp3Guard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Wexpsmp3",
-            "name": "🎤随身┃评书🎤",
-            "type": 3,
-            "api": "csp_Wexpsmp3Guard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "Wexwwe",
             "name": "🌐格斗┃WWE🌐",
             "type": 3,
@@ -750,6 +726,22 @@
             "name": "🎠给力┃综合🎠",
             "type": 3,
             "api": "csp_WexAiPanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexHaiYinsoGuard",
+            "name": "🎠海音┃综合🎠",
+            "type": 3,
+            "api": "csp_WexHaiYinsoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexZhaoPansoGuard",
+            "name": "🎠找盘┃综合🎠",
+            "type": 3,
+            "api": "csp_WexZhaoPansoGuard",
             "searchable": 1,
             "changeable": 0
         },
