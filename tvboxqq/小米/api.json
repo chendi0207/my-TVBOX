@@ -136,7 +136,26 @@
                 "type": "rect",
                 "ratio": 1.333
             },
-            "ext": ""
+            "ext": "https://ka1dfj.slsw6.com"
+        },
+        {
+            "key": "AppQi1",
+            "name": "🎴爱盈┃小米",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "0",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
+        },
+        {
+            "key": "鲸鱼",
+            "name": "🐋鲸鱼┃小米",
+            "quickSearch": 0,
+            "searchable": 1,
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
         },
         {
             "key": "娱乐",
@@ -144,7 +163,7 @@
             "quickSearch": 0,
             "searchable": 1,
             "type": 3,
-            "api": "./api/LIVES.py",
+            "api": "./api/zb.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.333
@@ -189,15 +208,6 @@
             "api": "csp_FreeOk"
         },
         {
-            "key": "斗量",
-            "name": "🎃南瓜┃APP",
-            "type": 3,
-            "api": "csp_NanGua",
-            "quickSearch": 0,
-            "playerType": 2,
-            "ext": ""
-        },
-        {
             "key": "追忆",
             "name": "🐖追忆┃APP",
             "type": 3,
@@ -220,8 +230,8 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 0,
-            "api": "csp_AppGet",
-            "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
+            "api": "csp_AppQi",
+            "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOj3jlA6tSdRPHvvTyBCuIMzwlKeODvXst4zEi0DFYqmEXOu+cG8rF7/kIckBMVYvn"
         },
         {
             "key": "麻花",
@@ -229,8 +239,8 @@
             "type": 3,
             "quickSearch": 0,
             "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
+            "api": "csp_AppQi",
+            "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsDdvpB5GqFDm8YyeyiKclJTSLQ/tOARL2p/dbX8OIae9/PHnAUKONnpKuoD52E5AT"
         },
         {
             "key": "QD4K",
@@ -247,49 +257,13 @@
             }
         },
         {
-            "key": "菲菲",
-            "name": "🐱加菲┃影视",
-            "type": 3,
-            "quickSearch": 0,
-            "searchable": 1,
-            "api": "csp_AppQi",
-            "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
-        },
-        {
-            "key": "比迪",
-            "name": "🐕比迪┃影视",
-            "type": 3,
-            "quickSearch": 0,
-            "playerType": 1,
-            "searchable": 1,
-            "api": "csp_AppQi",
-            "ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8="
-        },
-        {
-            "key": "咖啡",
-            "name": "☕咖啡┃影视",
-            "type": 3,
-            "quickSearch": 0,
-            "searchable": 1,
-            "api": "csp_AppQi",
-            "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
-        },
-        {
-            "key": "鲸鱼影视",
-            "name": "🐟鲸鱼┃APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "quickSearch": 0,
-            "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s="
-        },
-        {
             "key": "大豆",
             "name": "✅大豆┃影视",
             "type": 3,
             "quickSearch": 0,
             "searchable": 1,
             "api": "csp_AppGet",
-            "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
+            "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA=="
         },
         {
             "key": "巧技",
@@ -309,17 +283,6 @@
             "type": 3,
             "api": "csp_AppMuou",
             "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-        },
-        {
-            "key": "公公",
-            "name": "🎬️公共┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "api": "csp_Muou",
-            "jar": "./jars/巧技.jar",
-            "playerType": 2,
-            "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
         },
         {
             "key": "牛牛",

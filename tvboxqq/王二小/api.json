@@ -17,6 +17,16 @@
         },
         {
             "key": "Doubana",
+            "name": "🐮【更新日期:20250829】🐮",
+            "type": 3,
+            "api": "csp_DoubanGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/douban.json"
+        },
+        {
+            "key": "Doubana",
             "name": "⬇️【网盘类先扫码】⬇️",
             "type": 3,
             "api": "csp_DoubanGuard",
@@ -112,6 +122,15 @@
             "timeout": 120
         },
         {
+            "key": "WexduoduoziyuanGuard",
+            "name": "💓多多┃4K💓",
+            "type": 3,
+            "api": "csp_WexduoduoziyuanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },
+        {
             "key": "Wexmuougg",
             "name": "💓木偶┃4K💓",
             "type": 3,
@@ -179,14 +198,6 @@
             "changeable": 1
         },
         {
-            "key": "海绵",
-            "name": "💓‍海绵┃4K💓‍",
-            "type": 3,
-            "api": "csp_WexTYhaimianGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "夸父",
             "name": "💓‍夸父┃4K💓‍",
             "type": 3,
@@ -212,7 +223,7 @@
         },
         {
             "key": "Wexhanxiaoquan",
-            "name": "💥韩剧┃弹幕💥",
+            "name": "💥韩剧┃秒播💥",
             "type": 3,
             "api": "csp_WexhanxiaoquanGuard",
             "searchable": 1,
@@ -220,7 +231,7 @@
         },
         {
             "key": "Wexrenrenyingshi",
-            "name": "💥人人┃弹幕💥",
+            "name": "💥人人┃秒播💥",
             "type": 3,
             "api": "csp_WexrenrenyingshiGuard",
             "searchable": 1,
@@ -378,6 +389,14 @@
             "name": "🍉短剧┃仙品🍉",
             "type": 3,
             "api": "csp_WexduanjuhemaGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexduanju001",
+            "name": "🍉短剧┃神品🍉",
+            "type": 3,
+            "api": "csp_Wexduanju001Guard",
             "searchable": 1,
             "changeable": 1
         },
@@ -589,7 +608,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec8251e772b"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
             }
         },
         {
@@ -605,7 +624,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec82537772c"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
             }
         },
         {
@@ -621,7 +640,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec824cc7729"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
             }
         },
         {
@@ -637,7 +656,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed4901963ec824fd772a"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
             }
         },
         {

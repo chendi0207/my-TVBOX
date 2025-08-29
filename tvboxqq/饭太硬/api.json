@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "修复ZB 厂长【神秘的哥哥们】",
+            "name": "修复哔哔 课堂【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -64,10 +64,10 @@
             }
         },
         {
-            "key": "白白",
-            "name": "🐟白白┃秒播",
+            "key": "文采",
+            "name": "💮文采┃秒播",
             "type": 3,
-            "api": "csp_SbaibaiGuard",
+            "api": "csp_JpysGuard",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -86,15 +86,14 @@
             "changeable": 1
         },
         {
-            "key": "南瓜",
-            "name": "🎃南瓜┃不卡",
+            "key": "剧九",
+            "name": "🍙剧九┃多线",
             "type": 3,
-            "api": "csp_NanGuaGuard",
-            "timeout": 15,
-            "playerType": 2,
+            "api": "csp_AppYsV2Guard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
         },
         {
             "key": "原创",
@@ -128,10 +127,10 @@
             "changeable": 1
         },
         {
-            "key": "文采",
-            "name": "💮文采┃秒播",
+            "key": "白白",
+            "name": "🐟白白┃秒播",
             "type": 3,
-            "api": "csp_JpysGuard",
+            "api": "csp_SbaibaiGuard",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -333,7 +332,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
             }
         },
         {
@@ -526,7 +525,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
         },
         {
@@ -542,7 +541,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
             }
         },
         {
@@ -572,7 +571,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-675236-05edd84dd04d48f0b394a11d0a6098f6.json"
             }
         },
         {
@@ -588,7 +587,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-417036-ab02e4b2c6494f69a83e84dbe371ff82.json"
             }
         },
         {
@@ -604,7 +603,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-368432-c7a7bcfa51154bf9bdb98888d3f26000.json"
             }
         },
         {
@@ -620,7 +619,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-691234-03d78c46fc2f458d81b895121c27d088.json"
             }
         },
         {
@@ -649,7 +648,7 @@
             "type": 0,
             "url": "./lives/V4-mursor（卡顿请换源）.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "ua": "okHttp/Mod-1.0.0"
+            "ua": "okHttp/Mod-1.1.0"
         },
         {
             "name": "V6-范明明（需开启V6网络）",

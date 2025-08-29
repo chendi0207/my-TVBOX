@@ -2,7 +2,7 @@
 
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://hello.xn--z7x900a.com/ppic/feimao.php",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
     "sites": [
         {
@@ -159,9 +159,9 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "siteApi": "get",
+                "url": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+                "dataKey": "dksvndkaAjekakcE",
+                "siteApi": "qiji",
                 "version": ""
             }
         },
@@ -171,8 +171,8 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://111.180.190.158:1122",
-                "dataKey": "AAdgrdghjfgswerA",
+                "url": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
                 "siteApi": "qiji",
                 "version": ""
             }
@@ -183,9 +183,9 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://122.228.193.2:9654",
-                "dataKey": "ca94b06ca3c7d80e",
-                "siteApi": "get",
+                "url": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "siteApi": "qiji",
                 "version": "119"
             }
         },
@@ -195,9 +195,9 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://qjappcms.ll4k.xyz",
-                "dataKey": "1yGA85sJ5STtE7uj",
-                "siteApi": "qiji",
+                "url": "http://172.247.189.145:8989",
+                "dataKey": "6d1061a50b656564",
+                "siteApi": "get",
                 "version": ""
             }
         },
@@ -231,10 +231,10 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://dm.xxdm123.top:9991",
-                "dataKey": "0fe3b5781782c621",
+                "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
                 "siteApi": "get",
-                "version": "203"
+                "version": ""
             }
         },
         {
@@ -255,7 +255,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://211.154.24.56:5211",
+                "url": "http://154.37.152.97:5211",
                 "dataKey": "685bf108bc47b67d",
                 "siteApi": "get",
                 "version": "521"
@@ -267,8 +267,8 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app.lkdyw.cn/",
-                "dataKey": "e65144389e9361b5",
+                "url": "https://www.guangyingmi.com",
+                "dataKey": "230fnsodfsdhfon2",
                 "siteApi": "get",
                 "version": ""
             }
@@ -316,7 +316,8 @@
             "name": "🎬┃荐片┃影视",
             "api": "csp_Jianpian",
             "type": 3,
-            "playerType": "2"
+            "playerType": "2",
+            "ext": "https://ka1dfj.slsw6.com"
         },
         {
             "key": "csp_Quanwk",

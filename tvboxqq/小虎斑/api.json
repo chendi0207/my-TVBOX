@@ -165,6 +165,7 @@
             "playerType": 2,
             "api": "csp_HBleiJing",
             "ext": {
+                "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
                 "leijck": ""
             }
         },
@@ -266,6 +267,12 @@
             }
         },
         {
+            "key": "苹果",
+            "name": "苹果|弹幕",
+            "type": 3,
+            "api": "csp_HBPguo"
+        },
+        {
             "key": "天天",
             "name": "天天|弹幕",
             "type": 3,
@@ -276,7 +283,8 @@
             "key": "jianpian",
             "name": "荐片|弹幕",
             "type": 3,
-            "api": "csp_Jianpian"
+            "api": "csp_Jianpian",
+            "ext": "http://4icnx7.qyjzlh.com"
         },
         {
             "key": "风神",
