@@ -1,9 +1,9 @@
 {
     "SiteUrl": "",
     "Domains": [
-        "https://woog.nxog.eu.org",
         "https://woog.nxog.fun",
-        "https://woog.欧.我爱你"
+        "https://woog.nxog.eu.org"
+        
     ],
     "SiteWord": "wogg",
     "SiteName": "玩偶",

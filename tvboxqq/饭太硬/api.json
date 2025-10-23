@@ -6,13 +6,28 @@
     "sites": [
         {
             "key": "豆",
-            "name": "修复哔哔 课堂【神秘的哥哥们】",
+            "name": "更新我的云盘和蛋幕，看教程【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
+        },
+        {
+            "key": "MyDrive",
+            "name": "🗂我的云盘┃我配置",
+            "type": 3,
+            "api": "csp_MyDriveGuard",
+            "changeable": 0,
+            "indexs": 0,
+            "searchable": 1,
+            "style": {
+                "type": "oval"
+            },
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
         },
         {
             "key": "玩偶",
@@ -26,8 +41,7 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
-                "siteUrl": "https://www.wogg.com/",
-                "danMu": "弹"
+                "siteUrl": "https://www.wogg.com/"
             }
         },
         {
@@ -64,6 +78,31 @@
             }
         },
         {
+            "key": "立播",
+            "name": "🌟立播┃秒播",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "厂长",
+            "name": "📔厂长┃秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "文采",
             "name": "💮文采┃秒播",
             "type": 3,
@@ -75,25 +114,14 @@
             "changeable": 1
         },
         {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
+            "key": "比特",
+            "name": "🍄比特┃秒播",
             "type": 3,
-            "api": "csp_NewCzGuard",
+            "api": "csp_BttwooGuard",
             "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "剧九",
-            "name": "🍙剧九┃多线",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
         },
         {
             "key": "原创",
@@ -117,62 +145,6 @@
             "changeable": 1
         },
         {
-            "key": "糯米",
-            "name": "🍓糯米┃秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "白白",
-            "name": "🐟白白┃秒播",
-            "type": 3,
-            "api": "csp_SbaibaiGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Lib",
-            "name": "🌟立播┃秒播",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "zxzj",
-            "name": "🍊在线┃秒播",
-            "type": 3,
-            "api": "csp_ZxzjGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "比特",
-            "name": "🍄比特┃手机",
-            "type": 3,
-            "api": "csp_BttwooGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "低端",
             "name": "⏮️低端┃外剧",
             "type": 3,
@@ -184,8 +156,18 @@
             "changeable": 1
         },
         {
-            "key": "萌米",
-            "name": "👀萌米┃多线",
+            "key": "鲸鱼",
+            "name": "👀鲸鱼┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="
+        },
+        {
+            "key": "欢视",
+            "name": "👓欢视┃多线",
             "type": 3,
             "api": "csp_AppTTGuard",
             "timeout": 15,
@@ -193,7 +175,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+            "ext": "uqGL1bNENExT9fFAy5mE5qU="
         },
         {
             "key": "热播",
@@ -208,16 +190,35 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "欢视",
-            "name": "👓欢视┃多线",
+            "key": "红豆",
+            "name": "🍊红豆┃多线",
             "type": 3,
-            "api": "csp_AppTTGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "uqGL1bNENExT9fFAy5mE5qU="
+            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
+        },
+        {
+            "key": "下饭",
+            "name": "🍙下饭┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "奥特",
@@ -283,17 +284,17 @@
             "changeable": 1
         },
         {
-            "key": "926",
-            "name": "⚽926┃看球",
+            "key": "超全",
+            "name": "⚽超全┃看球",
             "type": 3,
-            "api": "csp_kanqiu926Guard",
-            "timeout": 15,
+            "api": "csp_ZbzGuard",
             "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
             "style": {
                 "type": "list"
             },
-            "ext": "uqGL1fpJNAUa4uUHi9iMsef1+C/R"
+            "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
         },
         {
             "key": "88",
@@ -309,7 +310,7 @@
         },
         {
             "key": "看球",
-            "name": "⚽看球┃直播",
+            "name": "⚽手机┃看球",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "timeout": 15,
@@ -320,8 +321,21 @@
             }
         },
         {
+            "key": "MTV1",
+            "name": "🎙️易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "MTV",
-            "name": "🎧明星┃MV",
+            "name": "🎶明星┃MV",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -332,7 +346,33 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+                "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+            }
+        },
+        {
+            "key": "有声小说",
+            "name": "🎧有声┃小说",
+            "type": 3,
+            "api": "csp_Tingshu275Guard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Aid",
+            "name": "🚑急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAidGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
             }
         },
         {
@@ -368,34 +408,6 @@
             "changeable": 0
         },
         {
-            "key": "有声小说js",
-            "name": "🎧有声┃小说",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/有声小说吧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "timeout": 15,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "Aid",
-            "name": "🚑急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAidGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
-        },
-        {
             "key": "抠搜",
             "name": "🍄抠抠┃搜搜",
             "type": 3,
@@ -413,6 +425,19 @@
             "name": "🌈优汐┃搜搜",
             "type": 3,
             "api": "csp_UuSsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "PanSso",
+            "name": "🐌盘他┃三盘",
+            "type": 3,
+            "api": "csp_PanSsoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -461,33 +486,6 @@
             }
         },
         {
-            "key": "夸搜",
-            "name": "😻夸搜┃夸父",
-            "type": 3,
-            "api": "csp_PanSearchGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "pan": "quark",
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Aliso",
-            "name": "🙀盘搜┃阿狸",
-            "type": 3,
-            "api": "csp_PanSearchGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
             "key": "YiSo",
             "name": "😹易搜┃阿狸",
             "type": 3,
@@ -525,7 +523,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
+                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
             }
         },
         {
@@ -541,7 +539,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
+                "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
             }
         },
         {
@@ -571,7 +569,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-675236-05edd84dd04d48f0b394a11d0a6098f6.json"
+                "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
             }
         },
         {
@@ -587,7 +585,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-417036-ab02e4b2c6494f69a83e84dbe371ff82.json"
+                "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
             }
         },
         {
@@ -603,7 +601,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-368432-c7a7bcfa51154bf9bdb98888d3f26000.json"
+                "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
             }
         },
         {
@@ -619,7 +617,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-691234-03d78c46fc2f458d81b895121c27d088.json"
+                "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
             }
         },
         {
@@ -644,11 +642,10 @@
     "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
     "lives": [
         {
-            "name": "V4-mursor（卡顿请换源）",
+            "name": "V4-develop202",
             "type": 0,
-            "url": "./lives/V4-mursor（卡顿请换源）.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "ua": "okHttp/Mod-1.1.0"
+            "url": "./lives/V4-develop202.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "V6-范明明（需开启V6网络）",
@@ -656,16 +653,28 @@
             "url": "./lives/V6-范明明（需开启V6网络）.txt"
         },
         {
-            "name": "牛播一",
+            "name": "虎牙一起看",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "./lives/虎牙一起看.txt",
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
-            "name": "平台直播",
+            "name": "斗鱼一起看",
             "type": 0,
-            "url": "./lives/平台直播.txt",
-            "ua": "okhttp/3.15"
+            "url": "./lives/斗鱼一起看.txt",
+            "ua": "okHttp/Mod-1.4.0.0"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "./lives/B站直播.txt",
+            "ua": "okHttp/Mod-1.4.0.0"
+        },
+        {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "./lives/YY轮播.txt",
+            "ua": "okHttp/Mod-1.4.0.0"
         }
     ]
 }

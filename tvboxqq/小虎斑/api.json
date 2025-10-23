@@ -88,6 +88,16 @@
             }
         },
         {
+            "key": "玩偶哥哥",
+            "name": "玩偶|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Wogg",
+            "ext": {
+                "site": "https://wogg.xxooo.cf/"
+            }
+        },
+        {
             "key": "P123",
             "name": "木偶|4k网盘",
             "type": 3,
@@ -170,39 +180,90 @@
             }
         },
         {
-            "key": "窈窕",
-            "name": "窈窕|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=labi###labi"
+            "key": "123",
+            "name": "123|推送",
+            "type": 4,
+            "api": "http://zling.online:12331/api.php?type=123"
         },
         {
-            "key": "淑女",
-            "name": "淑女|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
+            "key": "夸克推送",
+            "name": "夸克|推送",
+            "type": 4,
+            "api": "http://zling.online:12331/api.php?type=quark"
         },
         {
-            "key": "君子",
-            "name": "君子|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=erxiao###erxiao"
+            "key": "优惜",
+            "name": "优惜|推送",
+            "type": 4,
+            "api": "http://zling.online:12331/api.php?type=uc"
         },
         {
-            "key": "好逑",
-            "name": "好逑|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=ouge###ouge"
+            "key": "百度",
+            "name": "百度|推送",
+            "type": 4,
+            "api": "http://zling.online:12331/api.php?type=baidu"
         },
         {
-            "key": "琴瑟",
-            "name": "琴瑟|4K弹幕",
+            "key": "天翼",
+            "name": "天翼|推送",
+            "type": 4,
+            "api": "http://zling.online:12331/api.php?type=tianyi"
+        },
+        {
+            "key": "至尊",
+            "name": "魔尊|4K弹幕",
+            "type": 3,
+            "api": "csp_AppZzun",
+            "ext": "./txt/app.txt"
+        },
+        {
+            "key": "魔尊",
+            "name": "重楼|4K弹幕",
+            "type": 3,
+            "api": "csp_HBcms10",
+            "ext": "./txt/cms.txt"
+        },
+        {
+            "key": "紫萱",
+            "name": "紫萱|4K弹幕",
+            "type": 3,
+            "api": "csp_AppZzun",
+            "ext": "./txt/app2.txt"
+        },
+        {
+            "key": "竹生",
+            "name": "竹生|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=qingying###qingying"
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09"
+        },
+        {
+            "key": "归安",
+            "name": "归安|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
+        },
+        {
+            "key": "薄心",
+            "name": "薄心|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ=="
+        },
+        {
+            "key": "甜橙",
+            "name": "甜橙|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
+        },
+        {
+            "key": "花落",
+            "name": "花落|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXhhVzVuZVdsdVp5TWpJM0ZwYm1kNWFXNW4="
         },
         {
             "key": "小猫",
@@ -276,8 +337,8 @@
             "key": "天天",
             "name": "天天|弹幕",
             "type": 3,
-            "api": "csp_HBtiantian",
-            "ext": "http://tt.ysdqjs.cn/"
+            "api": "csp_HBtiantianv3",
+            "ext": "http://v.rbotv.cn"
         },
         {
             "key": "jianpian",
@@ -632,6 +693,11 @@
                     "Origin": "https://jx.xmflv.com"
                 }
             }
+        },
+        {
+            "name": "虎斑szy",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
         },
         {
             "name": "虎斑mt4K",
