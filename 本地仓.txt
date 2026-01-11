@@ -22,4 +22,6 @@
 
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
 
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/OK/api.json", "name": "OK" },
+
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/多多/api.json", "name": "多多" }]}

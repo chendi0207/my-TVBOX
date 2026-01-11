@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "wallpaper": "https://wp.upx8.com/api.php",
@@ -69,34 +69,13 @@
             "ext": "./js/百忙无果.js"
         },
         {
-            "key": "csp_Yisou",
-            "name": "📀易搜(搜索)",
-            "type": 3,
-            "api": "csp_Yisou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-        },
-        {
-            "key": "csp_XYQHikerAL_云盘资源",
-            "name": "📀云盘资源(搜索)",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/云盘资源.json"
-        },
-        {
             "key": "push_agent",
             "name": "📽推送",
             "type": 3,
             "api": "csp_PushAgent",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "filterable": 0
         },
         {
             "key": "csp_New6v",
@@ -321,16 +300,6 @@
             "ext": "./json/戏曲多多.json"
         },
         {
-            "key": "csp_XYQHiker_短剧屋",
-            "name": "🎬短剧屋",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧屋.json"
-        },
-        {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰兔小贝(XYQH)",
             "type": 3,
@@ -452,16 +421,6 @@
             "ext": "./json/电影盒子.json"
         },
         {
-            "key": "csp_XYQHiker_星辰影院",
-            "name": "⭐️星辰影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/星辰影院.json"
-        },
-        {
             "key": "csp_XYQHiker_可可影视",
             "name": "☕️可可影视(XYQH)",
             "type": 3,
@@ -482,14 +441,14 @@
             "ext": "./json/爱看影视.json"
         },
         {
-            "key": "csp_XYQHiker_看一看影视",
-            "name": "🔍看一看影视(XYQH)",
+            "key": "csp_XYQHiker_看影网",
+            "name": "🔍看影网(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/看一看影视.json"
+            "ext": "./json/看影网.json"
         },
         {
             "key": "csp_XYQHiker_瓜子影院",
@@ -603,6 +562,15 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/斗鱼直播.json"
+        },
+        {
+            "key": "csp_Djuu",
+            "name": "🎧DJ悠悠",
+            "type": 3,
+            "api": "csp_Djuu",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
         }
     ],
     "parses": [
@@ -799,6 +767,9 @@
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?08646.*?\\.ts",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?6\\.667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?48234.*?\\.ts",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?7\\.067,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "17.19",
                 "19.63"
             ]
@@ -850,6 +821,24 @@
             ],
             "regex": [
                 "15.92"
+            ]
+        },
+        {
+            "name": "看影网",
+            "hosts": [
+                "fentvoss"
+            ],
+            "regex": [
+                "38.68",
+                "38.12",
+                "38.80",
+                "30.08",
+                "44.00",
+                "36.80",
+                "40.68",
+                "29.08",
+                "29.28",
+                "24.88"
             ]
         },
         {

@@ -1,4 +1,4 @@
-//
+//资源全部免费，仅供测试交流，请勿内置传播与转卖；关注微信公众号：奇奇乐分享，发送“本地包”获取教程与更多资源！
 
 {
     "spider": "./spider.jar",
@@ -36,16 +36,35 @@
             "key": "设置",
             "name": "网弹|设置",
             "type": 3,
-            "api": "csp_HBconfig"
+            "api": "csp_Config"
+        },
+        {
+            "key": "我的网盘",
+            "name": "我的|网盘",
+            "type": 3,
+            "api": "csp_MyCloud",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "全网",
             "name": "全网|短剧",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
+        },
+        {
+            "key": "duanju",
+            "name": "破碎|短剧",
             "type": 3,
-            "api": "csp_HBqkDj3",
-            "ext": {
-                "site": "http://xsayang.fun:14710"
-            }
+            "api": "csp_HBsuipian",
+            "ext": "https://speed.howdbm.com/papaya/papaya-file/files/download/"
+        },
+        {
+            "key": "B站直播",
+            "name": "B站|直播",
+            "type": 3,
+            "api": "csp_BilibiliLive"
         },
         {
             "key": "聚合",
@@ -85,6 +104,16 @@
             "api": "csp_Mogg",
             "ext": {
                 "site": "http://xsayang.fun:12512/"
+            }
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "玩偶|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Wogg",
+            "ext": {
+                "site": "https://wogg.xxooo.cf/"
             }
         },
         {
@@ -170,39 +199,76 @@
             }
         },
         {
-            "key": "窈窕",
-            "name": "窈窕|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=labi###labi"
+            "key": "123",
+            "name": "123|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=123"
         },
         {
-            "key": "淑女",
-            "name": "淑女|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
+            "key": "夸克推送",
+            "name": "夸克|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=quark"
         },
         {
-            "key": "君子",
-            "name": "君子|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=erxiao###erxiao"
+            "key": "优惜",
+            "name": "优惜|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=uc"
         },
         {
-            "key": "好逑",
-            "name": "好逑|4K弹幕",
-            "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=ouge###ouge"
+            "key": "百度",
+            "name": "百度|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=baidu"
         },
         {
-            "key": "琴瑟",
-            "name": "琴瑟|4K弹幕",
+            "key": "天翼",
+            "name": "天翼|推送",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi"
+        },
+        {
+            "key": "景天",
+            "name": "景天|4K弹幕",
             "type": 3,
-            "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=qingying###qingying"
+            "api": "csp_HBcms10Dou",
+            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
+        },
+        {
+            "key": "茂茂",
+            "name": "茂茂|4K弹幕",
+            "type": 3,
+            "api": "csp_HBcms10Dou",
+            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
+        },
+        {
+            "key": "立春",
+            "name": "立春|4K弹幕",
+            "type": 3,
+            "api": "csp_HBNT4",
+            "ext": "DyoqWQIrBwMuGytIIxtMWy8FMQwtNStECyoUXy0YVUg="
+        },
+        {
+            "key": "夏至",
+            "name": "夏至|4K弹幕",
+            "type": 3,
+            "api": "csp_HBNT4",
+            "ext": "DyoqWQInJUMuGFdFDzUQAgIGXUUAUi9H"
+        },
+        {
+            "key": "秋分",
+            "name": "秋分|4K弹幕",
+            "type": 3,
+            "api": "csp_HBNT4",
+            "ext": "DyoqWQInJUMuGFcBCgtNXAQ4Og8HOSNECiVBHi0YVUg="
+        },
+        {
+            "key": "冬至",
+            "name": "冬至|4K弹幕",
+            "type": 3,
+            "api": "csp_HBNT4",
+            "ext": "DyoqWQIrBwMuUgZBNzVBHQA7MUcsCFtcCjVMVA=="
         },
         {
             "key": "小猫",
@@ -276,15 +342,15 @@
             "key": "天天",
             "name": "天天|弹幕",
             "type": 3,
-            "api": "csp_HBtiantian",
-            "ext": "http://tt.ysdqjs.cn/"
+            "api": "csp_HBtiantianv3",
+            "ext": "http://v.rbotv.cn"
         },
         {
             "key": "jianpian",
             "name": "荐片|弹幕",
             "type": 3,
             "api": "csp_Jianpian",
-            "ext": "http://4icnx7.qyjzlh.com"
+            "ext": "http://pizazzGY.zxbwv.com"
         },
         {
             "key": "风神",
@@ -391,7 +457,7 @@
             "name": "文才|弹幕",
             "type": 3,
             "api": "csp_Wcai",
-            "ext": "https://www.gs4x7nq4.com"
+            "ext": "https://www.jxshdzs.com/"
         },
         {
             "key": "星河",
@@ -437,27 +503,6 @@
             "name": "体育|实时",
             "type": 3,
             "api": "csp_Kanqiu"
-        },
-        {
-            "key": "搜素1",
-            "name": "影搜|忧思",
-            "type": 3,
-            "api": "csp_HByingSo",
-            "ext": "1"
-        },
-        {
-            "key": "搜素2",
-            "name": "影搜|夸壳",
-            "type": 3,
-            "api": "csp_HByingSo",
-            "ext": "2"
-        },
-        {
-            "key": "搜素4",
-            "name": "影搜|度娘",
-            "type": 3,
-            "api": "csp_HByingSo",
-            "ext": "4"
         },
         {
             "key": "360",
@@ -623,6 +668,11 @@
             "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
         },
         {
+            "name": "晴天4K Q1026038872",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+        },
+        {
             "name": "虎斑XM",
             "type": 1,
             "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
@@ -632,6 +682,11 @@
                     "Origin": "https://jx.xmflv.com"
                 }
             }
+        },
+        {
+            "name": "虎斑szy",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
         },
         {
             "name": "虎斑mt4K",
