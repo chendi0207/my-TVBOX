@@ -26,6 +26,4 @@
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
 
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/OK/api.json", "name": "OK" },
-
-{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/多多/api.json", "name": "多多" }]}
+{ "url": "https://ghfast.top/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/tvboxqq/OK/api.json", "name": "OK" }]}
